@@ -8,201 +8,173 @@ include 'inc/functions.php';
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://winmyr.online/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="WINMYR">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>WINMYR – Premium Online Slot & Kasino di Malaysia </title>
+        <meta name="title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
+        <meta name="description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
+        <meta name="keywords" content="winmyr, winmyr slot, winmyr casino, winmyr login, muat turun APK, download winmyr, win myr, winmyr apk download, kasino online, VIP kasino, WINMYR bonus slot">
+
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
+        <meta itemprop="name" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
+        <meta itemprop="description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <!-- Twitter Card -->
-        <meta name="twitter:card" content="summary_large_image"/>
-        <meta name="twitter:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia"/>
-        <meta name="twitter:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti."/>
-        <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.png"/>
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="og:url" content="https://winmyr.online/">
+        <meta property="og:title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
+        <meta property="og:description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
+        <meta property="og:site_name" content="WINMYR">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+        <meta property="article:tag" content="WINMYR">
+        <meta property="article:tag" content="WINMYR slot">
+        <meta property="article:tag" content="WINMYR casino">
+        <meta property="article:tag" content="WINMYR login">
+        <meta property="article:tag" content="WINMYR download">
+        <meta property="article:tag" content="WINMYR apk download">
+        <meta property="article:tag" content="muat turun WINMYR">
+        <meta property="article:tag" content="download WINMYR apk">
+        <meta property="article:tag" content="WINMYR bonus slot">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+        <meta name="twitter:title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
+        <meta name="twitter:description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "LPK777",
-        "url": "https://lpk-777.com",
-        "logo": "",
-        "description": "Permainan slot terbaik di LPK777 - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Level 23, Menara Hap Seng 2, Jalan P. Ramlee",
-            "addressLocality": "Kuala Lumpur",
-            "postalCode": "50250",
-            "addressCountry": "MY"
-        },
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "contactType": "khidmat pelanggan",
-            "email": "support@lpk-777.com",
-            "telephone": "+6014-3507586",
-            "availableLanguage": ["Malay", "English"]
-        }
-        }
-        </script>
-        <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "lpk777",
-            "item": "https://lpk-777.com"
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "WINMYR",
+            "url": "https://winmyr.online",
+            "logo": "https://winmyr.online/images/winmyr_logo.webp",
+            "description": "Permainan slot terbaik di WINMYR - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "No. 45, Jalan Merpati 3, Taman Melati",
+                "addressLocality": "Kuala Lumpur",
+                "postalCode": "53100",
+                "addressCountry": "MY"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "khidmat pelanggan",
+                "email": "support@winmyr.online",
+                "telephone": "+6014-3507586",
+                "availableLanguage": ["Malay", "English"]
             }
-        ]
         }
         </script>
 
         <script type="application/ld+json">
         {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {
-            "@type": "Question",
-            "name": "LPK777 ni apa sebenarnya?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Platform dalam talian yang menawarkan pelbagai permainan slot yang adil dan menyeronokkan dari provider yang boleh percaya."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Aplikasi LPK777 selamat ke guna?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Data peribadi dan kewangan anda dilindungi dengan penyulitan, dan semua permainan guna teknologi RNG yang disahkan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh main guna telefon?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh. LPK777 berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apakah kaedah pembayaran yang disokong?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh pakai bank tempatan dan e-wallet seperti Touch ’n Go, Boost dan GrabPay."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Macam mana nak tuntut bonus?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Bonus disenaraikan dalam papan pemuka atau bahagian promosi. Ikuti arahan untuk terus aktif."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Adakah sokongan pelanggan tersedia setiap masa?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya, live chat bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Kalau saya lupa kata laluan, camne?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Klik “Lupa Kata Laluan” di skrin log masuk dan ikut arahan melalui e-mel atau telefon WhatsApp / Telegram."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Ada had minimum/maksimum deposit?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya, setiap cara bayar tu ada had minimum & maksimum. Boleh check dalam akaun sendiri, kat bahagian pembayaran."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh batalkan permintaan pengeluaran?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kalau transaksi belum diproses, boleh. Pergi kat sejarah transaksi atau terus chat dengan support."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Bagaimana nak tahu bonus aktif?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Masuk akaun, pergi ke “Bonus Saya” untuk lihat bonus semasa, yang tengah jalan, yang belum claim, dan progress pertaruhan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apakah maksud keperluan pertaruhan (wagering)?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ia menunjukkan berapa kali anda perlu bertaruh sebelum boleh mengeluarkan bonus. Contoh: bonus RM100 dengan 10x wager, maksudnya kena main RM1000 dulu sebelum boleh cash out."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Ada program VIP ke?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati bahagian VIP untuk maklumat lanjut."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh buat lebih dari satu akaun?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Tidak. Setiap pemain hanya dibenarkan satu akaun. Lebih dari satu akaun akan kena penggantungan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Adakah keputusan permainan betul-betul rawak?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Setiap putaran ditentukan oleh RNG yang disahkan untuk memastikan keadilan."
-            }
-            }
-        ]
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "WINMYR",
+                "item": "https://winmyr.online"
+                }
+            ]
+        }
+        </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "Bagaimana saya daftar akaun di WINMYR?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Klik sign up, isi maklumat, sahkan melalui kod emel atau SMS, dan boleh mula deposit serta bermain."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Cara pembayaran apa yang disokong?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kami terima Touch ’n Go, GrabPay, FPX dan kad kredit utama. Senarai penuh ada di halaman Payment Methods."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Bagaimana saya muat turun dan pasang aplikasi?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Layari APK Download pada peranti Android, ketik “Download”, benarkan pemasangan, kemudian ikut arahan untuk pasang."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Bolehkah saya bermain di pelbagai peranti dengan satu akaun?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ya, log masuk yang sama berfungsi pada desktop, pelayar mudah alih dan aplikasi Android."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Apakah umur minima untuk bermain slot di WINMYR?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Anda mestilah berumur sekurang-kurangnya 21 tahun dengan ID Malaysia yang sah."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Bagaimana program VIP berfungsi dan cara naik tahap?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Anda kumpul mata untuk setiap RM1 dipertaruhkan, semak kemajuan dekat VIP halaman. Mata terkumpul naikkan anda ke tahap seterusnya untuk ganjaran lebih menarik."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Berapa lama masa pengeluaran diproses?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Permintaan e-wallet dan FPX biasanya selesai dalam 24 jam, manakala kad dan pemindahan bank mungkin hingga 48 jam. Anda akan dapat notifikasi setiap peringkat."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Jenis slot apa yang tersedia?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Perpustakaan slot kami ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Ada alat bantu perjudian bertanggungjawab?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman Responsible Gambling."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Apa bonus selamat datang untuk pemain baru?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Layak dapat padanan 100% deposit pertama hingga RM500 dan 50 putaran percuma. Terma penuh di halaman Bonuses & Promotions."
+                }
+                }
+            ]
         }
         </script>
     </head>
@@ -247,13 +219,13 @@ include 'inc/functions.php';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -266,7 +238,7 @@ include 'inc/functions.php';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
                                                 </div>
                                             </a>
@@ -343,95 +315,106 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>LPK777 - Laman Slot Online & Pengeluaran Cepat di Malaysia</h1>
-                                <p>LPK777 ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <a href="https://lpk-777.com"><strong>LPK777</strong></a> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
+                                <h1>WINMYR – Slot Dalam Talian Premium di Malaysia</h1>
+                                <p>Aplikasi <strong>WINMYR</strong> ialah destinasi sehenti untuk permainan dalam talian yang menarik, selamat dan mesra pemula di Malaysia. Sama ada anda baru nak cuba atau sudah berpengalaman, kami mudahkan cara anda sign up, sahkan maklumat, dan terus boleh buat pertaruhan pertama.</p>
                                 <p>&nbsp;</p>
-                                <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa LPK777 menjadi pilihan utama dalam dunia <a href="https://lpk-777.com/slot"><strong>permainan slot dalam talian</strong></a></p>
-                                <p>&nbsp;</p>
-                                <h2>Kenapa Pemain Memilih LPK777</h2>
-                                <p>Memilih platform permainan slot dalam talian boleh jadi pening kepala, tetapi LPK777 menjadikannya mudah untuk anda. Ia dikenali sebagai platform lengkap yang menggabungkan pelbagai pilihan, iaitu sebab:</p>
-                                <ul>
-                                    <li>Interface dia kemas, tak serabut, senang nak navigate</li>
-                                    <li>Ratusan permainan slot menarik dari provider terkemuka</li>
-                                    <li>Deposit & withdraw pakai bank tempatan atau TNG e-wallet, semua selamat</li>
-                                    <li>Ganjaran harian dan <a href="https://lpk-777.com/bonus-promosi"><strong>bonus musim perayaan</strong></a> yang menarik</li>
-                                    <li>Live chat 24 jam, tak tinggal kau senyap bila ada masalah</li>
-                                </ul>
-                                <p>LPK777 memang bagi apa yang pemain nak – servis laju, game adil, dan tak bagi stress kepada pemain.</p>
-                                <p>&nbsp;</p>
-                                <h2>Slot Game Menarik Di Hujung Jari Anda</h2>
-                                <p>Kat sini, ikut mood korang, nak game buah klasik pun ada, nak game video yang grafik mantap pun banyak. Antara yang best:</p>
-                                <ul>
-                                    <li>Game daripada penyedia besar seperti Lucky365, Jili, Pragmatic Play dan lain-lain</li>
-                                    <li>Hari-hari ada update game terbaru dan trending</li>
-                                    <li>Boleh pilih ikut tema: horror, adventure, klasik, semua ada</li>
-                                    <li>Penapis pintar untuk bagi korang cari game dengan cepat</li>
-                                </ul>
-                                <p>Semua <a href="https://lpk-777.com/slot"><strong>LPK777 slot</strong></a> telah diuji untuk memastikan keadilan, memberikan keyakinan kepada setiap pemain.</p>
-                                <p>&nbsp;</p>
-                                <h2>Cara Nak Pilih Slot Game yang Sesuai</h2>
-                                <p>Sebelum mula bermain, berikut beberapa tips ringkas untuk anda:</p>
-                                <ul>
-                                    <li>
-                                        <strong>Volatiliti:</strong>
-                                        <ul>
-                                            <li><strong>Kalau suka cabaran & nak menang besar:</strong> High volatility. </li>
-                                            <li><strong>Kalau nak menang kecik tapi kerap:</strong> Low volatility. </li>
-                                        </ul>
-                                    </li>
-                                    <li><strong>Pilih tema yang ikut korang suka:</strong> dari tema klasik sampai la yang style kartun pun ada.</li>
-                                    <li><strong>Ciri Permainan:</strong> Ambik tahu pasal bonus round, free spin, multiplier semua tu. Dia main peranan penting masa korang spin nanti.</li>
-                                    <li><strong>RTP (Return to Player):</strong> Pilih slot game dengan RTP sekurang-kurangnya 96% ke atas untuk peluang pulangan lebih untung.</li>
-                                    <li><strong>Mod Demo:</strong> Kalau ada demo, test dulu. Nak main betul-betul nanti dah tahu cara jalan dia.</li>
-                                </ul>
-                                <p>Panduan ini membantu anda bermain dengan lebih yakin bila nak mula main.</p>
-                                <p>&nbsp;</p>
-                                <h2>Main Kat Mana-Mana, Bila-Bila Masa</h2>
-                                <p>LPK777 boleh dibuka melalui pelayar atau terus install aplikasi rasmi. Pengalaman terbaik ditawarkan melalui <a href="https://lpk-777.com/muat-turun-apk"><strong>muat turun APK LPK777</strong></a> dengan:</p>
-                                <ul>
-                                    <li>Masa pemuatan yang pantas dan paparan kemas</li>
-                                    <li>Auto login, tak payah asyik masuk password</li>
-                                    <li>Ada promo eksklusif untuk pengguna aplikasi</li>
-                                    <li>Peralihan lancar antara permainan dan fungsi lain</li>
-                                </ul>
-                                <p>Sesuai untuk pengguna Android dan iOS, tak kisah tengah lepak kat rumah ke, kat mamak ke, main je terus.</p>
-                                <p>&nbsp;</p>
-                                <h2>Cara Bayar dan Withdraw Dengan Pantas</h2>
-                                <p>Deposit dan withdraw senang gila, LPK777 menyokong pelbagai bank tempatan dan e-dompet seperti Touch ’n Go, Boost dan GrabPay. Semuanya dilindungi oleh sistem keselamatan dan penyulitan.</p>
-                                <p>&nbsp;</p>
-                                <p>Duit masuk cepat, nak keluarkan pun tak payah tunggu lama dengan sokongan pelanggan sentiasa tersedia jika diperlukan.</p>
-                                <p>&nbsp;</p>
-                                <h2>LPK777 Bonus & Promo Yang Tak Main-Main</h2>
-                                <p>Pemain baru akan terus dapat <a href="https://lpk-777.com/bonus-promosi"><strong>welcome bonus</strong></a> selepas daftar. Tapi bukan tu je:</p>
-                                <ul>
-                                    <li>Ganjaran deposit harian kalau korang rajin topup</li>
-                                    <li>Tawaran cashback untuk kurangkan kerugian</li>
-                                    <li>Promo ikut musim: Raya, Merdeka, Deepavali, semua ada</li>
-                                </ul>
-                                <p>Promosi ini mudah dituntut dan jelas diterangkan tanpa syarat pelik-pelik.</p>
-                                <p>&nbsp;</p>
-                                <h2>Keselamatan dan Keadilan Diutamakan</h2>
-                                <p>LPK777 ada lesen yang sah dan menggunakan teknologi RNG (Random Number Generator) yang diperakui untuk memastikan keadilan dalam setiap permainan. Data pengguna dilindungi dengan sistem penyulitan yang canggih.</p>
-                                <p>&nbsp;</p>
-                                <p>Semua aktiviti dari transaksi hingga permainan dikawal selia untuk menjamin ketelusan dan pematuhan peraturan.</p>
-                                <p>&nbsp;</p>
-                                <h2>Mudah untuk Mula Bermain</h2>
-                                <p>Tidak perlu kemahiran teknikal yang tinggi. Proses pendaftaran dan mula bermain amat mudah:</p>
+                                <h2>Buat Pertaruhan Pertama Dalam Masa Beberapa Minit</h2>
+                                <p class="mb-2">Kami faham langkah pertama kadang rasa mencabar, jadi kami pecahkan proses itu kepada tiga langkah mudah. Dengan hanya tiga klik, anda boleh bergerak dari pendaftaran hingga buat pertaruhan pertama tanpa rasa pening atau tertunda.</p>
                                 <ol>
-                                    <li>Klik “Daftar” kat <a href="https://lpk-777.com"><strong>lpk777 homepage</strong></a></li>
-                                    <li>Pilih kaedah pembayaran dan buat deposit</li>
-                                    <li>Terus boleh akses dan main permainan slot kegemaran</li>
+                                    <li class="mb-2"><strong>Daftar akaun</strong></li>
+                                    <li class="mb-2"><strong>Buat deposit pertama</strong></li>
+                                    <li><strong>Ketakkan pertaruhan</strong><br/>Akaun anda akan siap serta-merta, jadi anda boleh terus mula bermain tanpa kerumitan.</li>
                                 </ol>
-                                <p>Semuanya direka agar pantas dan mudah – daftar, deposit, dan mula bermain.</p>
                                 <p>&nbsp;</p>
-                                <h2>Pengalaman Pemain Sebenar</h2>
-                                <p>“Aku dulu tak pernah main slot langsung, tapi LPK777 ni senang gila nak faham. Sekarang tiap-tiap hari time lunch aku main.” <br>— Aina, 26</p>
+                                <h2>Pilihan Slot Sesuai Untuk Semua</h2>
+                                <p>Sama ada anda suka slot klasik atau teruja dengan pengalaman dealer langsung, aplikasi winmyr ada semua. Perpustakaan kami campur rasa tempatan dan trend global, jadi sentiasa ada yang baru untuk dicuba.</p>
                                 <p>&nbsp;</p>
-                                <p>“Paling best, withdraw cepat. Takde drama, duit terus masuk.”<br>— Marcus, 34</p>
+                                <h3>Pengembaraan Slot Mendebarkan</h3>
+                                <p class="mb-2">Daripada mesin tiga gelendong tradisional hingga video slot dengan grafik sinematik, pilihan kami pastikan gulungan terus berputar. Setiap permainan hadir dengan ciri bonus unik dan tema menarik ikut mood anda.</p>
+                                <ul>
+                                    <li class="mb-2">Slot tiga gelendong klasik untuk peminat nostalgia</li>
+                                    <li class="mb-2">Video slot dengan pusingan bonus interaktif</li>
+                                    <li>Jackpot progresif yang semakin meningkat hingga ada pemenang</li>
+                                </ul>
                                 <p>&nbsp;</p>
-                                <p>“Live chat dia responsif gila, dan app jalan smooth kat phone aku. Jauh lagi elok dari tempat lama aku main.”<br>— Hafiz, 30</p>
+                                <h3>Papan Pendahulu Slot Komuniti: Bersaing dan Menang Besar</h3>
+                                <p class="mb-2">Setiap putaran dan pertaruhan menyumbang kepada papan pendahulu mingguan kami, di mana pemain Malaysia bersaing untuk tempat teratas. Kumpul mata dalam permainan kegemaran anda untuk naik pangkat dan rebut hadiah yang semakin hebat bila anda berada di kedudukan atas.</p>
+                                <ul>
+                                    <li class="mb-2"><a href="https://winmyr.online/bonus-promosi">Winmyr bonus tunai</a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
+                                    <li class="mb-2">100–500 putaran percuma pada slot terpilih untuk pencapaian tertentu</li>
+                                    <li class="mb-2">Barangan eksklusif winmyr edisi terhad (kad TNG, T-shirt)</li>
+                                    <li class="mb-2">Jemputan ke acara VIP dan pengganda mata bonus untuk pemain elit</li>
+                                    <li>Hadiah kejutan sempena musim perayaan dan kejohanan utama</li>
+                                </ul>
                                 <p>&nbsp;</p>
-                                <p>Review ringkas seperti ini memberi keyakinan kepada pemain baru tentang apa yang boleh dijangka.</p>
+                                <h2>Permainan Mudah Alih Lancar dengan Aplikasi WINMYR</h2>
+                                <p>Main di mana saja tanpa kompromi. Aplikasi Android kami tawarkan masa muat yang pantas, navigasi mesra pengguna, dan semua ciri kegemaran anda dalam satu tempat.</p>
+                                <p>&nbsp;</p>
+                                <h3>Proses Download apk WINMYR Mudah</h3>
+                                <p class="mb-2">Pasang aplikasi tanpa pening kepala teknikal ikut langkah ini:</p>
+                                <ul>
+                                    <li class="mb-2">Lawat <a href="https://winmyr.online/muat-turun-apk">Download winmyr APK</a> pada peranti Android anda</li>
+                                    <li class="mb-2">Ketik “Download” dan benarkan pemasangan dari sumber tidak dikenali</li>
+                                    <li>Buka aplikasi dan log masuk dengan akaun winmyr anda</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <h3>Keistimewaan Eksklusif Mudah Alih</h3>
+                                <p class="mb-2">Aplikasi kami lebih daripada versi laman web mudah alih, ia tawarkan kelebihan khusus:</p>
+                                <ul>
+                                    <li class="mb-2">Notifikasi segera untuk bonus kilat dan kemenangan besar</li>
+                                    <li class="mb-2">Top-up satu klik untuk deposit pantas</li>
+                                    <li>Antara muka dioptimumkan untuk kawalan sentuh</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <h2>Program VIP di WINMYR: Tingkatkan Pengalaman Anda</h2>
+                                <p>Pemain setia layak menerima ganjaran, jadi kami reka sistem VIP yang semakin dermawan mengikut kekerapan anda bermain. Setiap tahap buka manfaat baharu, daripada pulangan tunai hingga barangan edisi terhad.</p>
+                                <p>&nbsp;</p>
+                                <h3>Tahap VIP dan Ganjaran</h3>
+                                <ul>
+                                    <li class="mb-2"><strong>Bronze</strong>: Bonus selamat datang dan cashback bulanan</li>
+                                    <li class="mb-2"><strong>Silver</strong>: Cashback lebih tinggi, putaran percuma, sokongan keutamaan</li>
+                                    <li class="mb-2"><strong>Gold</strong>: Pengurus akaun peribadi dan permainan eksklusif</li>
+                                    <li><strong>Platinum</strong>: Barangan mewah, had pengeluaran tinggi, acara VIP</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <h3>Cara Buka Tahap VIP</h3>
+                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di halaman <a href="https://winmyr.online/vip">VIP</a> dan buka ganjaran apabila capai tahap baharu.</p>
+                                <p>&nbsp;</p>
+                                <h2>Kaedah Pembayaran Selamat dan Mudah</h2>
+                                <p>Tambah dana atau buat pengeluaran dengan pantas menggunakan pilihan tempatan dan antarabangsa yang dipercayai. Setiap langkah dijelaskan dengan jelas untuk memudahkan anda.</p>
+                                <p>&nbsp;</p>
+                                <h3>Pilihan Tempatan di Malaysia</h3>
+                                <p class="mb-2">Kami bekerjasama dengan e-dompet dan bank yang popular supaya anda tidak susah untuk deposit atau withdraw:</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2">Touch ’n Go e-wallet</li>
+                                    <li class="mb-2">GrabPay</li>
+                                    <li>FPX Pemindahan Bank</li>
+                                </ul>
+                                <p>Maklumat lanjut ada di halaman <a href="https://winmyr.online/kaedah-pembayaran">Payment Methods</a>.</p>
+                                <p>&nbsp;</p>
+                                <h3>Deposit dan Pengeluaran Pantas</h3>
+                                <p>Deposit biasanya diproses serta-merta manakala permintaan pengeluaran selalunya diselesaikan dalam masa 24 jam. Setiap transaksi dikemas kini secara live supaya anda tahu statusnya.</p>
+                                <p>&nbsp;</p>
+                                <h2>Tawaran dan Promosi Yang Sukar Ditolak</h2>
+                                <p>Dari hari pertama anda sertai, <strong>WINMYR aplikasi</strong> sentiasa ada tawaran bernilai untuk pemain baru dan sedia ada.</p>
+                                <p>&nbsp;</p>
+                                <h3>Butiran Bonus Selamat Datang</h3>
+                                <p>Nikmati padanan 100% pada deposit pertama sehingga RM500 beserta 50 putaran percuma pada slot terpilih. Terma pertaruhan dijelaskan dengan mudah supaya tiada kejutan.</p>
+                                <p>&nbsp;</p>
+                                <h3>Kejohanan dan Ganjaran Berterusan</h3>
+                                <p>Sertai promosi top-up harian dan pertandingan papan pendahulu untuk peluang tambahan memenangi hadiah tunai dan barangan eksklusif.</p>
+                                <p>&nbsp;</p>
+                                <h2>Komitmen Kepada Perjudian Bertanggungjawab</h2>
+                                <p>Keseronokan perlu seiring dengan keselamatan. Kami sediakan alat untuk membantu anda kawal masa dan perbelanjaan bermain, termasuk had boleh ubah dan pilihan kendiri mengecualikan akaun. Ketahui lebih lanjut di halaman <a href="https://winmyr.online/perjudian-bertanggungjawab">Responsible Gambling</a>.</p>
+                                <p>&nbsp;</p>
+                                <h2>Janji Privasi Kami</h2>
+                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="https://winmyr.online/dasar-privasi">Privacy Policy</a>.</p>
+                                <p>&nbsp;</p>
+                                <h2>Terma dan Syarat Telus</h2>
+                                <p>Tiada terma tersembunyi. Halaman <a href="https://winmyr.online/terma-dan-syarat">Terms & Conditions</a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
+                                <p>&nbsp;</p>
+                                <h2>Perlukan Bantuan? Hubungi Pasukan Sokongan Kami</h2>
+                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="https://winmyr.online/hubungi-kami">Contact Us</a>.</p>
                             </div>
                         </div>
                     </div>
@@ -447,168 +430,120 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        LPK777 ni apa sebenarnya?
+                                        Bagaimana saya daftar akaun di WINMYR?
                                     </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Platform dalam talian yang menawarkan pelbagai permainan slot yang adil dan menyeronokkan dari provider yang boleh percaya.
+                                        Klik sign up, isi maklumat, sahkan melalui kod emel atau SMS, dan boleh mula deposit serta bermain.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                        Aplikasi LPK777 selamat ke guna?
+                                        Cara pembayaran apa yang disokong?
                                     </button>
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya. Data peribadi dan kewangan anda dilindungi dengan penyulitan, dan semua permainan guna teknologi RNG yang disahkan.
+                                        Kami terima Touch ’n Go, GrabPay, FPX dan kad kredit utama. Senarai penuh ada di halaman <strong>Payment Methods</strong>.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                        Boleh main guna telefon?
+                                        Bagaimana saya muat turun dan pasang aplikasi?
                                     </button>
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Boleh. <a href="https://lpk-777.com"><strong>LPK777</strong></a> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
+                                        Layari halaman <strong>Muat Turun APK</strong> pada peranti Android, ketik “Download”, benarkan pemasangan, kemudian ikut arahan untuk pasang.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                        Apakah kaedah pembayaran yang disokong?
+                                        Bolehkah saya bermain di pelbagai peranti dengan satu akaun?
                                     </button>
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Boleh pakai bank tempatan dan e-wallet seperti Touch ’n Go, Boost dan GrabPay.
+                                        Ya, log masuk yang sama berfungsi pada desktop, pelayar mudah alih dan aplikasi Android.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                        Macam mana nak tuntut bonus?
+                                        Apakah umur minima untuk bermain slot di WINMYR?
                                     </button>
                                     </h3>
                                     <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Bonus disenaraikan dalam papan pemuka atau bahagian promosi. Ikuti arahan untuk terus aktif.
+                                        Anda mestilah berumur sekurang-kurangnya 21 tahun dengan ID Malaysia yang sah.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        Adakah sokongan pelanggan tersedia setiap masa?
+                                        Bagaimana program VIP berfungsi dan cara naik tahap?
                                     </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, <a href="https://lpk-777.com/hubungi-kami"><strong>live chat</strong></a> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
+                                        Anda kumpul mata untuk setiap RM1 dipertaruhkan, semak kemajuan dekat <a href="https://winmyr.online/vip">VIP</a> halaman. Mata terkumpul naikkan anda ke tahap seterusnya untuk ganjaran lebih menarik.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                        Kalau saya lupa kata laluan, camne?
+                                        Berapa lama masa pengeluaran diproses?
                                     </button>
                                     </h3>
                                     <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Klik “Lupa Kata Laluan” di skrin log masuk dan ikut arahan melalui e-mel atau telefon WhatsApp / Telegram.
+                                        Permintaan e-wallet dan FPX biasanya selesai dalam 24 jam, manakala kad dan pemindahan bank mungkin hingga 48 jam. Anda akan dapat notifikasi setiap peringkat.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        Ada had minimum/maksimum deposit?
+                                        Jenis slot apa yang tersedia?
                                     </button>
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, setiap cara bayar tu ada had minimum & maksimum. Boleh check dalam akaun sendiri, kat bahagian pembayaran.
+                                        Perpustakaan slot kami ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                        Boleh batalkan permintaan pengeluaran?
+                                        Ada alat bantu perjudian bertanggungjawab?
                                     </button>
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Kalau transaksi belum diproses, boleh. Pergi kat sejarah transaksi atau terus chat dengan support.
+                                        Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman <strong>Responsible Gambling</strong>.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                        Bagaimana nak tahu bonus aktif?
+                                        Apa bonus selamat datang untuk pemain baru?
                                     </button>
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Masuk akaun, pergi ke “Bonus Saya” untuk lihat bonus semasa, yang tengah jalan, yang belum claim, dan progress pertaruhan.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                        Apakah maksud keperluan pertaruhan (wagering)?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ia menunjukkan berapa kali anda perlu bertaruh sebelum boleh mengeluarkan bonus. Contoh: bonus RM100 dengan 10x wager, maksudnya kena main RM1000 dulu sebelum boleh cash out.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                        Ada program VIP ke?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <a href="https://lpk-777.com/vip"><strong>bahagian VIP</strong></a> untuk maklumat lanjut.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                        Boleh buat lebih dari satu akaun?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Tidak. Setiap pemain hanya dibenarkan satu akaun. Lebih dari satu akaun akan kena penggantungan.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                        Adakah keputusan permainan betul-betul rawak?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya. Setiap putaran ditentukan oleh RNG yang disahkan untuk memastikan keadilan.
+                                        Layak dapat padanan 100% deposit pertama hingga RM500 dan 50 putaran percuma. Terma penuh di halaman <strong>Bonuses & Promotions</strong>.
                                     </div>
                                     </div>
                                 </div>

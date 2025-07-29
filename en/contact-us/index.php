@@ -8,20 +8,20 @@ include '../../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Hubungi Kami</title>
+        <title>WINMYR - Hubungi Kami</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="name" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://lpk777.org/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="LPK777">
         <meta property="og:image" content="">

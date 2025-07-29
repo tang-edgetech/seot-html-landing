@@ -9,20 +9,20 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Muat Turun Aplikasi LPK777</title>
+        <title>WINMYR - Muat Turun Aplikasi LPK777</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta name="title" content="WINMYR - Muat Turun Aplikasi LPK777">
         <meta name="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta itemprop="name" content="WINMYR - Muat Turun Aplikasi LPK777">
         <meta itemprop="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta property="og:title" content="WINMYR - Muat Turun Aplikasi LPK777">
         <meta property="og:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta property="og:site_name" content="LPK777">
         <meta property="og:image" content="">

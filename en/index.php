@@ -10,20 +10,20 @@ $language = 'en';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Online Slot & Fast Cash Out Website in Malaysia</title>
+        <title>WINMYR - Online Slot & Fast Cash Out Website in Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="name" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://lpk777.org/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="LPK777">
         <meta property="og:image" content="">
@@ -230,13 +230,13 @@ $language = 'en';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 " src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 " src="<?php echo $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -249,7 +249,7 @@ $language = 'en';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Refresh</span>
                                                 </div>
                                             </a>

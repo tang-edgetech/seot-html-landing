@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
+Allow:
 
-Sitemap: https://lpk-777.com/sitemap.xml
+Sitemap: https://winmyr.online/sitemap.xml

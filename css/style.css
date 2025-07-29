@@ -1,6 +1,6 @@
 :root {
-    --primary-sub: #c29c4e;
-    --primary-main: #772cbe;
+    --primary-sub: #8b65d0;
+    --primary-main: #8b65d0;
     --primary-black: #1f1f1f;
     --primary-white: #fff;
     --text-default: #636363;
@@ -182,7 +182,8 @@ main {
     background-color: #292421;
 }
 .navbar-collapse .title-logo img {
-    width: 60px;
+    width: auto;
+    height: 24px;
 }
 .app {
     min-height: 100vh;
@@ -322,7 +323,8 @@ a, button, .btn, a.button, button.btn {
 }
 .navbar-brand {
     display: block;
-    width: 80px;
+    width: auto;
+    height: 28px;
 }
 .navbar-toggler {
     display: flex;
