@@ -8,8 +8,43 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <link rel="canonical" href="https://jom99.org/dasar-privasi/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="jom99">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+
+        <!-- Meta Title and Description for Jom99 Privacy Policy -->
+        <title>Jom99 Dasar Privasi ᐉ Perlindungan Data Pengguna yang Penuh di Malaysia</title>
+        <meta name="title" content="Jom99 Dasar Privasi ᐉ Perlindungan Data Pengguna yang Penuh di Malaysia">
+        <meta name="description" content="Baca dasar privasi Jom99 dan ketahui bagaimana kami melindungi maklumat peribadi anda. Kami komited untuk menjaga privasi dan keselamatan data pengguna.">
+        <meta name="keywords" content="jom99 dasar privasi, perlindungan data, privasi pengguna, keselamatan data, polisi privasi malaysia, perlindungan peribadi">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Jom99 Dasar Privasi ᐉ Perlindungan Data Pengguna yang Penuh di Malaysia">
+        <meta itemprop="description" content="Baca dasar privasi Jom99 dan ketahui bagaimana kami melindungi maklumat peribadi anda. Kami komited untuk menjaga privasi dan keselamatan data pengguna.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://jom99.org/dasar-privasi/">
+        <meta property="og:title" content="Jom99 Dasar Privasi ᐉ Perlindungan Data Pengguna yang Penuh di Malaysia">
+        <meta property="og:description" content="Baca dasar privasi Jom99 dan ketahui bagaimana kami melindungi maklumat peribadi anda. Kami komited untuk menjaga privasi dan keselamatan data pengguna.">
+        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta property="article:tag" content="jom99 dasar privasi">
+        <meta property="article:tag" content="privasi pengguna">
+        <meta property="article:tag" content="perlindungan data">
+        <meta property="article:tag" content="keselamatan data">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:title" content="Jom99 Dasar Privasi ᐉ Perlindungan Data Pengguna yang Penuh di Malaysia">
+        <meta name="twitter:description" content="Baca dasar privasi Jom99 dan ketahui bagaimana kami melindungi maklumat peribadi anda. Kami komited untuk menjaga privasi dan keselamatan data pengguna.">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>

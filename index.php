@@ -5,48 +5,49 @@ $page_index = 1;
 $page_thumbnail = "https://example.com/image.jpg";
 include 'inc/functions.php';
 ?>
-<!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<!DOCTYPE html><html lang="ms-MY" dir="ltr">
     <head>
         <link rel="canonical" href="https://jom99.org/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-        <meta name="author" content="WINMYR">
+        <meta name="author" content="jom99">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>WINMYR – Premium Online Slot & Kasino di Malaysia </title>
-        <meta name="title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
-        <meta name="description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
-        <meta name="keywords" content="winmyr, winmyr slot, winmyr casino, winmyr login, muat turun APK, download winmyr, win myr, winmyr apk download, kasino online, VIP kasino, WINMYR bonus slot">
+
+        <title>Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia</title>
+        <meta name="title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
+        <meta name="description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
+        <meta name="keywords" content="jom99, jom99 slot, jom99 login, jom99 vip, jom99 app, jom99 slot login, jom99 casino, jom99 malaysia, jom99 apk, jom99 online">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
-        <meta itemprop="description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
+        <meta itemprop="name" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
+        <meta itemprop="description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://jom99.org/">
-        <meta property="og:title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
-        <meta property="og:description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
-        <meta property="og:site_name" content="WINMYR">
+        <meta property="og:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
+        <meta property="og:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
+        <meta property="og:site_name" content="jom99.org">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <meta property="article:tag" content="WINMYR">
-        <meta property="article:tag" content="WINMYR slot">
-        <meta property="article:tag" content="WINMYR casino">
-        <meta property="article:tag" content="WINMYR login">
-        <meta property="article:tag" content="WINMYR download">
-        <meta property="article:tag" content="WINMYR apk download">
-        <meta property="article:tag" content="muat turun WINMYR">
-        <meta property="article:tag" content="download WINMYR apk">
-        <meta property="article:tag" content="WINMYR bonus slot">
+        <meta property="article:tag" content="jom99">
+        <meta property="article:tag" content="jom99 slot">
+        <meta property="article:tag" content="jom99 login">
+        <meta property="article:tag" content="jom99 vip">
+        <meta property="article:tag" content="jom99 app">
+        <meta property="article:tag" content="jom99 slot login">
+        <meta property="article:tag" content="jom99 casino">
+        <meta property="article:tag" content="jom99 malaysia">
+        <meta property="article:tag" content="jom99 apk">
+        <meta property="article:tag" content="jom99 online">
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <meta name="twitter:title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
-        <meta name="twitter:description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
+        <meta name="twitter:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
+        <meta name="twitter:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
@@ -54,23 +55,27 @@ include 'inc/functions.php';
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "WINMYR",
-            "url": "https://jom99.org",
-            "logo": "https://jom99.org/images/jom99_logo.webp",
-            "description": "Permainan slot terbaik di WINMYR - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "No. 45, Jalan Merpati 3, Taman Melati",
-                "addressLocality": "Kuala Lumpur",
-                "postalCode": "53100",
-                "addressCountry": "MY"
-            },
+            "name": "Jom99",
+            "url": "https://jom99.org/",
+            "logo": "https://jom99.org/images/logo.png",
             "contactPoint": {
                 "@type": "ContactPoint",
-                "contactType": "khidmat pelanggan",
-                "email": "support@jom99.org",
-                "telephone": "+6014-3507586",
+                "telephone": "+6012-8541234",
+                "contactType": "Customer Service",
+                "areaServed": "MY",
                 "availableLanguage": ["Malay", "English"]
+            },
+            "sameAs": [
+                "https://www.facebook.com/jom99",
+                "https://twitter.com/jom99",
+                "https://www.instagram.com/jom99"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Tingkat 10, Menara A, No. 23 Jalan Bukit Bintang",
+                "addressLocality": "Kuala Lumpur",
+                "postalCode": "55100",
+                "addressCountry": "MY"
             }
         }
         </script>
@@ -83,96 +88,137 @@ include 'inc/functions.php';
                 {
                 "@type": "ListItem",
                 "position": 1,
-                "name": "WINMYR",
-                "item": "https://jom99.org"
+                "name": "jom99",
+                "item": "https://jom99.org/"
                 }
             ]
         }
         </script>
+
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
+            "@context": "http://schema.org",
             "@type": "FAQPage",
             "mainEntity": [
                 {
-                "@type": "Question",
-                "name": "Bagaimana saya daftar akaun di WINMYR?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Klik sign up, isi maklumat, sahkan melalui kod emel atau SMS, dan boleh mula deposit serta bermain."
-                }
+                    "@type": "Question",
+                    "name": "Bagaimana cara untuk mencipta akaun di Jom99?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Untuk mendaftar, hanya lawati halaman pendaftaran, isikan butiran anda, dan cipta kata laluan yang selamat."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Cara pembayaran apa yang disokong?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Kami terima Touch ’n Go, GrabPay, FPX dan kad kredit utama. Senarai penuh ada di halaman Payment Methods."
-                }
+                    "@type": "Question",
+                    "name": "Apakah jenis permainan yang boleh saya mainkan di Jom99?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Jom99 menawarkan pelbagai permainan termasuk slot, permainan kasino langsung, permainan meja, dan banyak lagi."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Bagaimana saya muat turun dan pasang aplikasi?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Layari APK Download pada peranti Android, ketik “Download”, benarkan pemasangan, kemudian ikut arahan untuk pasang."
-                }
+                    "@type": "Question",
+                    "name": "Adakah Jom99 tersedia di telefon bimbit?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, anda boleh memuat turun Jom99 APK untuk bermain pada peranti Android anda bila-bila masa, di mana sahaja."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Bolehkah saya bermain di pelbagai peranti dengan satu akaun?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Ya, log masuk yang sama berfungsi pada desktop, pelayar mudah alih dan aplikasi Android."
-                }
+                    "@type": "Question",
+                    "name": "Apakah kaedah pembayaran yang disediakan di Jom99?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Kami menerima kad kredit, e-dompet, dan pemindahan bank untuk deposit dan pengeluaran."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Apakah umur minima untuk bermain slot di WINMYR?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Anda mestilah berumur sekurang-kurangnya 21 tahun dengan ID Malaysia yang sah."
-                }
+                    "@type": "Question",
+                    "name": "Adakah permainan di Jom99 adil?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, semua permainan dijana menggunakan RNG (Random Number Generators) untuk memastikan keadilan."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Bagaimana program VIP berfungsi dan cara naik tahap?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Anda kumpul mata untuk setiap RM1 dipertaruhkan, semak kemajuan dekat VIP halaman. Mata terkumpul naikkan anda ke tahap seterusnya untuk ganjaran lebih menarik."
-                }
+                    "@type": "Question",
+                    "name": "Bagaimana saya menuntut bonus alu-aluan saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Hanya daftar sebagai pengguna baru, dan bonus alu-aluan akan dimasukkan ke dalam akaun anda secara automatik."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Berapa lama masa pengeluaran diproses?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Permintaan e-wallet dan FPX biasanya selesai dalam 24 jam, manakala kad dan pemindahan bank mungkin hingga 48 jam. Anda akan dapat notifikasi setiap peringkat."
-                }
+                    "@type": "Question",
+                    "name": "Bolehkah saya menggunakan bonus saya untuk semua permainan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Bonus boleh digunakan pada kebanyakan permainan, tetapi beberapa pengecualian mungkin terpakai. Sila semak syarat dan terma."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Jenis slot apa yang tersedia?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Perpustakaan slot kami ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar."
-                }
+                    "@type": "Question",
+                    "name": "Apakah program VIP?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Program VIP memberikan ganjaran kepada pemain setia dengan bonus eksklusif, pengeluaran lebih pantas, dan pengurus akaun peribadi."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Ada alat bantu perjudian bertanggungjawab?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman Responsible Gambling."
-                }
+                    "@type": "Question",
+                    "name": "Bagaimana saya boleh mengeluarkan kemenangan saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Anda boleh membuat pengeluaran Jom99 melalui kaedah pembayaran pilihan selepas akaun anda disahkan."
+                    }
                 },
                 {
-                "@type": "Question",
-                "name": "Apa bonus selamat datang untuk pemain baru?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Layak dapat padanan 100% deposit pertama hingga RM500 dan 50 putaran percuma. Terma penuh di halaman Bonuses & Promotions."
-                }
+                    "@type": "Question",
+                    "name": "Adakah Jom99 selamat untuk dimainkan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, kami menggunakan teknologi penyulitan untuk melindungi data anda dan memastikan permainan yang adil."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang perlu saya lakukan jika saya perlukan bantuan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Anda boleh menghubungi sokongan pelanggan kami 24/7 melalui sembang langsung, e-mel, atau telefon."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya menukar butiran akaun saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, anda boleh mengemas kini maklumat akaun melalui bahagian tetapan akaun anda."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang perlu saya lakukan jika saya terlupa kata laluan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Anda boleh menetapkan semula kata laluan anda dengan mengikuti pautan 'Lupa Kata Laluan' di halaman log masuk."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bagaimana saya memastikan perjudian yang bertanggungjawab?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Jom99 menawarkan alat seperti pengecualian diri dan had deposit untuk membantu anda berjudi secara bertanggungjawab."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah terdapat program rujukan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, Jom99 menawarkan program afiliasi di mana anda boleh menjana pendapatan dengan merujuk orang lain ke platform."
+                    }
                 }
             ]
         }
@@ -411,7 +457,7 @@ include 'inc/functions.php';
                                 <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Terma dan Syarat Telus</h2>
-                                <p>Tiada terma tersembunyi. Halaman <a href="<?php echo $site_base_url;?>/terma-dan-syarat"><strong>Terms & Conditions</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
+                                <p>Tiada terma tersembunyi. Halaman <a href="<?php echo $site_base_url;?>/terma-syarat"><strong>Terms & Conditions</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
                                 <p>&nbsp;</p>
                                 <h2>Perlukan Bantuan? Hubungi Pasukan Sokongan Kami</h2>
                                 <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a>.</p>

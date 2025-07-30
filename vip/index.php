@@ -6,14 +6,46 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="WINMYR VIP Slot - Cashback & Ganjaran Eksklusif">
-        <meta name="description" content="Sertai VIP Slot kami untuk cashback bulanan, bonus berganda dan keistimewaan eksklusif. Log masuk WINMYR, tingkatkan status anda kerana lebih banyak ganjaran menanti anda!">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://jom99.org/vip/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="jom99">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+
+        <!-- Meta Title and Description for Jom99 VIP -->
+        <title>Jom99 VIP ᐉ Dapatkan Keistimewaan dan Bonus Eksklusif di Malaysia</title>
+        <meta name="title" content="Jom99 VIP ᐉ Dapatkan Keistimewaan dan Bonus Eksklusif di Malaysia">
+        <meta name="description" content="Jadi ahli VIP di Jom99 dan nikmati keistimewaan eksklusif, bonus besar, serta layanan pelanggan terbaik di Malaysia. Daftar sekarang dan dapatkan keuntungan lebih.">
+        <meta name="keywords" content="jom99 vip, vip slot malaysia, jom99 vip benefits, bonus eksklusif, vip member, jom99 bonus, layanan vip malaysia">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Jom99 VIP ᐉ Dapatkan Keistimewaan dan Bonus Eksklusif di Malaysia">
+        <meta itemprop="description" content="Jadi ahli VIP di Jom99 dan nikmati keistimewaan eksklusif, bonus besar, serta layanan pelanggan terbaik di Malaysia. Daftar sekarang dan dapatkan keuntungan lebih.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://jom99.org/vip/">
+        <meta property="og:title" content="Jom99 VIP ᐉ Dapatkan Keistimewaan dan Bonus Eksklusif di Malaysia">
+        <meta property="og:description" content="Jadi ahli VIP di Jom99 dan nikmati keistimewaan eksklusif, bonus besar, serta layanan pelanggan terbaik di Malaysia. Daftar sekarang dan dapatkan keuntungan lebih.">
+        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta property="article:tag" content="jom99 vip">
+        <meta property="article:tag" content="jom99">
+        <meta property="article:tag" content="vip benefits">
+        <meta property="article:tag" content="bonus eksklusif">
+        <meta property="article:tag" content="vip member">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:title" content="Jom99 VIP ᐉ Dapatkan Keistimewaan dan Bonus Eksklusif di Malaysia">
+        <meta name="twitter:description" content="Jadi ahli VIP di Jom99 dan nikmati keistimewaan eksklusif, bonus besar, serta layanan pelanggan terbaik di Malaysia. Daftar sekarang dan dapatkan keuntungan lebih.">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>

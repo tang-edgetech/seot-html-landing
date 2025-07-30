@@ -6,14 +6,46 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik">
-        <meta name="description" content="Dapatkan lebih dari 7 bonus dan promosi eksklusif di WINMYR. Nikmati cashback, free spin & hadiah istimewa yang boleh tingkatkan peluang untuk menang besar. ">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://jom99.org/bonus-promosi/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="jom99">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+
+        <!-- Meta Title and Description for Jom99 Bonuses & Promotions -->
+        <title>Jom99 Bonus & Promosi ᐉ Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia</title>
+        <meta name="title" content="Jom99 Bonus & Promosi ᐉ Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
+        <meta name="description" content="Daftar di Jom99 dan nikmati pelbagai bonus & promosi eksklusif untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar sekarang juga!">
+        <meta name="keywords" content="jom99 bonus, promosi jom99, bonus slot malaysia, promosi slot, tawaran eksklusif, bonus jom99 malaysia, jom99 hadiah">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Jom99 Bonus & Promosi ᐉ Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
+        <meta itemprop="description" content="Daftar di Jom99 dan nikmati pelbagai bonus & promosi eksklusif untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar sekarang juga!">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://jom99.org/bonus-promosi/">
+        <meta property="og:title" content="Jom99 Bonus & Promosi ᐉ Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
+        <meta property="og:description" content="Daftar di Jom99 dan nikmati pelbagai bonus & promosi eksklusif untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar sekarang juga!">
+        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta property="article:tag" content="jom99 bonus">
+        <meta property="article:tag" content="jom99 promosi">
+        <meta property="article:tag" content="bonus slot malaysia">
+        <meta property="article:tag" content="promosi slot">
+        <meta property="article:tag" content="hadiah besar">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:title" content="Jom99 Bonus & Promosi ᐉ Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
+        <meta name="twitter:description" content="Daftar di Jom99 dan nikmati pelbagai bonus & promosi eksklusif untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar sekarang juga!">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -119,7 +151,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Peraturan Bonus dan Kejelasan Terma</h2>
-                                <p>Kami komited untuk pastikan semua bonus dan promosi adil dan telus. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="<?php echo $site_base_url;?>/terma-dan-syarat"><strong>Terms & Conditions</strong></a> supaya tiada kekeliruan.</p>
+                                <p>Kami komited untuk pastikan semua bonus dan promosi adil dan telus. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="<?php echo $site_base_url;?>/terma-syarat"><strong>Terms & Conditions</strong></a> supaya tiada kekeliruan.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan Untuk Bantuan Bonus</h2>

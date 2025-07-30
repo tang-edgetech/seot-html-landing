@@ -45,7 +45,7 @@ include '../inc/functions.php';
                                 <p>Jika anda pilih winmyr APK, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
                                 <p>&nbsp;</p>
                                 <h3>Masa Download Lebih Pantas & boleh percaya</h3>
-                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>slot winmyr</strong></a>.</p>
+                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="<?php echo $site_base_url;?>/lot"><strong>slot winmyr</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Ciri Eksklusif Mudah Alih</h3>
                                 <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan mobile-only bonuses & promotions menambah peluang anda menang.</p>

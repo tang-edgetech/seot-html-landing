@@ -6,10 +6,46 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <link rel="canonical" href="https://jom99.org/perjudian-bertanggungjawab/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="jom99">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+
+        <!-- Meta Title and Description for Jom99 Responsible Gambling -->
+        <title>Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia</title>
+        <meta name="title" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta name="description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta name="keywords" content="jom99 perjudian bertanggungjawab, bermain secara selamat, panduan perjudian, kesedaran perjudian, had perjudian, tanggungjawab perjudian">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta itemprop="description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://jom99.org/perjudian-bertanggungjawab/">
+        <meta property="og:title" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta property="og:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta property="article:tag" content="jom99 perjudian bertanggungjawab">
+        <meta property="article:tag" content="perjudian bertanggungjawab">
+        <meta property="article:tag" content="bermain secara selamat">
+        <meta property="article:tag" content="panduan perjudian">
+        <meta property="article:tag" content="kesedaran perjudian">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:title" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta name="twitter:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -37,7 +73,7 @@ include '../inc/functions.php';
                                     <li><strong>Sumber Bantuan Lanjutan</strong><br/>Kami menyediakan pautan kepada organisasi tempatan dan antarabangsa yang khusus dalam membantu mereka yang menghadapi masalah perjudian.</li>
                                 </ol>
                                 <p>&nbsp;</p>
-                                <p>Dengan mengikuti garis panduan ini, kami berharap anda dapat menikmati pengalaman permainan yang menyeronokkan dan selamat di <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>winmyr slot</strong></a>. Jangan segan untuk hubungi pasukan sokongan kami jika anda perlukan bantuan berkaitan Perjudian Bertanggungjawab.</p>
+                                <p>Dengan mengikuti garis panduan ini, kami berharap anda dapat menikmati pengalaman permainan yang menyeronokkan dan selamat di <a href="<?php echo $site_base_url;?>/lot"><strong>winmyr slot</strong></a>. Jangan segan untuk hubungi pasukan sokongan kami jika anda perlukan bantuan berkaitan Perjudian Bertanggungjawab.</p>
                             </div>
                         </div>
                     </div>

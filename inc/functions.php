@@ -32,7 +32,7 @@ $available_languages = [
 $menu_items = [
     [
         "title" => "Permainan Slot",
-        "url" => "permainan-slot",
+        "url" => "lot",
         "target" => "_self",
     ],
     [
@@ -75,7 +75,7 @@ $disclaimer_items = [
     ],
     [
         "title" => "Terma dan Syarat",
-        "url" => "terma-dan-syarat",
+        "url" => "terma-syarat",
         "target" => "_self",
     ],
 ];

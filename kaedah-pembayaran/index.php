@@ -6,14 +6,46 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>Kaedah Pembayaran WINMYR: Mudah, Selamat & Pantas</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Kaedah Pembayaran WINMYR: Mudah, Selamat & Pantas">
-        <meta name="description" content="Deposit dan keluarkan wang dengan mudah menggunakan Touch ’n Go, GrabPay, FPX dan kad kredit / debit di apk WINMYR. Transaksi selamat, cepat dan tanpa masalah! Daftar sekarang.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://jom99.org/kaedah-pembayaran/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="jom99">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+
+        <!-- Meta Title and Description for Jom99 Payment Method -->
+        <title>Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat</title>
+        <meta name="title" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
+        <meta name="description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <meta name="keywords" content="jom99 kaedah pembayaran, pembayaran jom99, deposit jom99, pengeluaran jom99, kaedah transaksi, pembayaran selamat malaysia, jom99 payment method">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
+        <meta itemprop="description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://jom99.org/kaedah-pembayaran/">
+        <meta property="og:title" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
+        <meta property="og:description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta property="article:tag" content="jom99 kaedah pembayaran">
+        <meta property="article:tag" content="jom99 payment method">
+        <meta property="article:tag" content="deposit jom99">
+        <meta property="article:tag" content="pengeluaran jom99">
+        <meta property="article:tag" content="pembayaran selamat">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:title" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
+        <meta name="twitter:description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
