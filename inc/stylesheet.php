@@ -1,4 +1,5 @@
 <meta name="robots" content="noindex, nofollow">
+<meta name="google-site-verification" content="R-WL0U6YUTZDfnTBv_yn--84pCFDGDzVR4fPIPeyfr4" />
 <link rel="icon" type="image/png" href="<?php echo $site_base_url.'images/o9win_favicon.png';?>" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
