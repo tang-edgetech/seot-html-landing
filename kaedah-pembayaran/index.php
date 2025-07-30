@@ -38,7 +38,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Cara Pembayaran WINMYR: Mudah, Selamat & Pantas</h1>
-                                <p>Di <a href="https://winmyr.online/">winmyr</a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
+                                <p>Di <a href="<?php echo $site_base_url;?>"><strong>winmyr</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pilihan Kaedah Pembayaran yang Disokong</h2>
@@ -82,7 +82,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan dan Bantuan Pembayaran</h2>
-                                <p>Jika anda menghadapi sebarang masalah atau mempunyai pertanyaan berkaitan pembayaran, pasukan sokongan kami sentiasa bersedia membantu. Hubungi kami melalui halaman <a href="https://winmyr.online/hubungi-kami">Contact Us</a> untuk respon pantas dan penyelesaian yang memuaskan.</p>
+                                <p>Jika anda menghadapi sebarang masalah atau mempunyai pertanyaan berkaitan pembayaran, pasukan sokongan kami sentiasa bersedia membantu. Hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> untuk respon pantas dan penyelesaian yang memuaskan.</p>
                             </div>
                         </div>
                     </div>

@@ -3,19 +3,19 @@
         <a href="<?php echo $site_base_url;?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
             <span class="text-center">Halaman Utama</span>
-        </a>
+        </strong></a>
         <a href="<?php echo $site_base_url;?>bonus-promosi" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Referrer">
             <span class="text-center">Promosi</span>
-        </a>
+        </strong></a>
         <a href="#" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Comission">
             <span class="text-center">Referrer</span>
-        </a>
+        </strong></a>
         <a href="<?php echo $site_base_url;?>hubungi-kami" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
             <span class="text-center">Hubungi Kami</span>
-        </a>
+        </strong></a>
     </div>
     <script type="text/javascript" src="<?php echo $site_base_url;?>/js/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
@@ -61,7 +61,7 @@ if( isset($language_switcher) ) : // To be remove to turn on
             echo '<ul class="nav">';
             foreach( $available_languages as $key => $country ) {
                 if( $language !== $key ) {
-                    echo '<li class="nav-item text-center"><a href="javascript:void(0)" data-language="'.$key.'" data-page-index="'.$page_index.'">'.$country['title'].'</a></li>';
+                    echo '<li class="nav-item text-center"><a href="javascript:void(0)" data-language="'.$key.'" data-page-index="'.$page_index.'">'.$country['title'].'</strong></a></li>';
                 }
             }
             echo '</ul>';

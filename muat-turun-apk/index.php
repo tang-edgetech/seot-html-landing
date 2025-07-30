@@ -45,13 +45,13 @@ include '../inc/functions.php';
                                 <p>Jika anda pilih winmyr APK, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
                                 <p>&nbsp;</p>
                                 <h3>Masa Download Lebih Pantas & boleh percaya</h3>
-                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="https://winmyr.online/permainan-slot">slot winmyr</a>.</p>
+                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>slot winmyr</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Ciri Eksklusif Mudah Alih</h3>
                                 <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan mobile-only bonuses & promotions menambah peluang anda menang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penambahbaikan Keselamatan & Privasi</h3>
-                                <p>WINMYR APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="https://winmyr.online/dasar-privasi">Privacy Policy</a>.</p>
+                                <p>WINMYR APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Keperluan Sistem & Keserasian</h2>
@@ -96,7 +96,7 @@ include '../inc/functions.php';
                                 <p>Dapatkan makluman <strong>flash reload bonuses</strong>, <strong>jackpot leaders</strong>, dan <strong>VIP milestones</strong> tanpa buka aplikasi. Notifikasi muncul di skrin utama, jadi anda tidak terlepas apa-apa.</p>
                                 <p>&nbsp;</p>
                                 <h3>One-Tap Deposits & Quick Cashouts</h3>
-                                <p>Paut e-wallet atau akaun bank pilihan anda untuk deposit pantas. Bila tiba masa keluarkan kemenangan, minta <strong>payout</strong> dengan satu ketik sahaja, rujuk halaman <a href="https://winmyr.online/kaedah-pembayaran">Payment Methods</a> untuk butiran.</p>
+                                <p>Paut e-wallet atau akaun bank pilihan anda untuk deposit pantas. Bila tiba masa keluarkan kemenangan, minta <strong>payout</strong> dengan satu ketik sahaja, rujuk halaman <a href="<?php echo $site_base_url;?>/kaedah-pembayaran"><strong>Payment Methods</strong></a> untuk butiran.</p>
                                 <p>&nbsp;</p>
                                 <h3>Offline Asset Caching</h3>
                                 <p>Aplikasi cache aset utama supaya skrin muat walaupun sambungan terganggu. Anda akan lihat thumbnail permainan dan menu serta-merta, kemudian animasi penuh apabila sambungan pulih.</p>
@@ -114,7 +114,7 @@ include '../inc/functions.php';
                                         <ul>
                                             <li>Jika fail install, semak “Unknown Sources” diaktifkan dan storan mencukupi.</li>
                                             <li>Untuk crash, kemas kini ke APK terkini atau mulakan semula peranti.</li>
-                                            <li>Jika masih bermasalah, lawat halaman <a href="https://winmyr.online/hubungi-kami">Contact Us</a> untuk bantuan.</li>
+                                            <li>Jika masih bermasalah, lawat halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> untuk bantuan.</li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -127,7 +127,7 @@ include '../inc/functions.php';
                                 <p>Setiap kali anda buka aplikasi, ia semak integriti untuk halang versi diganggu. Semua data dihantar menggunakan <strong>SSL encryption</strong> bagi lindungi maklumat anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>In-App Responsible Gambling Tools</h3>
-                                <p>Tetapkan had deposit, kerugian, dan sesi terus dalam aplikasi. Anda juga boleh <strong>self-exclusion</strong> atau rehat seketika dengan satu ketik. Ketahui lebih lanjut di halaman <a href="https://winmyr.online/perjudian-bertanggungjawab">Responsible Gambling</a>.</p>
+                                <p>Tetapkan had deposit, kerugian, dan sesi terus dalam aplikasi. Anda juga boleh <strong>self-exclusion</strong> atau rehat seketika dengan satu ketik. Ketahui lebih lanjut di halaman <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>.</p>
                             </div>
                         </div>
                     </div>

@@ -26,7 +26,7 @@ include '../inc/functions.php';
                                 <p class="mb-4">Kami di WINMYR komited untuk memastikan pengalaman permainan anda selamat dan terkawal. Berikut adalah langkah dan bantuan yang kami sediakan untuk menggalakkan perjudian yang bertanggungjawab:</p>
                                 <ol>
                                     <li class="mb-3"><strong>Had Deposit, Kerugian dan Masa Bermain</strong><br/>Anda boleh tetapkan had harian, mingguan atau bulanan untuk deposit, kerugian dan tempoh sesi permainan melalui tetapan akaun anda. Ini membantu anda mengawal perbelanjaan dan masa bermain dengan lebih efektif.</li>
-                                    <li class="mb-3"><strong>Pengecualian Kendiri (Self-Exclusion)</strong><br/>Sekiranya anda rasa perlu berehat, anda boleh memilih untuk mengecualikan diri daripada <a href="https://winmyr.online/">akaun WINMYR</a> untuk tempoh tertentu. Ini memberi ruang untuk anda pulih dan mengelakkan permainan berlebihan.</li>
+                                    <li class="mb-3"><strong>Pengecualian Kendiri (Self-Exclusion)</strong><br/>Sekiranya anda rasa perlu berehat, anda boleh memilih untuk mengecualikan diri daripada <a href="<?php echo $site_base_url;?>"><strong>akaun WINMYR</strong></a> untuk tempoh tertentu. Ini memberi ruang untuk anda pulih dan mengelakkan permainan berlebihan.</li>
                                     <li class="mb-3"><strong>Alat Pengurusan Diri</strong><br/>Kami menyediakan kuiz interaktif dan panduan untuk membantu anda kenal pasti tabiat perjudian anda. Gunakan sumber ini untuk memahami risiko dan membuat keputusan bijak.</li>
                                     <li class="mb-3"><strong>Sokongan Profesional</strong><br/>Sekiranya anda memerlukan bantuan lanjut, kami boleh menghubungkan anda dengan pusat sokongan profesional dan badan kaunseling perjudian bertanggungjawab di Malaysia.</li>
                                     <li class="mb-3"><strong>Pendidikan dan Kesedaran</strong><br/>WINMYR sentiasa menggalakkan amalan permainan yang sihat melalui kempen kesedaran dan maklumat tentang risiko perjudian berlebihan.</li>
@@ -37,7 +37,7 @@ include '../inc/functions.php';
                                     <li><strong>Sumber Bantuan Lanjutan</strong><br/>Kami menyediakan pautan kepada organisasi tempatan dan antarabangsa yang khusus dalam membantu mereka yang menghadapi masalah perjudian.</li>
                                 </ol>
                                 <p>&nbsp;</p>
-                                <p>Dengan mengikuti garis panduan ini, kami berharap anda dapat menikmati pengalaman permainan yang menyeronokkan dan selamat di <a href="https://winmyr.online/permainan-slot">winmyr slot</a>. Jangan segan untuk hubungi pasukan sokongan kami jika anda perlukan bantuan berkaitan Perjudian Bertanggungjawab.</p>
+                                <p>Dengan mengikuti garis panduan ini, kami berharap anda dapat menikmati pengalaman permainan yang menyeronokkan dan selamat di <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>winmyr slot</strong></a>. Jangan segan untuk hubungi pasukan sokongan kami jika anda perlukan bantuan berkaitan Perjudian Bertanggungjawab.</p>
                             </div>
                         </div>
                     </div>

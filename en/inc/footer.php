@@ -3,19 +3,19 @@
         <a href="<?php echo $site_base_url_en;?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
             <span class="text-center">Home</span>
-        </a>
+        </strong></a>
         <a href="<?php echo $site_base_url_en;?>bonus-promotion" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Referrer">
             <span class="text-center">Promotion</span>
-        </a>
+        </strong></a>
         <a href="<?php echo $site_base_url_en;?>slot" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-deposit.png" class="icon img-fit" alt="Deposit">
             <span class="text-center">Slot</span>
-        </a>
+        </strong></a>
         <a href="<?php echo $site_base_url_en;?>contact-us" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
             <span class="text-center">Contact Us</span>
-        </a>
+        </strong></a>
     </div>
     <script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>

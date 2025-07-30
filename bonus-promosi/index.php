@@ -38,7 +38,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik</h1>
-                                <p>Bermain di WINMYR bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab <a href="https://winmyr.online/bonus-promosi">bonus dan promosi</a> yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
+                                <p>Bermain di WINMYR bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>bonus dan promosi</strong></a> yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Selamat Datang yang Menggoda</h2>
@@ -53,7 +53,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Promosi Mingguan dan Bulanan</h2>
-                                <p>Setiap minggu dan bulan, WINMYR sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni dan jangan lupa tengok halaman <a href="https://winmyr.online/bonus-promosi">Bonus & Promotions</a> untuk update terkini.</p>
+                                <p>Setiap minggu dan bulan, WINMYR sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni dan jangan lupa tengok halaman <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>Bonus & Promotions</strong></a> untuk update terkini.</p>
                                 <p>&nbsp;</p>
                                 <div class="table-wrapper">
                                     <table class="table table-striped">
@@ -102,7 +102,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Eksklusif Mudah Alih</h2>
-                                <p>Main guna <a href="https://winmyr.online/muat-turun-apk">aplikasi WINMYR</a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
+                                <p>Main guna <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>aplikasi WINMYR</strong></a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Cara Nak Klaim Bonus</h2>
@@ -119,11 +119,11 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Peraturan Bonus dan Kejelasan Terma</h2>
-                                <p>Kami komited untuk pastikan semua bonus dan promosi adil dan telus. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="https://winmyr.online/terma-dan-syarat">Terms & Conditions</a> supaya tiada kekeliruan.</p>
+                                <p>Kami komited untuk pastikan semua bonus dan promosi adil dan telus. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="<?php echo $site_base_url;?>/terma-dan-syarat"><strong>Terms & Conditions</strong></a> supaya tiada kekeliruan.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan Untuk Bantuan Bonus</h2>
-                                <p>Kalau ada apa-apa soalan tentang bonus dan promosi, customer support kami sentiasa ready nak tolong. Hubungi kami melalui halaman <a href="https://winmyr.online/hubungi-kami">Contact Us</a> bila-bila masa, kami akan bantu anda settlekan isu dengan cepat dan mesra.</p>
+                                <p>Kalau ada apa-apa soalan tentang bonus dan promosi, customer support kami sentiasa ready nak tolong. Hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> bila-bila masa, kami akan bantu anda settlekan isu dengan cepat dan mesra.</p>
                             </div>
                         </div>
                     </div>

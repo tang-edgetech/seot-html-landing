@@ -340,7 +340,7 @@ include 'inc/functions.php';
                                 <h3>Papan Pendahulu Slot Komuniti: Bersaing dan Menang Besar</h3>
                                 <p class="mb-2">Setiap putaran dan pertaruhan menyumbang kepada papan pendahulu mingguan kami, di mana pemain Malaysia bersaing untuk tempat teratas. Kumpul mata dalam permainan kegemaran anda untuk naik pangkat dan rebut hadiah yang semakin hebat bila anda berada di kedudukan atas.</p>
                                 <ul>
-                                    <li class="mb-2"><a href="https://winmyr.online/bonus-promosi">Winmyr bonus tunai</a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
+                                    <li class="mb-2"><a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>Winmyr bonus tunai</strong></a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
                                     <li class="mb-2">100–500 putaran percuma pada slot terpilih untuk pencapaian tertentu</li>
                                     <li class="mb-2">Barangan eksklusif winmyr edisi terhad (kad TNG, T-shirt)</li>
                                     <li class="mb-2">Jemputan ke acara VIP dan pengganda mata bonus untuk pemain elit</li>
@@ -353,7 +353,7 @@ include 'inc/functions.php';
                                 <h3>Proses Download apk WINMYR Mudah</h3>
                                 <p class="mb-2">Pasang aplikasi tanpa pening kepala teknikal ikut langkah ini:</p>
                                 <ul>
-                                    <li class="mb-2">Lawat <a href="https://winmyr.online/muat-turun-apk">Download winmyr APK</a> pada peranti Android anda</li>
+                                    <li class="mb-2">Lawat <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>Download winmyr APK</strong></a> pada peranti Android anda</li>
                                     <li class="mb-2">Ketik “Download” dan benarkan pemasangan dari sumber tidak dikenali</li>
                                     <li>Buka aplikasi dan log masuk dengan akaun winmyr anda</li>
                                 </ul>
@@ -378,7 +378,7 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3>Cara Buka Tahap VIP</h3>
-                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di halaman <a href="https://winmyr.online/vip">VIP</a> dan buka ganjaran apabila capai tahap baharu.</p>
+                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di halaman <a href="<?php echo $site_base_url;?>/vip"><strong>VIP</strong></a> dan buka ganjaran apabila capai tahap baharu.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kaedah Pembayaran Selamat dan Mudah</h2>
                                 <p>Tambah dana atau buat pengeluaran dengan pantas menggunakan pilihan tempatan dan antarabangsa yang dipercayai. Setiap langkah dijelaskan dengan jelas untuk memudahkan anda.</p>
@@ -390,7 +390,7 @@ include 'inc/functions.php';
                                     <li class="mb-2">GrabPay</li>
                                     <li>FPX Pemindahan Bank</li>
                                 </ul>
-                                <p>Maklumat lanjut ada di halaman <a href="https://winmyr.online/kaedah-pembayaran">Payment Methods</a>.</p>
+                                <p>Maklumat lanjut ada di halaman <a href="<?php echo $site_base_url;?>/kaedah-pembayaran"><strong>Payment Methods</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Deposit dan Pengeluaran Pantas</h3>
                                 <p>Deposit biasanya diproses serta-merta manakala permintaan pengeluaran selalunya diselesaikan dalam masa 24 jam. Setiap transaksi dikemas kini secara live supaya anda tahu statusnya.</p>
@@ -405,16 +405,16 @@ include 'inc/functions.php';
                                 <p>Sertai promosi top-up harian dan pertandingan papan pendahulu untuk peluang tambahan memenangi hadiah tunai dan barangan eksklusif.</p>
                                 <p>&nbsp;</p>
                                 <h2>Komitmen Kepada Perjudian Bertanggungjawab</h2>
-                                <p>Keseronokan perlu seiring dengan keselamatan. Kami sediakan alat untuk membantu anda kawal masa dan perbelanjaan bermain, termasuk had boleh ubah dan pilihan kendiri mengecualikan akaun. Ketahui lebih lanjut di halaman <a href="https://winmyr.online/perjudian-bertanggungjawab">Responsible Gambling</a>.</p>
+                                <p>Keseronokan perlu seiring dengan keselamatan. Kami sediakan alat untuk membantu anda kawal masa dan perbelanjaan bermain, termasuk had boleh ubah dan pilihan kendiri mengecualikan akaun. Ketahui lebih lanjut di halaman <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Janji Privasi Kami</h2>
-                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="https://winmyr.online/dasar-privasi">Privacy Policy</a>.</p>
+                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Terma dan Syarat Telus</h2>
-                                <p>Tiada terma tersembunyi. Halaman <a href="https://winmyr.online/terma-dan-syarat">Terms & Conditions</a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
+                                <p>Tiada terma tersembunyi. Halaman <a href="<?php echo $site_base_url;?>/terma-dan-syarat"><strong>Terms & Conditions</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
                                 <p>&nbsp;</p>
                                 <h2>Perlukan Bantuan? Hubungi Pasukan Sokongan Kami</h2>
-                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="https://winmyr.online/hubungi-kami">Contact Us</a>.</p>
+                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a>.</p>
                             </div>
                         </div>
                     </div>
@@ -495,7 +495,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Anda kumpul mata untuk setiap RM1 dipertaruhkan, semak kemajuan dekat <a href="https://winmyr.online/vip">VIP</a> halaman. Mata terkumpul naikkan anda ke tahap seterusnya untuk ganjaran lebih menarik.
+                                        Anda kumpul mata untuk setiap RM1 dipertaruhkan, semak kemajuan dekat <a href="<?php echo $site_base_url;?>/vip"><strong>VIP</strong></a> halaman. Mata terkumpul naikkan anda ke tahap seterusnya untuk ganjaran lebih menarik.
                                     </div>
                                     </div>
                                 </div>

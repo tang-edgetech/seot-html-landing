@@ -43,7 +43,7 @@ include '../inc/functions.php';
                                         <p class="mb-0">'.$brand_desc.'</p>
                                     </div>
                                     <div class="col col-cta pt-3">
-                                        <a href="'.$brand_link.'"><span>VISIT</span></a>
+                                        <a href="'.$brand_link.'"><strong><span>VISIT</span></strong></a>
                                     </div>
                                 </div>
                             </div>';
@@ -288,7 +288,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif </h1>
-                                <p><strong>Program <a href="https://winmyr.online/">Winmyr</a> VIP</strong> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
+                                <p><strong>Program <a href="<?php echo $site_base_url;?>"><strong>Winmyr</strong></a> VIP</strong> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
                                 <p>&nbsp;</p>
 
                                 <h2>Mengapa Sertai Kelab VIP?</h2>
@@ -349,7 +349,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Ciri Eksklusif Hanya untuk VIP</h2>
-                                <p>Kelab VIP <a href="https://winmyr.online/">WINMYR</a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
+                                <p>Kelab VIP <a href="<?php echo $site_base_url;?>"><strong>WINMYR</strong></a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
                                 <p>&nbsp;</p>
                                 <h3>Cashback Ulang Tahun</h3>
                                 <p>Raikan ulang tahun keahlian anda dengan bonus cashback khas yang dikira berdasarkan kerugian bersih tahunan. Ini adalah tanda penghargaan kami kerana terus bersama.</p>
@@ -365,11 +365,11 @@ include '../inc/functions.php';
                                 <p>Selesaikan pengesahan akaun dengan cepat melalui proses KYC dipercepat. Setelah disahkan, anda menikmati masa pengeluaran terpantas, sering kali dalam beberapa jam sahaja.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penyulitan Tambahan untuk Akaun VIP</h3>
-                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="https://winmyr.org/privacy-policy">Privacy Policy</a> untuk maklumat penuh.</p>
+                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="https://winmyr.org/privacy-policy"><strong>Privacy Policy</strong></a> untuk maklumat penuh.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Permainan Bertanggungjawab untuk Ahli VIP</h2>
-                                <p>Biarpun di tahap tertinggi, <a href="https://winmyr.online/perjudian-bertanggungjawab">perjudian bertanggungjawab</a> tetap penting. Ahli VIP mempunyai akses kepada had boleh laras dan sokongan khusus untuk mengekalkan tabiat permainan sihat.</p>
+                                <p>Biarpun di tahap tertinggi, <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> tetap penting. Ahli VIP mempunyai akses kepada had boleh laras dan sokongan khusus untuk mengekalkan tabiat permainan sihat.</p>
                                 <p>&nbsp;</p>
                                 <h3>Had Boleh Laras dan Pengecualian Kendiri</h3>
                                 <p>Tetapkan had deposit, kerugian, dan sesi terus dalam tetapan akaun anda. Jika perlu berehat, anda boleh melakukan pengecualian kendiri untuk tempoh yang sesuai.</p>

@@ -42,7 +42,7 @@ $(document).ready(function() {
                 <div class="col-2 mt-2 px-2">
                     <a href="javascript:void(0)">
                         <img src="${game.thumbnail}" alt="${game.title}" class="w-100 rounded">
-                    </a>
+                    </strong></a>
                 </div>
                 `;
             };

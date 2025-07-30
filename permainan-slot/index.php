@@ -38,7 +38,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Permainan WINMYR Slot: Putar, Menang, Ulang</h1>
-                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="https://winmyr.online/">WIN MYR</a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
+                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="<?php echo $site_base_url;?>"><strong>WIN MYR</strong></a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Mengapa Pilih WINMYR untuk Slot?</h2>
@@ -74,7 +74,7 @@ include '../inc/functions.php';
                                 <p>RTP tunjuk peratusan pulangan jangka panjang, manakala volatiliti ukur kekerapan dan saiz kemenangan. Volatiliti rendah beri kemenangan kecil kerap; tinggi beri kemenangan besar jarang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Saiz Pertaruhan, Garisan Bayaran & Simbol Khas</h3>
-                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="https://winmyr.online/bonus-promosi">pusingan bonus</a>.</p>
+                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>pusingan bonus</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Panduan Ringkas Cara Putar</h3>
                                 <ol>
@@ -89,7 +89,7 @@ include '../inc/functions.php';
                                 <p>Sedikit perancangan memastikan permainan anda seronok dan berterusan. Gunakan petua ini untuk urus bajet dan maksimumkan keseronokan.</p>
                                 <p>&nbsp;</p>
                                 <h3>Menetapkan Had Bankroll</h3>
-                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="https://winmyr.online/perjudian-bertanggungjawab">Responsible Gambling</a>. Ini membantu anda kekal berhemah.</p>
+                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>. Ini membantu anda kekal berhemah.</p>
                                 <p>&nbsp;</p>
                                 <h3>Memilih Slot Berdasarkan Volatiliti</h3>
                                 <p>Pilih volatiliti rendah untuk kemenangan kerap atau tinggi untuk peluang kemenangan besar. Padankan permainan dengan gaya dan mood anda.</p>
@@ -157,7 +157,7 @@ include '../inc/functions.php';
                                 </div>
                                 <p>&nbsp;</p>
                                 <h3>Bonus Eksklusif Mudah Alih</h3>
-                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="https://winmyr.online/bonus-promosi">Bonuses & Promotions</a>.</p>
+                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>Bonuses & Promotions</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kejohanan Slot & Papan Pendahulu</h2>
@@ -167,7 +167,7 @@ include '../inc/functions.php';
                                 <p>Putar tajuk terpilih atau capai sasaran kemenangan tertentu untuk layak. Papan pendahulu dikemas kini secara langsung supaya anda tahu kedudukan anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Hadiah: Tunai, Putaran Percuma dan Barangan</h3>
-                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="https://winmyr.online/">WINMYR</a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
+                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="<?php echo $site_base_url;?>"><strong>WINMYR</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
                             </div>
                         </div>
                     </div>

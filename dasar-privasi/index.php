@@ -30,14 +30,14 @@ include '../inc/functions.php';
                                         <ul>
                                             <li>Memproses pendaftaran dan transaksi anda.</li>
                                             <li>Memberikan sokongan pelanggan yang berkualiti.</li>
-                                            <li>Menghantar <a href="<?php echo $site_base_url;?>/bonus-promosi">promosi</a>, bonus, dan maklumat penting lain.</li>
+                                            <li>Menghantar <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>promosi</strong></a>, bonus, dan maklumat penting lain.</li>
                                             <li>Memastikan keselamatan akaun dan mencegah penipuan.</li>
                                             <li>Mematuhi keperluan undang-undang dan peraturan.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-3"><strong>Perkongsian Maklumat</strong><br/>Kami tidak menjual atau menyewakan maklumat peribadi anda kepada pihak ketiga. Namun, maklumat anda mungkin dikongsi dengan:<br/>
                                         <ul>
-                                            <li>Penyedia <a href="<?php echo $site_base_url;?>/kaedah-pembayaran">perkhidmatan pembayaran</a> untuk memproses transaksi.</li>
+                                            <li>Penyedia <a href="<?php echo $site_base_url;?>/kaedah-pembayaran"><strong>perkhidmatan pembayaran</strong></a> untuk memproses transaksi.</li>
                                             <li>Pihak berkuasa jika dikehendaki oleh undang-undang.</li>
                                             <li>Pihak ketiga yang membantu operasi perniagaan kami dengan perjanjian kerahsiaan.</li>
                                         </ul>
@@ -47,7 +47,7 @@ include '../inc/functions.php';
                                     <li class="mb-3"><strong>Kuki dan Teknologi Penjejakan</strong><br/>WINMYR menggunakan kuki dan teknologi serupa untuk meningkatkan pengalaman pengguna, mengumpul data statistik dan memaparkan iklan yang relevan.</li>
                                     <li class="mb-3"><strong>Pematuhan GDPR dan Undang-undang Tempatan</strong><br/>Kami mematuhi peraturan perlindungan data antarabangsa seperti GDPR dan undang-undang privasi tempatan untuk memastikan hak privasi anda dihormati.</li>
                                     <li class="mb-3"><strong>Perubahan Polisi Privasi</strong><br/>Polisi ini mungkin dikemas kini dari masa ke masa. Sebarang perubahan akan diumumkan di laman web kami dan tarikh semakan terbaru akan dipaparkan.</li>
-                                    <li><strong>Hubungi Kami</strong><br/>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai polisi privasi ini, sila hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami">Contact Us</a>.</li>
+                                    <li><strong>Hubungi Kami</strong><br/>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai polisi privasi ini, sila hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a>.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <p>Kami bertekad untuk memastikan maklumat peribadi anda sentiasa dilindungi dan digunakan dengan penuh tanggungjawab. Terima kasih kerana mempercayai WINMYR sebagai platform permainan anda.</p>

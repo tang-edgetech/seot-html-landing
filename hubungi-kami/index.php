@@ -70,8 +70,8 @@ include '../inc/functions.php';
                                 <p class="mb-3">Kami di winmyr sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, pembayaran, atau promosi, sila hubungi kami melalui kaedah berikut:</p>
                                 <ol>
                                     <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
-                                    <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:win4u66@gmail.com">win4u66@gmail.com</a>, dan kami akan membalas secepat mungkin.</li>
-                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6014-3507586">+6014-3507586</a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
+                                    <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:win4u66@gmail.com"><strong>win4u66@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
+                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6014-3507586"><strong>+6014-3507586</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <h4>Alamat Pejabat</h4>
