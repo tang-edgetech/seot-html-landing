@@ -11,15 +11,15 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
             <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <picture>
-                    <source srcset="./images/lpk777_logo.webp" type="image/webp">
-                    <source srcset="./images/lpk777_logo.png" type="image/png">
-                    <img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
+                    <source srcset="./images/clubmy_logo.webp" type="image/webp">
+                    <source srcset="./images/clubmy_logo.png" type="image/png">
+                    <img src="<?php echo $site_base_url;?>images/clubmy_logo.png" alt="LPK777 Logo" class="img-fit">
                 </picture>
             </a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit mx-auto"></a></h4>
+                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>images/clubmy_logo.png" alt="LPK777 Logo" class="img-fit mx-auto"></a></h4>
                     <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>

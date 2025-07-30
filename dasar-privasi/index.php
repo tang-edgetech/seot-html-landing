@@ -9,51 +9,16 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>Dasar Privasi di CLUBMY – Perlindungan Data Anda adalah Keutamaan Kami</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
-        <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
-        <!-- Open Graph / Facebook -->
-        <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta name="title" content="Dasar Privasi di CLUBMY – Perlindungan Data Anda adalah Keutamaan Kami">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <link rel="canonical" href="https://clubmy.org/">
+        <link rel="alternate" hreflang="x-default" href="https://clubmy.org/">
+        <link rel="alternate" hreflang="en" href="https://clubmy.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "PrivacyPolicy",
-            "url": "https://lpk-777.com/dasar-privasi",
-            "name": "Dasar Privasi",
-            "description": "Dasar Privasi LPK777 menerangkan jenis data yang dikumpul, penggunaan, keselamatan dan hak pengguna berkaitan data peribadi.",
-            "publisher": {
-                "@type": "Organization",
-                "name": "LPK777",
-                "url": "https://lpk777.org"
-            }
-        }
-        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -64,54 +29,50 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Dasar Privasi untuk LPK777</h1>
-                                <ol>
-                                    <li><p><strong>Komitmen Kami Terhadap Privasi Anda</strong></p>
-                                        <p>LPK777 komited untuk melindungi maklumat peribadi semua pengguna yang berdaftar di platform kami. Privasi anda adalah tanggungjawab utama kami.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Jenis Maklumat yang Dikumpul</strong></p>
-                                        <p>Kami mengumpul maklumat seperti nama, alamat emel, nombor telefon, butiran transaksi, dan maklumat peranti bagi tujuan keselamatan dan perkhidmatan yang diperibadikan.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Tujuan Penggunaan Data Peribadi</strong></p>
-                                        <p>Data anda digunakan untuk:</p>
-                                        <ul>
-                                            <li>Mengurus akaun dan transaksi anda</li>
-                                            <li>Menghantar promosi & notifikasi</li>
-                                            <li>Menambah baik pengalaman pengguna</li>
-                                            <li>Mencegah penipuan & aktiviti haram</li>
-                                        </ul>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Pengesahan Identiti (KYC)</strong></p>
-                                        <p>Kami mungkin memerlukan dokumen pengesahan seperti salinan kad pengenalan atau bil utiliti untuk proses KYC sebelum pengeluaran diluluskan.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Keselamatan Data Anda</strong></p>
-                                        <p>Data anda disimpan dalam pelayan selamat dan dilindungi melalui sistem penyulitan SSL serta firewall yang dikemaskini secara berkala.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Akses dan Kawalan Pengguna</strong></p>
-                                        <p>Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi anda pada bila-bila masa melalui <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Tempoh Simpanan Data</strong></p>
-                                        <p>Data peribadi disimpan hanya untuk tempoh yang diperlukan—biasanya sehingga 5 tahun—atau selagi anda masih aktif di platform.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Perkongsian Data dengan Pihak Ketiga</strong></p>
-                                        <p>Kami tidak menjual atau mendedahkan data anda kepada pihak ketiga kecuali jika diperlukan oleh undang-undang atau untuk tujuan pemprosesan perkhidmatan.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Dasar Kuki & Penjejakann</strong></p>
-                                        <p>Kami menggunakan kuki untuk menjejaki tingkah laku pengguna bagi menambah baik navigasi dan promosi. Anda boleh menukar tetapan kuki di pelayar anda.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Kemas Kini Dasar Privasi</strong></p>
-                                        <p>Kami berhak untuk mengubah dasar ini dari semasa ke semasa. Sebarang perubahan akan dimaklumkan melalui emel atau papan pemuka akaun anda.</p>
-                                    </li>
-                                </ol>
+                                <h1>Dasar Privasi di CLUBMY – Perlindungan Data Anda adalah Keutamaan Kami</h1>
+                                <p>Di clubmy, kami komited untuk melindungi privasi dan data peribadi setiap pemain. Dasar Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, dan melindungi maklumat anda apabila anda menggunakan perkhidmatan kami di <strong><a href="https://clubmy.org/"></a>clubmy.org</a></strong>. Dengan mengakses atau menggunakan platform kami, anda bersetuju dengan cara kami mengendalikan data anda seperti yang diterangkan di sini.</p>
+                                <h2>Jenis Maklumat yang Kami Kumpul</h2>
+                                <p>Kami hanya mengumpul maklumat yang diperlukan untuk menyediakan perkhidmatan yang selamat dan diperibadikan:</p>
+                                <ul>
+                                    <li>Butiran pendaftaran seperti nama, tarikh lahir, alamat e-mel, dan alamat tempat tinggal.</li>
+                                    <li>Dokumen pengesahan identiti untuk mematuhi peraturan pengawalseliaan.</li>
+                                    <li>Rekod aktiviti permainan termasuk taruhan, kemenangan, dan mata kesetiaan.</li>
+                                    <li>Data pembayaran dan transaksi, dengan perlindungan ketat terhadap maklumat kewangan.</li>
+                                    <li>Butiran teknikal seperti alamat IP dan tetapan peranti bagi tujuan keselamatan dan prestasi.</li>
+                                </ul>
+                                <h2>Cara Kami Menggunakan Maklumat Anda</h2>
+                                <p>AData yang dikumpul digunakan untuk:</p>
+                                <ul>
+                                    <li>Mengesahkan identiti dan umur anda bagi memastikan kesahihan akaun.</li>
+                                    <li>Memproses transaksi dengan tepat dan pantas.</li>
+                                    <li>Menyediakan pengalaman permainan yang diperibadikan termasuk tawaran promosi.</li>
+                                    <li>Mengesan dan mencegah penipuan serta penyalahgunaan platform.</li>
+                                    <li>Menganalisis data tanpa nama untuk memperbaiki perkhidmatan kami.</li>
+                                </ul>
+                                <h2>Penggunaan Cookies dan Teknologi Penjejakan</h2>
+                                <p>Kami menggunakan cookies untuk menyimpan pilihan pengguna, membolehkan fungsi penting laman web dan mengumpul statistik trafik. Anda boleh mengawal tetapan cookies melalui pelayar anda, tetapi sesetengah fungsi mungkin terjejas jika cookies tidak dibenarkan.</p>
+                                <h2>Perkongsian Data dengan Pihak Ketiga</h2>
+                                <p>Maklumat peribadi anda hanya dikongsi dengan pihak ketiga yang dipercayai dalam situasi berikut:</p>
+                                <ul>
+                                    <li>Penyedia perkhidmatan yang membantu dalam pengesahan, pembayaran, dan sokongan pelanggan.</li>
+                                    <li>Pihak berkuasa pengawalseliaan apabila dikehendaki oleh undang-undang.</li>
+                                    <li>Badan audit untuk memastikan keadilan permainan dan pematuhan lesen. Kami tidak menjual maklumat peribadi anda kepada pihak pemasaran atau pengiklan.</li>
+                                </ul>
+                                <h2>Langkah-langkah Keselamatan</h2>
+                                <p>clubmy melindungi data anda menggunakan teknologi penyulitan SSL dan langkah keselamatan lain yang terkini. Akses kepada maklumat sensitif adalah terhad kepada kakitangan yang diberi kuasa sahaja dan kami menjalankan audit keselamatan secara berkala.</p>
+                                <h2>Tempoh Penyimpanan Data</h2>
+                                <p>Data akaun dan transaksi disimpan selagi diperlukan untuk memenuhi keperluan undang-undang, menyelesaikan pertikaian, dan menyediakan perkhidmatan berterusan. Jika anda menutup akaun, data tertentu akan disimpan untuk tempoh minimum yang ditetapkan oleh peraturan.</p>
+                                <h2>Hak Anda terhadap Data Peribadi</h2>
+                                <p>Anda berhak untuk mengakses, membetulkan, atau memadam data peribadi anda, serta mengehadkan atau membantah pemprosesan tertentu. Untuk melaksanakan hak anda, sila hubungi pegawai perlindungan data kami melalui e-mel atau laman hubungi kami.</p>
+                                <h2>Privasi Kanak-kanak</h2>
+                                <p>clubmy hanya untuk pemain berumur sah sahaja. Kami tidak mengumpul data peribadi daripada kanak-kanak di bawah umur perjudian yang sah dan akan memadamkan maklumat jika kami mendapati terdapat data sedemikian.</p>
+                                <h2>Perubahan Dasar Privasi</h2>
+                                <p>Kami mungkin mengemaskini dasar ini dari semasa ke semasa. Sebarang perubahan akan diumumkan di laman web dan, jika perlu, anda akan dimaklumkan secara langsung.</p>
+                                <h2>Hubungi Kami untuk Isu Privasi</h2>
+                                <p>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai dasar privasi kami, sila hubungi:</p>
+                                <p>Pegawai Perlindungan Data</p>
+                                <p>E-mel: privacy@clubmy.org</p>
+                                <p>Alamat: 7, Jln Ss1/21, Ss1 Petaling Jaya, 47300, Selangor</p>
                             </div>
                         </div>
                     </div>

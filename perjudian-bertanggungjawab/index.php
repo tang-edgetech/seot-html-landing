@@ -9,50 +9,11 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>Perjudian Bertanggungjawab di CLUBMY – Keutamaan Keselamatan dan Kesejahteraan Pemain</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
-        <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
-        <!-- Open Graph / Facebook -->
-        <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
-        <base href="<?php echo $site_base_url;?>">
-        <?php include '../inc/stylesheet.php';?>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "url": "https://lpk-777.com/perjudian-bertanggungjawab",
-            "name": "Perjudian Bertanggungjawab",
-            "description": "Panduan dan alat untuk memastikan perjudian di LPK777 dilakukan secara selamat, adil, dan bertanggungjawab.",
-            "about": {
-            "@type": "Topic",
-            "name": "Perjudian Bertanggungjawab"
-            },
-        }
-        </script>
+        <meta name="title" content="Perjudian Bertanggungjawab di CLUBMY – Keutamaan Keselamatan dan Kesejahteraan Pemain">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -63,42 +24,19 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Perjudian Bertanggungjawab di LPK777</h1>
-                                <p>&nbsp;</p>
-                                <h2>Komitmen Kami Terhadap Permainan Selamat & Bertanggungjawab</h2>
-                                <p>Di LPK777, kami percaya bahawa perjudian haruslah menyeronokkan, adil, dan berada dalam kawalan anda. Kami komited untuk menggalakkan amalan perjudian bertanggungjawab serta menyediakan alat dan sokongan untuk membantu pemain mengurus aktiviti mereka dengan sihat.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Prinsip Perjudian Bertanggungjawab</h2>
-                                <ul>
-                                    <li>Perjudian adalah untuk hiburan, bukan cara menjana pendapatan</li>
-                                    <li>Kenali had anda, tetapkan had masa dan perbelanjaan</li>
-                                    <li>Jangan kejar kerugian atau berjudi untuk melupakan masalah</li>
-                                    <li>Ambil rehat berkala dan pantau tingkah laku anda</li>
-                                    <li>Elakkan berjudi ketika stres atau di bawah pengaruh alkohol</li>
-                                </ul>
-                                <p>&nbsp;</p>
-
-                                <h2>Alat Pengurusan Diri yang Disediakan</h2>
-                                <p>Kami menyediakan beberapa alat pengurusan diri untuk membantu anda kekal dalam kawalan:</p>
-                                <ul>
-                                    <li><strong>Had Deposit:</strong> Tetapkan had deposit harian, mingguan atau bulanan</li>
-                                    <li><strong>Tempoh Rehat: </strong> Gantung akaun sementara jika perl</li>
-                                    <li><strong>Pengecualian Diri:</strong> Sekat akses secara kekal atas permintaan</li>
-                                    <li><strong>Peringatan Masa Bermain:</strong> Tetapkan notifikasi masa sesi</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>Untuk mengaktifkan mana-mana alat ini, sila hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>Sokongan Pelanggan LPK777</strong></a>.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Sokongan Untuk Isu Ketagihan Judi</h2>
-                                <p>Jika anda atau seseorang yang anda kenali menghadapi masalah perjudian, pertimbangkan untuk menghubungi organisasi berikut:</p>
-                                <ul>
-                                    <li>Be Gamble Aware (<a href="http://www.begambleaware.org"><strong>www.begambleaware.org</strong></a>)</li>
-                                    <li>GamCare (<a href="http://www.gamcare.org.uk"><strong>www.gamcare.org.uk</strong></a>)</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>LPK777 menggalakkan persekitaran yang selamat dan tidak bertujuan sebagai sumber pendapatan. Sila berjudi secara bertanggungjawab.</p>
+                                <h1>Perjudian Bertanggungjawab di CLUBMY – Keutamaan Keselamatan dan Kesejahteraan Pemain</h1>
+                                <p>Di clubmy, kami memahami bahawa perjudian haruslah menjadi aktiviti yang menyeronokkan dan terkawal. Oleh itu, kami komited untuk menyediakan persekitaran permainan yang selamat dan bertanggungjawab, di mana setiap pemain diberi alat dan sokongan yang diperlukan untuk mengawal aktiviti perjudian mereka secara sihat dan seimbang.</p>
+                                <h2>Alat Bantuan Diri untuk Kawalan Perjudian</h2>
+                                <p>clubmy menawarkan pelbagai alat mudah digunakan yang membolehkan anda menetapkan had deposit harian, mingguan, atau bulanan mengikut kemampuan kewangan anda. Selain itu, anda boleh memilih tempoh rehat (cool-off) yang membolehkan anda menghentikan sementara aktiviti akaun selama 24 jam hingga 30 hari. Jika perlu, fungsi pengecualian diri (self-exclusion) juga tersedia bagi pemain yang mahu menyekat akses akaun mereka untuk jangka masa lebih lama, termasuk pengecualian kekal.</p>
+                                <h2>Sokongan Profesional dan Pendidikan</h2>
+                                <p>Selain menyediakan alat pengurusan perjudian, clubmy bekerjasama dengan organisasi sokongan perjudian bermasalah terkemuka. Jika anda merasa perjudian sudah mula mengganggu aspek kehidupan lain, pautan dan maklumat tentang pusat bantuan serta perkhidmatan kaunseling profesional disediakan untuk membantu anda mendapatkan sokongan yang diperlukan.</p>
+                                <h2>Pengesanan Awal Perilaku Risiko</h2>
+                                <p>Dengan menggunakan teknologi analisis tingkah laku terkini, clubmy mampu mengesan corak perjudian yang berisiko dan mengambil tindakan proaktif. Pasukan sokongan kami akan menghubungi pemain yang menunjukkan tanda-tanda perjudian berlebihan untuk menawarkan nasihat, bantuan, dan sumber yang sesuai bagi membantu mereka mengawal tabiat perjudian mereka.</p>
+                                <h2>Keadilan dan Ketelusan dalam Permainan</h2>
+                                <p>clubmy memastikan setiap permainan dijalankan dengan integriti tinggi melalui penggunaan penjana nombor rawak (RNG) yang telah disahkan oleh pihak bebas. Kami mengamalkan ketelusan penuh dengan membenarkan pemain mengakses laporan audit untuk memastikan keadilan setiap putaran dan permainan.</p>
+                                <h2>Komitmen Berterusan clubmy</h2>
+                                <p>Keselamatan dan kesejahteraan anda adalah keutamaan utama kami. clubmy sentiasa menambah baik dasar dan amalan perjudian bertanggungjawab untuk memenuhi piawaian tertinggi dalam industri dan membantu pemain menikmati pengalaman yang menyeronokkan tanpa risiko yang tidak terkawal.</p>
+                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila lawati <strong><a href="https://clubmy.org/">https://clubmy.org/</a></strong>.</p>
                             </div>
                         </div>
                     </div>

@@ -9,151 +9,12 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Kaedah Pembayaran LPK777</title>
+        <title>CLUBMY – Pengalaman Kasino Dalam Talian Terunggul di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta name="description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
-        <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta itemprop="description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta itemprop="image" content="">
-        <!-- Open Graph / Facebook -->
-        <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta property="og:description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
-        <base href="<?php echo $site_base_url;?>">
-        <?php include '../inc/stylesheet.php';?><script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "BlogPosting",
-            "name": "Kaedah Pembayaran LPK777",
-            "url": "https://lpk-777.com/kaedah-pembayaran",
-            "inLanguage": "ms",
-            "description": "Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!"
-        }
-        </script>
-
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [
-                {
-                    "@type": "Question",
-                    "name": "Apakah cara paling cepat untuk deposit?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "TNG eWallet atau kripto – kedua-duanya segera."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Ada had minimum untuk setiap kaedah?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya. Biasanya RM10 atau RM30. Kad & pindahan bank ikut had bank."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh guna kaedah sama untuk withdraw?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Boleh, tapi kad kredit kadang perlu guna pindahan bank untuk keluaran."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apa perlu buat kalau deposit gagal?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Tunggu 10 minit. Jika masih tiada update, hubungi sokongan pelanggan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Selamat ke guna kad kredit di LPK777?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya. Laman ini guna sistem keselamatan penyulitan dan gateway sah."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Ada caj tambahan tersembunyi?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "LPK777 tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh guna TNG di desktop dan mudah alih?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya. Guna imbas QR pada telefon, boleh berfungsi di kedua-dua platform."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Kaedah mana paling sesuai untuk deposit kecil?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "TNG atau pindahan bank. Biasanya tiada caj tambahan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bagaimana nak tahu jika pembayaran berjaya?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Anda akan lihat pengesahan di skrin & baki akaun akan dikemas kini serta-merta."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh tukar kaedah pembayaran bila-bila masa?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Boleh. Guna mana-mana yang paling sesuai pada masa tersebut."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh guna e-wallet selain TNG untuk deposit?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Berapa lama pengeluaran biasanya diproses?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna VIP LPK777."
-                    }
-                }
-            ]
-        }
-        </script>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+        <meta name="title" content="CLUBMY – Pengalaman Kasino Dalam Talian Terunggul di Malaysia">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -175,143 +36,18 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Kaedah Pembayaran LPK777: Panduan Lengkap untuk Transaksi Lancar</h1>
-                                <p>&nbsp;</p>
-                                <p>Bila anda mula bermain di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, perkara terakhir yang anda nak risaukan ialah cara nak deposit duit. Anda nak top-up cepat, main lancar, dan withdraw tanpa masalah, kan?</p>
-                                <p>&nbsp;</p>
-                                <p>Sebab tu penting untuk tahu kaedah pembayaran yang sesuai. Ada yang pantas, ada yang senang, ada yang caj rendah. Sama ada anda pemain baru atau dah biasa main <a href="https://lpk-777.com/slot"><strong>slot online</strong></a>, faham pilihan anda boleh jimat masa dan elak masalah kemudian hari.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Gambaran Umum Kaedah Pembayaran LPK777</h2>
-                                <p><a href="https://lpk-777.com/kaedah-pembayaran"><strong>Kaedah pembayaran LPK777</strong></a> menyokong pelbagai pilihan yang biasa digunakan pemain Malaysia. Tak perlu belajar benda pelik, hanya pilih yang sesuai dengan anda:</p>
-                                <ul>
-                                    <li><strong>Kad Kredit/Debit</strong>: Visa & Mastercard – senang dan biasa digunakan</li>
-                                    <li><strong>TNG eWallet</strong>: Sangat popular, cepat dan mesra mudah alih</li>
-                                    <li><strong>Pindahan Bank Dalam Talian</strong>: Gunakan Maybank, CIMB, RHB melalui FPX</li>
-                                    <li><strong>Kripto</strong>: Sesuai untuk pengguna yang mahu privasi atau dah ada wallet crypto</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>Setiap kaedah ada kelebihan tersendiri. Mari kita tengok lebih dekat.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Guna Kad Kredit atau Debit di LPK777</h2>
-                                <p>Kad kredit dan debit masih antara cara paling biasa untuk tambah nilai akaun anda di LPK777. Sama ada Visa atau Mastercard:</p>
-                                <ol class="mb-4">
-                                    <li>Masukkan maklumat kad</li>
-                                    <li>Pilih amaun deposit</li>
-                                    <li>Sahkan transaksi melalui OTP dari bank</li>
-                                </ol>
-                                <p><strong>Isu Biasa dengan Kad & Cara Elak:</strong></p>
-                                <ul>
-                                    <li>Transaksi disekat bank kerana berkaitan perjudian</li>
-                                    <li>Melebihi had kad</li>
-                                    <li>Maklumat CVV atau tarikh luput salah</li>
-                                </ul>
-                                <p>Pastikan kad anda boleh digunakan online & ada baki cukup. Kalau masih tak boleh, cuba TNG eWallet atau pindahan bank.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Bayar Guna TNG eWallet</h2>
-                                <p>Touch ’n Go (TNG) eWallet antara pilihan cashless yang paling pantas di Malaysia.</p>
-                                <p><strong>Cara Guna TNG di LPK777:</strong></p>
-                                <ul>
-                                    <li>Pilih eWallet anda</li>
-                                    <li>Imbas QR code guna aplikasi eWallet</li>
-                                    <li>Tekan sahkan pembayaran</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>Cepat, mudah, dan tak perlu masukkan maklumat kad atau bank.</p>
-                                <p>&nbsp;</p>
-                                <p><strong>TNG Paling Senang Digunakan?</strong></p>
-                                <p>Ya, terutama untuk pengguna mudah alih. Transaksi selesai dalam beberapa saat tanpa error. Kadangkala ada <a href="https://lpk-777.com/bonus-promosi"><strong>cashback atau promosi eksklusif</strong></a> juga – sebab tu ramai pemain suka guna TNG.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Pindahan Bank Dalam Talian: Stabil dan Boleh Dipercayai?</h2>
-                                <p>Kalau anda jenis yang suka guna akaun bank terus, FPX adalah sistem yang paling stabil di LPK777.</p>
-                                <p><strong>Kadar & Masa Proses Bank:</strong></p>
-                                <ul>
-                                    <li><strong>Maybank / CIMB</strong>: Had tinggi, proses segera</li>
-                                    <li><strong>Public Bank</strong>: Ada had harian lebih ketat</li>
-                                    <li><strong>Ambank / HLB</strong>: Okey tapi mungkin lambat waktu sibuk</li>
-                                </ul>
-                                <p>Kalau nak deposit besar, semak had bank anda dulu.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Guna Kripto di LPK777: Cepat Tapi Berisiko?</h2>
-                                <p>Kalau anda dah biasa dengan kripto seperti Bitcoin atau USDT, kaedah ini boleh jimat masa dan lebih peribadi.</p>
-                                <p>&nbsp;</p>
-                                <p><strong>Sesuai untuk:</strong></p>
-                                <ul>
-                                    <li>Pemain berisiko tinggi</li>
-                                    <li>Mereka yang nak privasi</li>
-                                    <li>Pengguna yang tak nak guna bank tradisional</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p><strong>Baru dalam crypto?</strong></p>
-                                <p>Kalau belum biasa, lebih baik guna TNG atau FPX dulu. Kripto tiada refund kalau silap, dan nilai pun turun naik. Tapi kalau anda yakin, kaedah ni sangat cepat dan selamat.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Perbandingan Kelajuan Kaedah Pembayaran</h2>
-                                <table class="table table-striped mb-0">
-                                    <thead>
-                                        <tr>
-                                            <th>Kaedah Pembayaran</th>
-                                            <th>Kelajuan Deposit</th>
-                                            <th>Kelajuan Pengeluaran</th>
-                                            <th>Sesuai Untuk</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Kad Kredit/Debit</td>
-                                            <td>5-10 minit</td>
-                                            <td>1-2 hari bekerja</td>
-                                            <td>Mudah, biasa digunakan</td>
-                                        </tr>
-                                        <tr>
-                                            <td>TNG eWallet</td>
-                                            <td>Segera</td>
-                                            <td>Beberapa jam</td>
-                                            <td>Pengguna mudah alih</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Pindahan Bank</td>
-                                            <td>5-15 minit</td>
-                                            <td>1-2 hari bekerja</td>
-                                            <td>Kaedah tradisional</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Kripto</td>
-                                            <td>Segera</td>
-                                            <td>1 hari atau kurang</td>
-                                            <td>Pantas & privasi tinggi</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <p>&nbsp;</p>
-
-                                <h2>Ada Caj Tambahan atau Had tak?</h2>
-                                <p>
-                                    Biasanya, <a href="https://lpk-777.com"><strong>LPK777</strong></a> tak kenakan caj tambahan untuk deposit. Tapi, pihak bank atau penyedia pembayaran mungkin kenakan sedikit caj:
-                                </p>
-                                <ul>
-                                    <li><strong>Kad kredit</strong>: Caj pendahuluan tunai mungkin dikenakan</li>
-                                    <li><strong>TNG</strong>: Biasanya tiada caj, tapi pastikan baki mencukupi</li>
-                                    <li><strong>FPX</strong>: Minimum deposit mungkin RM10 atau RM30 bergantung bank</li>
-                                    <li><strong>Kripto</strong>: Ada <strong>gas fee</strong>, bergantung pada syiling dan trafik rangkaian</li>
-                                </ul>
-                                <p>&nbsp;</p>
-
-                                <h2>Penutup: Tips Untuk Pembayaran Lancar</h2>
-                                <ul>
-                                    <li>Sentiasa semak maklumat sebelum sahkan pembayaran</li>
-                                    <li>Ambil <strong>screenshot</strong> selepas transaksi</li>
-                                    <li>Guna sambungan internet yang stabil</li>
-                                    <li>Jangan tergesa-gesa, buat dengan teliti</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Langkah mudah ini boleh elak banyak masalah dan pastikan anda boleh terus <a href="https://lpk-777.com/slot"><strong>main permainan slot</strong></a> tanpa tunggu lama.
-                                </p>
+                                <h1>Kaedah Pembayaran di CLUBMY– Mudah, Selamat, dan Pantas</h1>
+                                <p>Di clubmy, kami memahami bahawa kemudahan pembayaran adalah aspek penting dalam pengalaman permainan anda. Oleh itu, kami menyediakan pelbagai kaedah pembayaran yang mudah digunakan, cepat diproses, dan dijamin keselamatannya. Pilih kaedah yang paling sesuai dengan keperluan anda dan nikmati transaksi tanpa masalah.</p>
+                                <h2>Pilihan Deposit yang Pelbagai dan Segera</h2>
+                                <p>Anda boleh membuat deposit dengan pelbagai pilihan seperti kad kredit Visa dan Mastercard, e-dompet popular tempatan seperti GrabPay, Touch ‘n Go, dan ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum. Semua deposit dikreditkan serta-merta ke akaun anda, membolehkan anda mula bermain tanpa menunggu.</p>
+                                <h2>Pengeluaran Dana Cepat dan Terpercaya</h2>
+                                <p>Proses pengeluaran di <strong><a href="https://clubmy.org/">club my</a></strong> direka untuk menjadi mudah dan cepat. Kebanyakan permintaan pengeluaran diproses dalam masa kurang daripada 24 jam. Dana akan dikembalikan ke akaun e-dompet anda dalam beberapa jam, manakala pemindahan bank mungkin mengambil masa sehingga dua hari bekerja. Anda sentiasa akan diberitahu tentang anggaran masa pemprosesan sebelum mengesahkan transaksi.</p>
+                                <h2>Tiada Caj Tersembunyi</h2>
+                                <p>clubmy tidak mengenakan sebarang caj tambahan untuk deposit atau pengeluaran. Sekiranya penyedia pembayaran anda mengenakan bayaran perkhidmatan, ia akan dinyatakan dengan jelas semasa transaksi supaya anda dapat membuat keputusan yang tepat.</p>
+                                <h2>Mata Wang Tempatan dan Penukaran Automatik</h2>
+                                <p>Untuk memudahkan pengguna Malaysia, kami menerima deposit dalam Ringgit Malaysia (RM) serta beberapa mata wang asing lain. Penukaran mata wang berlaku secara automatik dan kadar terkini akan dipaparkan sebelum anda mengesahkan transaksi.</p>
+                                <h2>Keselamatan Transaksi Dijamin</h2>
+                                <p>Keselamatan transaksi anda adalah keutamaan kami. Semua transaksi dilindungi oleh teknologi penyulitan SSL bertaraf bank, dan sistem kami mematuhi protokol anti-penipuan yang ketat. Sekiranya anda mengesyaki aktiviti mencurigakan pada akaun anda, hubungi pasukan sokongan kami dengan segera untuk tindakan pantas.</p>
                             </div>
                         </div>
                     </div>
@@ -322,161 +58,186 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim Tentang Kaedah Pembayaran LPK777</h2>
+                            <h2>Soalan Lazim tentang Kaedah Pembayaran di clubmy</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Apakah cara paling cepat untuk deposit?
-                                        </button>
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
+                                        Apakah kaedah pembayaran yang diterima di clubmy?
+                                    </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            TNG eWallet atau kripto – kedua-duanya segera.
-                                        </div>
+                                    <div class="accordion-body">
+                                            clubmy menerima pelbagai kaedah termasuk kad kredit Visa dan Mastercard, e-dompet tempatan seperti GrabPay, Touch ‘n Go, ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            Ada had minimum untuk setiap kaedah?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
+                                        Berapa lama masa yang diambil untuk deposit dikreditkan?
+                                    </button>
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Ya. Biasanya RM10 atau RM30. Kad & pindahan bank ikut had bank.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Deposit biasanya dikreditkan ke akaun anda secara serta-merta selepas transaksi berjaya.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Boleh guna kaedah sama untuk withdraw?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
+                                        Apakah tempoh pengeluaran dana diproses?
+                                    </button>
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Boleh, tapi kad kredit kadang perlu guna pindahan bank untuk keluaran.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Kebanyakan pengeluaran diproses dalam masa kurang daripada 24 jam pada hari bekerja. Masa mungkin berbeza mengikut kaedah pengeluaran.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            Apa perlu buat kalau deposit gagal?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
+                                        Adakah terdapat caj tersembunyi untuk transaksi?
+                                    </button>
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Tunggu 10 minit. Jika masih tiada update, hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.
-                                        </div>
+                                    <div class="accordion-body">
+                                        clubmy tidak mengenakan sebarang caj tambahan. Jika penyedia pembayaran anda mengenakan bayaran, ia akan dinyatakan sebelum transaksi disahkan.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Selamat ke guna kad kredit di LPK777?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
+                                        Bolehkah saya membuat deposit menggunakan mata wang kripto?
+                                    </button>
                                     </h3>
                                     <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Ya. Laman ini guna sistem keselamatan penyulitan dan gateway sah.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya, clubmy menerima Bitcoin, Ethereum dan beberapa mata wang kripto lain untuk deposit dan pengeluaran.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            Ada caj tambahan tersembunyi?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
+                                        Apakah langkah keselamatan yang diambil untuk melindungi maklumat pembayaran saya?
+                                    </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            LPK777 tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Semua data transaksi dienkripsi menggunakan teknologi SSL bertaraf bank dan kami mengikuti protokol anti-penipuan yang ketat.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            Boleh guna TNG di desktop dan mudah alih?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
+                                        Bagaimana jika deposit saya gagal atau tidak dikreditkan?
+                                    </button>
                                     </h3>
                                     <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Ya. Guna imbas QR pada telefon, boleh berfungsi di kedua-dua platform.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Jika deposit gagal atau tidak dikreditkan dalam masa yang dijangkakan, sila hubungi pasukan sokongan kami segera untuk bantuan.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Kaedah mana paling sesuai untuk deposit kecil?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
+                                        Adakah saya boleh menetapkan had deposit?
+                                    </button>
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            TNG atau pindahan bank. Biasanya tiada caj tambahan.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya, anda boleh menetapkan had deposit harian, mingguan atau bulanan melalui tetapan akaun anda.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Bagaimana nak tahu jika pembayaran berjaya?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
+                                        Bolehkah saya menggunakan lebih daripada satu kaedah pembayaran?
+                                    </button>
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Anda akan lihat pengesahan di skrin & baki akaun akan dikemas kini serta-merta.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya, anda bebas menggunakan pelbagai kaedah pembayaran mengikut keselesaan dan keperluan anda.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            Boleh tukar kaedah pembayaran bila-bila masa?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                                        Apakah had minimum dan maksimum untuk deposit dan pengeluaran?
+                                    </button>
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Boleh. Guna mana-mana yang paling sesuai pada masa tersebut.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Had minimum dan maksimum berbeza mengikut kaedah pembayaran; maklumat terperinci boleh dilihat di papan pemuka akaun anda.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            Boleh guna e-wallet selain TNG untuk deposit?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                                        Adakah clubmy menyokong pembayaran melalui e-dompet tempatan?
+                                    </button>
                                     </h3>
                                     <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang. Semak <a href="https://lpk-777.com/kaedah-pembayaran"><strong>halaman pembayaran rasmi</strong></a> untuk info terkini.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya, kami menyokong e-dompet seperti GrabPay, Touch ‘n Go, dan ShopeePay bagi kemudahan transaksi pengguna Malaysia.
+                                    </div>
                                     </div>
                                 </div>
-
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Berapa lama pengeluaran biasanya diproses?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                                        Bagaimana cara saya mengemaskini maklumat pembayaran saya?
+                                    </button>
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna <a href="https://lpk-777.com/vip"><strong>vip LPK777</strong></a>.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Anda boleh mengemas kini maklumat pembayaran melalui tetapan akaun atau hubungi sokongan untuk bantuan lanjut.
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                                        Adakah pengeluaran boleh dilakukan ke akaun bank luar negara?
+                                    </button>
+                                    </h3>
+                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Pengeluaran ke akaun bank luar negara biasanya tidak disokong, sila semak dengan pasukan sokongan untuk maklumat khusus.
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                                        Apakah yang perlu saya lakukan jika pengeluaran saya tertangguh?
+                                    </button>
+                                    </h3>
+                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                            Jika pengeluaran anda lambat, hubungi pasukan sokongan kami untuk penjelasan dan tindakan segera.
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                                        Bagaimana saya boleh hubungi sokongan jika menghadapi masalah pembayaran?
+                                    </button>
+                                    </h3>
+                                    <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Anda boleh menghubungi sokongan melalui sembang langsung, e-mel, atau Telegram yang disenaraikan di hubungi kami.
+                                    </div>
                                     </div>
                                 </div>
                             </div>

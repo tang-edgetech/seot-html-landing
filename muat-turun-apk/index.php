@@ -9,152 +9,11 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Muat Turun Aplikasi LPK777</title>
+        <title>Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Muat Turun Aplikasi LPK777">
-        <meta name="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
-        <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Muat Turun Aplikasi LPK777">
-        <meta itemprop="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta itemprop="image" content="">
-        <!-- Open Graph / Facebook -->
-        <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Muat Turun Aplikasi LPK777">
-        <meta property="og:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
-        <base href="<?php echo $site_base_url;?>">
-        <?php include '../inc/stylesheet.php';?>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "BlogPosting",
-            "name": "Muat Turun Aplikasi LPK777",
-            "url": "https://lpk-777.com/muat-turun-apk",
-            "inLanguage": "ms",
-            "description": "Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.",
-        }
-        </script>
-
-        <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {
-            "@type": "Question",
-            "name": "Adakah APK LPK777 selamat dipasang?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Selagi dimuat turun dari laman rasmi, ia bebas dari malware dan selamat."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh deposit dan keluarkan wang melalui aplikasi?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh. Semua fungsi kewangan disokong sepenuhnya seperti di desktop atau telefon."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apa perlu buat jika ada masalah masa pasang APK?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Pastikan tetapan 'Sumber Tidak Diketahui' diaktifkan. Jika masih ada masalah, hubungi support melalui live chat kami."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh main tanpa aplikasi?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh. Anda masih boleh guna pelayar mudah alih, tetapi aplikasi lebih laju dan mudah."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Adakah aplikasi menjejaskan prestasi telefon?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Tidak. Aplikasi ini ringan dan direka untuk berjalan lancar, termasuk pada telefon bajet atau lama."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Aplikasi ini ada dalam pelbagai bahasa?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. APK LPK777 menyokong pelbagai bahasa bergantung pada lokasi atau tetapan akaun anda."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh akses semua permainan slot dalam aplikasi?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya boleh je. Aplikasi memberi akses penuh ke koleksi permainan, termasuk semua kategori dan keluaran baharu."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Perlu log masuk setiap kali buka aplikasi?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Tak perlu. Anda boleh aktifkan auto-login atau guna Face ID/cap jari untuk akses lebih pantas."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Selamat ke buat pembayaran guna aplikasi ni?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Aplikasi guna sistem pembayaran yang disulitkan, sama seperti versi desktop ataupun telefon."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh guna live chat melalui aplikasi?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh. Anda boleh terus hubungi sokongan dalam aplikasi, sama seperti versi desktop ataupun telefon."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Perlu kemas kini aplikasi secara manual?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kebanyakan kemas kini diumumkan di laman utama. Untuk Android, mungkin perlu muat turun semula; untuk iOS, hanya segar semula shortcut."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apa patut saya buat jika aplikasi tak berfungsi?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Mulakan semula aplikasi atau peranti. Jika masih bermasalah, muat turun semula dari laman web rasmi atau hubungi sokongan."
-            }
-            }
-        ]
-        }
-        </script>
+        <meta name="title" content="Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -176,121 +35,30 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Muat Turun LPK777 APK untuk Pengalaman Slot yang Pantas dan Lancar</h1>
-                                <p>Main permainan slot kegemaran anda bila-bila masa dengan <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi LPK777</strong></a> yang direka khas untuk kelajuan, kemudahan dan prestasi mantap. Sama ada korang main dari tren, rehat lunch atau kat rumah, aplikasi ini beri akses segera ke semua <a href="https://lpk-777.com/slot"><strong>permainan slot</strong></a> terbaik LPK777.</p>
-                                <p>&nbsp;</p>
-                                <p>Tak perlu taip URL atau tunggu pelayar loading. Dengan satu tap sahaja, korang terus boleh mula bermain – mudah dan jimat masa.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Kenapa Perlu Guna Aplikasi LPK777?</h2>
-                                <p><a href="https://lpk-777.com/muat-turun-apk"><strong>Aplikasi LPK777</strong></a> direka khusus untuk pemain slot yang mengutamakan kemudahan di peranti mudah alih dan akses pantas. Berbanding melayari laman web secara manual, aplikasi apk menawarkan:</p>
+                                <h1>Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda</h1>
+                                <p>Nikmati pengalaman bermain kasino online CLUBMY yang lancar dengan aplikasi APK rasmi kami untuk Android. Dengan muat turun mudah, anda dapat mengakses koleksi permainan penuh tanpa perlu bergantung pada pelayar web. APK clubmy menawarkan prestasi pantas, navigasi mesra pengguna, dan pemberitahuan masa nyata untuk promosi terkini.</p>
+                                <h2>Kelebihan Menggunakan APK CLUBMY</h2>
+                                <p>Dengan memasang <strong><a href="https://clubmy.org/">APK CLUBMY</a></strong> pada peranti Android anda, anda akan dapat:</p>
                                 <ul>
-                                    <li>Masa pemuatan lebih pantas dan prestasi lebih lancar</li>
-                                    <li>Log masuk satu sentuhan dengan fungsi auto-simpan</li>
-                                    <li>Akses kepada bonus dan <strong>promosi eksklusif</strong> aplikasi</li>
-                                    <li>Pemberitahuan untuk permainan dan bonus terbaru</li>
-                                    <li>Paparan mesra mudah alih yang lebih kemas dan tersusun</li>
+                                    <li>Lancarkan permainan kegemaran dengan satu sentuhan tanpa perlu melalui skrin muat turun yang panjang</li>
+                                    <li>Terima pemberitahuan segera tentang promosi dan kejohanan terbaru supaya tidak terlepas peluang menarik</li>
+                                    <li>Nikmati tawaran eksklusif khusus untuk pengguna aplikasi</li>
+                                    <li>Antara muka yang dioptimumkan khas untuk saiz skrin mudah alih, memberikan pengalaman bermain yang lebih selesa</li>
                                 </ul>
-                                <p>Segala yang anda perlukan tersedia di satu tempat, takyah buang masa lagi untuk zoom in atau skrol. Anda kekal berhubung dengan permainan slot kegemaran di mana sahaja.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Ciri-Ciri Menarik Aplikasi LPK777</h2>
-                                <p>Berikut ciri-ciri yang menjadikan aplikasi kami berbeza:</p>
-                                <ul>
-                                    <li><strong>Dioptimumkan untuk Permainan Slot:</strong> Susun atur ringkas, akses pantas ke permainan dan respons putaran yang cepat</li>
-                                    <li><strong>Log Masuk Selamat:</strong> Akses disulitkan dengan pilihan log masuk biometrik (Face ID ataupun cap jari)</li>
-                                    <li><strong>Papan Pemuka Peribadi:</strong> Papar permainan terakhir, bonus aktif dan maklumat dompet anda serta-merta</li>
-                                    <li><strong>Pemberitahuan Tolakan (Push Notification):</strong> Makluman tentang pelancaran slot terbaru, promosi khas aplikasi dan <a href="https://lpk-777.com/slot"><strong>kemas kini jackpot</strong></a></li>
-                                    <li><strong>Pemasangan Ringan:</strong> Tidak memakan ruang besar dan berfungsi lancar walaupun pada telefon lama</li>
-                                </ul>
-                                <p>Segala-galanya direka agar mudah digunakan tanpa memerlukan kemahiran teknikal.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Cara Pasang Aplikasi LPK777</h2>
-                                <p>Ikuti langkah mudah berikut mengikut jenis peranti anda:</p>
-                                <p><strong>Untuk Pengguna Android:</strong></p>
+                                <h2>Cara Mudah Memasang APK clubmy</h2>
+                                <p>Ikuti langkah mudah berikut untuk mula bermain dalam masa beberapa minit:</p>
                                 <ol>
-                                    <li>Buka laman web dan pergi ke <a href="<?php echo $site_base_url;?>"><strong>LPK777 Halaman Utama</strong></a></li>
-                                    <li>Klik butang <strong>Muat Turun APK</strong></li>
-                                    <li>Benarkan pemasangan aplikasi daripada sumber tidak diketahui (tetapan sekali sahaja)</li>
-                                    <li>Buka fail APK dan pasang aplikasi</li>
-                                    <li>Lancarkan aplikasi dan log masuk untuk mula bermain</li>
+                                    <li>Aktifkan pemasangan aplikasi dari sumber tidak dikenali dalam tetapan peranti anda</li>
+                                    <li>Muat turun fail APK clubmy terus ke telefon Android anda</li>
+                                    <li>Buka fail yang dimuat turun dan pilih ‘Pasang’</li>
+                                    <li>Lancarkan aplikasi, log masuk atau daftar akaun baru, kemudian buat deposit pertama anda</li>
                                 </ol>
-                                <p class="fst-italic">⚠️ Pastikan hanya muat turun dari laman rasmi LPK777 untuk keselamatan anda.</p>
-                                <p>&nbsp;</p>
-                                <p><strong>Untuk Pengguna iOS:</strong></p>
-                                <ol>
-                                    <li>Layari laman rasmi APK LPK777 menggunakan pelayar Safari</li>
-                                    <li>Tekan ikon <strong>Kongsi</strong> di bawah skrin</li>
-                                    <li>Pilih <strong>Tambah ke Skrin Utama (Add to Home Screen)</strong></li>
-                                    <li>Ikon aplikasi akan muncul di skrin utama, sentuh untuk melancarkan bila-bila masa</li>
-                                </ol>
-                                <p>Nota: iOS menyokong pengalaman web apk yang dioptimumkan untuk prestasi dan kemudahan pengguna.</p>
-                                <p>&nbsp;</p>
-                                <h3>Keserasian Aplikasi dan Keperluan Minimum</h3>
-                                <p>Pastikan peranti anda memenuhi spesifikasi berikut:</p>
-                                <ul>
-                                    <li><strong>Android:</strong> Versi 7.0 ke atas, storan minimum 100MB</li>
-                                    <li><strong>iOS:</strong> iOS 13 ke atas, pelayar Safari</li>
-                                    <li><strong>Internet:</strong> 4G atau Wi-Fi untuk prestasi terbaik</li>
-                                </ul>
-                                <p>Aplikasi ini ringan dan responsif, sesuai untuk peranti lama tanpa masalah lag.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Perbezaan Antara Aplikasi dan Versi Pelayar</h2>
-                                <table class="table table-stripped">
-                                    <thead>
-                                        <th><strong>Ciri</strong></th>
-                                        <th><strong>Versi Aplikasi</strong></th>
-                                        <th><strong>Versi Web</strong></th>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td><strong>Kelajuan Muat</strong></td>
-                                            <td>Lebih pantas</td>
-                                            <td>Sederhana</td>
-                                        </tr>
-                                        <tr>
-                                            <td><strong>Pemberitahuan</strong></td>
-                                            <td>Disokong</td>
-                                            <td>Tidak tersedia</td>
-                                        </tr>
-                                        <tr>
-                                            <td><strong>Paparan</strong></td>
-                                            <td>Dioptimumkan</td>
-                                            <td>Perlu zum/skrol</td>
-                                        </tr>
-                                        <tr>
-                                            <td><strong>Log Masuk</strong></td>
-                                            <td>Satu sentuhan</td>
-                                            <td>Masuk manual</td>
-                                        </tr>
-                                        <tr>
-                                            <td><strong>Promosi</strong></td>
-                                            <td>Eksklusif aplikasi</td>
-                                            <td>Tawaran umum sahaja</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <p>&nbsp;</p>
-
-                                <h2>Pengurusan Pemberitahuan dan Kemas Kini</h2>
-                                <ul>
-                                    <li><Untuk Aktifkan Pemberitahuan:</strong> Benarkan semasa pemasangan pertama atau hidupkan dalam tetapan telefon</li>
-                                    <li>Untuk Matikan Pemberitahuan:</strong> Tetapan Telefon > Pemberitahuan > LPK777 > Lumpuhkan</li>
-                                    <li>Kemas Kini:</strong> Notis kemas kini akan dihantar secara automatik. Sentiasa gunakan laman rasmi untuk <a href="https://lpk-777.com"><strong>muat turun aplikasi</strong></a> semula</li>
-                                    <li>Kekal dikemas kini bermakna anda tidak akan terlepas sebarang bonus atau tournament baharu.</li>
-                                </ul>
-                                <p>&nbsp;</p>
-
-                                <h2>Keselamatan & Privasi Dalam Aplikasi</h2>
-                                <p>LPK777 mengutamakan keselamatan pemain. Melalui dasar privasi rasmi, aplikasi ini menyediakan:</p>
-                                <ul>
-                                    <li>Sokongan log masuk biometrik (jika diaktifkan)</li>
-                                    <li>Log keluar automatik apabila tidak aktif</li>
-                                    <li>Tiada data disimpan dalam peranti (Android / iOS)</li>
-                                </ul>
-                                <p>Akaun anda sama selamat seperti di laman web desktop, tetapi dengan akses yang lebih senang je.</p>
+                                <h2>Keperluan Sistem untuk APK clubmy</h2>
+                                <p>Aplikasi APK clubmy serasi dengan Android versi 5.0 ke atas. Pastikan anda mempunyai sekurang-kurangnya 100 MB ruang storan kosong dan sambungan internet yang stabil untuk prestasi terbaik.</p>
+                                <h2>Kemas Kini Automatik dan Ciri Baharu</h2>
+                                <p>Selepas pemasangan, APK clubmy akan mengemas kini secara automatik di latar belakang. Ini memastikan anda sentiasa menggunakan versi terbaru dengan pembaikan bug, peningkatan keselamatan, dan permainan terbaru tanpa perlu memuat turun secara manual.</p>
+                                <h2>Keselamatan dan Kebenaran Aplikasi</h2>
+                                <p>Keselamatan anda diutamakan. APK kami hanya memerlukan kebenaran penting untuk pemasangan dan operasi permainan. Semua data transaksi dan komunikasi dienkripsi menggunakan SSL. Anda boleh menyemak dan mengurus kebenaran aplikasi melalui tetapan peranti bila-bila masa.</p>
                             </div>
                         </div>
                     </div>
@@ -300,149 +68,185 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionFAQ">
+                            <h2>Soalan Lazim tentang APK clubmy</h2>
+                            <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Adakah APK LPK777 selamat dipasang?
+                                        Apakah kelebihan menggunakan APK berbanding laman web mudah alih?
                                     </button>
                                     </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Ya. Selagi dimuat turun dari <a href="https://lpk-777.com"><strong>homepage (laman rasmi)</strong></a>, ia bebas dari malware dan selamat
+                                        APK memberikan akses lebih pantas, navigasi yang lancar, dan pemberitahuan segera tentang promosi serta kejohanan eksklusif.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                        Boleh deposit dan keluarkan wang melalui aplikasi?
+                                        Adakah APK clubmy selamat untuk dipasang?
                                     </button>
                                     </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Boleh. Semua fungsi kewangan disokong sepenuhnya seperti di desktop atau telefon.
+                                        Ya, APK kami selamat. Ia menggunakan penyulitan SSL dan hanya meminta kebenaran penting yang diperlukan untuk operasi aplikasi.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                        Apa perlu buat jika ada masalah masa pasang APK?
+                                        Bagaimana jika APK tidak dipasang pada peranti saya?
                                     </button>
                                     </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Pastikan tetapan “Sumber Tidak Diketahui” diaktifkan. Jika masih ada masalah, hubungi support melalui live chat kami.
+                                        Pastikan anda telah mengaktifkan pemasangan dari sumber tidak dikenali dalam tetapan peranti Android anda. Jika masalah berterusan, hubungi sokongan kami.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                        Boleh main tanpa aplikasi?
+                                        Bolehkah saya menggunakan APK clubmy jika saya pengguna iOS?
                                     </button>
                                     </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Boleh. Anda masih boleh guna pelayar mudah alih, tetapi aplikasi lebih laju dan mudah.
+                                        APK ini khusus untuk Android sahaja. Pengguna iOS boleh mengakses laman web mudah alih clubmy yang dioptimumkan sepenuhnya.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                        Adakah aplikasi menjejaskan prestasi telefon?
+                                        Apakah yang perlu saya lakukan jika aplikasi tidak berfungsi selepas kemas kini?
                                     </button>
                                     </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Tidak. Aplikasi ini ringan dan direka untuk berjalan lancar, termasuk pada telefon bajet atau lama.
+                                        Cuba tutup aplikasi dan buka semula. Jika masalah berterusan, uninstall dan pasang semula APK terbaru atau hubungi sokongan.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                    Aplikasi ini ada dalam pelbagai bahasa?
+                                        Bagaimana saya mengemas kini APK secara manual?
                                     </button>
                                     </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Ya. APK LPK777 menyokong pelbagai bahasa bergantung pada lokasi atau tetapan akaun anda.
+                                        Muat turun versi terbaru APK dari laman rasmi clubmy dan pasangkan secara manual selepas menyahpasang versi lama.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                        Boleh akses semua permainan slot dalam aplikasi?
+                                        Apakah kebenaran yang diperlukan oleh APK clubmy?
                                     </button>
                                     </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Ya boleh je. Aplikasi memberi akses penuh ke koleksi permainan, termasuk semua kategori dan keluaran baharu.
+                                        APK meminta kebenaran asas seperti akses storan untuk pemasangan dan sambungan internet untuk fungsi permainan.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        Perlu log masuk setiap kali buka aplikasi?
+                                        Adakah saya perlu uninstall versi lama sebelum memasang APK baru?
                                     </button>
                                     </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Tak perlu. Anda boleh aktifkan auto-login atau guna Face ID/cap jari untuk akses lebih pantas.
+                                        Disarankan untuk menyahpasang versi lama bagi mengelakkan konflik dan memastikan prestasi aplikasi optimum.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                        Selamat ke buat pembayaran guna aplikasi ni?
+                                        Bagaimana untuk menyelesaikan masalah muat turun APK yang gagal?
                                     </button>
                                     </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Ya. Aplikasi guna sistem pembayaran yang disulitkan, sama seperti versi desktop ataupun telefon.
+                                        Pastikan sambungan internet stabil, ruang storan cukup, dan tetapan keselamatan membenarkan muat turun dari sumber luar.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                        Boleh guna live chat melalui aplikasi?
+                                        Adakah APK clubmy memerlukan sambungan internet yang kuat?
                                     </button>
                                     </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Boleh. Anda boleh terus hubungi sokongan dalam aplikasi, sama seperti versi desktop ataupun telefon.
+                                        Ya, sambungan internet yang stabil diperlukan untuk pengalaman permainan lancar dan pengesahan akaun.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                        Perlu kemas kini aplikasi secara manual?
+                                        Bolehkah saya bermain tanpa internet selepas memasang APK?
                                     </button>
                                     </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Kebanyakan kemas kini diumumkan di laman utama. Untuk Android, mungkin perlu muat turun semula; untuk iOS, hanya segar semula shortcut.
+                                        Tidak, clubmy memerlukan sambungan internet aktif untuk mengakses permainan dan fungsi penuh aplikasi.
                                     </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                        Apa patut saya buat jika aplikasi tak berfungsi?
+                                        Apakah perbezaan antara mod demo di APK dan laman web?
                                     </button>
                                     </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
+                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Mulakan semula aplikasi atau peranti. Jika masih bermasalah, <a href="https://lpk-777.com/muat-turun-apk"><strong>muat turun semula</strong></a> dari laman web rasmi atau hubungi sokongan.
+                                        Mod demo di APK dan laman web menyediakan fungsi yang sama untuk cuba permainan tanpa risiko menggunakan wang sebenar..
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                                        Adakah aplikasi menyimpan maklumat akaun saya?
+                                    </button>
+                                    </h3>
+                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Aplikasi menyimpan maklumat asas untuk akses mudah tetapi semua data sensitif dilindungi menggunakan penyulitan.
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                                        Bagaimana saya boleh melaporkan isu teknikal berkaitan APK?
+                                    </button>
+                                    </h3>
+                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Hubungi pasukan sokongan melalui live chat atau email yang tersedia di <strong><a href="https://clubmy.org/hubungi-kami">hubungi kami</a></strong>.
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                                        Adakah ada promosi eksklusif hanya untuk pengguna APK?
+                                    </button>
+                                    </h3>
+                                    <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Ya, pengguna APK kadang-kadang layak mendapat promosi khas yang tidak tersedia di platform lain. Sentiasa semak bahagian promosi kami untuk maklumat terkini.
                                     </div>
                                     </div>
                                 </div>
