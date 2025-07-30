@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Allow:
 
-Sitemap: https://winmyr.online/sitemap.xml
+Sitemap: https://jom99.org/sitemap.xml

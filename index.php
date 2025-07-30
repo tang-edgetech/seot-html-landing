@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmyr.online/">   
+        <link rel="canonical" href="https://jom99.org/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="WINMYR">
@@ -22,16 +22,16 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
         <meta itemprop="description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
-        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmyr.online/">
+        <meta property="og:url" content="https://jom99.org/">
         <meta property="og:title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
         <meta property="og:description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
         <meta property="og:site_name" content="WINMYR">
-        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="WINMYR">
         <meta property="article:tag" content="WINMYR slot">
         <meta property="article:tag" content="WINMYR casino">
@@ -44,10 +44,10 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <meta name="twitter:title" content="WINMYR – Premium Online Slot & Kasino di Malaysia">
         <meta name="twitter:description" content="Nikmati pengalaman winmyr slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
-        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/winmyr_logo.webp">
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -55,8 +55,8 @@ include 'inc/functions.php';
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "WINMYR",
-            "url": "https://winmyr.online",
-            "logo": "https://winmyr.online/images/winmyr_logo.webp",
+            "url": "https://jom99.org",
+            "logo": "https://jom99.org/images/jom99_logo.webp",
             "description": "Permainan slot terbaik di WINMYR - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
             "address": {
                 "@type": "PostalAddress",
@@ -68,7 +68,7 @@ include 'inc/functions.php';
             "contactPoint": {
                 "@type": "ContactPoint",
                 "contactType": "khidmat pelanggan",
-                "email": "support@winmyr.online",
+                "email": "support@jom99.org",
                 "telephone": "+6014-3507586",
                 "availableLanguage": ["Malay", "English"]
             }
@@ -84,7 +84,7 @@ include 'inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "WINMYR",
-                "item": "https://winmyr.online"
+                "item": "https://jom99.org"
                 }
             ]
         }
