@@ -9,153 +9,13 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>WinMYR Slot & Kasino Malaysia | Putar & Menang</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="WinMYR Slot & Kasino Malaysia | Putar & Menang">
+        <meta name="description" content="Rasai keseronokan WinMYR Slot dan kasino dalam talian. Muat turun APK, daftar melalui WinMYR Login, nikmati bonus & VIP eksklusif hari ini!">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
-        <!-- Schema.org for Google -->
-        <meta itemprop="name" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
-        <!-- Open Graph / Facebook -->
-        <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
-        <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "name": "LPK777 Slot",
-        "url": "https://lpk-777.com/slot",
-        "inLanguage": "ms",
-        "description": "Jom main slot online di LPK777! Cuba demo percuma, nikmati slot RTP tinggi, login senang, dan aplikasi pro. Jackpot besar dan pengalaman stabil menanti anda!",
-
-        }
-        </script>
-
-        <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {
-            "@type": "Question",
-            "name": "Adakah permainan slot di LPK777 adil?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Semua permainan menggunakan perisian RNG yang disahkan dan diaudit untuk menjamin keadilan dan ketidakberpihakan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Perlu muat turun untuk bermain?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Tak perlu. Anda boleh main terus melalui pelayar atau gunakan aplikasi mudah alih LPK777 untuk akses lebih smooth."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Ada pilihan bermain percuma?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Banyak permainan menyokong mod demo, membolehkan anda cuba tanpa guna duit korang sebenar."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Bagaimana memilih permainan slot yang sesuai?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Mulakan dengan permainan yang sesuai dengan gaya anda, pilih volatiliti rendah untuk kemenangan kerap atau tinggi untuk ganjaran besar. Gunakan filter untuk semak mengikut tema, ciri, atau RTP."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apa maksud RTP dan kenapa ia penting?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "RTP bermaksud Return to Player, menunjukkan purata jumlah yang dipulangkan kepada pemain. Makin tinggi RTP, makin baik potensi pulangannya."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apa beza garis pembayaran dan cara menang (ways to win)?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Garis pembayaran ialah corak tetap pada reel. 'Ways to win' seperti Megaways membayar jika simbol sama muncul dari kiri ke kanan tanpa perlu ikut corak tertentu."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Kenapa sesetengah permainan lebih kerap bayar daripada yang lain?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Sebab volatility. Yang rendah bagi menang kerap, tapi kecil. Yang tinggi bagi menang besar, tapi jarang."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Berapa jumlah pertaruhan minimum per putaran?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Bermula serendah RM0.20 dan boleh mencecah RM100 atau lebih bagi permainan taruhan tinggi. Sila semak tetapan permainan terlebih dahulu."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Adakah semua slot menyumbang sama untuk syarat taruhan bonus?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kebanyakan menyumbang 100%, tetapi sesetengah mungkin kurang. Sila semak terma promosi bagi setiap bonus."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Ada pertandingan atau kejohanan slot?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. LPK777 kadang-kadang buat kejohanan slot dengan hadiah wang tunai. Semak laman Promosi untuk acara aktif dan akan datang."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh tengok permainan baru atau trending?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Permainan baru biasanya ditanda 'Baru' dan permainan popular disenaraikan di bahagian 'Disyorkan'."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apa perlu dibuat jika permainan tersekat atau tergendala?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Refresh semula laman atau buka semula aplikasi. Sejarah permainan dan keputusan anda disimpan. Hubungi support kami jika masalah berterusan."
-            }
-            }
-        ]
-        }
-        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -177,294 +37,137 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Main Permainan Slot Terbaik Dalam Talian Bersama LPK777</h1>
-                                <p><a href="https://lpk-777.com"><strong>LPK777</strong></a> menawarkan barisan permainan slot yang kukuh dan direka untuk semua jenis pemain. Daripada pemain baharu hingga pemain berpengalaman, terdapat sesuatu untuk semua orang di sini. Nak chill sambil pusing-pusing reel pun boleh, nak all-out kejar jackpot pun takde hal, platform slot LPK777 menyediakan pengalaman permainan yang lancar dan stabil.</p>
+                                <h1>Permainan WINMYR Slot: Putar, Menang, Ulang</h1>
+                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="https://winmyr.online/">WIN MYR</a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
                                 <p>&nbsp;</p>
-                                <p>Semua sistem di platform ini selamat, mesra pengguna, dan dimuatkan dengan pantas. Hanya pilih permainan, tekan butang spin, dan nikmati hiburan tanpa gangguan.</p>
+                                
+                                <h2>Mengapa Pilih WINMYR untuk Slot?</h2>
+                                <p>Di winmyr, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
                                 <p>&nbsp;</p>
-                                <h2>Apa Yang Buat Permainan Slot LPK777 Istimewa</h2>
-                                <p>Kat LPK777, permainan slot bukan sekadar hiburan – ia merupakan satu pengalaman. Direka oleh penyedia permainan terkemuka, setiap permainan memenuhi standard prestasi dan keadilan. Anda akan dapati:</p>
-                                <ul>
-                                    <li>Koleksi permainan yang luas dengan pelbagai tema & ciri</li>
-                                    <li>Prestasi lancar di semua peranti termasuk <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi mudah alih LPK777</strong></a></li>
-                                    <li>Nilai RTP telus untuk setiap permainan</li>
-                                    <li>Penapis pintar untuk cari permainan ikut gaya korang</li>
-                                </ul>
-                                <p>Semua ciri ini menjadikan permainan slot LPK777 antara yang paling digemari oleh pemain Malaysia.</p>
+                                <h3>RNG Boleh Dipercayai dan Keadilan</h3>
+                                <p>Kami bekerjasama dengan pembekal berlesen sahaja, di mana generator nombor rawak mereka diaudit secara berkala oleh pihak ketiga. Semak laporan pembayaran bila-bila masa untuk sahkan setiap hasil tidak diubah suai.</p>
+                                <p>&nbsp;</p>
+                                <h3>Antara Muka Mesra Pemula</h3>
+                                <p>Navigasi slot winmyr mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Jenis-Jenis Permainan Slot Yang Kena Tahu</h2>
-                                <p class="mb-3">Kami dah susun permainan kepada beberapa kategori supaya korang senang nak pilih:</p>
-                                <h3 class="text-h4"><strong>Slot Klasik</strong></h3>
-                                <p>Yang ni mudah difahami, memberikan rasa nostalgia, dan sesuai untuk pemain yang menyukai format reel tradisional dengan simbol – simbol buah, lucky 7, bell.</p>
+                                <h2>Kategori Slot Kami</h2>
+                                <p>Untuk membantu anda cari permainan sempurna dengan pantas, kami susun slot dalam kategori jelas. Tukar antara kegemaran zaman kecil dan blockbuster moden dalam beberapa saat sahaja.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-h4"><strong>Slot Video</strong></h3>
-                                <p>Grafik mantap, jalan cerita tersendiri, dan pusingan bonus interaktif, sesuai untuk pemain yang suka layan style cinematic.</p>
+                                <h3>Slot 3-Gelendong Klasik</h3>
+                                <p>Hadirkan kembali keseronokan mudah buah dan loceng. Pusingan pantas dan pembayaran terus menjadikannya ideal untuk sesi santai tanpa kerumitan.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-h4"><strong>Slot Jackpot</strong></h3>
-                                <p>Game jenis ni menawarkan peluang menang besar melalui jackpot progresif atau tetap. Sekali pusing sahaja boleh mengubah segalanya.</p>
+                                <h3>Video Slot dengan Tema Sinematik</h3>
+                                <p>Menampilkan grafik HD dan pusingan bonus interaktif, permainan ini membawa anda ke dunia pengembaraan, fantasi atau budaya popular. Setiap putaran terasa seperti menonton filem mini.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-h4"><strong>Slot Megaways dan Berfitur Tinggi</strong></h3>
-                                <p>Slot dengan ganjaran tinggi yang mempunyai ribuan cara untuk menang, reel bertingkat, simbol berkembang, dan banyak lagi – untuk orang yang suka aksi dan ciri permainan lanjutan.</p>
+                                <h3>Jackpot Progresif</h3>
+                                <p>Kejar pampasan mengubah hidup apabila kumpulan jackpot bertambah dengan setiap pertaruhan. Memerhati meter naik menambah keseronokan sebelum ada yang memenangi semuanya.</p>
+                                <p>&nbsp;</p>
+                                <h3>Slot Berkonsepkan Malaysia</h3>
+                                <p>Raikan budaya tempatan dengan permainan diinspirasikan oleh perayaan, cerita rakyat, dan mercu tanda. Tajuk unik ini menawarkan gameplay bertaraf tinggi dengan sentuhan Malaysia.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Cara Nak Mula Main Slot di LPK777</h2>
-                                <p>Jika anda masih baru, proses untuk mula bermain senang je:</p>
+                                <h2>Cara Main Slot di WINMYR</h2>
+                                <p>Main mudah apabila anda faham asasnya. Kami perincikan RTP, volatiliti, saiz pertaruhan, dan simbol khas supaya anda boleh putar dengan lebih bijak.</p>
+                                <p>&nbsp;</p>
+                                <h3>Memahami RTP & Volatiliti</h3>
+                                <p>RTP tunjuk peratusan pulangan jangka panjang, manakala volatiliti ukur kekerapan dan saiz kemenangan. Volatiliti rendah beri kemenangan kecil kerap; tinggi beri kemenangan besar jarang.</p>
+                                <p>&nbsp;</p>
+                                <h3>Saiz Pertaruhan, Garisan Bayaran & Simbol Khas</h3>
+                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="https://winmyr.online/bonus-promosi">pusingan bonus</a>.</p>
+                                <p>&nbsp;</p>
+                                <h3>Panduan Ringkas Cara Putar</h3>
                                 <ol>
-                                    <li><strong>Daftar Akaun:</strong> Isi borang ringkas untuk mendaftar</li>
-                                    <li><strong>Buat Deposit:</strong> Pilih kaedah pembayaran yang korang guna</li>
-                                    <li><strong>Pilih Permainan:</strong> – Terokai kategori atau yang tengah trending sekarang</li>
+                                    <li>Log masuk pada Quick Start homepage</li>
+                                    <li>Pergi ke Slots dan pilih permainan</li>
+                                    <li>Tetapkan saiz pertaruhan dan garisan aktif</li>
+                                    <li>Tekan Spin dan nikmati</li>
                                 </ol>
-                                <p>Semua jenis ini tersedia di <strong>platform permainan LPK777</strong> dan boleh dicuba mengikut citarasa anda.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Cuba Dulu Sebelum Bertaruh: Ketersediaan Mod Demo</h2>
-                                <p>Ramai orang suka cuba dulu sebelum main betul, sebab tu kat LPK777 banyak game ada demo slot. Sesuai sangat kalau korang:</p>
-                                <ul>
-                                    <li>Mencuba pusingan bonus dan fungsi permainan</li>
-                                    <li>Memahami garis pembayaran, volatiliti, dan tingkah laku simbol</li>
-                                    <li>Meningkatkan keyakinan sebelum bermain duit sebenar</li>
-                                </ul>
-                                <p>Kebanyakan permainan boleh diakses dalam mod demo tanpa pendaftaran. Apabila bersedia, hanya satu klik untuk mula bermain dengan wang sebenar.</p>
+                                <h2>Petua & Strategi untuk Pemula</h2>
+                                <p>Sedikit perancangan memastikan permainan anda seronok dan berterusan. Gunakan petua ini untuk urus bajet dan maksimumkan keseronokan.</p>
+                                <p>&nbsp;</p>
+                                <h3>Menetapkan Had Bankroll</h3>
+                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="https://winmyr.online/perjudian-bertanggungjawab">Responsible Gambling</a>. Ini membantu anda kekal berhemah.</p>
+                                <p>&nbsp;</p>
+                                <h3>Memilih Slot Berdasarkan Volatiliti</h3>
+                                <p>Pilih volatiliti rendah untuk kemenangan kerap atau tinggi untuk peluang kemenangan besar. Padankan permainan dengan gaya dan mood anda.</p>
+                                <p>&nbsp;</p>
+                                <h3>Mengenal Ciri Bonus</h3>
+                                <p>Cari pusingan pick-and-win, cascading reels, atau wild berkembang. Ciri ini tambah variasi dan boleh tingkatkan pulangan apabila terpicu.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Permainan Slot RTP Tinggi di LPK777</h2>
-                                <p>Jika anda ingin mendapatkan pulangan lebih baik semasa bermain, memilih permainan slot dengan RTP (Return to Player) tinggi adalah pilihan bijak. Berikut ialah beberapa permainan <a href="https://lpk-777.com/bonus-promosi"><strong>RTP tinggi</strong></a> di LPK777:</p>
-                                <table class="table table-striped mb-0">
-                                    <thead>
-                                        <tr>
-                                            <th>Permainan</th>
-                                            <th>RTP</th>
-                                            <th>Ciri Menarik</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Gates of Olympus</td>
-                                            <td>96.50%</td>
-                                            <td>Tumble, Pengganda, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Sugar Rush</td>
-                                            <td>96.50%</td>
-                                            <td>Cluster Pays, Free Spin, Pengganda</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5 Lions Megaways</td>
-                                            <td>96.55%</td>
-                                            <td>Megaways, Simbol Misteri, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Big Bass Bonanza</td>
-                                            <td>96.71%</td>
-                                            <td>Bonus Memancing, Wilds, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Wolf Gold</td>
-                                            <td>96.01%</td>
-                                            <td>Respins, Simbol Wang, Putaran Percuma</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Great Rhino Deluxe</td>
-                                            <td>96.50%</td>
-                                            <td>Super Respin, Wilds, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Buffalo King Megaways</td>
-                                            <td>96.52%</td>
-                                            <td>Reel Bertingkat, Megaways, Free Spin</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                                <h2>Jackpot & Kemenangan Besar</h2>
+                                <p>Impikan kemenangan besar? Jackpot progresif dan kejayaan komuniti membuktikan putaran mengubah hidup berlaku di sini.</p>
                                 <p>&nbsp;</p>
-                                <p>Permainan ini bukan je menawarkan kadar pulangan melebihi purata, malah dipenuhi dengan ciri-ciri best dan mekanik permainan yang syok.</p>
+                                <h3>Bagaimana Kumpulan Jackpot Berkembang</h3>
+                                <p>Setiap pertaruhan dermakan peratusan kecil kepada kumpulan bersama. Semakin ramai pemain join, semakin naik jackpot sebelum satu putaran bertuah merampasnya.</p>
+                                <p>&nbsp;</p>
+                                <h3>Kemenangan Jackpot Mengubah Hidup Terkini</h3>
+                                <p>Bulan lepas, seorang pemain di KL memenangi RM250,000 pada slot progresif, buktikan hadiah besar bukan sekadar janji.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Simbol & Ciri Slot Penting: Panduan Untuk Beginner</h2>
-                                <h4>Simbol Asas dan Fungsinya:</h4>
-                                <ul>
-                                    <li><strong>Wilds</strong> – Menggantikan simbol lain untuk melengkapkan kombinasi kemenangan</li>
-                                    <li><strong>Scatters</strong> – Membuka free spin atau pusingan bonus</li>
-                                    <li><strong>Putaran Percuma</strong> – Pusingan bonus yang tidak menggunakan kredit pemain</li>
-                                    <li><strong>Pengganda</strong> – Meningkatkan jumlah kemenangan</li>
-                                    <li><strong>Garis Pembayaran</strong> – Corak kemenangan pada ree</li>
-                                    <li><strong>Permainan Bonus</strong> – Pusingan khas dengan hadiah tambahan</li>
-                                </ul>
+                                <h2>Pengalaman Slot Mudah Alih</h2>
+                                <p>Main di mana-mana tanpa kompromi. Platform mudah alih kami tawarkan ciri penuh, masa muat pantas, dan bonus khas untuk main di telefon.</p>
+                                <p>&nbsp;</p>
+                                <h3>WinMyr APK vs. Mobile Browser Play</h3>
+                                <div class="table-wrapper">
+                                    <table class="table table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th>Ciri</th>
+                                                <th>WinMyr APK</th>
+                                                <th>Pelayar Mudah Alih</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th>Kelajuan Muat</th>
+                                                <td>Bermula dalam kurang 5 saat, dioptimumkan untuk guna berulang</td>
+                                                <td>Bergantung pada rangkaian dan cache pelayar</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Deposit Satu Klik</th>
+                                                <td>Top-up terpadu satu klik untuk deposit pantas</td>
+                                                <td>Perlu navigasi semula ke skrin pembayaran</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Notifikasi Push</th>
+                                                <td>Amaran masa nyata untuk bonus kilat dan kemenangan besar</td>
+                                                <td>Tiada notifikasi asli, semak secara manual</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Grafik & Prestasi</th>
+                                                <td>Animasi lebih lancar dan kurang sebarang masalah</td>
+                                                <td>Agak perlahan pada tajuk grafik tinggi</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Kemas Kini Automatik</th>
+                                                <td>Dikemas kini secara senyap di latar belakang</td>
+                                                <td>Sentiasa versi web terkini, tiada pemasangan perlu</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Akses Luar Talian</th>
+                                                <td>Cache aset membolehkan muat skrin walau sambungan lemah</td>
+                                                <td>Perlu muat semula sepenuhnya apabila sambungan kembali</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <p>&nbsp;</p>
+                                <h3>Bonus Eksklusif Mudah Alih</h3>
+                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="https://winmyr.online/bonus-promosi">Bonuses & Promotions</a>.</p>
                                 <p>&nbsp;</p>
 
-                                <h4>Ciri Slot Yang Perlu Dicari:</h4>
-                                <ul>
-                                    <li><strong>Expanding Wilds</strong> – Wilds yang menutupi keseluruhan reel</li>
-                                    <li><strong>Sticky Symbols</strong> – Kekal di tempatnya untuk peluang menang tambahan</li>
-                                    <li><strong>Cascading Reels</strong> – Kemenangan berturut-turut dalam satu putaran</li>
-                                    <li><strong>Bonus Buy</strong> – Terus beli akses ke pusingan bonus (jika tersedia)</li>
-                                </ul>
+                                <h2>Kejohanan Slot & Papan Pendahulu</h2>
+                                <p>Tambah persaingan mesra pada putaran anda. Sertai cabaran mingguan, daki papan pendahulu, dan kumpul ganjaran tambahan.</p>
                                 <p>&nbsp;</p>
-                                <p>Bermain permainan slot perlukan sedikit strategi walaupun bergantung pada nasib. Beberapa tip ini boleh bantu korang bermula dengan lebih bijak:</p>
-                                <ul>
-                                    <li>Mula dengan <strong>slot volatiliti rendah</strong> untuk kemenangan lebih konsisten</li>
-                                    <li>Pilih <strong>permainan RTP tinggi</strong> untuk pulangan jangka panjang</li>
-                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di slot demo LPK777</li>
-                                    <li>Tetapkan bajet dan patuhinya – elakkan perjudian emosi</li>
-                                    <li>Jangan kejar kekalahan – rehat dulu, cuba lagi bila lebih fokus</li>
-                                </ul>
+                                <h3>Cabaran Slot Mingguan</h3>
+                                <p>Putar tajuk terpilih atau capai sasaran kemenangan tertentu untuk layak. Papan pendahulu dikemas kini secara langsung supaya anda tahu kedudukan anda.</p>
                                 <p>&nbsp;</p>
-                                <p>LPK777 juga menyokong <a href="https://lpk-777.com/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> dan menggalakkan pengawalan diri bagi pemain semua peringkat.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="" id="faq">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 px-4">
-                            <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionFAQ">
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Adakah permainan slot di LPK777 adil?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya, semua permainan menggunakan RNG (Random Number Generator) yang telah disahkan untuk memastikan keputusan rawak dan adil. Ketelusan dijaga melalui <a href="https://lpk-777.comg/terma-syarat"><strong>dasar privasi dan audit platform</strong></a>.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                        Perlu muat turun untuk bermain?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Tak wajib. Korang boleh main terus dari pelayar atau muat turun <a href="https://lpk-777.com/muat-turun-apk"><strong>APK rasmi LPK777</strong></a> untuk pengalaman lebih pantas dan smooth.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                        Ada pilihan bermain percuma?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya. Hampir semua permainan menyokong mod demo, sesuai untuk pemain baru yang mahu mencuba tanpa risiko.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                        Bagaimana memilih permainan slot yang sesuai?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Gunakan penapis pintar untuk semak mengikut tema, jenis ciri atau RTP. Pilih ikut gaya anda – klasik, cinematic atau aksi Megaways.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                        Apa maksud RTP dan kenapa penting?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        RTP (Return to Player) adalah peratusan purata pulangan kepada pemain. Lagi tinggi RTP, lagi besar peluang korang dapat semula nilai pertaruhan dalam jangka masa panjang.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        Apa beza garis pembayaran dan cara menang (ways to win)?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Garis pembayaran ialah corak tetap untuk menang. Slot Megaways guna “ways to win” – tak perlu ikut garis, cukup simbol dari kiri ke kanan.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                        Kenapa sesetengah permainan lebih kerap bayar?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ia bergantung pada volatility. Volatility rendah beri kemenangan kecil tapi kerap. Yang tinggi pula bayar besar tapi jarang.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        Berapa pertaruhan minimum untuk main?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Serendah RM0.20 hingga RM100++. Bergantung pada tetapan setiap permainan. Boleh rujuk terus dalam <a href="https://lpk-777.com/slot"><strong>slot pilihan anda</strong></a>.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                        Adakah semua slot menyumbang kepada syarat bonus?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Kebanyakannya ya, tapi ada pengecualian. Sila semak <a href="https://lpk-777.comg/terma-syarat"><strong>terma & syarat promosi</strong></a> untuk kepastian.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                        Ada kejohanan slot atau pertandingan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya! LPK777 menganjurkan <a href="https://lpk-777.com/bonus-promosi"><strong>kejohanan slot berkala</strong></a> dengan hadiah wang tunai. Semak laman promosi untuk info terkini.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                        Di mana nak cari permainan baru atau trending?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Bahagian “Disyorkan” atau permainan yang ditandakan “Baru” di halaman slot utama.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                        Apa perlu dibuat jika permainan tersekat?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Cuba refresh laman atau buka semula aplikasi. Jika masih gagal, hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan 24/7</strong></a>.
-                                    </div>
-                                    </div>
-                                </div>
+                                <h3>Hadiah: Tunai, Putaran Percuma dan Barangan</h3>
+                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="https://winmyr.online/">WINMYR</a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
                             </div>
                         </div>
                     </div>

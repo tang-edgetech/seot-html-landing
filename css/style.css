@@ -264,7 +264,7 @@ p, ul, ol, .text-p {
 table thead tr th{
     background-color: #9db0c7!important;
 }
-table thead tr th, table thead tr td {
+table thead tr th, table thead tr td, table tbody tr th {
     font-weight: bold;
 }
 table .fa-check{

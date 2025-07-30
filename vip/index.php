@@ -9,7 +9,11 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="title" content="WINMYR VIP Slot - Cashback & Ganjaran Eksklusif">
+        <meta name="description" content="Sertai VIP Slot kami untuk cashback bulanan, bonus berganda dan keistimewaan eksklusif. Log masuk WINMYR, tingkatkan status anda kerana lebih banyak ganjaran menanti anda!">
+        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -283,184 +287,101 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1></h1>
-                                <p></p>
+                                <h1>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif </h1>
+                                <p><strong>Program <a href="https://winmyr.online/">Winmyr</a> VIP</strong> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
                                 <p>&nbsp;</p>
-                                <p></p>
+
+                                <h2>Mengapa Sertai Kelab VIP?</h2>
+                                <p>Menjadi ahli VIP membuka manfaat eksklusif yang tidak dapat diakses oleh pemain biasa. Dari peningkatan cashback hingga sokongan peribadi, anda akan merasai perkhidmatan yang menjadikan setiap pertaruhan lebih berbaloi semakin kerap anda bermain.</p>
                                 <p>&nbsp;</p>
-                                <p></p>
+                                
+                                <h2>Ganjaran dan Keistimewaan Eksklusif VIP</h2>
+                                <p>Sebagai ahli VIP, anda akan menerima diskaun bulanan dan hadiah hari jadi bagi meraikan hari istimewa anda, serta bonus cashback mengejut semasa musim perayaan. Ganjaran ini dikenakan secara automatik, jadi anda boleh terus berseronok tanpa risau terlepas nilai tambahan.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Kemajuan Tahap Lebih Pantas</h2>
+                                <p>Ahli VIP menikmati peningkatan mata istimewa dan promosi terarah yang mempercepat kenaikan tahap. Semasa kempen perayaan, setiap RM1 pertaruhan boleh mendapat 2× atau 3× mata, membolehkan anda capai status Silver, Gold, atau Platinum dengan lebih cepat.</p>
+                                <p>&nbsp;</p>
+                                <div class="table-wrapper">
+                                    <table class="table table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th>Promosi</th>
+                                                <th>Pengganda Mata</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Sambutan Tahun Baru Cina</td>
+                                                <td>2<sup>x</sup> mata</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Peningkatan Ganjaran Ramadan</td>
+                                                <td>1.5<sup>x</sup> mata</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Mega Pengganda Hari Merdeka</td>
+                                                <td>2.5<sup>x</sup> mata</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Ekstravaganza Akhir Tahun</td>
+                                                <td>3<sup>x</sup> mata</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Promosi Kilat Hujung Minggu</td>
+                                                <td>2<sup>x</sup> mata</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <p>&nbsp;</p>
+                                <p>Pantau promosi terhad ini untuk mempercepat kenaikan anda dan membuka manfaat VIP premium.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Mengekalkan Status VIP</h2>
+                                <p>Bagi kekal di tahap teratas, anda perlu terus bermain serta faham bila mata anda akan luput dan cara reaktif semula jika berehat.</p>
+                                <p>&nbsp;</p>
+                                <h3>Peraturan Luput dan Pulangan Mata</h3>
+                                <p>Mata kesetiaan akan luput selepas 12 bulan tidak aktif. Untuk mengekalkan status, buat sekurang-kurangnya satu pertaruhan setiap suku tahun atau gunakan mata untuk menebus ganjaran bagi menetapkan semula tarikh luput anda.</p>
+                                <p>&nbsp;</p>
+                                <h3>Cara Kembali Selepas Berhenti Bermain</h3>
+                                <p>Jika status VIP hilang kerana tidak aktif, teruskan bermain untuk mula kumpul mata semula. Anda mungkin layak mendapat bonus kecil sebagai sambutan kembali, bergantung pada tahap yang anda capai sebelum ini.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Ciri Eksklusif Hanya untuk VIP</h2>
+                                <p>Kelab VIP <a href="https://winmyr.online/">WINMYR</a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
+                                <p>&nbsp;</p>
+                                <h3>Cashback Ulang Tahun</h3>
+                                <p>Raikan ulang tahun keahlian anda dengan bonus cashback khas yang dikira berdasarkan kerugian bersih tahunan. Ini adalah tanda penghargaan kami kerana terus bersama.</p>
+                                <p>&nbsp;</p>
+                                <h3>Pelepasan Barangan Eksklusif VIP</h3>
+                                <p>Terima barangan winmyr edisi terhad: kad TNG, T-shirt, dan barangan koleksi lain, hanya untuk ahli VIP. Pelepasan ini menandakan acara dan pencapaian istimewa dengan bergaya.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Keselamatan & Keadilan untuk VIP</h2>
+                                <p>Status tinggi anda disertai jaminan tambahan dari segi keselamatan dan pemprosesan lebih pantas. Kami utamakan VIP dengan protokol premium dan transaksi yang dipermudah.</p>
+                                <p>&nbsp;</p>
+                                <h3>KYC Keutamaan dan Pengeluaran Lebih Pantas</h3>
+                                <p>Selesaikan pengesahan akaun dengan cepat melalui proses KYC dipercepat. Setelah disahkan, anda menikmati masa pengeluaran terpantas, sering kali dalam beberapa jam sahaja.</p>
+                                <p>&nbsp;</p>
+                                <h3>Penyulitan Tambahan untuk Akaun VIP</h3>
+                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="https://winmyr.org/privacy-policy">Privacy Policy</a> untuk maklumat penuh.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Permainan Bertanggungjawab untuk Ahli VIP</h2>
+                                <p>Biarpun di tahap tertinggi, <a href="https://winmyr.online/perjudian-bertanggungjawab">perjudian bertanggungjawab</a> tetap penting. Ahli VIP mempunyai akses kepada had boleh laras dan sokongan khusus untuk mengekalkan tabiat permainan sihat.</p>
+                                <p>&nbsp;</p>
+                                <h3>Had Boleh Laras dan Pengecualian Kendiri</h3>
+                                <p>Tetapkan had deposit, kerugian, dan sesi terus dalam tetapan akaun anda. Jika perlu berehat, anda boleh melakukan pengecualian kendiri untuk tempoh yang sesuai.</p>
+                                <p>&nbsp;</p>
+                                <h3>Sokongan VIP untuk Permainan Lebih Selamat</h3>
+                                <p>Pengurus akaun peribadi anda boleh membantu dengan alat perjudian bertanggungjawab dan memberi panduan amalan permainan selamat. Kami komited untuk keseronokan dan kesejahteraan jangka panjang anda.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="" id="faq">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 px-4">
-                            <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionFAQ">
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Bagaimana nak jadi ahli VIP di LPK777?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Anda akan disenaraikan secara automatik bila aktif bermain dan membuat deposit.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            Adakah terdapat bayaran untuk sertai program VIP?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Tiada. Ia percuma dan berdasarkan aktiviti permainan anda.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Apa faedah jadi ahli VIP?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Pengeluaran cepat, cashback, bonus eksklusif, sokongan khas & hadiah harijadi – semuanya meningkat ikut tahap anda.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            Berapa tahap VIP yang ada?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Empat tahap utama: Bronze, Silver, Gold, dan Platinum. Ada juga tahap sementara ikut musim.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Boleh ke hilang status VIP?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Boleh jika akaun tidak aktif untuk tempoh panjang (30-60 hari).
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            Seberapa kerap status VIP dikemas kini?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Setiap hari atau minggu berdasarkan aktiviti terkini.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            Apa yang dikira untuk naik VIP?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Permainan slot dan jumlah deposit. Kadang-kadang promosi khas boleh percepatkan kemajuan.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Cashback dapat dalam bentuk apa?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Biasanya sebagai bonus kredit atau <a href="https://lpk-777.com/slot"><strong>putaran percuma slot</strong></a>, bergantung kepada tawaran.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Bagaimana nak tahu saya naik tahap?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Anda akan terima notifikasi melalui emel atau papan pemuka.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            Adakah promosi VIP berbeza dari biasa?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Ya! <a href="https://lpk-777.com/bonus-promosi"><strong>Promosi VIP</strong></a> lebih tinggi nilainya dan lebih eksklusif.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            VIP dapat had pengeluaran lebih baik?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Betul. Pengeluaran lebih besar & pantas dengan sedikit sekatan.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Sokongan untuk VIP lain dari biasa?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Ya. Anda akan dapat keutamaan atau pengurus khas jika tahap Gold/Platinum.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
         </main>
         <?php include '../inc/footer.php';?>
     </body>
