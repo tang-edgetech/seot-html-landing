@@ -12,3 +12,12 @@
 
 <link rel="stylesheet" type="text/css" href="<?php echo $site_base_url;?>/css/style.css?v=<?php echo $version;?>"/>
 <link rel="stylesheet" type="text/css" href="<?php echo $site_base_url;?>/css/media.css?v=<?php echo $version;?>"/>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8HDWHX6R9P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8HDWHX6R9P');
+</script>
