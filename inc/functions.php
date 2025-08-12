@@ -398,10 +398,10 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
-    "clubmy" => [
-        "title" => "CLUBMY",
-        "description" => "120% First Deposit Bonus",
-        "url" => "https://www.31clubmy.com/index",
+    "winbebas" => [
+        "title" => "WINBEBAS",
+        "description" => "First Deposit Bonus Up to 120%",
+        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
     ],
     "winboleh" => [
         "title" => "Winboleh",
