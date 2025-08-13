@@ -57,18 +57,16 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Hubungi Kami di WINMYR</h1>
-                                <p class="mb-3">Kami di winmyr sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, pembayaran, atau promosi, sila hubungi kami melalui kaedah berikut:</p>
+                                <h1>Hubungi Kami</h1>
+                                <p class="mb-3">Sertai pasukan sokongan <strong><a href="<?php echo $site_base_url;?>/">JOM99</a></strong> untuk mendapatkan bantuan cepat dan menyelesaikan sebarang isu atau pertanyaan yang anda hadapi di platform kasino dalam talian terkemuka di Malaysia. Jangan ragu untuk menghubungi kami - kami sentiasa sedia membantu!</p>
                                 <ol>
                                     <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
-                                    <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:win4u66@gmail.com"><strong>win4u66@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
-                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6014-3507586"><strong>+6014-3507586</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
+                                    <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:jom99@gmail.com"><strong>jom99@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
+                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6012-8541234"><strong>+6012-8541234</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
                                 </ol>
                                 <p>&nbsp;</p>
-                                <h4>Alamat Pejabat</h4>
-                                <p>No. 45, Jalan Merpati 3, Taman Melati, 53100 Kuala Lumpur, Malaysia</p>
-                                <p>&nbsp;</p>
-                                <p>Kami komited memberikan perkhidmatan pelanggan yang profesional dan mesra. Jangan ragu untuk menghubungi kami bila-bila masa anda perlukan bantuan.</p>
+                                <h4>JOM99 Headquarter</h4>
+                                <p>Tingkat 10, Menara A, No. 23 Jalan Bukit Bintang, 55100, Wilayah Persekutuan, Kuala Lumpur, Malaysia</p>
                             </div>
                         </div>
                     </div>

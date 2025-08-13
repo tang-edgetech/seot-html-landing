@@ -69,93 +69,48 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik</h1>
-                                <p>Bermain di WINMYR bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>bonus dan promosi</strong></a> yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Bonus Selamat Datang yang Menggoda</h2>
-                                <p class="mb-2">Bila anda mula daftar kat WINMYR, kami pastikan korang sambut dengan ganjaran yang power untuk bagi semangat main. Bonus selamat datang ni memang ngam sangat untuk bagi korang mula dengan yakin dan dapat extra modal main. Jom tengok apa yang korang boleh dapat:</p>
+                                <h1>Bonus & Promosi Jom99 - Ganjaran Menanti Anda</h1>
+                                <p> Di Jom99, kami percaya bahawa setiap pemain layak mendapatkan ganjaran yang menarik. Kami menawarkan pelbagai bonus dan promosi yang memberi peluang kepada anda untuk memaksimumkan pengalaman permainan dan meningkatkan peluang kemenangan anda. Dari bonus alu-aluan hingga promosi harian, ada banyak cara untuk anda mendapat lebih daripada sekadar hiburan! </p>
+                                <h2>Mengapa Memilih Bonus & Promosi Jom99?</h2>
+                                <p> Jom99 memberi ganjaran kepada pemain dengan bonus dan promosi menarik untuk memastikan pengalaman bermain anda lebih menguntungkan. Berikut adalah beberapa sebab mengapa anda patut memilih Jom99: </p>
+                                <h3>Pelbagai Pilihan Bonus Menanti Anda</h3>
+                                <p> Kami menawarkan pelbagai bonus untuk pemain baru dan lama. Anda boleh menikmati bonus alu-aluan, putaran percuma, bonus deposit, dan banyak lagi. Setiap promosi kami direka untuk memberikan lebih banyak peluang kepada anda untuk menang. </p>
+                                <h3>Promosi Berkala dan Eksklusif</h3>
+                                <p> Kami sentiasa memperkenalkan promosi baru yang memberi anda peluang untuk memenangi hadiah menarik. Dapatkan akses ke promosi eksklusif yang hanya tersedia untuk pemain VIP atau pemain setia kami. </p>
+                                <h3>Tiada Yuran Tersembunyi</h3>
+                                <p> Semua bonus dan promosi yang ditawarkan adalah jelas dan telus. Kami tidak mengenakan yuran tersembunyi untuk promosi yang anda terima, jadi anda boleh menikmati hadiah anda tanpa risau. </p>
+                                <h2>Jenis Bonus yang Tersedia di Jom99</h2>
+                                <p> Kami menyediakan pelbagai jenis bonus untuk memastikan setiap pemain mendapat ganjaran yang berbeza-beza mengikut keperluan mereka. </p>
+                                <h3>Bonus Alu-Aluan</h3>
+                                <p> Bagi pemain baru, kami menawarkan bonus alu-aluan yang memberi anda lebih banyak <strong><a href="<?php echo $site_base_url;?>/">jom99 kredit</a></strong> untuk memulakan permainan anda. Bonus ini diberikan apabila anda melakukan deposit pertama anda, memberikan anda peluang tambahan untuk menang. </p>
+                                <h3>Bonus Deposit</h3>
+                                <p> Kami juga menyediakan bonus deposit yang memberi anda lebih banyak wang setiap kali anda membuat deposit. Semakin banyak anda depositkan, semakin banyak bonus yang akan anda terima. Manfaatkan bonus ini untuk meningkatkan jumlah taruhan anda dan memperluas peluang kemenangan. </p>
+                                <h3>Putaran Percuma</h3>
+                                <p> Nikmati putaran percuma pada mesin slot pilihan anda. Kami menawarkan putaran percuma sebagai sebahagian daripada promosi dan untuk membantu anda meningkatkan peluang menang tanpa sebarang kos tambahan. </p>
+                                <h3>Bonus Tanpa Deposit</h3>
+                                <p> Di Jom99, anda juga berpeluang menerima bonus tanpa deposit. Dengan bonus ini, anda boleh mencuba permainan kami tanpa perlu mengeluarkan wang anda sendiri. Ini memberi peluang untuk memenangi wang sebenar tanpa risiko. </p>
+                                <h2>Promosi Eksklusif untuk Pemain VIP</h2>
+                                <p> Ahli VIP di Jom99 akan menikmati promosi eksklusif yang memberi lebih banyak nilai. Sebagai ahli VIP, anda akan mendapat peluang untuk menikmati bonus lebih besar, putaran percuma eksklusif, dan ganjaran istimewa. Anda juga boleh mendapatkan akses ke <strong><a href="<?php echo $site_base_url;?>/vip/">acara VIP</a></strong> yang menawarkan hadiah mewah dan peluang tambahan untuk menang. </p>
+                                <h3>Promosi Harian</h3>
+                                <p> Setiap hari, kami menawarkan promosi harian untuk memastikan anda sentiasa mendapat lebih banyak peluang. Dari bonus deposit harian hingga putaran percuma pada mesin slot tertentu, promosi ini memberikan pengalaman permainan yang lebih bermanfaat dan menguntungkan. </p>
+                                <h3>Tawaran Mingguan dan Bulanan</h3>
+                                <p> Selain <strong><a href="<?php echo $site_base_url;?>/">promosi harian</a></strong>, kami juga memperkenalkan tawaran mingguan dan bulanan yang memberikan peluang untuk memenangi ganjaran besar. Pastikan anda sentiasa mengikuti promosi kami untuk memastikan anda tidak terlepas tawaran menarik. </p>
+                                <h2>Cara Menuntut Bonus di Jom99</h2>
+                                <p> Mendapatkan bonus adalah mudah dan cepat. Ikuti langkah-langkah mudah berikut untuk menuntut bonus yang anda layak terima: </p>
                                 <ol>
-                                    <li>Bonus padanan 100% untuk deposit pertama sampai RM500</li>
-                                    <li>50 putaran percuma kat slot pilihan kami</li>
-                                    <li>Terma dan syarat yang clear supaya korang faham betul apa yang korang dapat</li>
+                                    <li><strong>Daftar Akaun</strong>: Jika anda belum mendaftar, buat akaun terlebih dahulu di Jom99.</li>
+                                    <li><strong>Buat Deposit</strong>: Untuk menuntut bonus alu-aluan atau bonus deposit, buat deposit pertama anda melalui salah satu kaedah pembayaran yang kami sediakan.</li>
+                                    <li><strong>Pilih Promosi</strong>: Pilih promosi yang sesuai untuk anda dan ikuti langkah-langkah untuk menuntutnya.</li>
+                                    <li><strong>Nikmati Ganjaran</strong>: Setelah menuntut bonus, anda boleh terus bermain dan meningkatkan peluang kemenangan anda.</li>
                                 </ol>
-                                <p>&nbsp;</p>
-                                <p>Bonus ni memang senang faham dan sesuai sangat untuk korang yang baru nak try main tanpa pening kepala.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Promosi Mingguan dan Bulanan</h2>
-                                <p>Setiap minggu dan bulan, WINMYR sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni dan jangan lupa tengok halaman <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>Bonus & Promotions</strong></a> untuk update terkini.</p>
-                                <p>&nbsp;</p>
-                                <div class="table-wrapper">
-                                    <table class="table table-striped">
-                                        <thead>
-                                            <tr>
-                                                <th>Jenis Promosi</th>
-                                                <th>Kekerapan</th>
-                                                <th>Tarikh Mula</th>
-                                                <th>Keterangan</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Cashback Reload</td>
-                                                <td>Mingguan</td>
-                                                <td>Setiap Isnin</td>
-                                                <td>Cashback untuk deposit kedua dan seterusnya</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Putaran Percuma Slot Baru</td>
-                                                <td>Mingguan</td>
-                                                <td>Setiap Rabu</td>
-                                                <td>Putaran percuma pada slot terbaru</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Promosi Bulanan Spesial</td>
-                                                <td>Bulanan</td>
-                                                <td>Hari Pertama Setiap Bulan</td>
-                                                <td>Bonus eksklusif & hadiah tambahan</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Cashback Festival</td>
-                                                <td>Bulanan (Musiman)</td>
-                                                <td>Semasa musim perayaan utama</td>
-                                                <td>Cashback tambahan sempena perayaan</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <p>&nbsp;</p>
-                                <p>Dengan jadual ni, korang boleh plan lebih awal dan manfaatkan semua promosi yang WINMYR tawarkan.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Turnamen dan Cabaran Papan Pendahulu</h2>
-                                <p>Nak tambah seronok? Sertai turnamen mingguan dan cabaran slot kami. Pusingan anda kira sebagai mata, dan siapa yang naik ke puncak papan pendahulu berpeluang menang hadiah tunai, putaran percuma dan swag eksklusif WINMYR. Sesuai sangat untuk yang suka bersaing dan menang besar!</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Bonus Eksklusif Mudah Alih</h2>
-                                <p>Main guna <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>aplikasi WINMYR</strong></a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Cara Nak Klaim Bonus</h2>
-                                <p class="mb-2">Claim bonus kat WINMYR mudah je. Ikut langkah-langkah berikut:</p>
-                                <ol>
-                                    <li>Daftar akaun baru di WINMYR.</li>
-                                    <li>Buat deposit pertama mengikut syarat bonus yang ditawarkan.</li>
-                                    <li>Ikut arahan khas untuk setiap bonus yang anda nak claim.</li>
-                                    <li>Bonus akan dikreditkan terus ke akaun anda secara automatik.</li>
-                                    <li>Semak terma dan syarat pertaruhan dengan teliti supaya tak tersilap langkah sebelum mula main.</li>
-                                </ol>
-                                <p>&nbsp;</p>
-                                <p>Senang, cepat dan terus bagi anda peluang maksimum untuk menang!</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Peraturan Bonus dan Kejelasan Terma</h2>
-                                <p>Kami komited untuk pastikan semua bonus dan promosi adil dan telus. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="<?php echo $site_base_url;?>/terma-syarat"><strong>Terms & Conditions</strong></a> supaya tiada kekeliruan.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Sokongan Untuk Bantuan Bonus</h2>
-                                <p>Kalau ada apa-apa soalan tentang bonus dan promosi, customer support kami sentiasa ready nak tolong. Hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> bila-bila masa, kami akan bantu anda settlekan isu dengan cepat dan mesra.</p>
+                                <h2>Terma dan Syarat Bonus</h2>
+                                <p> Setiap bonus dan promosi datang dengan <strong><a href="<?php echo $site_base_url;?>/terma-syarat/">terma dan syarat</a></strong> tertentu yang perlu dipatuhi oleh pemain. Pastikan anda membaca syarat-syarat dengan teliti sebelum menerima bonus. </p>
+                                <h3>Syarat Pertaruhan</h3>
+                                <p> Syarat pertaruhan adalah syarat yang perlu dipenuhi sebelum anda boleh mengeluarkan wang yang dimenangi daripada bonus. Setiap bonus akan mempunyai keperluan pertaruhan yang berbeza, jadi pastikan anda memahami syarat ini untuk mengelakkan sebarang masalah di kemudian hari. </p>
+                                <h3>Tempoh Sah Bonus</h3>
+                                <p> Sesetengah bonus mungkin hanya sah untuk tempoh masa yang terhad. Pastikan anda menuntut bonus anda sebelum tarikh tamat untuk mengelakkan kehilangan ganjaran tersebut. </p>
+                                <h2>Kesimpulan</h2>
+                                <p> Jom99 menawarkan pelbagai bonus dan promosi yang memberi peluang kepada anda untuk meningkatkan peluang kemenangan dan memaksimumkan pengalaman permainan anda. Dengan bonus alu-aluan, bonus deposit, putaran percuma, dan promosi eksklusif untuk pemain VIP, terdapat banyak cara untuk mendapat lebih banyak daripada setiap permainan. </p>
                             </div>
                         </div>
                     </div>

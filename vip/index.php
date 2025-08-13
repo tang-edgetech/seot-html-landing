@@ -319,95 +319,39 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif </h1>
-                                <p><strong>Program <a href="<?php echo $site_base_url;?>"><strong>Winmyr</strong></a> VIP</strong> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Mengapa Sertai Kelab VIP?</h2>
-                                <p>Menjadi ahli VIP membuka manfaat eksklusif yang tidak dapat diakses oleh pemain biasa. Dari peningkatan cashback hingga sokongan peribadi, anda akan merasai perkhidmatan yang menjadikan setiap pertaruhan lebih berbaloi semakin kerap anda bermain.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Ganjaran dan Keistimewaan Eksklusif VIP</h2>
-                                <p>Sebagai ahli VIP, anda akan menerima diskaun bulanan dan hadiah hari jadi bagi meraikan hari istimewa anda, serta bonus cashback mengejut semasa musim perayaan. Ganjaran ini dikenakan secara automatik, jadi anda boleh terus berseronok tanpa risau terlepas nilai tambahan.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Kemajuan Tahap Lebih Pantas</h2>
-                                <p>Ahli VIP menikmati peningkatan mata istimewa dan promosi terarah yang mempercepat kenaikan tahap. Semasa kempen perayaan, setiap RM1 pertaruhan boleh mendapat 2× atau 3× mata, membolehkan anda capai status Silver, Gold, atau Platinum dengan lebih cepat.</p>
-                                <p>&nbsp;</p>
-                                <div class="table-wrapper">
-                                    <table class="table table-striped">
-                                        <thead>
-                                            <tr>
-                                                <th>Promosi</th>
-                                                <th>Pengganda Mata</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Sambutan Tahun Baru Cina</td>
-                                                <td>2<sup>x</sup> mata</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Peningkatan Ganjaran Ramadan</td>
-                                                <td>1.5<sup>x</sup> mata</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Mega Pengganda Hari Merdeka</td>
-                                                <td>2.5<sup>x</sup> mata</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Ekstravaganza Akhir Tahun</td>
-                                                <td>3<sup>x</sup> mata</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Promosi Kilat Hujung Minggu</td>
-                                                <td>2<sup>x</sup> mata</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <p>&nbsp;</p>
-                                <p>Pantau promosi terhad ini untuk mempercepat kenaikan anda dan membuka manfaat VIP premium.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Mengekalkan Status VIP</h2>
-                                <p>Bagi kekal di tahap teratas, anda perlu terus bermain serta faham bila mata anda akan luput dan cara reaktif semula jika berehat.</p>
-                                <p>&nbsp;</p>
-                                <h3>Peraturan Luput dan Pulangan Mata</h3>
-                                <p>Mata kesetiaan akan luput selepas 12 bulan tidak aktif. Untuk mengekalkan status, buat sekurang-kurangnya satu pertaruhan setiap suku tahun atau gunakan mata untuk menebus ganjaran bagi menetapkan semula tarikh luput anda.</p>
-                                <p>&nbsp;</p>
-                                <h3>Cara Kembali Selepas Berhenti Bermain</h3>
-                                <p>Jika status VIP hilang kerana tidak aktif, teruskan bermain untuk mula kumpul mata semula. Anda mungkin layak mendapat bonus kecil sebagai sambutan kembali, bergantung pada tahap yang anda capai sebelum ini.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Ciri Eksklusif Hanya untuk VIP</h2>
-                                <p>Kelab VIP <a href="<?php echo $site_base_url;?>"><strong>WINMYR</strong></a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
-                                <p>&nbsp;</p>
-                                <h3>Cashback Ulang Tahun</h3>
-                                <p>Raikan ulang tahun keahlian anda dengan bonus cashback khas yang dikira berdasarkan kerugian bersih tahunan. Ini adalah tanda penghargaan kami kerana terus bersama.</p>
-                                <p>&nbsp;</p>
-                                <h3>Pelepasan Barangan Eksklusif VIP</h3>
-                                <p>Terima barangan winmyr edisi terhad: kad TNG, T-shirt, dan barangan koleksi lain, hanya untuk ahli VIP. Pelepasan ini menandakan acara dan pencapaian istimewa dengan bergaya.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Keselamatan & Keadilan untuk VIP</h2>
-                                <p>Status tinggi anda disertai jaminan tambahan dari segi keselamatan dan pemprosesan lebih pantas. Kami utamakan VIP dengan protokol premium dan transaksi yang dipermudah.</p>
-                                <p>&nbsp;</p>
-                                <h3>KYC Keutamaan dan Pengeluaran Lebih Pantas</h3>
-                                <p>Selesaikan pengesahan akaun dengan cepat melalui proses KYC dipercepat. Setelah disahkan, anda menikmati masa pengeluaran terpantas, sering kali dalam beberapa jam sahaja.</p>
-                                <p>&nbsp;</p>
-                                <h3>Penyulitan Tambahan untuk Akaun VIP</h3>
-                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="https://winmyr.org/privacy-policy"><strong>Privacy Policy</strong></a> untuk maklumat penuh.</p>
-                                <p>&nbsp;</p>
-                                
-                                <h2>Permainan Bertanggungjawab untuk Ahli VIP</h2>
-                                <p>Biarpun di tahap tertinggi, <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> tetap penting. Ahli VIP mempunyai akses kepada had boleh laras dan sokongan khusus untuk mengekalkan tabiat permainan sihat.</p>
-                                <p>&nbsp;</p>
-                                <h3>Had Boleh Laras dan Pengecualian Kendiri</h3>
-                                <p>Tetapkan had deposit, kerugian, dan sesi terus dalam tetapan akaun anda. Jika perlu berehat, anda boleh melakukan pengecualian kendiri untuk tempoh yang sesuai.</p>
-                                <p>&nbsp;</p>
-                                <h3>Sokongan VIP untuk Permainan Lebih Selamat</h3>
-                                <p>Pengurus akaun peribadi anda boleh membantu dengan alat perjudian bertanggungjawab dan memberi panduan amalan permainan selamat. Kami komited untuk keseronokan dan kesejahteraan jangka panjang anda.</p>
+                                <h1>Jom99 VIP - Nikmati Keistimewaan Sebagai Pemain VIP</h1>
+                                <p>Di <strong><a href="<?php echo $site_base_url;?>/">Jom99</a></strong>, kami menghargai pemain yang setia dan memberi ganjaran kepada mereka dengan program VIP eksklusif yang penuh dengan manfaat. Sebagai ahli VIP, anda akan menikmati pelbagai keistimewaan yang tidak tersedia untuk pemain biasa. Sertai program VIP kami dan rasai pengalaman bermain yang lebih istimewa.</p>
+                                <h2>Mengapa Menjadi VIP di Jom99?</h2>
+                                <p>Sebagai ahli VIP, anda akan mendapat pelbagai manfaat eksklusif yang menjadikan pengalaman permainan anda lebih menarik. Kami komited untuk memberikan anda lebih daripada sekadar permainan, tetapi juga layanan peribadi yang memenuhi keperluan anda.</p>
+                                <h3>Hadiah dan Ganjaran Eksklusif</h3>
+                                <p>Sebagai ahli VIP, anda akan menerima hadiah dan ganjaran eksklusif yang tidak ditawarkan kepada pemain biasa. Ganjaran ini termasuk bonus yang lebih besar, putaran percuma, dan lebih banyak peluang untuk menang.</p>
+                                <h3>Pengeluaran Lebih Cepat</h3>
+                                <p>Kami faham bahawa pemain VIP memerlukan pengeluaran yang cepat. Sebagai ahli VIP, anda akan menikmati pengeluaran lebih pantas tanpa sebarang halangan atau kelewatan, memberikan anda akses yang lebih cepat kepada kemenangan anda.</p>
+                                <h2>Manfaat Menjadi Ahli VIP di Jom99</h2>
+                                <p>Di Jom99, kami memastikan bahawa setiap ahli VIP menikmati pengalaman yang luar biasa. Berikut adalah beberapa manfaat yang anda dapat sebagai ahli VIP:</p>
+                                <h3>Perkhidmatan Pelanggan Utama</h3>
+                                <p>Sebagai ahli VIP, anda akan menerima sokongan pelanggan peribadi yang memberi perhatian lebih kepada keperluan anda. Pasukan sokongan kami sentiasa bersedia untuk membantu anda dengan lebih cepat dan efisien.</p>
+                                <h3>Tawaran Eksklusif untuk VIP</h3>
+                                <p>Nikmati <strong><a href="<?php echo $site_base_url;?>/bonus-promosi/">promosi dan tawaran eksklusif</a></strong> yang hanya tersedia untuk ahli VIP. Ini termasuk bonus peribadi yang lebih tinggi, peluang untuk menghadiri acara VIP, dan peluang untuk mendapatkan hadiah istimewa yang hanya diperuntukkan kepada pemain VIP.</p>
+                                <h3>Had Hadiah yang Lebih Tinggi</h3>
+                                <p>Sebagai pemain VIP, anda akan menikmati had hadiah yang lebih tinggi, yang bermaksud peluang untuk meraih ganjaran yang lebih besar daripada pemain biasa.</p>
+                                <h2>Cara Menjadi Ahli VIP di Jom99</h2>
+                                <p>Menjadi ahli VIP di Jom99 sangat mudah. Berikut adalah cara untuk menyertai program VIP kami:</p>
+                                <ol>
+                                    <li>Main secara berkala: Main dengan kerap dan tingkatkan mata kesetiaan anda untuk membuka akses ke program VIP.</li>
+                                    <li>Kumpulkan mata kesetiaan: Setiap taruhan yang anda buat akan mengumpulkan mata kesetiaan, yang akan membantu anda naik ke peringkat VIP yang lebih tinggi.</li>
+                                    <li>Nikmati manfaat VIP: Setelah mencapai tahap VIP, anda akan mula menikmati semua manfaat eksklusif yang disediakan untuk ahli VIP.</li>
+                                </ol>
+                                <h2>Peringkat VIP di Jom99</h2>
+                                <p>Program VIP kami mempunyai beberapa peringkat yang memberi lebih banyak manfaat apabila anda maju. Berikut adalah beberapa peringkat dalam program VIP kami:</p>
+                                <h3>Peringkat Bronze</h3>
+                                <p>Peringkat permulaan untuk pemain yang baru menyertai program VIP. Sebagai ahli Bronze, anda akan menikmati akses kepada bonus biasa dan beberapa ganjaran khas.</p>
+                                <h3>Peringkat Silver</h3>
+                                <p>Pemain yang lebih aktif akan maju ke peringkat Silver, yang memberi akses kepada putaran percuma dan bonus yang lebih besar.</p>
+                                <h3>Peringkat Gold dan Platinum</h3>
+                                <p>Ahli Gold dan Platinum adalah yang paling setia dan aktif dalam program VIP. Peringkat ini memberikan ganjaran eksklusif, hadiah mewah, dan perkhidmatan pelanggan khas untuk memastikan pengalaman permainan anda luar biasa.</p>
+                                <h2>Kesimpulan</h2>
+                                <p>Menjadi ahli VIP di Jom99 memberikan anda peluang untuk menikmati lebih banyak keistimewaan, termasuk bonus lebih tinggi, pengeluaran lebih pantas, dan sokongan pelanggan peribadi. Jadi, tunggu apa lagi? Sertai kami dan mulakan perjalanan VIP anda hari ini untuk pengalaman perjudian yang lebih mewah dan menguntungkan. Untuk kembali ke halaman utama, <strong><a href="<?php echo $site_base_url;?>/">klik di sini.</a></strong></p>
                             </div>
                         </div>
                     </div>

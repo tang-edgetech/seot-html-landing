@@ -58,22 +58,16 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Perjudian Bertanggungjawab di WINMYR</h1>
-                                <p class="mb-4">Kami di WINMYR komited untuk memastikan pengalaman permainan anda selamat dan terkawal. Berikut adalah langkah dan bantuan yang kami sediakan untuk menggalakkan perjudian yang bertanggungjawab:</p>
-                                <ol>
-                                    <li class="mb-3"><strong>Had Deposit, Kerugian dan Masa Bermain</strong><br/>Anda boleh tetapkan had harian, mingguan atau bulanan untuk deposit, kerugian dan tempoh sesi permainan melalui tetapan akaun anda. Ini membantu anda mengawal perbelanjaan dan masa bermain dengan lebih efektif.</li>
-                                    <li class="mb-3"><strong>Pengecualian Kendiri (Self-Exclusion)</strong><br/>Sekiranya anda rasa perlu berehat, anda boleh memilih untuk mengecualikan diri daripada <a href="<?php echo $site_base_url;?>"><strong>akaun WINMYR</strong></a> untuk tempoh tertentu. Ini memberi ruang untuk anda pulih dan mengelakkan permainan berlebihan.</li>
-                                    <li class="mb-3"><strong>Alat Pengurusan Diri</strong><br/>Kami menyediakan kuiz interaktif dan panduan untuk membantu anda kenal pasti tabiat perjudian anda. Gunakan sumber ini untuk memahami risiko dan membuat keputusan bijak.</li>
-                                    <li class="mb-3"><strong>Sokongan Profesional</strong><br/>Sekiranya anda memerlukan bantuan lanjut, kami boleh menghubungkan anda dengan pusat sokongan profesional dan badan kaunseling perjudian bertanggungjawab di Malaysia.</li>
-                                    <li class="mb-3"><strong>Pendidikan dan Kesedaran</strong><br/>WINMYR sentiasa menggalakkan amalan permainan yang sihat melalui kempen kesedaran dan maklumat tentang risiko perjudian berlebihan.</li>
-                                    <li class="mb-3"><strong>Pengawasan Akaun</strong><br/>Kami memantau aktiviti akaun secara berterusan untuk mengesan tanda-tanda perjudian bermasalah dan mengambil tindakan sewajarnya untuk melindungi pemain kami.</li>
-                                    <li class="mb-3"><strong>Kebijakan Privasi dan Keselamatan</strong><br/>Semua maklumat peribadi dan kewangan anda dilindungi dengan ketat supaya anda boleh bermain dengan tenang tanpa risau kebocoran data.</li>
-                                    <li class="mb-3"><strong>Pengesanan Aktiviti Tidak Normal</strong><br/>Sistem kami secara automatik mengesan corak pertaruhan yang luar biasa untuk mencegah risiko ketagihan dan memastikan permainan yang adil.</li>
-                                    <li class="mb-3"><strong>Pilihan Sokongan Masa Nyata</strong><br/>Pasukan sokongan kami sedia membantu anda secara langsung melalui live chat untuk sebarang isu perjudian bertanggungjawab yang anda hadapi.</li>
-                                    <li><strong>Sumber Bantuan Lanjutan</strong><br/>Kami menyediakan pautan kepada organisasi tempatan dan antarabangsa yang khusus dalam membantu mereka yang menghadapi masalah perjudian.</li>
-                                </ol>
-                                <p>&nbsp;</p>
-                                <p>Dengan mengikuti garis panduan ini, kami berharap anda dapat menikmati pengalaman permainan yang menyeronokkan dan selamat di <a href="<?php echo $site_base_url;?>/lot"><strong>winmyr slot</strong></a>. Jangan segan untuk hubungi pasukan sokongan kami jika anda perlukan bantuan berkaitan Perjudian Bertanggungjawab.</p>
+                                <h1>Perjudian Bertanggungjawab</h1>
+                                <p> Di Jom99, kami komited untuk mempromosikan perjudian bertanggungjawab dan memastikan pemain kami menikmati pengalaman permainan yang selamat dan menyeronokkan. Kami percaya bahawa perjudian haruslah satu aktiviti yang menghiburkan dan tidak mengganggu kehidupan harian anda. Matlamat kami adalah untuk menyediakan persekitaran yang selamat di mana anda boleh bermain sambil mengekalkan kawalan ke atas tabiat permainan anda. </p>
+                                <p> Kami menggalakkan pemain untuk menetapkan batasan peribadi semasa terlibat dalam aktiviti perjudian. Kami menyediakan pelbagai alat dan sumber untuk membantu anda menguruskan aktiviti perjudian anda, termasuk: </p>
+                                <ul>
+                                    <li><strong>Pengecualian Diri</strong>: Pemain boleh memilih untuk mengecualikan diri daripada platform kami untuk tempoh tertentu bagi membantu mereka mengawal tabiat perjudian.</li>
+                                    <li><strong>Had Deposit</strong>: Menetapkan had pada jumlah deposit yang boleh anda buat dalam tempoh masa tertentu.</li>
+                                    <li><strong>Pengesahan Realiti</strong>: Pemain boleh menetapkan peringatan untuk memantau masa yang dibelanjakan di platform kami, mengelakkan permainan berlebihan.</li>
+                                    <li><strong>Akses Kepada Sokongan</strong>: Kami menyediakan akses kepada talian bantuan dan sumber luar untuk pemain yang memerlukan bantuan profesional berhubung masalah perjudian.</li>
+                                </ul>
+                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di Jom99, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
                             </div>
                         </div>
                     </div>

@@ -57,22 +57,32 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Terma dan Syarat Penggunaan di WINMYR</h1>
-                                <p class="mb-3">Sila baca dengan teliti Terma dan Syarat berikut sebelum menggunakan laman web dan perkhidmatan WINMYR. Dengan mengakses dan menggunakan <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>winmyr apk</strong></a>, anda bersetuju untuk mematuhi semua peraturan dan syarat yang dinyatakan.</p>
-                                <ol>
-                                    <li class="mb-3"><strong>Pendaftaran Akaun</strong><br/>Anda mesti berumur sekurang-kurangnya 21 tahun dan mempunyai dokumen pengenalan sah untuk mendaftar akaun winmyr. Semua maklumat yang diberikan mestilah tepat dan terkini.</li>
-                                    <li class="mb-3"><strong>Kebenaran dan Kelulusan</strong><br/>WINMYR berhak menolak atau menggantung akaun tanpa memberi notis jika terdapat pelanggaran terma atau aktiviti mencurigakan.</li>
-                                    <li class="mb-3"><strong>Perlindungan Akaun</strong><br/>Anda bertanggungjawab menjaga keselamatan maklumat log masuk dan tidak mendedahkan kata laluan kepada pihak ketiga. Sebarang aktiviti yang berlaku melalui akaun anda dianggap tanggungjawab anda.</li>
-                                    <li class="mb-3"><strong>Pertaruhan dan Kemenangan</strong><br/>Semua pertaruhan mesti mematuhi peraturan permainan yang ditetapkan. Keputusan permainan adalah muktamad dan WINMYR tidak bertanggungjawab terhadap sebarang pertikaian mengenai hasil permainan.</li>
-                                    <li class="mb-3"><strong>Bonus dan Promosi</strong><br/>Setiap tawaran <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>bonus dan promosi</strong></a> adalah tertakluk kepada terma dan syarat khas yang ditetapkan di halaman promosi. Penipuan atau penyalahgunaan bonus boleh menyebabkan pembatalan ganjaran.</li>
-                                    <li class="mb-3"><strong>Pengeluaran Dana</strong><br/>Permohonan pengeluaran tertakluk kepada proses pengesahan akaun dan kelulusan. WINMYR berhak menangguhkan pengeluaran jika terdapat kecurigaan aktiviti tidak sah.</li>
-                                    <li class="mb-3"><strong>Privasi dan Keselamatan Data</strong><br/>Penggunaan data peribadi anda adalah tertakluk kepada Polisi Privasi WINMYR yang boleh dirujuk untuk maklumat lanjut.</li>
-                                    <li class="mb-3"><strong>Perubahan Terma dan Syarat</strong><br/>WINMYR berhak mengubah <a href="<?php echo $site_base_url;?>/terma-syarat"><strong>terma dan syarat</strong></a> ini pada bila-bila masa tanpa notis terlebih dahulu. Penggunaan berterusan selepas perubahan bermakna anda menerima syarat baru tersebut.</li>
-                                    <li class="mb-3"><strong>Had Liabiliti</strong><br/>WINMYR tidak bertanggungjawab atas sebarang kerugian langsung atau tidak langsung yang timbul daripada penggunaan laman web atau perkhidmatan kami.</li>
-                                    <li><strong>Undang-undang dan Penyelesaian Pertikaian</strong><br/>Terma ini tertakluk kepada undang-undang Malaysia. Sebarang pertikaian akan diselesaikan secara rundingan terlebih dahulu, jika gagal, boleh dirujuk ke mahkamah yang berkenaan.</li>
-                                </ol>
-                                <p>&nbsp;</p>
-                                <p>Dengan menggunakan perkhidmatan WINMYR, anda mengesahkan bahawa anda telah membaca, memahami dan bersetuju untuk mematuhi semua terma dan syarat yang dinyatakan di atas. Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pasukan sokongan kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a>.</p>
+                                <h1>Terma dan Syarat</h1>
+                                <p> Dengan mengakses dan menggunakan Jom99, anda bersetuju untuk mematuhi dan terikat dengan Terma dan Syarat berikut. Terma ini mengatur penggunaan perkhidmatan yang disediakan oleh Jom99, termasuk mengakses laman web kami, mendaftar akaun, dan terlibat dalam sebarang aktiviti permainan. </p>
+                                <h2>Pendaftaran Akaun</h2>
+                                <p> Untuk mengakses platform kami, anda perlu membuat akaun yang sah. Semasa pendaftaran, anda mesti memberikan maklumat yang tepat dan lengkap. Dengan mendaftar, anda mengesahkan bahawa anda berumur sekurang-kurangnya 18 tahun atau umur majoriti yang sah di kawasan anda. </p>
+                                <h2>Keselamatan Akaun</h2>
+                                <p> Anda bertanggungjawab untuk memastikan kerahsiaan butiran log masuk akaun anda dan memastikan bahawa akaun anda tidak diakses oleh individu yang tidak dibenarkan. Jom99 tidak bertanggungjawab atas sebarang penggunaan akaun yang tidak sah. </p>
+                                <h2>Deposit dan Pengeluaran</h2>
+                                <p> Anda boleh mendepositkan dana ke akaun anda menggunakan kaedah pembayaran yang disediakan di platform kami. Semua deposit adalah tertakluk kepada pengesahan. Permintaan pengeluaran mesti dibuat melalui kaedah yang sama digunakan untuk deposit, atau alternatif yang diluluskan oleh Jom99. </p>
+                                <h2>Bonus dan Promosi</h2>
+                                <p> Promosi dan bonus adalah tertakluk kepada terma dan syarat tertentu, yang mungkin termasuk syarat seperti keperluan pertaruhan dan had masa. Pemain mesti mematuhi peraturan khusus untuk setiap promosi bagi memenuhi syarat untuk menerima ganjaran. Jom99 berhak untuk membatalkan atau mengubah sebarang bonus dan promosi mengikut budi bicara kami. </p>
+                                <h2>Perjudian yang Adil dan Bertanggungjawab</h2>
+                                <p> Jom99 komited untuk menyediakan pengalaman permainan yang adil. Kami menggunakan Random Number Generators (RNG) untuk memastikan semua permainan dimainkan secara adil dan hasilnya adalah rawak. Kami juga mempromosikan perjudian bertanggungjawab dan menggalakkan pemain untuk memantau tabiat permainan mereka. </p>
+                                <h2>Aktiviti Terlarang</h2>
+                                <p>Anda bersetuju untuk tidak terlibat dalam sebarang aktiviti berikut:</p>
+                                <ul>
+                                    <li>Menipu, mengeksploitasi pepijat, atau memanipulasi keputusan permainan.</li>
+                                    <li>Terlibat dalam pengubahan wang haram atau aktiviti penipuan.</li>
+                                    <li>Menggunakan platform untuk aktiviti haram atau melanggar undang-undang kawasan anda.</li>
+                                </ul>
+                                <p> Jom99 berhak untuk menggantung atau menamatkan mana-mana akaun yang terlibat dalam aktiviti terlarang. </p>
+                                <h2>Perubahan Terma dan Syarat</h2>
+                                <p> Kami mungkin mengemas kini Terma dan Syarat ini dari semasa ke semasa. Sebarang perubahan akan dimaklumkan kepada pemain melalui e-mel atau melalui laman web. Dengan terus menggunakan platform kami, anda bersetuju dengan terma yang dikemaskini. </p>
+                                <h2>Undang-Undang yang Mengatur</h2>
+                                <p> Terma dan syarat ini tertakluk kepada undang-undang Malaysia. Sebarang pertikaian yang timbul daripada terma ini akan diselesaikan di mahkamah yang sesuai di Malaysia. </p>
+                                <h2>Penamatan</h2>
+                                <p> Jom99 berhak untuk menggantung atau menamatkan akaun anda pada bila-bila masa, dengan atau tanpa notis, jika kami percaya anda telah melanggar terma ini atau terlibat dalam aktiviti yang merosakkan integriti platform kami. </p>
                             </div>
                         </div>
                     </div>
