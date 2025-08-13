@@ -1,12 +1,12 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://winmyr.online';
-    $site_base_url_en = 'https://winmyr.online/en';
+    $site_base_url = 'https://winmy.info';
+    $site_base_url_en = 'https://winmy.info/en';
 }
 else {
-    $site_base_url = 'http://localhost/winmyr.online';
-    $site_base_url_en = 'http://localhost/winmyr.online/en';
+    $site_base_url = 'http://localhost/winmy.info';
+    $site_base_url_en = 'http://localhost/winmy.info/en';
 }
 $site_title = 'WINMYR';
 if( !empty($page_name) ) {
