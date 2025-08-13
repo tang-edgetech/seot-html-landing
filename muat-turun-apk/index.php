@@ -6,14 +6,38 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>WinMYR APK – Slot, Casino & Log Masuk Mudah Alih</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="WinMYR APK – Slot, Casino & Log Masuk Mudah Alih">
-        <meta name="description" content="Nikmati WinMYR APK: main slot dan casino mudah alih, muat turun pantas, ciri eksklusif, keselamatan terjamin & log masuk cepat untuk mula menang bila-bila masa!">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://winmy.info/muat-turun-apk">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="winmy">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="renderer" content="webkit">
+
+        <title>Muat Turun WINMY APK: Panduan & Pemasangan</title>
+        <meta name="title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
+        <meta name="description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
+        <meta name="keywords" content="winmy, download apk, muat turun apk, WINMY apk, aplikasi WINMY, Android APK">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Muat Turun WINMY APK: Panduan & Pemasangan">
+        <meta itemprop="description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://winmy.info/muat-turun-apk">
+        <meta property="og:title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
+        <meta property="og:description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
+        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="article:tag" content="winmy">
+        <meta property="article:tag" content="download apk">
+        <meta property="article:tag" content="muat turun apk">
+        <meta property="article:tag" content="WINMY apk">
+        <meta property="article:tag" content="aplikasi mudah alih">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -37,25 +61,25 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Gaming On The Go di WINMYR</h1>
-                                <p>Main permainan kasino kegemaran anda bila-bila masa, di mana saja dengan aplikasi Android khusus kami. WINMYR APK menawarkan masa muat pantas, ciri berguna, dan keselamatan kukuh supaya anda boleh fokus pada keseronokan. Langkau pelayar dan terus ke aksi—anda tidak akan korbankan kualiti atau kelajuan.</p>
+                                <h1>Gaming On The Go di WINMY</h1>
+                                <p>Main permainan kasino kegemaran anda bila-bila masa, di mana saja dengan aplikasi Android khusus kami. WINMY APK menawarkan masa muat pantas, ciri berguna, dan keselamatan kukuh supaya anda boleh fokus pada keseronokan. Langkau pelayar dan terus ke aksi—anda tidak akan korbankan kualiti atau kelajuan.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Mengapa Muat Turun APK WINMYR?</h2>
-                                <p>Jika anda pilih winmyr APK, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
+                                <h2>Mengapa Muat Turun APK WINMY?</h2>
+                                <p>Jika anda pilih winmy APK, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
                                 <p>&nbsp;</p>
                                 <h3>Masa Download Lebih Pantas & boleh percaya</h3>
-                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>slot winmyr</strong></a>.</p>
+                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>slot winmy</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Ciri Eksklusif Mudah Alih</h3>
                                 <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan mobile-only bonuses & promotions menambah peluang anda menang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penambahbaikan Keselamatan & Privasi</h3>
-                                <p>WINMYR APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
+                                <p>WINMY APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Keperluan Sistem & Keserasian</h2>
-                                <p class="mb-2">Sebelum anda Download APK WINMYR, pastikan peranti anda memenuhi spek berikut untuk pengalaman lancar:</p>
+                                <p class="mb-2">Sebelum anda Download APK WINMY, pastikan peranti anda memenuhi spek berikut untuk pengalaman lancar:</p>
                                 <ul>
                                     <li><strong>Android version</strong>: 6.0 atau lebih tinggi</li>
                                     <li><strong>RAM</strong>: sekurang-kurangnya 2GB</li>
@@ -89,7 +113,7 @@ include '../inc/functions.php';
                                 </ol>
                                 <p>&nbsp;</p>
 
-                                <h2>Ciri & Keistimewaan WINMYR APK</h2>
+                                <h2>Ciri & Keistimewaan WINMY APK</h2>
                                 <p>APK ini bukan sekadar jalan pintas—ia datang dengan kelebihan unik:</p>
                                 <p>&nbsp;</p>
                                 <h3>Instant Push Notifications</h3>
@@ -121,7 +145,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Keselamatan & Perjudian Bertanggungjawab Dalam Aplikasi</h2>
-                                <p>Keseronokan dan keselamatan berjalan seiring di WINMYR APK.</p>
+                                <p>Keseronokan dan keselamatan berjalan seiring di WINMY APK.</p>
                                 <p>&nbsp;</p>
                                 <h3>Built-In Encryption & App Integrity Checks</h3>
                                 <p>Setiap kali anda buka aplikasi, ia semak integriti untuk halang versi diganggu. Semua data dihantar menggunakan <strong>SSL encryption</strong> bagi lindungi maklumat anda.</p>

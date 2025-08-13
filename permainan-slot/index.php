@@ -6,14 +6,38 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>WinMYR Slot & Kasino Malaysia | Putar & Menang</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="WinMYR Slot & Kasino Malaysia | Putar & Menang">
-        <meta name="description" content="Rasai keseronokan WinMYR Slot dan kasino dalam talian. Muat turun APK, daftar melalui WinMYR Login, nikmati bonus & VIP eksklusif hari ini!">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://winmy.info/permainan-slot">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="winmy">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="renderer" content="webkit">
+
+        <title>Permainan Slot Online WINMY: Koleksi & Bonus</title>
+        <meta name="title" content="Permainan Slot Online WINMY: Koleksi & Bonus">
+        <meta name="description" content="Main slot online terbaik di WINMY. Terokai koleksi slot klasik, video, dan 3D dengan RTP tinggi, bonus eksklusif, dan pengalaman adil dengan RNG disahkan.">
+        <meta name="keywords" content="winmy, permainan slot, slot online Malaysia, RNG slot, RTP slot, bonus slot">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Permainan Slot Online WINMY: Koleksi & Bonus">
+        <meta itemprop="description" content="Main slot online terbaik di WINMY. Terokai koleksi slot klasik, video, dan 3D dengan RTP tinggi, bonus eksklusif, dan pengalaman adil dengan RNG disahkan.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://winmy.info/permainan-slot">
+        <meta property="og:title" content="Permainan Slot Online WINMY: Koleksi & Bonus">
+        <meta property="og:description" content="Main slot online terbaik di WINMY. Terokai koleksi slot klasik, video, dan 3D dengan RTP tinggi, bonus eksklusif, dan pengalaman adil dengan RNG disahkan.">
+        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="article:tag" content="winmy">
+        <meta property="article:tag" content="permainan slot">
+        <meta property="article:tag" content="slot online">
+        <meta property="article:tag" content="RTP">
+        <meta property="article:tag" content="bonus slot">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -37,18 +61,18 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Permainan WINMYR Slot: Putar, Menang, Ulang</h1>
+                                <h1>Permainan WINMY Slot: Putar, Menang, Ulang</h1>
                                 <p>Bersiap untuk aksi slot yang mengujakan di <a href="<?php echo $site_base_url;?>"><strong>WIN MYR</strong></a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
                                 <p>&nbsp;</p>
                                 
-                                <h2>Mengapa Pilih WINMYR untuk Slot?</h2>
-                                <p>Di winmyr, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
+                                <h2>Mengapa Pilih WINMY untuk Slot?</h2>
+                                <p>Di winmy, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
                                 <p>&nbsp;</p>
                                 <h3>RNG Boleh Dipercayai dan Keadilan</h3>
                                 <p>Kami bekerjasama dengan pembekal berlesen sahaja, di mana generator nombor rawak mereka diaudit secara berkala oleh pihak ketiga. Semak laporan pembayaran bila-bila masa untuk sahkan setiap hasil tidak diubah suai.</p>
                                 <p>&nbsp;</p>
                                 <h3>Antara Muka Mesra Pemula</h3>
-                                <p>Navigasi slot winmyr mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
+                                <p>Navigasi slot winmy mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kategori Slot Kami</h2>
@@ -67,7 +91,7 @@ include '../inc/functions.php';
                                 <p>Raikan budaya tempatan dengan permainan diinspirasikan oleh perayaan, cerita rakyat, dan mercu tanda. Tajuk unik ini menawarkan gameplay bertaraf tinggi dengan sentuhan Malaysia.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Cara Main Slot di WINMYR</h2>
+                                <h2>Cara Main Slot di WINMY</h2>
                                 <p>Main mudah apabila anda faham asasnya. Kami perincikan RTP, volatiliti, saiz pertaruhan, dan simbol khas supaya anda boleh putar dengan lebih bijak.</p>
                                 <p>&nbsp;</p>
                                 <h3>Memahami RTP & Volatiliti</h3>
@@ -111,13 +135,13 @@ include '../inc/functions.php';
                                 <h2>Pengalaman Slot Mudah Alih</h2>
                                 <p>Main di mana-mana tanpa kompromi. Platform mudah alih kami tawarkan ciri penuh, masa muat pantas, dan bonus khas untuk main di telefon.</p>
                                 <p>&nbsp;</p>
-                                <h3>WinMyr APK vs. Mobile Browser Play</h3>
+                                <h3>WINMY APK vs. Mobile Browser Play</h3>
                                 <div class="table-wrapper">
                                     <table class="table table-striped">
                                         <thead>
                                             <tr>
                                                 <th>Ciri</th>
-                                                <th>WinMyr APK</th>
+                                                <th>WINMY APK</th>
                                                 <th>Pelayar Mudah Alih</th>
                                             </tr>
                                         </thead>
@@ -167,7 +191,7 @@ include '../inc/functions.php';
                                 <p>Putar tajuk terpilih atau capai sasaran kemenangan tertentu untuk layak. Papan pendahulu dikemas kini secara langsung supaya anda tahu kedudukan anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Hadiah: Tunai, Putaran Percuma dan Barangan</h3>
-                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="<?php echo $site_base_url;?>"><strong>WINMYR</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
+                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="<?php echo $site_base_url;?>"><strong>WINMY</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
                             </div>
                         </div>
                     </div>

@@ -398,10 +398,10 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
-    "winmy" => [
-        "title" => "WINMY",
-        "description" => "Welcome Bonus 60%",
-        "url" => "https://winmy.asia/register/referer/a6e0ace56f",
+    "winbebas" => [
+        "title" => "WINBEBAS",
+        "description" => "Refer to Your Friends & Earn RM50",
+        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
     ],
     "win4u" => [
         "title" => "WIN4U",

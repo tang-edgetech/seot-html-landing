@@ -6,14 +6,38 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik">
-        <meta name="description" content="Dapatkan lebih dari 7 bonus dan promosi eksklusif di WINMYR. Nikmati cashback, free spin & hadiah istimewa yang boleh tingkatkan peluang untuk menang besar. ">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://winmy.info/bonus-promosi">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="winmy">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="renderer" content="webkit">
+
+        <title>Bonus & Promosi WINMY: Tawaran Harian & VIP</title>
+        <meta name="title" content="Bonus & Promosi WINMY: Tawaran Harian & VIP">
+        <meta name="description" content="Dapatkan tawaran terbaru di WINMY: bonus deposit, free spin, cashback mingguan, dan promosi VIP eksklusif. Semak sekarang dan tingkatkan peluang menang anda!">
+        <meta name="keywords" content="winmy, bonus winmy, promosi winmy, free spin, cashback, kod promo">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Bonus & Promosi WINMY: Tawaran Harian & VIP">
+        <meta itemprop="description" content="Dapatkan tawaran terbaru di WINMY: bonus deposit, free spin, cashback mingguan, dan promosi VIP eksklusif. Semak sekarang dan tingkatkan peluang menang anda!">
+        <meta itemprop="image" content="">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://winmy.online/bonus-promosi">
+        <meta property="og:title" content="Bonus & Promosi WINMY: Tawaran Harian & VIP">
+        <meta property="og:description" content="Dapatkan tawaran terbaru di WINMY: bonus deposit, free spin, cashback mingguan, dan promosi VIP eksklusif. Semak sekarang dan tingkatkan peluang menang anda!">
+        <meta property="og:site_name" content="winmy.online">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="article:tag" content="winmy">
+        <meta property="article:tag" content="bonus">
+        <meta property="article:tag" content="promosi">
+        <meta property="article:tag" content="free spin">
+        <meta property="article:tag" content="cashback">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -37,12 +61,12 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Bonus & Promosi WINMYR: 7+ Tawaran Hebat & Ganjaran Menarik</h1>
-                                <p>Bermain di WINMYR bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>bonus dan promosi</strong></a> yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
+                                <h1>Bonus & Promosi WINMY: 7+ Tawaran Hebat & Ganjaran Menarik</h1>
+                                <p>Bermain di WINMY bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab bonus dan promosi yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Selamat Datang yang Menggoda</h2>
-                                <p class="mb-2">Bila anda mula daftar kat WINMYR, kami pastikan korang sambut dengan ganjaran yang power untuk bagi semangat main. Bonus selamat datang ni memang ngam sangat untuk bagi korang mula dengan yakin dan dapat extra modal main. Jom tengok apa yang korang boleh dapat:</p>
+                                <p class="mb-2">Bila anda mula daftar kat WINMY, kami pastikan korang sambut dengan ganjaran yang power untuk bagi semangat main. Bonus selamat datang ni memang ngam sangat untuk bagi korang mula dengan yakin dan dapat extra modal main. Jom tengok apa yang korang boleh dapat:</p>
                                 <ol>
                                     <li>Bonus padanan 100% untuk deposit pertama sampai RM500</li>
                                     <li>50 putaran percuma kat slot pilihan kami</li>
@@ -53,7 +77,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Promosi Mingguan dan Bulanan</h2>
-                                <p>Setiap minggu dan bulan, WINMYR sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni dan jangan lupa tengok halaman <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>Bonus & Promotions</strong></a> untuk update terkini.</p>
+                                <p>Setiap minggu dan bulan, WINMY sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni:</p>
                                 <p>&nbsp;</p>
                                 <div class="table-wrapper">
                                     <table class="table table-striped">
@@ -67,7 +91,7 @@ include '../inc/functions.php';
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Cashback Reload</td>
+                                                <td>Cashback R≈eload</td>
                                                 <td>Mingguan</td>
                                                 <td>Setiap Isnin</td>
                                                 <td>Cashback untuk deposit kedua dan seterusnya</td>
@@ -94,21 +118,19 @@ include '../inc/functions.php';
                                     </table>
                                 </div>
                                 <p>&nbsp;</p>
-                                <p>Dengan jadual ni, korang boleh plan lebih awal dan manfaatkan semua promosi yang WINMYR tawarkan.</p>
-                                <p>&nbsp;</p>
 
                                 <h2>Turnamen dan Cabaran Papan Pendahulu</h2>
-                                <p>Nak tambah seronok? Sertai turnamen mingguan dan cabaran slot kami. Pusingan anda kira sebagai mata, dan siapa yang naik ke puncak papan pendahulu berpeluang menang hadiah tunai, putaran percuma dan swag eksklusif WINMYR. Sesuai sangat untuk yang suka bersaing dan menang besar!</p>
+                                <p>Nak tambah seronok? Sertai turnamen mingguan dan cabaran slot kami. Pusingan anda kira sebagai mata, dan siapa yang naik ke puncak papan pendahulu berpeluang menang hadiah tunai, putaran percuma dan swag eksklusif WINMY. Sesuai sangat untuk yang suka bersaing dan menang besar!</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Eksklusif Mudah Alih</h2>
-                                <p>Main guna <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>aplikasi WINMYR</strong></a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
+                                <p>Main guna <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>aplikasi WINMY</strong></a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Cara Nak Klaim Bonus</h2>
-                                <p class="mb-2">Claim bonus kat WINMYR mudah je. Ikut langkah-langkah berikut:</p>
+                                <p class="mb-2">Claim bonus kat WINMY mudah je. Ikut langkah-langkah berikut:</p>
                                 <ol>
-                                    <li>Daftar akaun baru di WINMYR.</li>
+                                    <li>Daftar akaun baru di WINMY.</li>
                                     <li>Buat deposit pertama mengikut syarat bonus yang ditawarkan.</li>
                                     <li>Ikut arahan khas untuk setiap bonus yang anda nak claim.</li>
                                     <li>Bonus akan dikreditkan terus ke akaun anda secara automatik.</li>

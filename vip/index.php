@@ -6,14 +6,37 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="WINMYR VIP Slot - Cashback & Ganjaran Eksklusif">
-        <meta name="description" content="Sertai VIP Slot kami untuk cashback bulanan, bonus berganda dan keistimewaan eksklusif. Log masuk WINMYR, tingkatkan status anda kerana lebih banyak ganjaran menanti anda!">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://winmy.info/vip">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="winmy">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="renderer" content="webkit">
+
+        <title>Program VIP WINMY: Ganjaran & Keistimewaan</title>
+        <meta name="title" content="Program VIP WINMY: Ganjaran & Keistimewaan">
+        <meta name="description" content="Sertai Program VIP WINMY dan nikmati ganjaran eksklusif: cashback tinggi, bonus istimewa, dan akses awal ke promosi. Kelayakan automatik berdasarkan taruhan & deposit.">
+        <meta name="keywords" content="winmy, vip winmy, program VIP WINMY, ganjaran VIP, keistimewaan VIP">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="Program VIP WINMY: Ganjaran & Keistimewaan">
+        <meta itemprop="description" content="Sertai Program VIP WINMY dan nikmati ganjaran eksklusif: cashback tinggi, bonus istimewa, dan akses awal ke promosi. Kelayakan automatik berdasarkan taruhan & deposit.">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://winmy.info/vip">
+        <meta property="og:title" content="Program VIP WINMY: Ganjaran & Keistimewaan">
+        <meta property="og:description" content="Sertai Program VIP WINMY dan nikmati ganjaran eksklusif: cashback tinggi, bonus istimewa, dan akses awal ke promosi. Kelayakan automatik berdasarkan taruhan & deposit.">
+        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="article:tag" content="winmy">
+        <meta property="article:tag" content="Program VIP">
+        <meta property="article:tag" content="ganjaran VIP">
+        <meta property="article:tag" content="keistimewaan VIP">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
     </head>
@@ -287,8 +310,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>WINMYR VIP Slot - Cashback & Ganjaran Eksklusif </h1>
-                                <p><strong>Program <a href="<?php echo $site_base_url;?>"><strong>Winmyr</strong></a> VIP</strong> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
+                                <h1>WINMY VIP Slot - Cashback & Ganjaran Eksklusif </h1>
+                                <p><strong>Program <a href="<?php echo $site_base_url;?>"><strong>WINMY</strong></a> VIP</strong> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
                                 <p>&nbsp;</p>
 
                                 <h2>Mengapa Sertai Kelab VIP?</h2>
@@ -349,13 +372,13 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Ciri Eksklusif Hanya untuk VIP</h2>
-                                <p>Kelab VIP <a href="<?php echo $site_base_url;?>"><strong>WINMYR</strong></a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
+                                <p>Kelab VIP <a href="<?php echo $site_base_url;?>"><strong>WINMY</strong></a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
                                 <p>&nbsp;</p>
                                 <h3>Cashback Ulang Tahun</h3>
                                 <p>Raikan ulang tahun keahlian anda dengan bonus cashback khas yang dikira berdasarkan kerugian bersih tahunan. Ini adalah tanda penghargaan kami kerana terus bersama.</p>
                                 <p>&nbsp;</p>
                                 <h3>Pelepasan Barangan Eksklusif VIP</h3>
-                                <p>Terima barangan winmyr edisi terhad: kad TNG, T-shirt, dan barangan koleksi lain, hanya untuk ahli VIP. Pelepasan ini menandakan acara dan pencapaian istimewa dengan bergaya.</p>
+                                <p>Terima barangan winmy edisi terhad: kad TNG, T-shirt, dan barangan koleksi lain, hanya untuk ahli VIP. Pelepasan ini menandakan acara dan pencapaian istimewa dengan bergaya.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Keselamatan & Keadilan untuk VIP</h2>
@@ -365,7 +388,7 @@ include '../inc/functions.php';
                                 <p>Selesaikan pengesahan akaun dengan cepat melalui proses KYC dipercepat. Setelah disahkan, anda menikmati masa pengeluaran terpantas, sering kali dalam beberapa jam sahaja.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penyulitan Tambahan untuk Akaun VIP</h3>
-                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="https://winmyr.org/privacy-policy"><strong>Privacy Policy</strong></a> untuk maklumat penuh.</p>
+                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a> untuk maklumat penuh.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Permainan Bertanggungjawab untuk Ahli VIP</h2>
