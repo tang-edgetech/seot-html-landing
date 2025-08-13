@@ -1,11 +1,11 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://jom99.org/';
+    $site_base_url = 'https://jom99.org';
     $site_base_url_en = 'https://jom99.org/en';
 }
 else {
-    $site_base_url = 'http://localhost/jom99.org/';
+    $site_base_url = 'http://localhost/jom99.org';
     $site_base_url_en = 'http://localhost/jom99.org/en';
 }
 $site_title = 'WINMYR';
