@@ -13,7 +13,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                 <picture>
                     <source srcset="<?php echo $site_base_url;?>/images/jom99_logo.webp" type="image/webp">
                     <source srcset="<?php echo $site_base_url;?>/images/jom99_logo.png" type="image/png">
-                    <img src="<?php echo $site_base_url;?>/images/jom99_logo.webp" alt="LPK777 Logo" class="img-fit">
+                    <img src="<?php echo $site_base_url;?>/images/jom99_logo.webp" alt="jom99-logo" class="img-fit">
                 </picture>
             </strong></a>
             <div></div>

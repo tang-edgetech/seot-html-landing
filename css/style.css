@@ -261,6 +261,9 @@ p, ul, ol, .text-p {
 .text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
     text-decoration: underline;
 }
+.text-editor h2, .text-editor h3{
+    margin-top: 1rem;
+}
 table thead tr th{
     background-color: #9db0c7!important;
 }

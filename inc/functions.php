@@ -1,14 +1,14 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://jom99.org';
+    $site_base_url = 'https://jom99.org/';
     $site_base_url_en = 'https://jom99.org/en';
 }
 else {
-    $site_base_url = 'http://localhost/jom99.org';
+    $site_base_url = 'http://localhost/seot-html-landing/';
     $site_base_url_en = 'http://localhost/jom99.org/en';
 }
-$site_title = 'WINMYR';
+$site_title = 'JOM99';
 if( !empty($page_name) ) {
     $page_prefix = $page_name . ' | ';
 }
@@ -32,7 +32,7 @@ $available_languages = [
 $menu_items = [
     [
         "title" => "Permainan Slot",
-        "url" => "lot",
+        "url" => "slot",
         "target" => "_self",
     ],
     [
@@ -398,10 +398,10 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
-    "winbebas" => [
-        "title" => "WINBEBAS",
+    "win111" => [
+        "title" => "WIN111",
         "description" => "Login Daily and Win Up to RM88",
-        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "url" => "https://tinyurl.com/34trd6t7",
     ],
     "winmy" => [
         "title" => "WINMY",

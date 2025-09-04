@@ -86,7 +86,7 @@ include '../inc/functions.php';
                                 <h3>Muat Turun Cepat dan Ringan</h3>
                                 <p>Aplikasi Jom99 APK direka untuk memuat turun dengan cepat dan menggunakan ruang storan yang sangat sedikit pada peranti anda, tanpa mengorbankan prestasi permainan.</p>
                                 <h3>Pemberitahuan Masa Nyata</h3>
-                                <p>Dapatkan pemberitahuan masa nyata untuk kemas kini mengenai <strong><a href="https://jom99.org/bonus-promosi/">promosi, bonus</a></strong>, dan berita terkini di Jom99. Anda tidak akan terlepas peluang menarik untuk meningkatkan pengalaman permainan anda.</p>
+                                <p>Dapatkan pemberitahuan masa nyata untuk kemas kini mengenai <strong><a href="https://jom99.org/bonus-promosi/">promosi dan bonus</a></strong>, dan berita terkini di Jom99. Anda tidak akan terlepas peluang menarik untuk meningkatkan pengalaman permainan anda.</p>
                                 <h2>Cara Memuat Turun APK Jom99</h2>
                                 <p>Proses memuat turun aplikasi Jom99 adalah sangat mudah dan cepat. Ikuti langkah-langkah mudah berikut untuk memulakan:</p>
                                 <ol>
@@ -103,7 +103,7 @@ include '../inc/functions.php';
                                 <h2>Sokongan dan Bantuan</h2>
                                 <p>Kami sentiasa bersedia untuk membantu anda. Jika anda mengalami sebarang masalah semasa memuat turun, atau memerlukan bantuan mengenai aplikasi, sokongan pelanggan kami sedia membantu.</p>
                                 <h3>Sokongan 24/7</h3>
-                                <p>Kami menyediakan <strong><a href="https://jom99.org/hubungi-kami/">>sokongan pelanggan</a></strong> 24 jam sehari, 7 hari seminggu, untuk menjawab sebarang pertanyaan atau masalah yang anda hadapi.</p>
+                                <p>Kami menyediakan <strong><a href="https://jom99.org/hubungi-kami/">sokongan pelanggan</a></strong> 24 jam sehari, 7 hari seminggu, untuk menjawab sebarang pertanyaan atau masalah yang anda hadapi.</p>
                                 <h2>Kesimpulan</h2>
                                 <p>Muat turun Jom99 APK hari ini dan mula bermain permainan kasino kegemaran anda dari telefon mudah alih anda. Dengan aplikasi ini, anda akan menikmati pengalaman permainan tanpa gangguan yang menawarkan kemudahan, keselamatan, dan keseronokan di hujung jari anda.</p>
                                 <p>Untuk lebih banyak pilihan permainan, <strong><a href="https://jom99.org/">kembali ke halaman utama Jom99</a></strong>.</p>

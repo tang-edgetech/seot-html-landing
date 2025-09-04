@@ -13,11 +13,9 @@ include 'inc/functions.php';
         <meta name="author" content="jom99">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-
         <title>Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia</title>
         <meta name="title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
         <meta name="description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
-        <meta name="keywords" content="jom99, jom99 slot, jom99 login, jom99 vip, jom99 app, jom99 slot login, jom99 casino, jom99 malaysia, jom99 apk, jom99 online">
 
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
@@ -30,7 +28,7 @@ include 'inc/functions.php';
         <meta property="og:url" content="https://jom99.org/">
         <meta property="og:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
         <meta property="og:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
-        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="jom99">
         <meta property="article:tag" content="jom99 slot">
@@ -243,7 +241,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="images/jom99_super-vip-ganjaran-online-casino-malaysia.webp" alt="promo banner">
+                            <img class="w-100" src="images/jom99_super-vip-ganjaran-online-casino-malaysia.webp" alt="jom99-super-vip-ganjaran-online-casino-malaysia">
                         </div>
                     </div>
                 </div>
@@ -254,8 +252,8 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Daftar</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Log Masuk</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://tinyurl.com/34trd6t7">Daftar</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://tinyurl.com/34trd6t7">Log Masuk</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -272,13 +270,13 @@ include 'inc/functions.php';
                                     </div>
                                     <div class="col-5 px-0 ">
                                         <div class="row m-0 p-0 w-100">
-                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://tinyurl.com/34trd6t7" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
-                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://tinyurl.com/34trd6t7" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
@@ -291,7 +289,7 @@ include 'inc/functions.php';
                                                 </div>
                                             </a>
                                             
-                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://tinyurl.com/34trd6t7" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
