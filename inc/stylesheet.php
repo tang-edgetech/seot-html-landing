@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <meta name="google-site-verification" content="NRkW0looYJm_S0embn13pXYADBmd2qPUyoyJaHswcKg" />
 <link rel="icon" type="image/png" href="<?php echo $site_base_url.'/images/favicon.png';?>" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
