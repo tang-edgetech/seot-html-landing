@@ -20,7 +20,7 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
         <meta itemprop="description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
-        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
@@ -29,7 +29,7 @@ include 'inc/functions.php';
         <meta property="og:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
         <meta property="og:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
         <meta property="og:site_name" content="JOM99">
-        <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="jom99">
         <meta property="article:tag" content="jom99 slot">
         <meta property="article:tag" content="jom99 login">
@@ -43,11 +43,11 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <meta name="twitter:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
         <meta name="twitter:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
-        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <meta name="twitter:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
+        <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -241,7 +241,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="images/jom99_super-vip-ganjaran-online-casino-malaysia.webp" alt="jom99-super-vip-ganjaran-online-casino-malaysia">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/jom99_super-vip-ganjaran-online-casino-malaysia.webp" alt="jom99-super-vip-ganjaran-online-casino-malaysia">
                         </div>
                     </div>
                 </div>
@@ -272,13 +272,13 @@ include 'inc/functions.php';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://tinyurl.com/34trd6t7" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://tinyurl.com/34trd6t7" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -291,7 +291,7 @@ include 'inc/functions.php';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://tinyurl.com/34trd6t7" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
                                                 </div>
                                             </a>
@@ -369,13 +369,13 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Jom99 – Destinasi Terbaik untuk Permainan Slot Dalam Talian Anda</h1>
-                                <p>Selamat datang ke Jom99, destinasi utama untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Sama ada anda mencari <strong><a href="<?php echo $site_base_url;?>/slot/">slot</a></strong>, permainan kasino secara langsung, ganjaran VIP eksklusif, atau kaedah pembayaran yang mudah, <strong><a href="<?php echo $site_base_url;?>/">Jom99</a></strong> adalah pilihan utama untuk hiburan dalam talian. Sertai kami hari ini untuk meneroka pelbagai jenis permainan berkualiti tinggi, nikmati permainan mudah alih tanpa gangguan, dan manfaatkan bonus yang menarik.</p>
+                                <p>Selamat datang ke Jom99, destinasi utama untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Sama ada anda mencari <strong><a href="<?= $site_base_url;?>/slot/">slot</a></strong>, permainan kasino secara langsung, ganjaran VIP eksklusif, atau kaedah pembayaran yang mudah, <strong><a href="<?= $site_base_url;?>/">Jom99</a></strong> adalah pilihan utama untuk hiburan dalam talian. Sertai kami hari ini untuk meneroka pelbagai jenis permainan berkualiti tinggi, nikmati permainan mudah alih tanpa gangguan, dan manfaatkan bonus yang menarik.</p>
                                 <h2>Kenapa Pilih Jom99?</h2>
                                 <p>Di Jom99, kami mengutamakan keselamatan, pengalaman permainan yang lancar, dan perkhidmatan pelanggan yang cemerlang. Berikut adalah sebab mengapa ribuan pemain memilih kami:</p>
                                 <h3>Permainan Dalam Talian yang Selamat dan Terpercaya</h3>
                                 <p>Kami faham bahawa keselamatan adalah aspek yang paling penting ketika bermain dalam talian. Oleh itu, Jom99 menggunakan teknologi penyulitan terkini untuk melindungi data peribadi dan kewangan anda. Permainan kami dijana oleh pembekal perisian yang dipercayai, memastikan keadilan dalam setiap putaran gulungan atau taruhan yang anda buat.</p>
                                 <h3>Kaedah Pembayaran yang Mudah dan Dipercayai</h3>
-                                <p>Membuat deposit dan pengeluaran dana di Jom99 adalah mudah. Kami menyokong pelbagai <strong><a href="<?php echo $site_base_url;?>/kaedah-pembayaran/">kaedah pembayaran</a></strong>, termasuk kad kredit, e-wallet, dan bank transfer, menjadikan ia mudah untuk anda menguruskan dana anda dengan selamat.</p>
+                                <p>Membuat deposit dan pengeluaran dana di Jom99 adalah mudah. Kami menyokong pelbagai <strong><a href="<?= $site_base_url;?>/kaedah-pembayaran/">kaedah pembayaran</a></strong>, termasuk kad kredit, e-wallet, dan bank transfer, menjadikan ia mudah untuk anda menguruskan dana anda dengan selamat.</p>
                                 <h3>Sokongan Pelanggan 24/7</h3>
                                 <p>Di Jom99, sokongan pelanggan kami tersedia sepanjang masa untuk membantu anda. Sama ada anda memerlukan bantuan dengan Jom99 login atau mempunyai pertanyaan mengenai akaun anda, pasukan mesra kami sentiasa bersedia memberikan bantuan segera.</p>
                                 <h3>Jelajahi Permainan Kami</h3>
@@ -390,11 +390,11 @@ include 'inc/functions.php';
                                 <h2>Program VIP Jom99</h2>
                                 <p>Program VIP kami memberi ganjaran kepada pemain yang setia dengan manfaat eksklusif dan perkhidmatan peribadi, menjadikan pengalaman permainan anda lebih istimewa.</p>
                                 <h3>Ganjaran dan Manfaat VIP Eksklusif</h3>
-                                <p>Sebagai seorang <strong><a href="<?php echo $site_base_url;?>/vip/">VIP Jom99</a></strong>, anda mendapat akses kepada pelbagai manfaat, seperti bonus yang diperibadikan, pengeluaran yang lebih pantas, dan sokongan pelanggan yang diutamakan. Semakin banyak anda bermain, semakin banyak ganjaran yang boleh anda perolehi, menjadikan setiap saat di Jom99 lebih menarik.</p>
+                                <p>Sebagai seorang <strong><a href="<?= $site_base_url;?>/vip/">VIP Jom99</a></strong>, anda mendapat akses kepada pelbagai manfaat, seperti bonus yang diperibadikan, pengeluaran yang lebih pantas, dan sokongan pelanggan yang diutamakan. Semakin banyak anda bermain, semakin banyak ganjaran yang boleh anda perolehi, menjadikan setiap saat di Jom99 lebih menarik.</p>
                                 <h3>Cara Menjadi VIP</h3>
                                 <p>Menjadi VIP di Jom99 adalah mudah. Cuma main secara berkala, dan apabila anda mengumpul mata kesetiaan, anda akan membuka lebih banyak manfaat VIP eksklusif. Begitu mudah!</p>
                                 <h2>Permainan Selamat dan Lancar dengan APK Jom99</h2>
-                                <p>Main permainan kegemaran anda di mana sahaja dengan <strong><a href="<?php echo $site_base_url;?>/muat-turun-apk/">Jom99 APK</a></strong> untuk peranti Android. Muat turun aplikasi ini untuk menikmati permainan mudah alih tanpa gangguan. Dengan aplikasi kami, anda boleh mengakses semua permainan kegemaran anda dengan pengalaman yang sama berkualiti tinggi seperti di desktop.</p>
+                                <p>Main permainan kegemaran anda di mana sahaja dengan <strong><a href="<?= $site_base_url;?>/muat-turun-apk/">Jom99 APK</a></strong> untuk peranti Android. Muat turun aplikasi ini untuk menikmati permainan mudah alih tanpa gangguan. Dengan aplikasi kami, anda boleh mengakses semua permainan kegemaran anda dengan pengalaman yang sama berkualiti tinggi seperti di desktop.</p>
                                 <h3>Muat Turun APK Jom99 untuk Permainan Tanpa Gangguan</h3>
                                 <p>Jom99 APK telah dioptimumkan sepenuhnya untuk memberikan anda pengalaman permainan yang lancar pada peranti mudah alih anda. Muat turun dan pasang APK pada peranti Android anda untuk mula bermain.</p>
                                 <h3>Kaedah Pembayaran Jom99</h3>
@@ -406,27 +406,27 @@ include 'inc/functions.php';
                                 <h2>Bonus & Promosi Tanpa Tanding</h2>
                                 <p>Jom99 sentiasa memberi ganjaran kepada pemain kami. Dari bonus alu-aluan yang murah hati hingga promosi berkala, terdapat sentiasa peluang untuk menambah kemenangan anda.</p>
                                 <h3>Bonus Alu-Aluan untuk Pemain Baru</h3>
-                                <p>Pemain baru boleh menikmati <strong><a href="<?php echo $site_base_url;?>/bonus-promosi/">bonus</a></strong> alu-aluan apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
+                                <p>Pemain baru boleh menikmati <strong><a href="<?= $site_base_url;?>/bonus-promosi/">bonus</a></strong> alu-aluan apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
                                 <h3>Promosi Berkala dan Tawaran Khas</h3>
                                 <p>Kami sering menawarkan putaran percuma, bonus deposit, dan promosi menarik lain. Sentiasa periksa halaman promosi kami untuk tawaran terkini!</p>
                                 <h3>Program Kesetiaan</h3>
                                 <p>Program kesetiaan kami membolehkan anda mengumpul mata setiap kali anda bertaruh. Mata ini boleh ditukarkan kepada ganjaran, termasuk bonus, putaran percuma, dan banyak lagi.</p>
                                 <h2>Perjudian Bertanggungjawab</h2>
-                                <p>Di Jom99, kami komited untuk menyediakan persekitaran perjudian yang <strong><a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab/">selamat dan bertanggungjawab</a></strong>. Kami menawarkan beberapa alat untuk membantu pemain menikmati pengalaman permainan mereka secara bertanggungjawab.</p>
+                                <p>Di Jom99, kami komited untuk menyediakan persekitaran perjudian yang <strong><a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/">selamat dan bertanggungjawab</a></strong>. Kami menawarkan beberapa alat untuk membantu pemain menikmati pengalaman permainan mereka secara bertanggungjawab.</p>
                                 <h3>Perjudian dengan Integriti dan Kawalan</h3>
                                 <p>Kami menggalakkan pemain untuk berjudi secara bertanggungjawab dan menawarkan ciri-ciri seperti pengecualian diri dan had deposit untuk membantu menguruskan masa bermain dan perbelanjaan. Perjudian seharusnya sentiasa menyeronokkan, dan kami menyediakan sumber untuk menyokong itu.</p>
                                 <h2>Privasi & Keselamatan: Komitmen Jom99</h2>
-                                <p><strong><a href="<?php echo $site_base_url;?>/dasar-privasi/">Privasi</a></strong> dan keselamatan anda adalah keutamaan kami. Di Jom99, kami menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
+                                <p><strong><a href="<?= $site_base_url;?>/dasar-privasi/">Privasi</a></strong> dan keselamatan anda adalah keutamaan kami. Di Jom99, kami menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
                                 <h3>Bagaimana Kami Melindungi Data Anda</h3>
                                 <p>Kami menggunakan kaedah penyulitan yang canggih untuk melindungi maklumat sensitif anda semasa transaksi dan semasa anda melayari laman kami. Keselamatan anda adalah keutamaan kami.</p>
                                 <h3>Jaminan Permainan yang Adil</h3>
                                 <p>Semua permainan di Jom99 menggunakan Random Number Generators (RNG) untuk memastikan setiap keputusan adalah adil dan tidak berat sebelah. Anda boleh yakin bahawa setiap putaran, gulungan, atau keputusan adalah berdasarkan nasib.</p>
                                 <h2>Syarat & Terma Kami (T&C)</h2>
-                                <p>Sebelum bermula, kami menggalakkan semua pemain untuk membaca <strong><a href="<?php echo $site_base_url;?>/terma-syarat/">terms & conditions</a></strong> kami untuk memastikan pengalaman permainan yang lancar dan menyenangkan.</p>
+                                <p>Sebelum bermula, kami menggalakkan semua pemain untuk membaca <strong><a href="<?= $site_base_url;?>/terma-syarat/">terms & conditions</a></strong> kami untuk memastikan pengalaman permainan yang lancar dan menyenangkan.</p>
                                 <h3>Peraturan yang Telus dan Mudah Difahami</h3>
                                 <p>Syarat dan terma (T&C) kami menggariskan peraturan platform dan cara pemain harus berinteraksi dengan laman ini. Peraturan ini memastikan keadilan dan ketelusan dalam semua perkhidmatan kami.</p>
                                 <h2>Hubungi Kami</h2>
-                                <p>Jika anda mempunyai sebarang pertanyaan atau memerlukan bantuan, <strong><a href="<?php echo $site_base_url;?>/hubungi-kami/">pasukan sokongan pelanggan kami</a></strong> tersedia 24/7 untuk membantu anda. Kami sedia membantu!</p>
+                                <p>Jika anda mempunyai sebarang pertanyaan atau memerlukan bantuan, <strong><a href="<?= $site_base_url;?>/hubungi-kami/">pasukan sokongan pelanggan kami</a></strong> tersedia 24/7 untuk membantu anda. Kami sedia membantu!</p>
                                 <h3>Hubungi Kami untuk Sebarang Pertanyaan</h3>
                                 <p>Anda boleh menghubungi kami melalui sembang langsung, e-mel, atau telefon. Pasukan sokongan mesra kami sentiasa sedia untuk menjawab soalan anda.</p>
                             </div>
