@@ -77,7 +77,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Promosi Mingguan dan Bulanan</h2>
-                                <p>Setiap minggu dan bulan, WINMY sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni:</p>
+                                <p>Setiap minggu dan bulan, Win MY sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni:</p>
                                 <p>&nbsp;</p>
                                 <div class="table-wrapper">
                                     <table class="table table-striped">
@@ -120,7 +120,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Turnamen dan Cabaran Papan Pendahulu</h2>
-                                <p>Nak tambah seronok? Sertai turnamen mingguan dan cabaran slot kami. Pusingan anda kira sebagai mata, dan siapa yang naik ke puncak papan pendahulu berpeluang menang hadiah tunai, putaran percuma dan swag eksklusif WINMY. Sesuai sangat untuk yang suka bersaing dan menang besar!</p>
+                                <p>Nak tambah seronok? Sertai turnamen mingguan dan cabaran slot kami. Pusingan anda kira sebagai mata, dan siapa yang naik ke puncak papan pendahulu berpeluang menang hadiah tunai dan putaran percuma. Sesuai sangat untuk yang suka bersaing dan menang besar!</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Eksklusif Mudah Alih</h2>
@@ -130,7 +130,7 @@ include '../inc/functions.php';
                                 <h2>Cara Nak Klaim Bonus</h2>
                                 <p class="mb-2">Claim bonus kat WINMY mudah je. Ikut langkah-langkah berikut:</p>
                                 <ol>
-                                    <li>Daftar akaun baru di WINMY.</li>
+                                    <li>Daftar akaun baru di <a href="<?= $site_base_url;?>"><strong>Win MY</strong></a>.</li>
                                     <li>Buat deposit pertama mengikut syarat bonus yang ditawarkan.</li>
                                     <li>Ikut arahan khas untuk setiap bonus yang anda nak claim.</li>
                                     <li>Bonus akan dikreditkan terus ke akaun anda secara automatik.</li>

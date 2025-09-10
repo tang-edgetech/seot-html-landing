@@ -7,12 +7,12 @@
             </button>
             <a href="<?php echo $site_base_url_en;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="LPK777 Logo" class="img-fit">
+                <img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="winmy-logo" class="img-fit">
             </strong></a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d-block text-center p-4 py-2 title-logo"><a href="<?php echo $site_base_url_en;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="LPK777 Logo" class="img-fit mx-auto"></strong></a></h4>
+                    <h4 class="d-block text-center p-4 py-2 title-logo"><a href="<?php echo $site_base_url_en;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="winmy-logo" class="img-fit mx-auto"></strong></a></h4>
                     <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
