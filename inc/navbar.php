@@ -19,7 +19,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="winmy-logo" class="img-fit mx-auto"></strong></a></h4>
+                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/winmy_logo.webp" alt="winmy-logo" class="img-fit mx-auto"></strong></a></h4>
                     <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
