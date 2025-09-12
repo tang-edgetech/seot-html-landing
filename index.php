@@ -44,7 +44,7 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="">
+        <meta name="twitter:site" content="WINMY">
         <meta name="twitter:title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="twitter:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
