@@ -44,7 +44,7 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="">
+        <meta name="twitter:site" content="WINMY">
         <meta name="twitter:title" content="WINMY – Premium Online Slot & Kasino di Malaysia">
         <meta name="twitter:description" content="Nikmati pengalaman winmy slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log in untuk mula menang hari ini!">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
