@@ -11,15 +11,15 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
             <a href="<?php echo $site_base_url;?>" class="navbar-brand p-0">
                 <span class="d-none">Home</span>
                 <picture>
-                    <source srcset="<?php echo $site_base_url;?>/images/winmyr_logo.webp" type="image/webp">
-                    <source srcset="<?php echo $site_base_url;?>/images/winmyr_logo.png" type="image/png">
-                    <img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="WINMY Logo" class="img-fit">
+                    <source srcset="<?php echo $site_base_url;?>/images/winmy_logo.webp" type="image/webp">
+                    <source srcset="<?php echo $site_base_url;?>/images/winmy_logo.png" type="image/png">
+                    <img src="<?php echo $site_base_url;?>/images/winmy_logo.webp" alt="winmy-logo" class="img-fit">
                 </picture>
             </strong></a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="WINMY Logo" class="img-fit mx-auto"></strong></a></h4>
+                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/winmyr_logo.webp" alt="winmy-logo" class="img-fit mx-auto"></strong></a></h4>
                     <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
@@ -27,7 +27,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                         <ul class="navbar-nav nav w-100 w-xl-auto p-4 px-0 p-xl-0" id="primary-menu">
                             <?php 
                             
-                            $home_active = ( trim($current_url, "lpk777/") === "" ) ? ' active' : '';?>
+                            $home_active = ( trim($current_url, "winmy/") === "" ) ? ' active' : '';?>
                             <li class="nav-item home nav-item-0">
                                 <a href="<?php echo $site_base_url;?>" class="nav-link<?php echo $home_active;?>">Home</strong></a>
                             </li>

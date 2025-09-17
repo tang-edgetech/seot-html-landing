@@ -1,5 +1,5 @@
 <?php
-$page_name = "Program VIP di LPK777";
+$page_name = "Program VIP di WINMY";
 $page_slug = 'vip';
 $page_index = 4;
 $page_thumbnail = "https://example.com/image.jpg";

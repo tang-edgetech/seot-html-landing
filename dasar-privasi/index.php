@@ -59,7 +59,7 @@ include '../inc/functions.php';
                                         <ul>
                                             <li>Memproses pendaftaran dan transaksi anda.</li>
                                             <li>Memberikan sokongan pelanggan yang berkualiti.</li>
-                                            <li>Menghantar <a href="<?php echo $site_base_url;?>/bonus-promosi"><strong>promosi</strong></a>, bonus, dan maklumat penting lain.</li>
+                                            <li>Menghantar <a href="<?php echo $site_base_url;?>/bonus-promosi/"><strong>promosi</strong></a>, bonus, dan maklumat penting lain.</li>
                                             <li>Memastikan keselamatan akaun dan mencegah penipuan.</li>
                                             <li>Mematuhi keperluan undang-undang dan peraturan.</li>
                                         </ul>

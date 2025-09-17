@@ -1,12 +1,21 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://winmy.info/';
+    $site_base_url = 'https://winmy.info';
     $site_base_url_en = 'https://winmy.info/en';
 }
 else {
-    $site_base_url = 'http://localhost/winmy.info/';
-    $site_base_url_en = 'http://localhost/winmy.info/en';
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $site_base_url = 'http://localhost:8080/winmy.info';
+        $site_base_url_en = 'http://localhost:8080/winmy.info/en';
+    }
+    else {
+        $site_base_url = 'http://localhost/winmy.info';
+        $site_base_url_en = 'http://localhost/winmy.info/en';
+    }
 }
 $site_title = 'WINMYR';
 if( !empty($page_name) ) {
@@ -92,7 +101,7 @@ $disclaimer_items = [
 //         "target" => "_self",
 //     ],
 //     [
-//         "title" => "VIP Programme in LPK777",
+//         "title" => "VIP Programme in WINMY",
 //         "url" => "vip",
 //         "target" => "_self",
 //     ],
@@ -398,6 +407,11 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
+    "win111" => [
+        "title" => "WIN111",
+        "description" => "Refer to Your Friends & Earn RM50",
+        "url" => "https://tinyurl.com/4p7t4c9c",
+    ],
     "winbebas" => [
         "title" => "WINBEBAS",
         "description" => "Refer to Your Friends & Earn RM50",
