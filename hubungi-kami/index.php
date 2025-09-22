@@ -57,7 +57,7 @@ include '../inc/functions.php';
                                 <ol>
                                     <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
                                     <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:winmy@gmail.com"><strong>winmy@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
-                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6014-3507586"><strong>+6014-3507586</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
+                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+60143507586"><strong>+6014-3507586</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <h4>Alamat Pejabat</h4>
