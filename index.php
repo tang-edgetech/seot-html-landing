@@ -1040,7 +1040,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="<?= $site_base_url;?>/images/winmy-rm50-referral-banner.webp" alt="promo banner">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/winmy-rm50-referral-banner.webp" alt="winmy-referral-fourfold-prizes">
                         </div>
                     </div>
                 </div>
