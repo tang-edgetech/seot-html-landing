@@ -49,176 +49,266 @@ include 'inc/functions.php';
         <meta name="twitter:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
+        <!-- Schema Markup -->
+	    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org", 
+        "@type": "Organization",
+        "name": "Jom99",
+        "url": "https://jom99.org/",
+        "logo": "https://jom99.org/images/jom99_logo.webp",
+        "description": "Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Tingkat 10, Menara A, No. 23 Jalan Bukit Bintang",
+            "addressLocality": "Kuala Lumpur",
+            "postalCode": "55100",
+            "addressCountry": "MY"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+6012-8541234",
+            "contactType": "Customer Service",
+            "areaServed": "MY",
+            "availableLanguage": ["en", "ms"]
+        },
+        "sameAs": [
+            "https://twitter.com/jom99my",
+            "https://www.youtube.com/@jom99my",
+            "https://www.pinterest.com/jom99my/",
+            "https://www.tumblr.com/jom99my",
+            "https://www.twitch.tv/jom99my/about",
+            "https://vimeo.com/jom99my",
+            "https://gravatar.com/jom99my",
+            "https://profile.hatena.ne.jp/jom99my/",
+            "https://500px.com/p/jom99my?view=photos",
+            "https://www.gta5-mods.com/users/jom99my",
+            "https://pad.fs.lmu.de/s/kNc34ZmV5",
+            "https://www.blogger.com/profile/10500439994496992749",
+            "https://securityheaders.com/?q=https%3A%2F%2Fjom99.org%2F&followRedirects=on",
+            "https://makeagif.com/user/jom99my",
+            "https://it.quora.com/profile/Jom99-Jom99",
+            "https://www.slideserve.com/jom99my",
+            "https://wibki.com/jom99my",
+            "https://3dwarehouse.sketchup.com/by/jom99my",
+            "https://us.enrollbusiness.com/BusinessProfile/7453637/Jom99",
+            "https://www.dibiz.com/jom99my1",
+            "https://rapidapi.com/user/jom99my1",
+            "https://pixabay.com/users/51686401/",
+            "https://www.reverbnation.com/artist/jom99",
+            "https://files.fm/jom99my/info",
+            "https://ga.gravatar.com/jom99my",
+            "http://www.invelos.com/UserProfile.aspx?alias=jom99my",
+            "https://www.skool.com/@jom-jom-9800",
+            "https://coub.com/jom99my1",
+            "https://www.proko.com/@jom99my/activity",
+            "https://qna.habr.com/user/jom99my",
+            "https://www.aicrowd.com/participants/jom99my",
+            "https://gitlab.aicrowd.com/jom99my",
+            "https://www.divephotoguide.com/user/jom99my",
+            "https://cadillacsociety.com/users/jom99my/",
+            "https://hu.gravatar.com/jom99my",
+            "https://www.syncdocs.com/forums/profile/jom99my",
+            "https://www.investagrams.com/Profile/jom99my",
+            "https://bandori.party/user/316512/jom99my/",
+            "https://gegenstimme.tv/a/jom99my/video-channels",
+            "https://www.openlb.net/forum/users/jom99my",
+            "https://www.snipesocial.co.uk/jom99my",
+            "http://jobboard.piasd.org/author/jom99my/",
+            "https://wiki.gta-zona.ru/index.php/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Jom99my",
+            "https://participons.mauges-sur-loire.fr/profiles/jom99my/activity",
+            "https://www.metooo.es/u/jom99my",
+            "https://www.remoteworker.co.uk/profiles/7007361-jom99",
+            "https://theafricavoice.com/profile/jom99my",
+            "https://aprenderfotografia.online/usuarios/jom99my/profile/",
+            "https://battwo.com/u/2886942-jom99my",
+            "https://blender.community/jom99my/",
+            "https://divisionmidway.org/jobs/author/jom99my/",
+            "https://www.laundrynation.com/community/profile/jom99my/",
+            "https://cuchichi.es/author/jom99my/",
+            "https://ucgp.jujuy.edu.ar/profile/jom99my/",
+            "https://tooter.in/jom99my",
+            "https://savelist.co/profile/users/jom99my",
+            "https://kaeuchi.jp/forums/users/jom99my/",
+            "https://whyp.it/users/99299/jom99my",
+            "https://bulkwp.com/support-forums/users/jom99my/",
+            "https://transfur.com/Users/jom99my",
+            "https://www.metooo.it/u/jom99my",
+            "https://rant.li/jom99my/jom99",
+            "https://www.bitsdujour.com/profiles/hKhiKW",
+            "https://linksta.cc/@jom99my",
+            "https://mto.to/u/2886942-jom99my",
+            "https://justpaste.me/kQHW1",
+            "https://app.talkshoe.com/user/jom99my",
+            "https://www.zazzle.com/mbr/238274203364247548",
+            "https://www.instapaper.com/p/jom99my",
+            "https://medium.com/@jom99my1/about",
+            "https://nhattao.com/members/user6807633.6807633/",
+            "https://www.metooo.io/u/jom99my",
+            "https://source.coderefinery.org/jom99my",
+            "https://dialog.eslov.se/profiles/jom99my/activity?locale=en",
+            "https://tealfeed.com/jom99my",
+            "https://oyaschool.com/users/jom99jom99/",
+            "https://forum.issabel.org/u/jom99my",
+            "https://link.space/@jom99my",
+            "https://www.goodreads.com/user/show/192793607-jom99",
+            "https://writexo.com/share/vel12gp8",
+            "https://granotas.net/user/jom99my",
+            "https://telegra.ph/Jom99-08-08",
+            "https://linktr.ee/jom99my",
+            "https://hackmd.io/@jom99my/ryHwoiQOll",
+            "https://www.hogwartsishere.com/1751951/",
+            "https://confengine.com/user/jom99my",
+            "https://justpaste.it/u/jom99my",
+            "https://photoclub.canadiangeographic.ca/profile/21681530",
+            "https://mlx.su/paste/view/1374f75b",
+            "https://pastelink.net/kyr8vfur",
+            "https://soundcloud.com/jom99my"
+        ]
+        }
+        </script>
+
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Jom99",
-            "url": "https://jom99.org/",
-            "logo": "https://jom99.org/images/logo.png",
-            "contactPoint": {
-                "@type": "ContactPoint",
-                "telephone": "+6012-8541234",
-                "contactType": "Customer Service",
-                "areaServed": "MY",
-                "availableLanguage": ["Malay", "English"]
-            },
-            "sameAs": [
-                "https://www.facebook.com/jom99",
-                "https://twitter.com/jom99",
-                "https://www.instagram.com/jom99"
-            ],
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "Tingkat 10, Menara A, No. 23 Jalan Bukit Bintang",
-                "addressLocality": "Kuala Lumpur",
-                "postalCode": "55100",
-                "addressCountry": "MY"
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "jom99",
+            "item": "https://jom99.org/"
             }
+        ]
         }
         </script>
 
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "jom99",
-                "item": "https://jom99.org/"
-                }
-            ]
-        }
-        </script>
-
-        <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [
-                {
-                    "@type": "Question",
-                    "name": "Bagaimana cara untuk mencipta akaun di Jom99?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Untuk mendaftar, hanya lawati halaman pendaftaran, isikan butiran anda, dan cipta kata laluan yang selamat."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apakah jenis permainan yang boleh saya mainkan di Jom99?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Jom99 menawarkan pelbagai permainan termasuk slot, permainan kasino langsung, permainan meja, dan banyak lagi."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Adakah Jom99 tersedia di telefon bimbit?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya, anda boleh memuat turun Jom99 APK untuk bermain pada peranti Android anda bila-bila masa, di mana sahaja."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apakah kaedah pembayaran yang disediakan di Jom99?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Kami menerima kad kredit, e-dompet, dan pemindahan bank untuk deposit dan pengeluaran."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Adakah permainan di Jom99 adil?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya, semua permainan dijana menggunakan RNG (Random Number Generators) untuk memastikan keadilan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bagaimana saya menuntut bonus alu-aluan saya?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Hanya daftar sebagai pengguna baru, dan bonus alu-aluan akan dimasukkan ke dalam akaun anda secara automatik."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bolehkah saya menggunakan bonus saya untuk semua permainan?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Bonus boleh digunakan pada kebanyakan permainan, tetapi beberapa pengecualian mungkin terpakai. Sila semak syarat dan terma."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apakah program VIP?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Program VIP memberikan ganjaran kepada pemain setia dengan bonus eksklusif, pengeluaran lebih pantas, dan pengurus akaun peribadi."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bagaimana saya boleh mengeluarkan kemenangan saya?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Anda boleh membuat pengeluaran Jom99 melalui kaedah pembayaran pilihan selepas akaun anda disahkan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Adakah Jom99 selamat untuk dimainkan?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya, kami menggunakan teknologi penyulitan untuk melindungi data anda dan memastikan permainan yang adil."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apa yang perlu saya lakukan jika saya perlukan bantuan?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Anda boleh menghubungi sokongan pelanggan kami 24/7 melalui sembang langsung, e-mel, atau telefon."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bolehkah saya menukar butiran akaun saya?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya, anda boleh mengemas kini maklumat akaun melalui bahagian tetapan akaun anda."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apa yang perlu saya lakukan jika saya terlupa kata laluan?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Anda boleh menetapkan semula kata laluan anda dengan mengikuti pautan 'Lupa Kata Laluan' di halaman log masuk."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bagaimana saya memastikan perjudian yang bertanggungjawab?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Jom99 menawarkan alat seperti pengecualian diri dan had deposit untuk membantu anda berjudi secara bertanggungjawab."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Adakah terdapat program rujukan?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya, Jom99 menawarkan program afiliasi di mana anda boleh menjana pendapatan dengan merujuk orang lain ke platform."
-                    }
-                }
-            ]
+        "@context": "http://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Bagaimana cara untuk mencipta akaun di Jom99?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Untuk mendaftar, hanya lawati halaman pendaftaran, isikan butiran anda, dan cipta kata laluan yang selamat."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah jenis permainan yang boleh saya mainkan di Jom99?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jom99 menawarkan pelbagai permainan termasuk slot, permainan kasino langsung, permainan meja, dan banyak lagi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah Jom99 tersedia di telefon bimbit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, anda boleh memuat turun Jom99 APK untuk bermain pada peranti Android anda bila-bila masa, di mana sahaja."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah kaedah pembayaran yang disediakan di Jom99?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kami menerima kad kredit, e-dompet, dan pemindahan bank untuk deposit dan pengeluaran."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah permainan di Jom99 adil?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, semua permainan dijana menggunakan RNG (Random Number Generators) untuk memastikan keadilan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya menuntut bonus alu-aluan saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanya daftar sebagai pengguna baru, dan bonus alu-aluan akan dimasukkan ke dalam akaun anda secara automatik."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menggunakan bonus saya untuk semua permainan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bonus boleh digunakan pada kebanyakan permainan, tetapi beberapa pengecualian mungkin terpakai. Sila semak syarat dan terma."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah program VIP?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Program VIP memberikan ganjaran kepada pemain setia dengan bonus eksklusif, pengeluaran lebih pantas, dan pengurus akaun peribadi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya boleh mengeluarkan kemenangan saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Anda boleh membuat pengeluaran Jom99 melalui kaedah pembayaran pilihan selepas akaun anda disahkan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah Jom99 selamat untuk dimainkan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, kami menggunakan teknologi penyulitan untuk melindungi data anda dan memastikan permainan yang adil."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa yang perlu saya lakukan jika saya perlukan bantuan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Anda boleh menghubungi sokongan pelanggan kami 24/7 melalui sembang langsung, e-mel, atau telefon."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menukar butiran akaun saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, anda boleh mengemas kini maklumat akaun melalui bahagian tetapan akaun anda."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa yang perlu saya lakukan jika saya terlupa kata laluan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Anda boleh menetapkan semula kata laluan anda dengan mengikuti pautan 'Lupa Kata Laluan' di halaman log masuk."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya memastikan perjudian yang bertanggungjawab?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jom99 menawarkan alat seperti pengecualian diri dan had deposit untuk membantu anda berjudi secara bertanggungjawab."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah terdapat program rujukan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, Jom99 menawarkan program afiliasi di mana anda boleh menjana pendapatan dengan merujuk orang lain ke platform."
+            }
+            }
+        ]
         }
         </script>
     </head>
