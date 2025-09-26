@@ -81,8 +81,8 @@ include '../inc/functions.php';
                                 <p> Semua bonus dan promosi yang ditawarkan adalah jelas dan telus. Kami tidak mengenakan yuran tersembunyi untuk promosi yang anda terima, jadi anda boleh menikmati hadiah anda tanpa risau. </p>
                                 <h2>Jenis Bonus yang Tersedia di Jom99</h2>
                                 <p> Kami menyediakan pelbagai jenis bonus untuk memastikan setiap pemain mendapat ganjaran yang berbeza-beza mengikut keperluan mereka. </p>
-                                <h3>Bonus Alu-Aluan</h3>
-                                <p> Bagi pemain baru, kami menawarkan bonus alu-aluan yang memberi anda lebih banyak <strong><a href="<?php echo $site_base_url;?>/">jom99 kredit</a></strong> untuk memulakan permainan anda. Bonus ini diberikan apabila anda melakukan deposit pertama anda, memberikan anda peluang tambahan untuk menang. </p>
+                                <h3>Bonus Selamat Datang </h3>
+                                <p> Bagi pemain baru, kami menawarkan Bonus Selamat Datang  yang memberi anda lebih banyak <strong><a href="<?php echo $site_base_url;?>/">jom99 kredit</a></strong> untuk memulakan permainan anda. Bonus ini diberikan apabila anda melakukan deposit pertama anda, memberikan anda peluang tambahan untuk menang. </p>
                                 <h3>Bonus Deposit</h3>
                                 <p> Kami juga menyediakan bonus deposit yang memberi anda lebih banyak wang setiap kali anda membuat deposit. Semakin banyak anda depositkan, semakin banyak bonus yang akan anda terima. Manfaatkan bonus ini untuk meningkatkan jumlah taruhan anda dan memperluas peluang kemenangan. </p>
                                 <h3>Putaran Percuma</h3>

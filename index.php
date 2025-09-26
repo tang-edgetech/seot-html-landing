@@ -13,21 +13,21 @@ include 'inc/functions.php';
         <meta name="author" content="jom99">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia</title>
-        <meta name="title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
-        <meta name="description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
+        <title>Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma</title>
+        <meta name="title" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
+        <meta name="description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
-        <meta itemprop="description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
+        <meta itemprop="name" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
+        <meta itemprop="description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
         <meta itemprop="image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://jom99.org/">
-        <meta property="og:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
-        <meta property="og:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
+        <meta property="og:title" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
+        <meta property="og:description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
         <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="jom99">
@@ -44,8 +44,8 @@ include 'inc/functions.php';
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="<?= $site_base_url;?>/images/jom99_logo.webp">
-        <meta name="twitter:title" content="Jom99 ᐉ Free Kredit untuk Main Slot di Malaysia">
-        <meta name="twitter:description" content="Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.">
+        <meta name="twitter:title" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
+        <meta name="twitter:description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
         <meta name="twitter:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
@@ -57,7 +57,7 @@ include 'inc/functions.php';
         "name": "Jom99",
         "url": "https://jom99.org/",
         "logo": "https://jom99.org/images/jom99_logo.webp",
-        "description": "Daftar di Jom99 dan nikmati free kredit untuk bermain slot dengan peluang jackpot tinggi. Platform terpercaya di Malaysia untuk game online.",
+        "description": "Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Tingkat 10, Menara A, No. 23 Jalan Bukit Bintang",
@@ -230,10 +230,10 @@ include 'inc/functions.php';
             },
             {
             "@type": "Question",
-            "name": "Bagaimana saya menuntut bonus alu-aluan saya?",
+            "name": "Bagaimana saya menuntut bonus selamat datang saya?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hanya daftar sebagai pengguna baru, dan bonus alu-aluan akan dimasukkan ke dalam akaun anda secara automatik."
+                "text": "Hanya daftar sebagai pengguna baru, dan bonus selamat datang akan dimasukkan ke dalam akaun anda secara automatik."
             }
             },
             {
@@ -459,13 +459,13 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Jom99 – Destinasi Terbaik untuk Permainan Slot Dalam Talian Anda</h1>
-                                <p>Selamat datang ke Jom99, destinasi utama untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Sama ada anda mencari <strong><a href="<?= $site_base_url;?>/slot/">slot</a></strong>, permainan kasino secara langsung, ganjaran VIP eksklusif, atau kaedah pembayaran yang mudah, <strong><a href="<?= $site_base_url;?>/">Jom99</a></strong> adalah pilihan utama untuk hiburan dalam talian. Sertai kami hari ini untuk meneroka pelbagai jenis permainan berkualiti tinggi, nikmati permainan mudah alih tanpa gangguan, dan manfaatkan bonus yang menarik.</p>
-                                <h2>Kenapa Pilih Jom99?</h2>
+                                <p>Selamat datang ke Jom99, destinasi utama untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Sama ada anda mencari <strong><a href="<?= $site_base_url;?>/slot/">permainan slot dalam talian</a></strong>, permainan kasino secara langsung, ganjaran VIP eksklusif, atau kaedah pembayaran yang mudah, <strong><a href="<?= $site_base_url;?>/">Jom99</a></strong> adalah pilihan utama untuk hiburan dalam talian. Sertai kami hari ini untuk meneroka pelbagai jenis permainan berkualiti tinggi, nikmati permainan mudah alih tanpa gangguan, dan manfaatkan bonus yang menarik.</p>
+                                <h2>Kenapa Pengguna Pilih Jom99?</h2>
                                 <p>Di Jom99, kami mengutamakan keselamatan, pengalaman permainan yang lancar, dan perkhidmatan pelanggan yang cemerlang. Berikut adalah sebab mengapa ribuan pemain memilih kami:</p>
                                 <h3>Permainan Dalam Talian yang Selamat dan Terpercaya</h3>
                                 <p>Kami faham bahawa keselamatan adalah aspek yang paling penting ketika bermain dalam talian. Oleh itu, Jom99 menggunakan teknologi penyulitan terkini untuk melindungi data peribadi dan kewangan anda. Permainan kami dijana oleh pembekal perisian yang dipercayai, memastikan keadilan dalam setiap putaran gulungan atau taruhan yang anda buat.</p>
                                 <h3>Kaedah Pembayaran yang Mudah dan Dipercayai</h3>
-                                <p>Membuat deposit dan pengeluaran dana di Jom99 adalah mudah. Kami menyokong pelbagai <strong><a href="<?= $site_base_url;?>/kaedah-pembayaran/">kaedah pembayaran</a></strong>, termasuk kad kredit, e-wallet, dan bank transfer, menjadikan ia mudah untuk anda menguruskan dana anda dengan selamat.</p>
+                                <p>Membuat deposit dan pengeluaran dana di Jom99 adalah mudah. Kami menyokong pelbagai <strong><a href="<?= $site_base_url;?>/kaedah-pembayaran/">kaedah pembayaran rasmi JOM99</a></strong>, termasuk kad kredit, e-wallet, dan bank transfer, menjadikan ia mudah untuk anda menguruskan dana anda dengan selamat.</p>
                                 <h3>Sokongan Pelanggan 24/7</h3>
                                 <p>Di Jom99, sokongan pelanggan kami tersedia sepanjang masa untuk membantu anda. Sama ada anda memerlukan bantuan dengan Jom99 login atau mempunyai pertanyaan mengenai akaun anda, pasukan mesra kami sentiasa bersedia memberikan bantuan segera.</p>
                                 <h3>Jelajahi Permainan Kami</h3>
@@ -477,14 +477,14 @@ include 'inc/functions.php';
                                 <p>Masuki dunia permainan pengedar langsung untuk pengalaman kasino secara langsung yang mendalam. Berinteraksi dengan pengedar profesional sambil bermain blackjack, rolet, baccarat, dan banyak lagi. Kehebatan bermain dalam suasana kasino sebenar dari keselesaan rumah anda adalah apa yang membuatkan permainan kasino langsung kami begitu popular.</p>
                                 <h3>Tajuk Baru: Permainan Segar Setiap Minggu</h3>
                                 <p>Kami komited untuk memastikan pengalaman permainan anda sentiasa segar. Setiap minggu, kami menambah permainan baharu ke platform kami, jadi anda akan sentiasa menemui sesuatu yang baru untuk diterokai dan nikmati.</p>
-                                <h2>Program VIP Jom99</h2>
+                                <h2>Program Jom99 untuk Ahli VIP</h2>
                                 <p>Program VIP kami memberi ganjaran kepada pemain yang setia dengan manfaat eksklusif dan perkhidmatan peribadi, menjadikan pengalaman permainan anda lebih istimewa.</p>
                                 <h3>Ganjaran dan Manfaat VIP Eksklusif</h3>
-                                <p>Sebagai seorang <strong><a href="<?= $site_base_url;?>/vip/">VIP Jom99</a></strong>, anda mendapat akses kepada pelbagai manfaat, seperti bonus yang diperibadikan, pengeluaran yang lebih pantas, dan sokongan pelanggan yang diutamakan. Semakin banyak anda bermain, semakin banyak ganjaran yang boleh anda perolehi, menjadikan setiap saat di Jom99 lebih menarik.</p>
+                                <p>Sebagai seorang <strong><a href="<?= $site_base_url;?>/vip/">member VIP JOM99 club</a></strong>, anda mendapat akses kepada pelbagai manfaat, seperti bonus yang diperibadikan, pengeluaran yang lebih pantas, dan sokongan pelanggan yang diutamakan. Semakin banyak anda bermain, semakin banyak ganjaran yang boleh anda perolehi, menjadikan setiap saat di Jom99 lebih menarik.</p>
                                 <h3>Cara Menjadi VIP</h3>
                                 <p>Menjadi VIP di Jom99 adalah mudah. Cuma main secara berkala, dan apabila anda mengumpul mata kesetiaan, anda akan membuka lebih banyak manfaat VIP eksklusif. Begitu mudah!</p>
                                 <h2>Permainan Selamat dan Lancar dengan APK Jom99</h2>
-                                <p>Main permainan kegemaran anda di mana sahaja dengan <strong><a href="<?= $site_base_url;?>/muat-turun-apk/">Jom99 APK</a></strong> untuk peranti Android. Muat turun aplikasi ini untuk menikmati permainan mudah alih tanpa gangguan. Dengan aplikasi kami, anda boleh mengakses semua permainan kegemaran anda dengan pengalaman yang sama berkualiti tinggi seperti di desktop.</p>
+                                <p>Main permainan kegemaran anda di mana sahaja dengan <strong><a href="<?= $site_base_url;?>/muat-turun-apk/">download aplikasi rasmi JOM99</a></strong> untuk peranti Android. Muat turun aplikasi ini untuk menikmati permainan mudah alih tanpa gangguan. Dengan aplikasi kami, anda boleh mengakses semua permainan kegemaran anda dengan pengalaman yang sama berkualiti tinggi seperti di desktop.</p>
                                 <h3>Muat Turun APK Jom99 untuk Permainan Tanpa Gangguan</h3>
                                 <p>Jom99 APK telah dioptimumkan sepenuhnya untuk memberikan anda pengalaman permainan yang lancar pada peranti mudah alih anda. Muat turun dan pasang APK pada peranti Android anda untuk mula bermain.</p>
                                 <h3>Kaedah Pembayaran Jom99</h3>
@@ -493,10 +493,10 @@ include 'inc/functions.php';
                                 <p>Kami menyokong pelbagai kaedah pembayaran, termasuk kad kredit, e-wallet, bank transfer, dan banyak lagi. Setiap transaksi diproses dengan selamat untuk memastikan wang anda terjamin.</p>
                                 <h3>Pengeluaran Cepat</h3>
                                 <p>Pengeluaran di Jom99 adalah pantas dan mudah. Kami berusaha untuk memproses setiap permintaan pengeluaran dengan cepat, supaya anda boleh mengakses kemenangan anda tanpa kelewatan.</p>
-                                <h2>Bonus & Promosi Tanpa Tanding</h2>
+                                <h2>Bonus dan Promosi Tanpa Tangguh</h2>
                                 <p>Jom99 sentiasa memberi ganjaran kepada pemain kami. Dari bonus alu-aluan yang murah hati hingga promosi berkala, terdapat sentiasa peluang untuk menambah kemenangan anda.</p>
-                                <h3>Bonus Alu-Aluan untuk Pemain Baru</h3>
-                                <p>Pemain baru boleh menikmati <strong><a href="<?= $site_base_url;?>/bonus-promosi/">bonus</a></strong> alu-aluan apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
+                                <h3>Bonus Selamat Datang untuk Pengguna Baru</h3>
+                                <p>Pemain baru boleh menikmati <strong><a href="<?= $site_base_url;?>/bonus-promosi/">bonus selamat datang</a></strong> alu-aluan apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
                                 <h3>Promosi Berkala dan Tawaran Khas</h3>
                                 <p>Kami sering menawarkan putaran percuma, bonus deposit, dan promosi menarik lain. Sentiasa periksa halaman promosi kami untuk tawaran terkini!</p>
                                 <h3>Program Kesetiaan</h3>
@@ -506,13 +506,13 @@ include 'inc/functions.php';
                                 <h3>Perjudian dengan Integriti dan Kawalan</h3>
                                 <p>Kami menggalakkan pemain untuk berjudi secara bertanggungjawab dan menawarkan ciri-ciri seperti pengecualian diri dan had deposit untuk membantu menguruskan masa bermain dan perbelanjaan. Perjudian seharusnya sentiasa menyeronokkan, dan kami menyediakan sumber untuk menyokong itu.</p>
                                 <h2>Privasi & Keselamatan: Komitmen Jom99</h2>
-                                <p><strong><a href="<?= $site_base_url;?>/dasar-privasi/">Privasi</a></strong> dan keselamatan anda adalah keutamaan kami. Di Jom99, kami menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
+                                <p><strong><a href="<?= $site_base_url;?>/dasar-privasi/">Dasar Privasi di JOM99</a></strong> dan keselamatan anda adalah keutamaan kami. Di Jom99, kami menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
                                 <h3>Bagaimana Kami Melindungi Data Anda</h3>
                                 <p>Kami menggunakan kaedah penyulitan yang canggih untuk melindungi maklumat sensitif anda semasa transaksi dan semasa anda melayari laman kami. Keselamatan anda adalah keutamaan kami.</p>
                                 <h3>Jaminan Permainan yang Adil</h3>
                                 <p>Semua permainan di Jom99 menggunakan Random Number Generators (RNG) untuk memastikan setiap keputusan adalah adil dan tidak berat sebelah. Anda boleh yakin bahawa setiap putaran, gulungan, atau keputusan adalah berdasarkan nasib.</p>
                                 <h2>Syarat & Terma Kami (T&C)</h2>
-                                <p>Sebelum bermula, kami menggalakkan semua pemain untuk membaca <strong><a href="<?= $site_base_url;?>/terma-syarat/">terms & conditions</a></strong> kami untuk memastikan pengalaman permainan yang lancar dan menyenangkan.</p>
+                                <p>Sebelum bermula, kami menggalakkan semua pemain untuk membaca <strong><a href="<?= $site_base_url;?>/terma-syarat/">terma dan syarat</a></strong> kami untuk memastikan pengalaman permainan yang lancar dan menyenangkan.</p>
                                 <h3>Peraturan yang Telus dan Mudah Difahami</h3>
                                 <p>Syarat dan terma (T&C) kami menggariskan peraturan platform dan cara pemain harus berinteraksi dengan laman ini. Peraturan ini memastikan keadilan dan ketelusan dalam semua perkhidmatan kami.</p>
                                 <h2>Hubungi Kami</h2>
@@ -594,12 +594,12 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        Bagaimana saya menuntut bonus alu-aluan saya?
+                                        Bagaimana saya menuntut bonus selamat datang saya?
                                     </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Hanya daftar sebagai pengguna baru, dan bonus alu-aluan akan dimasukkan ke dalam akaun anda secara automatik.
+                                        Hanya daftar sebagai pengguna baru, dan bonus selamat datang akan dimasukkan ke dalam akaun anda secara automatik.
                                     </div>
                                     </div>
                                 </div>
