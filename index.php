@@ -458,7 +458,7 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Jom99 – Destinasi Terbaik untuk Permainan Slot Dalam Talian Anda</h1>
+                                <h1>Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma</h1>
                                 <p>Selamat datang ke Jom99, destinasi utama untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Sama ada anda mencari <strong><a href="<?= $site_base_url;?>/slot/">permainan slot dalam talian</a></strong>, permainan kasino secara langsung, ganjaran VIP eksklusif, atau kaedah pembayaran yang mudah, <strong><a href="<?= $site_base_url;?>/">Jom99</a></strong> adalah pilihan utama untuk hiburan dalam talian. Sertai kami hari ini untuk meneroka pelbagai jenis permainan berkualiti tinggi, nikmati permainan mudah alih tanpa gangguan, dan manfaatkan bonus yang menarik.</p>
                                 <h2>Kenapa Pengguna Pilih Jom99?</h2>
                                 <p>Di Jom99, kami mengutamakan keselamatan, pengalaman permainan yang lancar, dan perkhidmatan pelanggan yang cemerlang. Berikut adalah sebab mengapa ribuan pemain memilih kami:</p>
