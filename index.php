@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.info/">   
+        <link rel="canonical" href="<?php echo $site_base_url;?>">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="WINMY">
@@ -22,12 +22,12 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta itemprop="description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.info/">
+        <meta property="og:url" content="<?php echo $site_base_url;?>">
         <meta property="og:title" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta property="og:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta property="og:site_name" content="WINMY">
@@ -44,7 +44,7 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="">
+        <meta name="twitter:site" content="WINMY">
         <meta name="twitter:title" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="twitter:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
@@ -55,8 +55,8 @@ include 'inc/functions.php';
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "WINMY",
-            "url": "https://winmy.info/",
-            "logo": "https://winmy.info/images/winmy_logo.webp",
+            "url": "<?php echo $site_base_url;?>",
+            "logo": "<?php echo $site_base_url;?>images/winmy_logo.webp",
             "description": "Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "address": {
                 "@type": "PostalAddress",
@@ -926,7 +926,7 @@ include 'inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "WINMY",
-            "item": "https://winmy.info/"
+            "item": "<?php echo $site_base_url;?>"
             }
         ]
         }

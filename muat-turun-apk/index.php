@@ -15,22 +15,22 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="renderer" content="webkit">
 
-        <title>Muat Turun WINMY APK: Panduan & Pemasangan</title>
-        <meta name="title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
-        <meta name="description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
+        <title>WINMY APK</title>
+        <meta name="title" content="WINMY APK">
+        <meta name="description" content="Panduan Muat Turun dan Cara Pemasangan dengan Selamat">
         <meta name="keywords" content="winmy, download apk, muat turun apk, WINMY apk, aplikasi WINMY, Android APK">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Muat Turun WINMY APK: Panduan & Pemasangan">
-        <meta itemprop="description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
+        <meta itemprop="name" content="WINMY APK">
+        <meta itemprop="description" content="Panduan Muat Turun dan Cara Pemasangan dengan Selamat">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://winmy.info/muat-turun-apk">
-        <meta property="og:title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
-        <meta property="og:description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
+        <meta property="og:title" content="WINMY APK">
+        <meta property="og:description" content="Panduan Muat Turun dan Cara Pemasangan dengan Selamat">
         <meta property="og:site_name" content="winmy.info">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="winmy">
