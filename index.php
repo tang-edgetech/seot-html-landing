@@ -217,7 +217,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="<?= $site_base_url;?>/images/img-banner-clubmy-first-deposit-.webp" alt="promo banner">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/img-banner-clubmy-first-deposit.webp" alt="promo banner">
                         </div>
                     </div>
                 </div>
