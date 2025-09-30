@@ -9,11 +9,200 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
+        <link rel="canonical" href="https://clubmy.org/muat-turun-apk/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="CLUBMY">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)</title>
+        <meta name="title" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta name="description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta itemprop="description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
+        <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://clubmy.org/muat-turun-apk/">
+        <meta property="og:title" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta property="og:description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
+        <meta property="og:site_name" content="CLUBMY">
+        <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <meta property="article:tag" content="CLUBMY">
+        <meta property="article:tag" content="Muat turun CLUBMY apk"> 
+        <meta property="article:tag" content="CLUBMY Android">
+        <meta property="article:tag" content="CLUBMY iOS">
+        <meta property="article:tag" content="Download CLUBMY apk">
+        <meta property="article:tag" content="Aplikasi CLUBMY">
+        <meta property="article:tag" content="CLUBMY apk slot">
+        <meta property="article:tag" content="CLUBMY apk">
+        <meta property="article:tag" content="slot mudah alih CLUBMY">
+        <meta property="article:tag" content="CLUBMY app rasmi">
+
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:title" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta name="twitter:description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
+        <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <base href="<?php echo $site_base_url;?>">
+        <?php include '../inc/stylesheet.php';?>
+
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CLUBMY",
+            "item": "https://clubmy.org/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Muat Turun Aplikasi",
+            "item": "https://clubmy.org/muat-turun-apk/"
+            }
+        ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Apakah kelebihan menggunakan APK berbanding laman web mudah alih?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "APK memberikan akses lebih pantas, navigasi yang lancar, dan pemberitahuan segera tentang promosi serta kejohanan eksklusif."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah APK CLUBMY selamat untuk dipasang?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, APK kami selamat. Ia menggunakan penyulitan SSL dan hanya meminta kebenaran penting yang diperlukan untuk operasi aplikasi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana jika APK tidak dipasang pada peranti saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pastikan anda telah mengaktifkan pemasangan dari sumber tidak dikenali dalam tetapan peranti Android anda. Jika masalah berterusan, hubungi sokongan kami."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menggunakan APK CLUBMY jika saya pengguna iOS?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "APK ini khusus untuk Android sahaja. Pengguna iOS boleh mengakses laman web mudah alih CLUBMY yang dioptimumkan sepenuhnya."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah yang perlu saya lakukan jika aplikasi tidak berfungsi selepas kemas kini?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cuba tutup aplikasi dan buka semula. Jika masalah berterusan, uninstall dan pasang semula APK terbaru atau hubungi sokongan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya mengemas kini APK secara manual?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Muat turun versi terbaru APK dari laman rasmi CLUBMY dan pasangkan secara manual selepas menyahpasang versi lama."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah kebenaran yang diperlukan oleh APK CLUBMY?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "APK meminta kebenaran asas seperti akses storan untuk pemasangan dan sambungan internet untuk fungsi permainan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah saya perlu uninstall versi lama sebelum memasang APK baru?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Disarankan untuk menyahpasang versi lama bagi mengelakkan konflik dan memastikan prestasi aplikasi optimum."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana untuk menyelesaikan masalah muat turun APK yang gagal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pastikan sambungan internet stabil, ruang storan cukup, dan tetapan keselamatan membenarkan muat turun dari sumber luar."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah APK CLUBMY memerlukan sambungan internet yang kuat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, sambungan internet yang stabil diperlukan untuk pengalaman permainan lancar dan pengesahan akaun."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya bermain tanpa internet selepas memasang APK?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tidak, CLUBMY memerlukan sambungan internet aktif untuk mengakses permainan dan fungsi penuh aplikasi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah perbezaan antara mod demo di APK dan laman web?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mod demo di APK dan laman web menyediakan fungsi yang sama untuk cuba permainan tanpa risiko menggunakan wang sebenar."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah aplikasi menyimpan maklumat akaun saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Aplikasi menyimpan maklumat asas untuk akses mudah tetapi semua data sensitif dilindungi menggunakan penyulitan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya boleh melaporkan isu teknikal berkaitan APK?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hubungi pasukan sokongan melalui live chat atau email yang tersedia di hubungi kami."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah ada promosi eksklusif hanya untuk pengguna APK?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, pengguna APK kadang-kadang layak mendapat promosi khas yang tidak tersedia di platform lain. Sentiasa semak bahagian promosi kami untuk maklumat terkini."
+            }
+            }
+        ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

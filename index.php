@@ -9,17 +9,194 @@ include 'inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>CLUBMY – Pengalaman Kasino Dalam Talian Terunggul di Malaysia</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
-        <meta name="title" content="CLUBMY – Pengalaman Kasino Dalam Talian Terunggul di Malaysia">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
         <link rel="canonical" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="x-default" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="en" href="https://clubmy.org/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="CLUBMY">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia</title>
+        <meta name="title" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta name="description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta itemprop="description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
+        <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://clubmy.org/">
+        <meta property="og:title" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta property="og:description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
+        <meta property="og:site_name" content="CLUBMY">
+        <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <meta property="article:tag" content="CLUBMY">
+        <meta property="article:tag" content="CLUBMY slot online">
+        <meta property="article:tag" content="Login CLUBMY official">
+        <meta property="article:tag" content="Aplikasi CLUBMY rasmi">
+        <meta property="article:tag" content="CLUBMY apk terbaru">
+        <meta property="article:tag" content="CLUBMY kasino Malaysia">
+        <meta property="article:tag" content="Muat turun CLUBMY apk rasmi">
+        <meta property="article:tag" content="CLUBMY daftar akaun">
+        <meta property="article:tag" content="CLUBMY bonus menarik">
+        <meta property="article:tag" content="CLUBMY jackpot">
+        <meta property="article:tag" content="CLUBMY platform rasmi">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:title" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta name="twitter:description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
+        <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
+
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "CLUBMY",
+                    "item": "https://clubmy.org/"
+                }
+            ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Bagaimana cara untuk saya daftar akaun di clubmy?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Klik butang "Daftar", isi maklumat anda, sahkan e-mel, dan anda boleh mula bermain dalam masa beberapa minit."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apakah jumlah deposit minimum?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Jumlah deposit minimum di clubmy ialah RM50 atau yang setara dengannya."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya mencuba permainan tanpa pertaruhan wang sebenar?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya. Kebanyakan permainan mempunyai mod demo yang membolehkan anda bermain tanpa risiko wang sebenar."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Berapa lama pengeluaran dana diproses?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Pengeluaran biasanya mengambil masa kurang daripada 24 jam, tetapi tempoh mungkin berbeza mengikut kaedah yang dipilih."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah clubmy memiliki lesen yang sah?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, clubmy beroperasi di bawah lesen permainan Malaysia yang sah dan sentiasa diaudit secara bebas."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah terdapat syarat pertaruhan untuk bonus yang diberikan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya. Semua bonus mempunyai syarat pertaruhan yang jelas, biasanya antara 20x hingga 35x jumlah bonus."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya menetapkan had deposit atau kerugian?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, anda boleh menetapkan had deposit dan kerugian melalui tetapan akaun anda."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah clubmy menyokong pembayaran mata wang kripto?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, kami menerima Bitcoin, Ethereum dan beberapa mata wang kripto lain."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang berlaku jika permainan saya tergendala semasa bermain?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Sistem kami akan menyimpan sesi terakhir permainan anda. Anda boleh sambung semula selepas membuka permainan tersebut semula."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bagaimana saya boleh menyertai kejohanan yang dianjurkan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Anda boleh sertai kejohanan secara terus melalui bahagian promosi atau acara komuniti di laman web kami."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah permainan mudah alih disokong?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, laman web kami dioptimumkan sepenuhnya untuk peranti mudah alih, dan pengguna Android boleh memuat turun APK kami."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya menggunakan akaun yang sama pada beberapa peranti secara serentak?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Tidak, untuk tujuan keselamatan, hanya satu sesi aktif dibenarkan bagi setiap akaun pada satu-satu masa."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang perlu saya lakukan jika terlupa kata laluan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Klik "Lupa Kata Laluan" di halaman log masuk dan ikut arahan yang diberikan."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa berlaku jika terdapat aktiviti mencurigakan pada akaun saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Akaun anda akan dibekukan sementara untuk keselamatan, dan pasukan kami akan menjalankan siasatan segera."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah clubmy mempunyai ciri unik yang tiada di laman kasino lain?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya, clubmy menawarkan permainan realiti maya (VR) dan kejohanan interaktif eksklusif yang jarang ditemui di kasino dalam talian Malaysia."
+                    }
+                }
+            ]
+        }
+        </script>
     </head>
     <body>
         <?php include 'inc/navbar.php';?>
@@ -40,7 +217,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="images/clubmy_first-deposit-bonus-120-percent-online-casino-malaysia.webp" alt="promo banner">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/img-banner-clubmy-frist-deposit-.webp" alt="promo banner">
                         </div>
                     </div>
                 </div>
@@ -51,8 +228,8 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Daftar</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Log Masuk</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://www.win111.asia/register/?affiliateCode=win111v1seo8" rel="nofollow noopener noreferrer">Daftar</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://www.win111.asia/register/?affiliateCode=win111v1seo8" rel="nofollow noopener noreferrer">Log Masuk</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -69,15 +246,15 @@ include 'inc/functions.php';
                                     </div>
                                     <div class="col-5 px-0 ">
                                         <div class="row m-0 p-0 w-100">
-                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://www.win111.asia/register/?affiliateCode=win111v1seo8" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
-                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://www.win111.asia/register/?affiliateCode=win111v1seo8" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -88,9 +265,9 @@ include 'inc/functions.php';
                                                 </div>
                                             </a>
                                             
-                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://www.win111.asia/register/?affiliateCode=win111v1seo8" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
                                                 </div>
                                             </a>

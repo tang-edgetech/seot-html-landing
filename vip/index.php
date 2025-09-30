@@ -9,45 +9,65 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://clubmy.org/vip/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="CLUBMY">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas</title>
+        <meta name="title" content="CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas">
+        <meta name="description" content="CLUBMY menawarkan program VIP dengan ganjaran eksklusif, cashback, had pengeluaran tinggi dan sokongan peribadi. Sertai hari ini untuk nilai maksimum.">
+
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
+        <meta itemprop="name" content="CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas">
+        <meta itemprop="description" content="CLUBMY menawarkan program VIP dengan ganjaran eksklusif, cashback, had pengeluaran tinggi dan sokongan peribadi. Sertai hari ini untuk nilai maksimum.">
+        <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
+
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://clubmy.org/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="x-default" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="en" href="https://clubmy.org/">
+        <meta property="og:url" content="https://clubmy.org/vip/">
+        <meta property="og:title" content="CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas">
+        <meta property="og:description" content="CLUBMY menawarkan program VIP dengan ganjaran eksklusif, cashback, had pengeluaran tinggi dan sokongan peribadi. Sertai hari ini untuk nilai maksimum.">
+        <meta property="og:site_name" content="CLUBMY">
+        <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <meta property="article:tag" content="CLUBMY vip">
+        <meta property="article:tag" content="CLUBMY VIP program">
+        <meta property="article:tag" content="CLUBMY ganjaran eksklusif">
+        <meta property="article:tag" content="CLUBMY bonus vip">
+        <meta property="article:tag" content="Vip CLUBMY">
+        <meta property="article:tag" content="CLUBMY slot vip">
+        <meta property="article:tag" content="VIP eksklusif CLUBMY">
+        
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:title" content="CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas">
+        <meta name="twitter:description" content="CLUBMY menawarkan program VIP dengan ganjaran eksklusif, cashback, had pengeluaran tinggi dan sokongan peribadi. Sertai hari ini untuk nilai maksimum.">
+        <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        
+        <!-- Schema Markup -->
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "BlogPosting",
-            "name": "Program VIP LPK777",
-            "url": "https://clubmy.org/vip",
-            "inLanguage": "ms",
-            "description": "Jom sertai Program VIP LPK777 dan nikmati cashback tinggi, bonus tersuai, pengeluaran pantas & sokongan khas. Main slot & naik tahap untuk ganjaran eksklusif!" 
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CLUBMY",
+            "item": "https://clubmy.org/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "VIP",
+            "item": "https://clubmy.org/vip/"
+            }
+        ]
         }
         </script>
 
@@ -58,98 +78,82 @@ include '../inc/functions.php';
         "mainEntity": [
             {
             "@type": "Question",
-            "name": "Bagaimana nak jadi ahli VIP di LPK777?",
+            "name": "Apakah itu CLUBMY?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Anda akan disenaraikan secara automatik bila aktif bermain dan membuat deposit."
+                "text": "Keahlian eksklusif yang menawarkan ganjaran tunai, promosi istimewa dan sokongan pelanggan premium."
             }
             },
             {
             "@type": "Question",
-            "name": "Adakah terdapat bayaran untuk sertai program VIP?",
+            "name": "Bagaimana cara menyertai CLUBMY?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Tiada. Ia percuma dan berdasarkan aktiviti permainan anda."
+                "text": "Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau live chat."
             }
             },
             {
             "@type": "Question",
-            "name": "Apa faedah jadi ahli VIP?",
+            "name": "Apakah kelebihan utama menjadi ahli VIP?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Pengeluaran cepat, cashback, bonus eksklusif, sokongan khas & hadiah harijadi – semuanya meningkat ikut tahap anda."
+                "text": "Cashback, had pengeluaran lebih tinggi, bonus eksklusif dan pengurus akaun peribadi."
             }
             },
             {
             "@type": "Question",
-            "name": "Berapa tahap VIP yang ada?",
+            "name": "Adakah terdapat yuran untuk menyertai program ini?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Empat tahap utama: Bronze, Silver, Gold, dan Platinum. Ada juga tahap sementara ikut musim."
+                "text": "Tiada yuran keahlian dikenakan, tetapi anda perlu memenuhi kriteria tertentu untuk kelayakan."
             }
             },
             {
             "@type": "Question",
-            "name": "Boleh ke hilang status VIP?",
+            "name": "Bolehkah saya mengeluarkan bonus bila-bila masa?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Boleh jika akaun tidak aktif untuk tempoh panjang (30-60 hari)."
+                "text": "Ya, tetapi tertakluk kepada syarat pertaruhan (wagering requirement) yang perlu dipenuhi terlebih dahulu."
             }
             },
             {
             "@type": "Question",
-            "name": "Seberapa kerap status VIP dikemas kini?",
+            "name": "Berapa lama keahlian VIP saya sah?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Setiap hari atau minggu berdasarkan aktiviti terkini."
+                "text": "Status VIP dikaji semula setiap bulan berdasarkan aktiviti permainan anda."
             }
             },
             {
             "@type": "Question",
-            "name": "Apa yang dikira untuk naik VIP?",
+            "name": "Bolehkah saya berkongsi akaun VIP saya?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Permainan slot dan jumlah deposit. Kadang-kadang promosi khas boleh percepatkan kemajuan."
+                "text": "Tidak. Akaun VIP adalah eksklusif dan tidak boleh dipindah milik atau dikongsi."
             }
             },
             {
             "@type": "Question",
-            "name": "Cashback dapat dalam bentuk apa?",
+            "name": "Adakah terdapat had pengeluaran bagi ahli VIP?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Biasanya sebagai bonus kredit atau putaran percuma slot, bergantung kepada tawaran."
+                "text": "Ya, tetapi had tersebut lebih tinggi berbanding akaun biasa dan bergantung pada tahap VIP anda."
             }
             },
             {
             "@type": "Question",
-            "name": "Bagaimana nak tahu saya naik tahap?",
+            "name": "Apa yang perlu dilakukan jika saya gagal memenuhi syarat bonus?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Anda akan terima notifikasi melalui emel atau papan pemuka."
+                "text": "Hubungi pasukan VIP untuk semakan dan bantuan lanjut."
             }
             },
             {
             "@type": "Question",
-            "name": "Adakah promosi VIP berbeza dari biasa?",
+            "name": "Di mana saya boleh menyemak terma dan syarat VIP penuh?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya! Promosi VIP lebih tinggi nilainya dan lebih eksklusif."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "VIP dapat had pengeluaran lebih baik?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Betul. Pengeluaran lebih besar & pantas dengan sedikit sekatan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Sokongan untuk VIP lain dari biasa?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Anda akan dapat keutamaan atau pengurus khas jika tahap Gold/Platinum."
+                "text": "Sila rujuk terus di laman rasmi CLUBMY untuk maklumat terkini."
             }
             }
         ]
@@ -426,143 +430,70 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Nikmati Ganjaran Eksklusif Bersama Program VIP LPK777</h1>
-                                <p>
-                                    Di <a href="https://clubmy.org"><strong>LPK777</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
-                                </p>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Ini bukan sistem bonus biasa,  ia adalah perjalanan anda ke arah ganjaran lebih syok, sokongan peribadi dan pengalaman permainan premium.
-                                </p>
+                                <h1>CLUBMY VIP: Panduan Eksklusif untuk Menjadi Ahli Istimewa</h1>
+                                <p class="mb-3">Program <strong>clubmy</strong> menawarkan pengalaman yang berbeza kepada pemain yang mencari ganjaran tinggi, sokongan peribadi, dan keistimewaan luar biasa. Sama ada anda baru sahaja mendaftar atau sudah berpengalaman dalam platform ini, status VIP memberikan nilai tambah yang nyata.</p>
+                                <p>Ketahui cara untuk menyertai program ini, kelebihan utama yang ditawarkan, serta strategi terbaik untuk memaksimumkan manfaat anda sebagai <a href="{{site_base_url}}/vip/"><strong>member vip clubmy</strong></a>.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Apa Itu Program VIP LPK777?</h2>
-                                <p>
-                                    <a href="https://clubmy.org/vip"><strong>Program VIP LPK777</strong></a> ialah sistem ganjaran berperingkat yang memberi akses kepada kelebihan yang meningkat berdasarkan aktiviti permainan dan deposit anda. Lagi banyak anda main, makin tinggi status VIP anda – dan makin banyak faedah yang akan dibuka. 
-                                </p>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Anda akan dipertimbangkan secara automatik untuk status VIP, tanpa perlu isi borang atau buat permintaan khas.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Kenapa Sertai Program VIP?</h2>
-                                <P>
-                                    Status VIP bukan sekadar nama mewah macam "Dato Seri", tapi ganjaran yang anda patut dapat. Antara sebab kenapa pemain LPK777 kejar status VIP:
-                                </P>
-                                <ul>
-                                    <li>Kadar <strong>cashback lebih tinggi</strong> untuk kurangkan kerugian</li>
-                                    <li><strong>Bonus eksklusif</strong> yang disesuaikan dengan gaya permainan anda</li>
-                                    <li><strong>Pengeluaran lebih pantas</strong> melalui sistem keutamaan</li>
-                                    <li><strong>Sokongan VIP</strong> khas dari ejen berpengalaman</li>
-                                    <li>Hadiah ulang tahun & ganjaran musim perayaan terus ke akaun</li>
-                                    <li>Jemputan ke acara khas & <a href="https://clubmy.org/bonus-promosi"><strong>kejohanan slot VIP</strong></a></li>
+                                <h2>Apakah Faedah Menyertai Program VIP CLUBMY?</h2>
+                                <p class="mb-2">Program VIP oleh clubmy merupakan sistem keahlian eksklusif yang direka khas untuk pemain yang aktif dan konsisten. Ia menawarkan pelbagai insentif seperti:</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2">Ganjaran tunai dan bonus eksklusif.</li>
+                                    <li class="mb-2">Had pengeluaran yang lebih tinggi.</li>
+                                    <li class="mb-2">Pengurus akaun peribadi.</li>
+                                    <li>Keutamaan dalam sokongan pelanggan.</li>
                                 </ul>
+                                <p>Tujuan utama program ini adalah untuk menghargai kesetiaan dan memberikan pengalaman permainan yang lebih premium.</p>
                                 <p>&nbsp;</p>
-                                <p>Kesetiaan anda membawa faedah sebenar, bukan sekadar cakap kosong atau tipu.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Tahap VIP & Cara Naik Peringkat</h2>
-                                <p>
-                                    Sistem VIP terdiri daripada beberapa tahap. Bila anda bermain dan buat deposit, anda akan capai milestone yang menaikkan status anda.
-                                </p>
-                                <p>&nbsp;</p>
-                                <div class="responsive-table">
-                                    <table class="table table-striped mb-0">
-                                        <thead>
-                                            <tr>
-                                                <th>Tahap</th>
-                                                <th>Keperluan</th>
-                                                <th>Cashback</th>
-                                                <th>Akses Bonus</th>
-                                                <th>Kelajuan Pengeluaran</th>
-                                                <th>Sokongan</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Bronze</td>
-                                                <td>Permulaan</td>
-                                                <td>Asas</td>
-                                                <td>Bonus umum</td>
-                                                <td>Standard</td>
-                                                <td>Live chat</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Silver</td>
-                                                <td>Sederhana</td>
-                                                <td>Lebih tinggi</td>
-                                                <td>Promosi tersuai</td>
-                                                <td>Lebih pantas</td>
-                                                <td>Keutamaan</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Gold</td>
-                                                <td>Tinggi</td>
-                                                <td>Premium</td>
-                                                <td>Bonus VIP</td>
-                                                <td>24-jam keutamaan</td>
-                                                <td>Agen khas</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Platinum</td>
-                                                <td>Teratas</td>
-                                                <td>Maksimum</td>
-                                                <td>Ganjaran peribadi</td>
-                                                <td>Pemprosesan serta-merta</td>
-                                                <td>Pengurus VIP</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <p class="fst-italic">
-                                    Nota: Angka tepat mungkin berbeza. Semak papan pemuka VIP anda untuk kemas kini semasa.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Cara Semak Status VIP Anda</h2>
-                                <p>
-                                    Ikuti langkah ini untuk melihat status semasa:
-                                </p>
-                                <ol>
-                                    <li>Log masuk akaun <a href="https://clubmy.org"><strong>LPK777</strong></a></li>
-                                    <li>Pergi ke “Profil Saya”</li>
-                                    <li>Klik tab “Status VIP” atau “Kesetiaan”</li>
-                                </ol>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Anda boleh lihat tahap semasa, kemajuan dan ganjaran yang akan datang. Notifikasi juga akan dihantar bila anda layak untuk naik tahap.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Keistimewaan Ahli VIP</h2>
-                                <p>Ahli VIP boleh nikmati beberapa ganjaran:</p>
-                                <ul>
-                                    <li>Cashback mingguan</li>
-                                    <li>Akses awal ke slot terbaru</li>
-                                    <li>Had pengeluaran lebih tinggi</li>
-                                    <li>Bonus tambah nilai tersuai</li>
-                                    <li>Hadiah ulang tahun & ulang tahun akaun</li>
-                                    <li>Jemputan untuk menguji ciri-ciri baharu lebih awal</li>
+                                
+                                <h2>Siapakah yang Layak Menyertai Program VIP CLUBMY?</h2>
+                                <p class="mb-2">Program VIP sesuai untuk dua kategori utama pengguna:</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2"><strong>Pemain baru</strong> yang ingin meningkatkan pengalaman dan memperoleh lebih nilai daripada setiap transaksi.</li>
+                                    <li><strong>Pemain berpengalaman atau ‘high rollers’</strong> yang membuat pertaruhan besar dan konsisten.</li>
                                 </ul>
+                                <p>Sekiranya anda kerap bermain dan memenuhi kriteria tertentu, anda berpotensi untuk dinaik taraf secara automatik ke dalam sistem VIP.</p>
                                 <p>&nbsp;</p>
-                                <p>
-                                    Makin tinggi tahap VIP anda, makin banyak ganjaran yang diterima, dengan pengguna Platinum menikmati keistimewaan paling eksklusif.
-                                </p>
+                                
+                                <h2>Cara Menyertai CLUBMY VIP dengan Mudah</h2>
+                                <p class="mb-2">Berikut adalah langkah ringkas untuk menjadi ahli VIP:</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2">Daftar dan aktifkan akaun di <a href="{{site_base_url}}"><strong>laman rasmi clubmy</strong></a>.</li>
+                                    <li class="mb-2">Lakukan pertaruhan secara konsisten mengikut had minimum yang ditetapkan.</li>
+                                    <li>Mohon keahlian VIP melalui borang khas atau berhubung terus dengan pasukan sokongan VIP.</li>
+                                </ul>
+                                <p>Selepas permohonan disemak, anda akan dimaklumkan tentang kelulusan serta tahap keahlian anda.</p>
                                 <p>&nbsp;</p>
-
-                                <h2>Sokongan Peralihan VIP: Kekalkan Status Anda</h2>
-                                <p>
-                                    Bagi pemain yang sudah bergelar VIP di platform lain, LPK777 menawarkan <strong>sokongan peralihan status</strong> yang membolehkan anda terus menikmati keistimewaan VIP tanpa perlu mula dari bawah. Anda hanya perlu buktikan status VIP anda terdahulu kepada pasukan sokongan, dan kami akan menyesuaikan tahap anda agar setanding atau lebih baik. Ini adalah cara kami menghargai pemain berpengalaman dan memastikan peralihan ke <a href="https://clubmy.org/slot"><strong>platform slot LPK777</strong></a> lebih lancar dan berbaloi.
-                                </p>
+                                
+                                <h2>Strategi Menjana Nilai Maksimum Sebagai Ahli VIP</h2>
+                                <p class="mb-2">Untuk memastikan anda mendapat manfaat penuh daripada program VIP, berikut beberapa strategi yang terbukti berkesan:</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2"><strong>Bermain semasa waktu promosi aktif</strong> untuk memperoleh bonus yang lebih tinggi.</li>
+                                    <li class="mb-2"><strong>Rancang pengeluaran berdasarkan struktur ganjaran</strong>—tunggu hingga capai ambang maksimum.</li>
+                                    <li><strong>Manfaatkan cashback dan mata ganjaran</strong> untuk mengurangkan kos keseluruhan permainan anda.</li>
+                                </ul>
+                                <p>Pendekatan ini bukan sahaja menjimatkan, tetapi dapat meningkatkan kadar kemenangan dalam jangka panjang.</p>
                                 <p>&nbsp;</p>
-
-                                <h2>Jangan Tunggu – Mulakan Perjalanan VIP Anda Sekarang</h2>
-                                <p>
-                                    Setiap pusingan membawa anda lebih dekat kepada ganjaran hebat. Tak kira main hari-hari atau sekali-sekala, kesetiaan anda akan dihargai. <a href="https://clubmy.org/vip"><strong>Program VIP LPK777</strong></a> dibina untuk memberi ganjaran sebenar – bukan sekadar gelaran kosong.
-                                </p>
+                                
+                                <h2>Kesilapan Biasa Ahli VIP Yang Perlu Dielakkan</h2>
+                                <p class="mb-2">Ramai pemain gagal memanfaatkan program VIP sepenuhnya kerana kesilapan berikut:</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2"><strong>Mengabaikan syarat bonus</strong>, menyebabkan ganjaran tidak boleh ditunaikan.</li>
+                                    <li class="mb-2"><strong>Membuat pertaruhan terlalu besar</strong> tanpa strategi jelas, yang boleh menyebabkan kerugian besar.</li>
+                                    <li><strong>Tidak menebus ganjaran sebelum tamat tempoh</strong>, menyebabkan kehilangan manfaat yang sepatutnya diperoleh.</li>
+                                </ul>
+                                <p>Sebagai ahli VIP, anda disarankan untuk sentiasa merujuk terma terkini dan mendapatkan nasihat daripada pengurus akaun anda.</p>
                                 <p>&nbsp;</p>
-                                <p>Log masuk, main, dan naik ke tahap yang anda layak!</p>
+                                
+                                <h2>Testimoni daripada Ahli VIP Kami</h2>
+                                <p><i>“Saya bermula dengan pertaruhan kecil, sekadar untuk mencuba. Namun selepas beberapa minggu, saya layak menyertai program VIP dan segala-galanya berubah. Sokongan lebih pantas, promosi lebih menarik, dan saya mendapat cashback setiap minggu.”
+ – Ahmad, 32 tahun</i></p>
+                                <p>&nbsp;</p>
+                                <p><i>“Sebagai pemain berpengalaman, saya pernah sertai beberapa platform. Namun, clubmy VIP nyata lebih profesional. Pengurus akaun sangat responsif dan saya dapat akses awal kepada promosi khas — rasa benar-benar dihargai.”
+ – Suraya, 38 tahun</i></p>
+                                <p>&nbsp;</p>
+                                <p><i>“Saya suka cara clubmy uruskan keahlian VIP. Semua teratur, tiada yuran tersembunyi, dan ganjaran yang diterima memang setimpal dengan usaha saya. Sangat disyorkan untuk pemain serius yang mahu lebih.”
+ – Faizal, 41 tahun</i></p>
                             </div>
                         </div>
                     </div>
@@ -578,12 +509,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Bagaimana nak jadi ahli VIP di LPK777?
+                                            Apakah itu clubmy VIP?
                                         </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Anda akan disenaraikan secara automatik bila aktif bermain dan membuat deposit.
+                                            Keahlian eksklusif yang menawarkan ganjaran tunai, promosi istimewa dan sokongan pelanggan premium.
                                         </div>
                                     </div>
                                 </div>
@@ -591,12 +522,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            Adakah terdapat bayaran untuk sertai program VIP?
+                                            Bagaimana cara menyertai clubmy VIP?
                                         </button>
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Tiada. Ia percuma dan berdasarkan aktiviti permainan anda.
+                                            Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau live chat.
                                         </div>
                                     </div>
                                 </div>
@@ -604,12 +535,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Apa faedah jadi ahli VIP?
+                                            Apakah kelebihan utama menjadi ahli VIP?
                                         </button>
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Pengeluaran cepat, cashback, bonus eksklusif, sokongan khas & hadiah harijadi – semuanya meningkat ikut tahap anda.
+                                            Cashback, had pengeluaran lebih tinggi, bonus eksklusif dan pengurus akaun peribadi.
                                         </div>
                                     </div>
                                 </div>
@@ -617,12 +548,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            Berapa tahap VIP yang ada?
+                                            Adakah terdapat yuran untuk menyertai program ini?
                                         </button>
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Empat tahap utama: Bronze, Silver, Gold, dan Platinum. Ada juga tahap sementara ikut musim.
+                                            Tiada yuran keahlian dikenakan, tetapi anda perlu memenuhi kriteria tertentu untuk kelayakan.
                                         </div>
                                     </div>
                                 </div>
@@ -630,12 +561,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Boleh ke hilang status VIP?
+                                            Bolehkah saya mengeluarkan bonus bila-bila masa?
                                         </button>
                                     </h3>
                                     <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Boleh jika akaun tidak aktif untuk tempoh panjang (30-60 hari).
+                                            Ya, tetapi tertakluk kepada syarat pertaruhan (wagering requirement) yang perlu dipenuhi terlebih dahulu.
                                         </div>
                                     </div>
                                 </div>
@@ -643,12 +574,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            Seberapa kerap status VIP dikemas kini?
+                                            Berapa lama keahlian VIP saya sah?
                                         </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Setiap hari atau minggu berdasarkan aktiviti terkini.
+                                            Status VIP dikaji semula setiap bulan berdasarkan aktiviti permainan anda.
                                         </div>
                                     </div>
                                 </div>
@@ -656,7 +587,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            Apa yang dikira untuk naik VIP?
+                                            Bolehkah saya berkongsi akaun VIP saya?
                                         </button>
                                     </h3>
                                     <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
@@ -669,12 +600,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            Cashback dapat dalam bentuk apa?
+                                            Adakah terdapat had pengeluaran bagi ahli VIP?
                                         </button>
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Biasanya sebagai bonus kredit atau <a href="https://clubmy.org/slot"><strong>putaran percuma slot</strong></a>, bergantung kepada tawaran.
+                                            Ya, tetapi had tersebut lebih tinggi berbanding akaun biasa dan bergantung pada tahap VIP anda.
                                         </div>
                                     </div>
                                 </div>
@@ -682,12 +613,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Bagaimana nak tahu saya naik tahap?
+                                            Apa yang perlu dilakukan jika saya gagal memenuhi syarat bonus?
                                         </button>
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Anda akan terima notifikasi melalui emel atau papan pemuka.
+                                            Hubungi pasukan VIP untuk semakan dan bantuan lanjut.
                                         </div>
                                     </div>
                                 </div>
@@ -695,41 +626,27 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            Adakah promosi VIP berbeza dari biasa?
+                                            Di mana saya boleh menyemak terma dan syarat VIP penuh?
                                         </button>
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Ya! <a href="https://clubmy.org/bonus-promosi"><strong>Promosi VIP</strong></a> lebih tinggi nilainya dan lebih eksklusif.
+                                            Sila rujuk terus di laman rasmi clubmy untuk maklumat terkini.
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            VIP dapat had pengeluaran lebih baik?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Betul. Pengeluaran lebih besar & pantas dengan sedikit sekatan.
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Sokongan untuk VIP lain dari biasa?
-                                        </button>
-                                    </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                        <div class="accordion-body">
-                                            Ya. Anda akan dapat keutamaan atau pengurus khas jika tahap Gold/Platinum.
-                                        </div>
-                                    </div>
-                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 px-4">
+                            <div class="text-editor">
+                                <h2>Kesimpulan</h2>
+                                <p>Keahlian <strong>ClubMY VIP</strong> adalah peluang terbaik bagi pemain yang ingin memperoleh lebih nilai dalam setiap permainan. Dengan bonus eksklusif, ganjaran tunai, dan layanan khas, program ini jelas memberikan kelebihan berbanding akaun biasa. Jika anda belum menyertainya, inilah masa yang sesuai untuk bertindak.</p>
                             </div>
                         </div>
                     </div>

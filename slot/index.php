@@ -9,16 +9,200 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>CLUBMY Slot– Koleksi Permainan Slot Terbaik Malaysia</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="CLUBMY Slot– Koleksi Permainan Slot Terbaik Malaysia">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <link rel="canonical" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="x-default" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="en" href="https://clubmy.org/">
+        <link rel="canonical" href="https://clubmy.org/slot/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="CLUBMY">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>CLUBMY Slot - Slot Online Terbaru & Kadar RTP Tinggi</title>
+        <meta name="title" content="CLUBMY Slot - Slot Online Terbaru & Kadar RTP Tinggi">
+        <meta name="description" content="CLUBMY menawarkan slot game online yang penuh hiburan dengan pelbagai pilihan genre, akses mudah alih pantas, jackpot progresif, dan hadiah istimewa.">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="CLUBMY Slot - Slot Online Terbaru & Kadar RTP Tinggi">
+        <meta itemprop="description" content="CLUBMY menawarkan slot game online yang penuh hiburan dengan pelbagai pilihan genre, akses mudah alih pantas, jackpot progresif, dan hadiah istimewa.">
+        <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://clubmy.org/slot/">
+        <meta property="og:title" content="CLUBMY Slot - Slot Online Terbaru & Kadar RTP Tinggi">
+        <meta property="og:description" content="CLUBMY menawarkan slot game online yang penuh hiburan dengan pelbagai pilihan genre, akses mudah alih pantas, jackpot progresif, dan hadiah istimewa.">
+        <meta property="og:site_name" content="CLUBMY">
+        <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <meta property="article:tag" content="CLUBMY">
+        <meta property="article:tag" content="Slot CLUBMY">
+        <meta property="article:tag" content="Bonus slot CLUBMY">
+        <meta property="article:tag" content="CLUBMY slot terbaik">
+        <meta property="article:tag" content="Slot video CLUBMY">
+        <meta property="article:tag" content="Putaran percuma CLUBMY">
+        <meta property="article:tag" content="RTP tinggi CLUBMY">
+        <meta property="article:tag" content="CLUBMY ewallet tanpa deposit">
+        <meta property="article:tag" content="Slot VIP CLUBMY">
+        <meta property="article:tag" content="slot online Malaysia">
+
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:title" content="CLUBMY Slot - Slot Online Terbaru & Kadar RTP Tinggi">
+        <meta name="twitter:description" content="CLUBMY menawarkan slot game online yang penuh hiburan dengan pelbagai pilihan genre, akses mudah alih pantas, jackpot progresif, dan hadiah istimewa.">
+        <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CLUBMY",
+            "item": "https://clubmy.org/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Slot",
+            "item": "https://clubmy.org/slot/"
+            }
+        ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya mula bermain slot di CLUBMY?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Daftar akaun, buat deposit, dan pilih permainan slot kegemaran anda untuk mula bermain."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Berapa taruhan minimum untuk slot CLUBMY?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Taruhan minimum biasanya bermula dari RM0.20, bergantung pada permainan yang dipilih."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya bermain slot secara percuma tanpa risiko?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, mod demo membolehkan anda cuba permainan tanpa menggunakan wang sebenar."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa itu RTP dan mengapa penting?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "RTP (Return to Player) adalah peratusan teoritis pulangan wang kepada pemain dalam jangka masa panjang."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana volatiliti mempengaruhi permainan slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Volatiliti menentukan kekerapan dan jumlah kemenangan; volatiliti rendah memberi kemenangan kecil kerap, manakala volatiliti tinggi menawarkan kemenangan besar tapi jarang."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah slot di CLUBMY adil dan selamat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, semua slot diuji menggunakan RNG yang disahkan oleh pihak ketiga untuk memastikan keadilan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa itu slot jackpot progresif?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slot jackpot progresif mempunyai jackpot yang bertambah setiap kali seseorang bermain sehingga seseorang memenanginya."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menang besar dengan slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, terutama pada slot jackpot progresif dan permainan dengan bonus pusingan percuma."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya bermain slot di telefon mudah alih saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, semua permainan slot di CLUBMY dioptimumkan untuk pengalaman mudah alih yang lancar."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah saya boleh menetapkan had deposit ketika bermain slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, anda boleh mengawal perbelanjaan anda dengan menetapkan had deposit melalui tetapan akaun."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya boleh sertai kejohanan slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kejohanan biasanya diumumkan dalam bahagian promosi; sertai melalui laman promosi untuk peluang menang hadiah menarik."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah CLUBMY menerima pembayaran menggunakan mata wang kripto untuk slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, anda boleh menggunakan Bitcoin, Ethereum dan beberapa mata wang kripto lain untuk deposit dan pengeluaran."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa yang perlu saya lakukan jika permainan terhenti semasa bermain slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Permainan akan menyimpan sesi terakhir anda; hubungi sokongan jika anda mengalami masalah berterusan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya bermain slot pada beberapa peranti secara serentak?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Untuk keselamatan, hanya satu sesi aktif dibenarkan bagi setiap akaun pada satu masa."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah slot eksklusif CLUBMY berbeza dari slot biasa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, slot eksklusif kami direka khas dengan tema lokal dan ciri unik yang sukar didapati di kasino lain."
+            }
+            }
+        ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

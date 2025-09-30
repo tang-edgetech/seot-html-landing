@@ -1,12 +1,21 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://clubmy.org/';
-    $site_base_url_en = 'https://clubmy.org/en/';
+    $site_base_url = 'https://clubmy.org';
+    $site_base_url_en = 'https://clubmy.org/en';
 }
 else {
-    $site_base_url = 'http://localhost/seot-html-landing/';
-    $site_base_url_en = 'http://localhost/seot-html-landing/en/';
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $site_base_url = 'http://localhost:8080/clubmy.org';
+        $site_base_url_en = 'http://localhost:8080/clubmy.org/en';
+    }
+    else {
+        $site_base_url = 'http://localhost/clubmy.org';
+        $site_base_url_en = 'http://localhost/clubmy.org/en';
+    }
 }
 $site_title = 'LPK777';
 if( !empty($page_name) ) {
@@ -398,6 +407,11 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
+    "win111" => [
+        "title" => "WIN111",
+        "description" => "Login Daily and Win Up to RM88",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+    ],
     "winbebas" => [
         "title" => "WINBEBAS",
         "description" => "First Deposit Bonus Up to 120%",

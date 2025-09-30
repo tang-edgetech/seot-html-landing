@@ -9,11 +9,197 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>Bonus & Promosi di CLUBMY – Peluang Hebat Menanti Anda</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Bonus & Promosi di CLUBMY – Peluang Hebat Menanti Anda">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
+        <link rel="canonical" href="https://clubmy.org/bonus-promosi/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="CLUBMY">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)</title>
+        <meta name="title" content="CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)">
+        <meta name="description" content="CLUBMY adalah destinasi game dalam talian yang lengkap dengan hadiah istimewa, kejohanan menarik, dan pengalaman pengguna yang lancar di APK dan iOS.">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)">
+        <meta itemprop="description" content="CLUBMY adalah destinasi game dalam talian yang lengkap dengan hadiah istimewa, kejohanan menarik, dan pengalaman pengguna yang lancar di APK dan iOS.">
+        <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://clubmy.org/bonus-promosi/">
+        <meta property="og:title" content="CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)">
+        <meta property="og:description" content="CLUBMY adalah destinasi game dalam talian yang lengkap dengan hadiah istimewa, kejohanan menarik, dan pengalaman pengguna yang lancar di APK dan iOS.">
+        <meta property="og:site_name" content="CLUBMY">
+        <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <meta property="article:tag" content="CLUBMY bonus"> 
+        <meta property="article:tag" content="CLUBMY promosi"> 
+        <meta property="article:tag" content="CLUBMY cashback harian">
+        <meta property="article:tag" content="bonus pemain baru CLUBMY"> 
+        <meta property="article:tag" content="CLUBMY bonus selamat datang">
+        <meta property="article:tag" content="Bonus slot Malaysia">
+        <meta property="article:tag" content="Deposit bonus CLUBMY">
+        <meta property="article:tag" content="CLUBMY putaran percuma">
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:title" content="CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)">
+        <meta name="twitter:description" content="CLUBMY adalah destinasi game dalam talian yang lengkap dengan hadiah istimewa, kejohanan menarik, dan pengalaman pengguna yang lancar di APK dan iOS.">
+        <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <base href="<?php echo $site_base_url;?>">
+        <?php include '../inc/stylesheet.php';?>
+
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CLUBMY",
+            "item": "https://clubmy.org/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Bonus & Promosi",
+            "item": "https://clubmy.org/bonus-promosi/"
+            }
+        ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Apakah jenis bonus selamat datang yang ditawarkan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pemain baru layak menerima bonus perlawanan deposit pertama sehingga 150% dan putaran percuma untuk slot terpilih."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana cara menuntut bonus reload mingguan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bonus reload boleh dituntut dengan membuat deposit minimum semasa promosi aktif, biasanya secara automatik atau melalui kod promosi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah kadar cashback harian?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "CLUBMY menawarkan cashback sehingga 10% dari kerugian bersih harian yang layak."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menggunakan putaran percuma pada semua slot?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Putaran percuma biasanya diberikan untuk slot tertentu yang disenaraikan dalam promosi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana cara saya menyertai kejohanan slot bulanan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Daftar dan sertai kejohanan melalui laman promosi CLUBMY semasa tempoh kejohanan berlangsung."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah kelebihan menjadi ahli VIP dalam mendapatkan bonus?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ahli VIP menerima bonus eksklusif, hadiah peribadi, dan akses ke acara serta kejohanan khas."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah semua bonus mempunyai syarat pertaruhan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, semua bonus mempunyai syarat pertaruhan yang mesti dipatuhi sebelum pengeluaran."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menolak tawaran bonus jika mahu bermain tanpa syarat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, anda boleh memilih untuk tidak menerima bonus tertentu."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana saya boleh mengetahui promosi terkini di CLUBMY?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Promosi terkini sentiasa dikemas kini di laman rasmi CLUBMY dan dihantar melalui notifikasi aplikasi untuk pengguna APK."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah bonus hanya untuk pemain baru?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tidak, CLUBMY menawarkan pelbagai bonus untuk pemain baru dan pemain setia secara berkala."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menggunakan bonus dan promosi di peranti mudah alih?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, semua promosi boleh diakses melalui laman web mudah alih atau aplikasi APK."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah yang perlu saya lakukan jika bonus tidak dikreditkan ke akaun saya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hubungi pasukan sokongan CLUBMY melalui live chat atau e-mel untuk bantuan segera."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah ada had maksimum kemenangan dari bonus?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sesetengah bonus mempunyai had kemenangan maksimum; maklumat ini terdapat dalam terma promosi."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bolehkah saya menggunakan beberapa bonus serentak?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Biasanya tidak, anda hanya boleh menuntut satu bonus pada satu masa mengikut terma."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah terdapat promosi eksklusif hanya untuk pengguna APK?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, pengguna APK sering menerima tawaran bonus eksklusif dan pemberitahuan awal tentang promosi baru."
+            }
+            }
+        ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

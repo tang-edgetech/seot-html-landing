@@ -9,16 +9,68 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>CLUBMY – Hubungi Kami</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Hubungi Kami di CLUBMY – Sokongan Mesra 24/7 untuk Anda">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <link rel="canonical" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="x-default" href="https://clubmy.org/">
-        <link rel="alternate" hreflang="en" href="https://clubmy.org/">
+        <link rel="canonical" href="https://clubmy.org/hubungi-kami/">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="CLUBMY">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>CLUBMY - Customer Service 24/7 Bantuan di Malaysia</title>
+        <meta name="title" content="CLUBMY - Customer Service 24/7 Bantuan di Malaysia">
+        <meta name="description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
+
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="CLUBMY - Customer Service 24/7 Bantuan di Malaysia">
+        <meta itemprop="description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
+        <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:locale" content="ms-MY">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://clubmy.org/hubungi-kami/">
+        <meta property="og:title" content="CLUBMY - Customer Service 24/7 Bantuan di Malaysia">
+        <meta property="og:description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
+        <meta property="og:site_name" content="CLUBMY">
+        <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
+        <meta property="article:tag" content="CLUBMY customer support">
+        <meta property="article:tag" content="CLUBMY bantuan"> 
+        <meta property="article:tag" content="Hubungi CLUBMY"> 
+        <meta property="article:tag" content="CLUBMY WhatsApp"> 
+        <meta property="article:tag" content="CLUBMY Telegram">
+        <meta property="article:tag" content="CLUBMY masalah log masuk"> 
+        <meta property="article:tag" content="CLUBMY Malaysia">
+        <meta property="article:tag" content="Bantuan 24/7 CLUBMY"> 
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:title" content="CLUBMY - Customer Service 24/7 Bantuan di Malaysia">
+        <meta name="twitter:description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
+        <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "CLUBMY",
+            "item": "https://clubmy.org/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hubungi Kami",
+            "item": "https://clubmy.org/hubungi-kami/"
+            }
+        ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
