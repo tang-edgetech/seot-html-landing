@@ -15,31 +15,54 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="renderer" content="webkit">
 
-        <title>WINMY APK</title>
-        <meta name="title" content="WINMY APK">
-        <meta name="description" content="Panduan Muat Turun dan Cara Pemasangan dengan Selamat">
+        <title>Muat Turun WINMY APK: Panduan & Pemasangan</title>
+        <meta name="title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
+        <meta name="description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
         <meta name="keywords" content="winmy, download apk, muat turun apk, WINMY apk, aplikasi WINMY, Android APK">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="WINMY APK">
-        <meta itemprop="description" content="Panduan Muat Turun dan Cara Pemasangan dengan Selamat">
+        <meta itemprop="name" content="Muat Turun WINMY APK: Panduan & Pemasangan">
+        <meta itemprop="description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://winmy.info/muat-turun-apk">
-        <meta property="og:title" content="WINMY APK">
-        <meta property="og:description" content="Panduan Muat Turun dan Cara Pemasangan dengan Selamat">
+        <meta property="og:title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
+        <meta property="og:description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
         <meta property="og:site_name" content="winmy.info">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
-        <meta property="article:tag" content="winmy">
-        <meta property="article:tag" content="download apk">
-        <meta property="article:tag" content="muat turun apk">
-        <meta property="article:tag" content="WINMY apk">
-        <meta property="article:tag" content="aplikasi mudah alih">
+        <meta property="article:tag" content="muat turun WINMY apk">
+        <meta property="article:tag" content="WINMY app download">
+        <meta property="article:tag" content="kasino mudah alih">
+        <meta property="article:tag" content="WINMY android apk">
+        <meta property="article:tag" content="WINMY ios app">
+        <meta property="article:tag" content="slot mobile malaysia">
+        <meta property="article:tag" content="apk slot percuma">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Muat Turun APK",
+                    "item": "https://winmy.info/muat-turun-apk/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -62,20 +85,20 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Gaming On The Go di WINMY</h1>
-                                <p>Main permainan kasino kegemaran anda bila-bila masa, di mana saja dengan aplikasi Android khusus kami. WINMY APK menawarkan masa muat pantas, ciri berguna, dan keselamatan kukuh supaya anda boleh fokus pada keseronokan. Langkau pelayar dan terus ke aksi—anda tidak akan korbankan kualiti atau kelajuan.</p>
+                                <p>Main permainan kasino kegemaran anda bila-bila masa, di mana saja dengan aplikasi Android khusus kami. <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>WINMY APK</strong></a> menawarkan masa muat pantas, ciri berguna, dan keselamatan kukuh supaya anda boleh fokus pada keseronokan. Langkau pelayar dan terus ke aksi—anda tidak akan korbankan kualiti atau kelajuan.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Mengapa Muat Turun APK WINMY?</h2>
-                                <p>Jika anda pilih winmy APK, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
+                                <p>Jika anda pilih <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>WINMY APK</strong></a>, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
                                 <p>&nbsp;</p>
                                 <h3>Masa Download Lebih Pantas & boleh percaya</h3>
-                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di halaman <a href="<?php echo $site_base_url;?>/permainan-slot"><strong>slot winmy</strong></a>.</p>
+                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di <a href="<?php echo $site_base_url;?>/permainan-slot/"><strong>halaman slot WINMY</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Ciri Eksklusif Mudah Alih</h3>
-                                <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan mobile-only bonuses & promotions menambah peluang anda menang.</p>
+                                <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>mobile-only bonuses & promotions</strong></a> menambah peluang anda menang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penambahbaikan Keselamatan & Privasi</h3>
-                                <p>WINMY APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
+                                <p>WINMY APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="<?php echo $site_base_url;?>/dasar-privasi/"><strong>Privacy Policy</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Keperluan Sistem & Keserasian</h2>
@@ -120,7 +143,7 @@ include '../inc/functions.php';
                                 <p>Dapatkan makluman <strong>flash reload bonuses</strong>, <strong>jackpot leaders</strong>, dan <strong>VIP milestones</strong> tanpa buka aplikasi. Notifikasi muncul di skrin utama, jadi anda tidak terlepas apa-apa.</p>
                                 <p>&nbsp;</p>
                                 <h3>One-Tap Deposits & Quick Cashouts</h3>
-                                <p>Paut e-wallet atau akaun bank pilihan anda untuk deposit pantas. Bila tiba masa keluarkan kemenangan, minta <strong>payout</strong> dengan satu ketik sahaja, rujuk halaman <a href="<?php echo $site_base_url;?>/kaedah-pembayaran"><strong>Payment Methods</strong></a> untuk butiran.</p>
+                                <p>Paut e-wallet atau akaun bank pilihan anda untuk deposit pantas. Bila tiba masa keluarkan kemenangan, minta <strong>payout</strong> dengan satu ketik sahaja, rujuk halaman <a href="<?php echo $site_base_url;?>/kaedah-pembayaran/"><strong>Payment Methods</strong></a> untuk butiran.</p>
                                 <p>&nbsp;</p>
                                 <h3>Offline Asset Caching</h3>
                                 <p>Aplikasi cache aset utama supaya skrin muat walaupun sambungan terganggu. Anda akan lihat thumbnail permainan dan menu serta-merta, kemudian animasi penuh apabila sambungan pulih.</p>
@@ -131,14 +154,14 @@ include '../inc/functions.php';
                                 <ul>
                                     <li><strong>Manage App Cache</strong><br/>
                                         <ul>
-                                            <li>Dalam Settings > Apps > Homepage, ketik “Clear Cache” setiap minggu.</li>
+                                            <li>Dalam Settings > Apps > <a href="<?= $site_base_url;?>/"><strong>Homepage</strong></a>, ketik “Clear Cache” setiap minggu.</li>
                                         </ul>
                                     </li>
                                     <li><strong>Troubleshooting Common Issues</strong><br/>
                                         <ul>
                                             <li>Jika fail install, semak “Unknown Sources” diaktifkan dan storan mencukupi.</li>
                                             <li>Untuk crash, kemas kini ke APK terkini atau mulakan semula peranti.</li>
-                                            <li>Jika masih bermasalah, lawat halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> untuk bantuan.</li>
+                                            <li>Jika masih bermasalah, lawat halaman <a href="<?php echo $site_base_url;?>/hubungi-kami/"><strong>Contact Us</strong></a> untuk bantuan.</li>
                                         </ul>
                                     </li>
                                 </ul>

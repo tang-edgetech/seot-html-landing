@@ -40,6 +40,27 @@ include '../inc/functions.php';
         <meta property="article:tag" content="pengecualian kendiri">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Perjudian Bertanggungjawab",
+                    "item": "https://winmy.info/perjudian-bertanggungjawab/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

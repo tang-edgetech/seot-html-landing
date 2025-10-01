@@ -33,13 +33,35 @@ include '../inc/functions.php';
         <meta property="og:description" content="Pilih kaedah pembayaran pantas & selamat di WINMY: bank tempatan, e-wallet, dan kripto. Deposit & pengeluaran diproses segera tanpa caj tersembunyi.">
         <meta property="og:site_name" content="winmy.info">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
-        <meta property="article:tag" content="winmy">
-        <meta property="article:tag" content="kaedah pembayaran">
-        <meta property="article:tag" content="bank tempatan">
-        <meta property="article:tag" content="e-wallet">
-        <meta property="article:tag" content="crypto">
+        <meta property="article:tag" content="WINMY kaedah pembayaran">
+        <meta property="article:tag" content="WINMY e-wallet Malaysia">
+        <meta property="article:tag" content="WINMY FPX bank transfer">
+        <meta property="article:tag" content="WINMY kad kredit debit">
+        <meta property="article:tag" content="WINMY pengeluaran dana">
+        <meta property="article:tag" content="metode pembayaran WINMY">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kaedah Pembayaran",
+                    "item": "https://winmy.info/kaedah-pembayaran/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -62,7 +84,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Cara Pembayaran WINMY: Mudah, Selamat & Pantas</h1>
-                                <p>Di <a href="<?php echo $site_base_url;?>"><strong>winmy</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
+                                <p>Di <a href="<?php echo $site_base_url;?>/"><strong>Winmy</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pilihan Kaedah Pembayaran yang Disokong</h2>
@@ -80,7 +102,7 @@ include '../inc/functions.php';
                                 <h2>Cara Deposit di WINMY</h2>
                                 <p class="mb-2">Membuat deposit mudah dan pantas. Ikuti langkah mudah ini:</p>
                                 <ol>
-                                    <li>Log masuk ke akaun WINMY anda.</li>
+                                    <li>Log masuk ke akaun <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> anda.</li>
                                     <li>Pergi ke halaman Kaedah Pembayaran WINMY di akaun anda.</li>
                                     <li>Pilih kaedah pembayaran yang sesuai.</li>
                                     <li>Masukkan jumlah deposit dan sahkan transaksi.</li>

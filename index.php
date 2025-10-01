@@ -8,30 +8,30 @@ include 'inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="<?php echo $site_base_url;?>">   
+        <link rel="canonical" href="https://winmy.info/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="WINMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000</title>
-        <meta name="title" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <title>Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000</title>
+        <meta name="title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta name="keywords" content="winmy, winmy slot, winmy casino, winmy login, muat turun APK, download winmy, win myr, winmy apk download, kasino online, VIP kasino, WINMY bonus slot">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta itemprop="name" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta itemprop="description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta itemprop="image" content="">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="<?php echo $site_base_url;?>">
-        <meta property="og:title" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta property="og:url" content="https://winmy.info/">
+        <meta property="og:title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta property="og:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta property="og:site_name" content="WINMY">
-        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="WINMY slot">
         <meta property="article:tag" content="WINMY casino">
@@ -44,19 +44,19 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="WINMY">
-        <meta name="twitter:title" content="Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta name="twitter:site" content="">
+        <meta name="twitter:title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="twitter:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <meta name="twitter:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
+        <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "WINMY",
-            "url": "<?php echo $site_base_url;?>",
-            "logo": "<?php echo $site_base_url;?>images/winmy_logo.webp",
+            "url": "https://winmy.info/",
+            "logo": "https://winmy.info/images/winmy_logo.webp",
             "description": "Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "address": {
                 "@type": "PostalAddress",
@@ -926,7 +926,7 @@ include 'inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "WINMY",
-            "item": "<?php echo $site_base_url;?>"
+            "item": "https://winmy.info/"
             }
         ]
         }
@@ -1040,7 +1040,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="<?= $site_base_url;?>/images/winmy-rm50-referral-banner.webp" alt="winmy-referral-fourfold-prizes">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/winmy-rm50-referral-banner.webp" alt="promo banner">
                         </div>
                     </div>
                 </div>
@@ -1167,8 +1167,8 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Program Referral WINMY - Dapatkan RM50 & Bonus Hingga RM4,888,000</h1>
-                                <p>Program Referral di <a href="<?= $site_base_url;?>"><strong>winmy</strong></a> menawarkan ganjaran lumayan untuk pengguna yang berkongsi platform ini dengan rakan-rakan sekalian. Setiap rujukan berjaya memberikan RM50, disertai komisen deposit 0.88%, komisen pertaruhan 0.48%, dan bonus pencapaian sehingga RM4.88 juta. Jika anda baru nak cuba atau sudah berpengalaman, kami mudahkan cara anda sign up, sahkan maklumat, dan terus boleh buat pertaruhan pertama.</p>
+                                <h1>Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000</h1>
+                                <p>Program Referral di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> menawarkan ganjaran lumayan untuk pengguna yang berkongsi platform ini dengan rakan-rakan sekalian. Setiap rujukan berjaya memberikan RM50, disertai komisen deposit 0.88%, komisen pertaruhan 0.48%, dan bonus pencapaian sehingga RM4.88 juta. Jika anda baru nak cuba atau sudah berpengalaman, kami mudahkan cara anda sign up, sahkan maklumat, dan terus boleh buat pertaruhan pertama.</p>
                                 <p>&nbsp;</p>
                                 <h2>Buat Pertaruhan Pertama Dalam Masa Beberapa Minit</h2>
                                 <p class="mb-2">Kami faham langkah pertama kadang rasa mencabar, jadi kami pecahkan proses itu kepada tiga langkah mudah. Dengan hanya tiga klik, anda boleh bergerak dari pendaftaran hingga buat pertaruhan pertama tanpa rasa pening atau tertunda.</p>
@@ -1192,7 +1192,7 @@ include 'inc/functions.php';
                                 <h3>Papan Pendahulu Slot Komuniti: Bersaing dan Menang Besar</h3>
                                 <p class="mb-2">Setiap putaran dan pertaruhan menyumbang kepada papan pendahulu mingguan kami, di mana pemain Malaysia bersaing untuk tempat teratas. Kumpul mata dalam permainan kegemaran anda untuk naik pangkat dan rebut hadiah yang semakin hebat bila anda berada di kedudukan atas.</p>
                                 <ul>
-                                    <li class="mb-2"><a href="<?php echo $site_base_url;?>/bonus-promosi/"><strong>Winmy bonus tunai</strong></a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
+                                    <li class="mb-2"><a href="<?= $site_base_url;?>/bonus-promosi/"><strong>Winmy bonus tunai</strong></a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
                                     <li class="mb-2">100–500 putaran percuma pada slot terpilih untuk pencapaian tertentu</li>
                                     <li class="mb-2">Barangan eksklusif winmy edisi terhad (kad TNG, T-shirt)</li>
                                     <li class="mb-2">Jemputan ke acara VIP dan pengganda mata bonus untuk pemain elit</li>
@@ -1205,7 +1205,7 @@ include 'inc/functions.php';
                                 <h3>Proses Download apk WINMY Mudah</h3>
                                 <p class="mb-2">Pasang aplikasi tanpa pening kepala teknikal ikut langkah ini:</p>
                                 <ul>
-                                    <li class="mb-2">Lawat <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>Download winmy APK</strong></a> pada peranti Android anda</li>
+                                    <li class="mb-2">Lawat <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>Download WINMY APK</strong></a> pada peranti Android anda</li>
                                     <li class="mb-2">Ketik “Download” dan benarkan pemasangan dari sumber tidak dikenali</li>
                                     <li>Buka aplikasi dan log masuk dengan akaun winmy anda</li>
                                 </ul>
@@ -1230,7 +1230,7 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3>Cara Buka Tahap VIP</h3>
-                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di halaman <a href="<?php echo $site_base_url;?>/vip"><strong>VIP</strong></a> dan buka ganjaran apabila capai tahap baharu.</p>
+                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di <a href="<?= $site_base_url;?>/vip/"><strong>halaman VIP</strong></a> dan buka ganjaran apabila capai tahap baharu.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kaedah Pembayaran Selamat dan Mudah</h2>
                                 <p>Tambah dana atau buat pengeluaran dengan pantas menggunakan pilihan tempatan dan antarabangsa yang dipercayai. Setiap langkah dijelaskan dengan jelas untuk memudahkan anda.</p>
@@ -1242,7 +1242,7 @@ include 'inc/functions.php';
                                     <li class="mb-2">GrabPay</li>
                                     <li>FPX Pemindahan Bank</li>
                                 </ul>
-                                <p>Maklumat lanjut ada di halaman <a href="<?php echo $site_base_url;?>/kaedah-pembayaran"><strong>Payment Methods</strong></a>.</p>
+                                <p>Maklumat lanjut ada di halaman <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>Payment Methods</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Deposit dan Pengeluaran Pantas</h3>
                                 <p>Deposit biasanya diproses serta-merta manakala permintaan pengeluaran selalunya diselesaikan dalam masa 24 jam. Setiap transaksi dikemas kini secara live supaya anda tahu statusnya.</p>
@@ -1260,13 +1260,13 @@ include 'inc/functions.php';
                                 <p>Keseronokan perlu seiring dengan keselamatan. Kami sediakan alat untuk membantu anda kawal masa dan perbelanjaan bermain, termasuk had boleh ubah dan pilihan kendiri mengecualikan akaun.</p>
                                 <p>&nbsp;</p>
                                 <h2>Janji Privasi Kami</h2>
-                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="<?php echo $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a>.</p>
+                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="<?= $site_base_url;?>/dasar-privasi/"><strong>Privacy Policy</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Terma dan Syarat Telus</h2>
-                                <p>Tiada terma tersembunyi. Halaman <a href="<?php echo $site_base_url;?>/terma-dan-syarat"><strong>Terms & Conditions</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
+                                <p>Tiada terma tersembunyi. Halaman <a href="<?= $site_base_url;?>/terma-dan-syarat/"><strong>Terms & Conditions</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
                                 <p>&nbsp;</p>
                                 <h2>Perlukan Bantuan? Hubungi Pasukan Sokongan Kami</h2>
-                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a>.</p>
+                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>Contact Us</strong></a>.</p>
                             </div>
                         </div>
                     </div>
@@ -1371,7 +1371,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Perpustakaan slot kami ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar.
+                                        <a href="<?= $site_base_url;?>/permainan-slot/"><strong>Perpustakaan slot kami</strong></a> ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar.
                                     </div>
                                     </div>
                                 </div>
@@ -1383,7 +1383,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>.
+                                        Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/"><strong>Responsible Gambling</strong></a>.
                                     </div>
                                     </div>
                                 </div>

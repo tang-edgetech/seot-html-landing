@@ -32,14 +32,36 @@ include '../inc/functions.php';
         <meta property="og:title" content="Bonus & Promosi WINMY: Tawaran Harian & VIP">
         <meta property="og:description" content="Dapatkan tawaran terbaru di WINMY: bonus deposit, free spin, cashback mingguan, dan promosi VIP eksklusif. Semak sekarang dan tingkatkan peluang menang anda!">
         <meta property="og:site_name" content="winmy.online">
-        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
-        <meta property="article:tag" content="winmy">
-        <meta property="article:tag" content="bonus">
-        <meta property="article:tag" content="promosi">
-        <meta property="article:tag" content="free spin">
-        <meta property="article:tag" content="cashback">
-        <base href="<?php echo $site_base_url;?>">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="article:tag" content="WINMY promosi kasino">
+        <meta property="article:tag" content="WINMY cashback harian">
+        <meta property="article:tag" content="tawaran hebat WINMY">
+        <meta property="article:tag" content="bonus pemain baharu WINMY">
+        <meta property="article:tag" content="WINMY bonus selamat datang">
+        <meta property="article:tag" content="bonus slot malaysia">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Bonus Promosi",
+                    "item": "https://winmy.info/bonus-promosi/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -62,7 +84,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Bonus & Promosi WINMY: 7+ Tawaran Hebat & Ganjaran Menarik</h1>
-                                <p>Bermain di WINMY bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab bonus dan promosi yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
+                                <p>Bermain di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> bukan sahaja seronok kerana permainan yang hebat, tapi juga sebab bonus dan promosi yang sentiasa melekat. Dari bonus selamat datang hingga promosi mingguan, kami pastikan setiap pemain dapat rasa ganjaran yang berbaloi. Tak kisah baru join atau dah lama bermain, ada je tawaran menarik yang boleh boost peluang anda menang besar.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Selamat Datang yang Menggoda</h2>
@@ -77,7 +99,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Promosi Mingguan dan Bulanan</h2>
-                                <p>Setiap minggu dan bulan, Win MY sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk slot terbaru. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni:</p>
+                                <p>Setiap minggu dan bulan, Win MY sediakan promosi yang fresh dan power khas untuk pemain aktif. Promosi ni termasuk cashback untuk reload deposit kedua dan seterusnya, serta putaran percuma untuk <a href="<?= $site_base_url;?>/permainan-slot/"><strong>slot terbaru</strong></a>. Supaya korang tak terlepas mana-mana tawaran, boleh semak jadual promosi kat bawah ni:</p>
                                 <p>&nbsp;</p>
                                 <div class="table-wrapper">
                                     <table class="table table-striped">
@@ -124,13 +146,13 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Eksklusif Mudah Alih</h2>
-                                <p>Main guna <a href="<?php echo $site_base_url;?>/muat-turun-apk"><strong>aplikasi WINMY</strong></a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
+                                <p>Main guna <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>aplikasi WINMY</strong></a>? Bagus! Ada bonus khas untuk pengguna mudah alih, termasuk putaran percuma tambahan dan padanan deposit eksklusif. Jadi, main kat mana-mana pun, ganjaran tetap ada.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Cara Nak Klaim Bonus</h2>
                                 <p class="mb-2">Claim bonus kat WINMY mudah je. Ikut langkah-langkah berikut:</p>
                                 <ol>
-                                    <li>Daftar akaun baru di <a href="<?= $site_base_url;?>"><strong>Win MY</strong></a>.</li>
+                                    <li>Daftar akaun baru di <a href="<?= $site_base_url;?>/"><strong>Halaman Utama WINMY</strong></a>.</li>
                                     <li>Buat deposit pertama mengikut syarat bonus yang ditawarkan.</li>
                                     <li>Ikut arahan khas untuk setiap bonus yang anda nak claim.</li>
                                     <li>Bonus akan dikreditkan terus ke akaun anda secara automatik.</li>
@@ -141,11 +163,11 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Peraturan Bonus dan Kejelasan Terma</h2>
-                                <p>Kami komited untuk pastikan semua bonus dan promosi adil dan telus. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="<?php echo $site_base_url;?>/terma-dan-syarat"><strong>Terms & Conditions</strong></a> supaya tiada kekeliruan.</p>
+                                <p>Kami komited untuk pastikan semua <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>bonus dan promosi adil dan telus</strong></a>. Setiap bonus datang dengan syarat pertaruhan dan tempoh sah yang perlu dipatuhi. Sila baca terma penuh di halaman <a href="<?= $site_base_url;?>/terma-dan-syarat/"><strong>Terma & Syarat</strong></a> supaya tiada kekeliruan.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan Untuk Bantuan Bonus</h2>
-                                <p>Kalau ada apa-apa soalan tentang bonus dan promosi, customer support kami sentiasa ready nak tolong. Hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> bila-bila masa, kami akan bantu anda settlekan isu dengan cepat dan mesra.</p>
+                                <p>Kalau ada apa-apa soalan tentang bonus dan promosi, customer support kami sentiasa ready nak tolong. Hubungi kami melalui halaman <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>Hubungi Kami</strong></a> bila-bila masa, kami akan bantu anda settlekan isu dengan cepat dan mesra.</p>
                             </div>
                         </div>
                     </div>

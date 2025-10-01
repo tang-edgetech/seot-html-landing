@@ -23,7 +23,7 @@ include '../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Dasar Privasi WINMY: Perlindungan Data & Privasi">
         <meta itemprop="description" content="Baca Dasar Privasi WINMY untuk maklumat cara kami melindungi data peribadi anda, penggunaan cookies, dan hak pengguna.">
-        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
@@ -32,15 +32,36 @@ include '../inc/functions.php';
         <meta property="og:title" content="Dasar Privasi WINMY: Perlindungan Data & Privasi">
         <meta property="og:description" content="Baca Dasar Privasi WINMY untuk maklumat cara kami melindungi data peribadi anda, penggunaan cookies, dan hak pengguna.">
         <meta property="og:site_name" content="winmy.info">
-        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="winmy">
         <meta property="article:tag" content="dasar privasi">
         <meta property="article:tag" content="privacy policy">
         <meta property="article:tag" content="data peribadi">
         <meta property="article:tag" content="cookies">
         <meta property="article:tag" content="GDPR">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Dasar Privasi",
+                    "item": "https://winmy.info/dasar-privasi/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -52,21 +73,21 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Polisi Privasi di WINMY</h1>
-                                <p class="mb-4">Kami di winmy komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
+                                <p class="mb-4">Kami di <strong>WINMY</strong> komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
                                 <ol>
-                                    <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di winmy. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
+                                    <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di <strong>WINMY</strong>. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
                                     <li class="mb-3"><strong>Penggunaan Maklumat</strong><br/>Maklumat yang dikumpul digunakan untuk:<br/>
                                         <ul>
                                             <li>Memproses pendaftaran dan transaksi anda.</li>
                                             <li>Memberikan sokongan pelanggan yang berkualiti.</li>
-                                            <li>Menghantar <a href="<?php echo $site_base_url;?>/bonus-promosi/"><strong>promosi</strong></a>, bonus, dan maklumat penting lain.</li>
+                                            <li>Menghantar <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>promosi</strong></a>, bonus, dan maklumat penting lain.</li>
                                             <li>Memastikan keselamatan akaun dan mencegah penipuan.</li>
                                             <li>Mematuhi keperluan undang-undang dan peraturan.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-3"><strong>Perkongsian Maklumat</strong><br/>Kami tidak menjual atau menyewakan maklumat peribadi anda kepada pihak ketiga. Namun, maklumat anda mungkin dikongsi dengan:<br/>
                                         <ul>
-                                            <li>Penyedia <a href="<?php echo $site_base_url;?>/kaedah-pembayaran"><strong>perkhidmatan pembayaran</strong></a> untuk memproses transaksi.</li>
+                                            <li>Penyedia <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>perkhidmatan pembayaran</strong></a> untuk memproses transaksi.</li>
                                             <li>Pihak berkuasa jika dikehendaki oleh undang-undang.</li>
                                             <li>Pihak ketiga yang membantu operasi perniagaan kami dengan perjanjian kerahsiaan.</li>
                                         </ul>
@@ -76,7 +97,7 @@ include '../inc/functions.php';
                                     <li class="mb-3"><strong>Kuki dan Teknologi Penjejakan</strong><br/>WINMY menggunakan kuki dan teknologi serupa untuk meningkatkan pengalaman pengguna, mengumpul data statistik dan memaparkan iklan yang relevan.</li>
                                     <li class="mb-3"><strong>Pematuhan GDPR dan Undang-undang Tempatan</strong><br/>Kami mematuhi peraturan perlindungan data antarabangsa seperti GDPR dan undang-undang privasi tempatan untuk memastikan hak privasi anda dihormati.</li>
                                     <li class="mb-3"><strong>Perubahan Polisi Privasi</strong><br/>Polisi ini mungkin dikemas kini dari masa ke masa. Sebarang perubahan akan diumumkan di laman web kami dan tarikh semakan terbaru akan dipaparkan.</li>
-                                    <li><strong>Hubungi Kami</strong><br/>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai polisi privasi ini, sila hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a>.</li>
+                                    <li><strong>Hubungi Kami</strong><br/>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai polisi privasi ini, sila hubungi kami melalui halaman <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>halaman hubungi WINMY</strong></a>.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <p>Kami bertekad untuk memastikan maklumat peribadi anda sentiasa dilindungi dan digunakan dengan penuh tanggungjawab. Terima kasih kerana mempercayai winmy sebagai platform permainan anda.</p>

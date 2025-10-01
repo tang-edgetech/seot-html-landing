@@ -23,7 +23,7 @@ include '../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Permainan Slot Online WINMY: Koleksi & Bonus">
         <meta itemprop="description" content="Main slot online terbaik di WINMY. Terokai koleksi slot klasik, video, dan 3D dengan RTP tinggi, bonus eksklusif, dan pengalaman adil dengan RNG disahkan.">
-        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
@@ -32,14 +32,39 @@ include '../inc/functions.php';
         <meta property="og:title" content="Permainan Slot Online WINMY: Koleksi & Bonus">
         <meta property="og:description" content="Main slot online terbaik di WINMY. Terokai koleksi slot klasik, video, dan 3D dengan RTP tinggi, bonus eksklusif, dan pengalaman adil dengan RNG disahkan.">
         <meta property="og:site_name" content="winmy.info">
-        <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
-        <meta property="article:tag" content="winmy">
-        <meta property="article:tag" content="permainan slot">
-        <meta property="article:tag" content="slot online">
-        <meta property="article:tag" content="RTP">
-        <meta property="article:tag" content="bonus slot">
-        <base href="<?php echo $site_base_url;?>">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
+        <meta property="article:tag" content="WINMY">
+        <meta property="article:tag" content="slot WINMY">
+        <meta property="article:tag" content="slot online malaysia">
+        <meta property="article:tag" content="Winmy slot demo">
+        <meta property="article:tag" content="Winmy app">
+        <meta property="article:tag" content="Winmy apk">
+        <meta property="article:tag" content="muat turun WINMY slot">
+        <meta property="article:tag" content="Winmy bonus slot">
+        <meta property="article:tag" content="slot vip WINMY">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Permainan Slot",
+                    "item": "https://winmy.info/permainan-slot/"
+                }
+            ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -62,17 +87,17 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Permainan WINMY Slot: Putar, Menang, Ulang</h1>
-                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="<?php echo $site_base_url;?>"><strong>win my</strong></a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
+                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Mengapa Pilih WINMY untuk Slot?</h2>
-                                <p>Di winmy, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
+                                <p>Di WINMY, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
                                 <p>&nbsp;</p>
                                 <h3>RNG Boleh Dipercayai dan Keadilan</h3>
                                 <p>Kami bekerjasama dengan pembekal berlesen sahaja, di mana generator nombor rawak mereka diaudit secara berkala oleh pihak ketiga. Semak laporan pembayaran bila-bila masa untuk sahkan setiap hasil tidak diubah suai.</p>
                                 <p>&nbsp;</p>
                                 <h3>Antara Muka Mesra Pemula</h3>
-                                <p>Navigasi slot winmy mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
+                                <p><a href="<?= $site_base_url;?>/permainan-slot/"><strong>Navigasi slot Winmy</strong></a> mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kategori Slot Kami</h2>
@@ -98,7 +123,7 @@ include '../inc/functions.php';
                                 <p>RTP tunjuk peratusan pulangan jangka panjang, manakala volatiliti ukur kekerapan dan saiz kemenangan. Volatiliti rendah beri kemenangan kecil kerap; tinggi beri kemenangan besar jarang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Saiz Pertaruhan, Garisan Bayaran & Simbol Khas</h3>
-                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="<?php echo $site_base_url;?>/bonus-promosi/"><strong>pusingan bonus</strong></a>.</p>
+                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>pusingan bonus</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Panduan Ringkas Cara Putar</h3>
                                 <ol>
@@ -113,7 +138,7 @@ include '../inc/functions.php';
                                 <p>Sedikit perancangan memastikan permainan anda seronok dan berterusan. Gunakan petua ini untuk urus bajet dan maksimumkan keseronokan.</p>
                                 <p>&nbsp;</p>
                                 <h3>Menetapkan Had Bankroll</h3>
-                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>. Ini membantu anda kekal berhemah.</p>
+                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>. Ini membantu anda kekal berhemah.</p>
                                 <p>&nbsp;</p>
                                 <h3>Memilih Slot Berdasarkan Volatiliti</h3>
                                 <p>Pilih volatiliti rendah untuk kemenangan kerap atau tinggi untuk peluang kemenangan besar. Padankan permainan dengan gaya dan mood anda.</p>
@@ -129,7 +154,7 @@ include '../inc/functions.php';
                                 <p>Setiap pertaruhan dermakan peratusan kecil kepada kumpulan bersama. Semakin ramai pemain join, semakin naik jackpot sebelum satu putaran bertuah merampasnya.</p>
                                 <p>&nbsp;</p>
                                 <h3>Kemenangan Jackpot Mengubah Hidup Terkini</h3>
-                                <p>Bulan lepas, seorang pemain di KL memenangi RM250,000 pada slot progresif, buktikan hadiah besar bukan sekadar janji.</p>
+                                <p>Bulan lepas, seorang pemain di KL memenangi RM250,000 pada <a href="<?= $site_base_url;?>/permainan-slot/"><strong>slot progresif</strong></a>, buktikan hadiah besar bukan sekadar janji.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pengalaman Slot Mudah Alih</h2>
@@ -181,7 +206,7 @@ include '../inc/functions.php';
                                 </div>
                                 <p>&nbsp;</p>
                                 <h3>Bonus Eksklusif Mudah Alih</h3>
-                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="<?php echo $site_base_url;?>/bonus-promosi/"><strong>Bonuses & Promotions</strong></a>.</p>
+                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>Bonuses & Promotions</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kejohanan Slot & Papan Pendahulu</h2>
@@ -191,7 +216,7 @@ include '../inc/functions.php';
                                 <p>Putar tajuk terpilih atau capai sasaran kemenangan tertentu untuk layak. Papan pendahulu dikemas kini secara langsung supaya anda tahu kedudukan anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Hadiah: Tunai, Putaran Percuma dan Barangan</h3>
-                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="<?= $site_base_url;?>"><strong>WINMY</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
+                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
                             </div>
                         </div>
                     </div>

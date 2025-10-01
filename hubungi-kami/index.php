@@ -40,8 +40,29 @@ include '../inc/functions.php';
         <meta property="article:tag" content="email">
         <meta property="article:tag" content="telegram">
         <meta property="article:tag" content="facebook">
-    <base href="<?php echo $site_base_url;?>">
+        <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMY",
+                    "item": "https://winmy.info"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Hubungi Kami",
+                    "item": "https://winmy.info/hubungi-kami/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -53,11 +74,11 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Hubungi Kami di WINMY</h1>
-                                <p class="mb-3">Kami di winmy sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, pembayaran, atau promosi, sila hubungi kami melalui kaedah berikut:</p>
+                                <p class="mb-3">Kami di <strong>WINMY</strong> sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, pembayaran, atau promosi, sila hubungi kami melalui kaedah berikut:</p>
                                 <ol>
                                     <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
                                     <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:winmy@gmail.com"><strong>winmy@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
-                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+60143507586"><strong>+6014-3507586</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
+                                    <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6014-3507586"><strong>+6014-3507586</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <h4>Alamat Pejabat</h4>
