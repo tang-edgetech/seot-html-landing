@@ -228,7 +228,7 @@ include '../inc/functions.php';
                                 <p>Nikmati pengalaman bermain kasino online CLUBMY yang lancar dengan aplikasi APK rasmi kami untuk Android. Dengan muat turun mudah, anda dapat mengakses koleksi permainan penuh tanpa perlu bergantung pada pelayar web. APK clubmy menawarkan prestasi pantas, navigasi mesra pengguna, dan pemberitahuan masa nyata untuk promosi terkini.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kelebihan Menggunakan APK CLUBMY</h2>
-                                <p>Dengan memasang <strong><a href="https://clubmy.org/">APK CLUBMY</a></strong> pada peranti Android anda, anda akan dapat:</p>
+                                <p>Dengan memasang <a href="https://clubmy.org/"><strong>APK CLUBMY<strong></a> pada peranti Android anda, anda akan dapat:</p>
                                 <ul>
                                     <li>Lancarkan permainan kegemaran dengan satu sentuhan tanpa perlu melalui skrin muat turun yang panjang</li>
                                     <li>Terima pemberitahuan segera tentang promosi dan kejohanan terbaru supaya tidak terlepas peluang menarik</li>
@@ -441,7 +441,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Hubungi pasukan sokongan melalui live chat atau email yang tersedia di <strong><a href="https://clubmy.org/hubungi-kami">hubungi kami</a></strong>.
+                                        Hubungi pasukan sokongan melalui live chat atau email yang tersedia di <a href="https://clubmy.org/hubungi-kami"><strong>hubungi kami<strong></a>.
                                     </div>
                                     </div>
                                 </div>
