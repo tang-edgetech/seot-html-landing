@@ -91,7 +91,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Mengapa Pilih WINMY untuk Slot?</h2>
-                                <p>Di WINMY, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
+                                <p>Di <strong>WINMY</strong>, kami gabungkan keadilan dan ketelusan dengan antara muka mesra pengguna. Semua permainan dijalankan pada sistem RNG terbukti adil yang diaudit oleh makmal bebas, jadi anda boleh yakin setiap keputusan adalah rawak sejati. Pemula akan sukakan menu jelas dan petua di skrin yang membimbing anda dari putaran pertama hingga kemenangan lebih besar.</p>
                                 <p>&nbsp;</p>
                                 <h3>RNG Boleh Dipercayai dan Keadilan</h3>
                                 <p>Kami bekerjasama dengan pembekal berlesen sahaja, di mana generator nombor rawak mereka diaudit secara berkala oleh pihak ketiga. Semak laporan pembayaran bila-bila masa untuk sahkan setiap hasil tidak diubah suai.</p>

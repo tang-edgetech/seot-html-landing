@@ -8,32 +8,32 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.info/terma-dan-syarat">
+        <link rel="canonical" href="https://WINMY.info/terma-dan-syarat">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <meta name="author" content="winmy">
+        <meta name="author" content="WINMY">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="renderer" content="webkit">
 
         <title>Terma & Syarat WINMY: Polisi Penggunaan Perkhidmatan</title>
         <meta name="title" content="Terma & Syarat WINMY: Polisi Penggunaan Perkhidmatan">
         <meta name="description" content="Semak Terma & Syarat WINMY untuk maklumat terperinci mengenai penggunaan perkhidmatan, akaun, transaksi, dan tanggungjawab pemain.">
-        <meta name="keywords" content="winmy, terma syarat, terms and conditions, polisi penggunaan, T&C">
+        <meta name="keywords" content="WINMY, terma syarat, terms and conditions, polisi penggunaan, T&C">
 
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Terma & Syarat WINMY: Polisi Penggunaan Perkhidmatan">
         <meta itemprop="description" content="Semak Terma & Syarat WINMY untuk maklumat terperinci mengenai penggunaan perkhidmatan, akaun, transaksi, dan tanggungjawab pemain.">
-        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/WINMY_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.info/terma-dan-syarat">
+        <meta property="og:url" content="https://WINMY.info/terma-dan-syarat">
         <meta property="og:title" content="Terma & Syarat WINMY: Polisi Penggunaan Perkhidmatan">
         <meta property="og:description" content="Semak Terma & Syarat WINMY untuk maklumat terperinci mengenai penggunaan perkhidmatan, akaun, transaksi, dan tanggungjawab pemain.">
-        <meta property="og:site_name" content="winmy.info">
-        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
-        <meta property="article:tag" content="winmy">
+        <meta property="og:site_name" content="WINMY.info">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/WINMY_logo.webp">
+        <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="terma syarat">
         <meta property="article:tag" content="polisi penggunaan">
         <meta property="article:tag" content="T&C">
@@ -48,13 +48,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.info"
+                    "item": "https://WINMY.info"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Terma dan Syarat",
-                    "item": "https://winmy.info/terma-dan-syarat/"
+                    "item": "https://WINMY.info/terma-dan-syarat/"
                 }
             ]
         }
@@ -71,9 +71,9 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Terma dan Syarat Penggunaan di WINMY</h1>
-                                <p class="mb-3">Sila baca dengan teliti Terma dan Syarat berikut sebelum menggunakan laman web dan perkhidmatan WINMY. Dengan mengakses dan menggunakan <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>winmy apk</strong></a>, anda bersetuju untuk mematuhi semua peraturan dan syarat yang dinyatakan.</p>
+                                <p class="mb-3">Sila baca dengan teliti Terma dan Syarat berikut sebelum menggunakan laman web dan perkhidmatan WINMY. Dengan mengakses dan menggunakan <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>WINMY apk</strong></a>, anda bersetuju untuk mematuhi semua peraturan dan syarat yang dinyatakan.</p>
                                 <ol>
-                                    <li class="mb-3"><strong>Pendaftaran Akaun</strong><br/>Anda mesti berumur sekurang-kurangnya 21 tahun dan mempunyai dokumen pengenalan sah untuk mendaftar akaun winmy. Semua maklumat yang diberikan mestilah tepat dan terkini.</li>
+                                    <li class="mb-3"><strong>Pendaftaran Akaun</strong><br/>Anda mesti berumur sekurang-kurangnya 21 tahun dan mempunyai dokumen pengenalan sah untuk mendaftar akaun WINMY. Semua maklumat yang diberikan mestilah tepat dan terkini.</li>
                                     <li class="mb-3"><strong>Kebenaran dan Kelulusan</strong><br/><a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> berhak menolak atau menggantung akaun tanpa memberi notis jika terdapat pelanggaran terma atau aktiviti mencurigakan.</li>
                                     <li class="mb-3"><strong>Perlindungan Akaun</strong><br/>Anda bertanggungjawab menjaga keselamatan maklumat log masuk dan tidak mendedahkan kata laluan kepada pihak ketiga. Sebarang aktiviti yang berlaku melalui akaun anda dianggap tanggungjawab anda.</li>
                                     <li class="mb-3"><strong>Pertaruhan dan Kemenangan</strong><br/>Semua pertaruhan mesti mematuhi peraturan permainan yang ditetapkan. Keputusan permainan adalah muktamad dan WINMY tidak bertanggungjawab terhadap sebarang pertikaian mengenai hasil permainan.</li>
@@ -85,7 +85,7 @@ include '../inc/functions.php';
                                     <li><strong>Undang-undang dan Penyelesaian Pertikaian</strong><br/>Terma ini tertakluk kepada undang-undang Malaysia. Sebarang pertikaian akan diselesaikan secara rundingan terlebih dahulu, jika gagal, boleh dirujuk ke mahkamah yang berkenaan.</li>
                                 </ol>
                                 <p>&nbsp;</p>
-                                <p>Dengan menggunakan perkhidmatan WINMY, anda mengesahkan bahawa anda telah membaca, memahami dan bersetuju untuk mematuhi semua terma dan syarat yang dinyatakan di atas. Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pasukan sokongan kami melalui halaman <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>Contact Us</strong></a>.</p>
+                                <p>Dengan menggunakan perkhidmatan WINMY, anda mengesahkan bahawa anda telah membaca, memahami dan bersetuju untuk mematuhi semua terma dan syarat yang dinyatakan di atas. Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pasukan sokongan kami melalui <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>halaman hubungi WINMY</strong></a>.</p>
                             </div>
                         </div>
                     </div>
