@@ -197,6 +197,33 @@ include 'inc/functions.php';
             ]
         }
         </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "CLUBMY",
+            "url": "https://clubmy.org/",
+            "logo": "https://clubmy.org/images/clubmy_logo.webp",
+            "description": "CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3b, Jalan Kerayong, Bukit Petaling",
+                "addressLocality": "Kuala Lumpur",
+                "postalCode": "50460",
+                "addressCountry": "MY"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Customer Service",
+                "email": "support@o9win.org",
+                "telephone": "+6017-3067583",
+                "availableLanguage": [
+                    "Malay",
+                    "English"
+                ]
+            }
+        }
+        </script>
     </head>
     <body>
         <?php include 'inc/navbar.php';?>
@@ -344,30 +371,47 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>CLUBMY – Pengalaman Kasino Dalam Talian Terunggul di Malaysia</h1>
-                                <p>Selamat datang ke <strong><a href="https://clubmy.org/">CLUBMY</a></strong>, platform kasino dalam talian terkemuka di Malaysia yang direka khas untuk para pemain. Di sini, keseronokan dan keselamatan berjalan seiring. Sama ada anda seorang pemain baru atau sudah berpengalaman, clubmy menawarkan navigasi yang jelas, pembayaran pantas, serta sokongan pelanggan yang dipercayai. Setiap ciri di clubmy dibina dengan teliti bagi memastikan pengalaman permainan anda seronok, selamat, dan memberi ganjaran.</p>
+                                <h1>CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia</h1>
+                                <p>Selamat datang ke platform <a href="https://clubmy.org/"></strong>CLUBMY</strong></a> dalam talian terkemuka di Malaysia yang telah dibangunkan untuk memenuhi keperluan pemain. Kami menawarkan sokongan pelanggan yang dipercayai, navigasi yang mudah difahami, pembayaran pantas, dan perkhidmatan yang sesuai untuk pemula dan veteran. Setiap ciri dibangunkan dengan teliti untuk memastikan pengalaman permainan anda tidak hanya menyenangkan, tetapi juga selamat dan menguntungkan.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kenapa Pemain Mempercayai CLUBMY</h2>
-                                <p>Di club my, kepercayaan adalah paling utama. Kami percaya bahawa ketelusan dapat membina keyakinan anda. Kasino kami sentiasa diaudit oleh pihak bebas bagi menjamin keadilan dan keselamatan pada setiap peringkat. Semua data peribadi anda dilindungi menggunakan teknologi enkripsi terkini, memberikan ketenangan fikiran untuk anda menikmati permainan kegemaran. Selain itu, pasukan sokongan pelanggan kami sedia berkhidmat 24 jam sehari bagi membantu anda pada bila-bila masa.</p>
+                                <p>Di <strong>CLUBMY</strong>, kepercayaan adalah paling utama. Kami percaya bahawa ketelusan dapat membina keyakinan anda. Kasino kami sentiasa diaudit oleh pihak bebas bagi menjamin keadilan dan keselamatan pada setiap peringkat. Semua data peribadi anda dilindungi menggunakan teknologi enkripsi terkini, memberikan ketenangan fikiran untuk anda menikmati permainan kegemaran. Selain itu, pasukan sokongan pelanggan kami sedia berkhidmat 24 jam sehari bagi membantu anda pada bila-bila masa.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pelbagai Pilihan Permainan Untuk Semua Pemain</h2>
-                                <p>Terokai pelbagai jenis permainan dari mesin slot klasik hingga meja permainan langsung yang mengasyikkan. Apa pun pilihan anda, clubmy menyediakan sesuatu yang sesuai dengan citarasa dan tahap kemahiran anda. Jika anda gemar permainan <strong><a href="https://clubmy.org/slot">slot</a></strong>, layari koleksi slot kami untuk menemui tema-tema menarik seperti pengembaraan, fantasi, dan filem popular. Bagi peminat permainan kasino tradisional pula, cuba permainan blackjack, roulette, baccarat, dan poker dengan dealer profesional secara langsung.</p>
+                                <p>Terokai pelbagai jenis permainan dari mesin slot klasik hingga meja permainan langsung yang mengasyikkan. Apa pun pilihan anda, CLUBMY menyediakan sesuatu yang sesuai dengan citarasa dan tahap kemahiran anda. Jika anda <a href="https://clubmy.org/slot/"><strong>berminat slot game dalam talian</strong></a>, layari koleksi slot kami untuk menemui tema-tema menarik seperti pengembaraan, fantasi, dan filem popular. Bagi peminat permainan kasino tradisional pula, cuba permainan blackjack, roulette, baccarat, dan poker dengan dealer profesional secara langsung.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pengalaman Unik di CLUBMY</h2>
-                                <p>Di clubmy, inovasi adalah penting. Kami menyediakan pengalaman permainan baru seperti permainan VR dan pertandingan jackpot interaktif yang jarang ditemui dalam kalangan kasino dalam talian di Malaysia. Permainan baru ini menjadikan pengalaman anda lebih segar dan menawarkan peluang untuk mencuba sesuatu yang unik.</p>
+                                <p>Di CLUBMY, inovasi adalah penting. Kami menyediakan pengalaman permainan baru seperti permainan VR dan pertandingan jackpot interaktif yang jarang ditemui dalam kalangan kasino dalam talian di Malaysia. Permainan baru ini menjadikan pengalaman anda lebih segar dan menawarkan peluang untuk mencuba sesuatu yang unik.</p>
+                                <p>&nbsp;</p>
                                 <h2>Panduan Mudah Untuk Pemain Baru</h2>
-                                <p>Jika anda masih baru dalam dunia kasino dalam talian, clubmy sedia membantu anda. Kami menyediakan panduan lengkap tetapi mudah difahami tentang konsep penting seperti RTP (Return to Player), volatiliti permainan, dan strategi asas pertaruhan. Anda juga boleh mencuba permainan secara percuma melalui mod demo sebelum membuat taruhan sebenar. Pendekatan mesra pemain baru ini membantu anda memahami setiap permainan dengan lebih baik.</p>
+                                <p>Jika anda masih baru dalam dunia kasino dalam talian, CLUBMY sedia membantu anda. Kami menyediakan panduan lengkap tetapi mudah difahami tentang konsep penting seperti RTP (Return to Player), volatiliti permainan, dan strategi asas pertaruhan. Anda juga boleh mencuba permainan secara percuma melalui mod demo sebelum membuat taruhan sebenar. Pendekatan mesra pemain baru ini membantu anda memahami setiap permainan dengan lebih baik.</p>
+                                <p>&nbsp;</p>
                                 <h2>Program VIP & Kesetiaan Eksklusif</h2>
-                                <p>Clubmy menghargai kesetiaan pemain secara eksklusif. Setiap taruhan anda akan menghasilkan mata yang membawa anda kepada status VIP bermula dari tahap Silver, Gold, Platinum, hingga Diamond. Setiap tahap memberikan faedah istimewa seperti pengeluaran yang lebih pantas, promosi peribadi, sokongan pelanggan berdedikasi, dan jemputan eksklusif ke acara khas. Ketahui lebih lanjut tentang kelebihan program ini di <strong><a href="https://clubmy.org/vip">halaman VIP kami</a></strong>.</p>
+                                <p>Kami menghargai kesetiaan pemain secara eksklusif. Setiap taruhan anda akan menghasilkan mata yang membawa anda kepada status VIP bermula dari tahap Silver, Gold, Platinum, hingga Diamond. Setiap tahap memberikan faedah istimewa seperti pengeluaran yang lebih pantas, promosi peribadi, sokongan pelanggan berdedikasi, dan jemputan eksklusif ke acara khas. Ketahui lebih lanjut tentang kelebihan program ini di <a href="https://clubmy.org/vip/"><strong>halaman VIP CLUBMY</strong></a>.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kemudahan Bermain di Mudah Alih</h2>
-                                <p>Nikmati kemudahan bermain di mana-mana sahaja anda berada. Clubmy dioptimumkan sepenuhnya untuk kegunaan mudah alih, memastikan pengalaman permainan yang lancar pada telefon pintar dan tablet sama ada menggunakan Android atau iOS. Pengguna Android yang inginkan pengalaman seperti aplikasi boleh <strong><a href="https://clubmy.org/muat-turun-apk">memuat turin APK rasmi clubmy</a></strong>. Uruskan akaun anda, deposit dana, dan mainkan permainan kegemaran anda secara mudah.</p>
+                                <p>Nikmati kemudahan bermain di mana-mana sahaja anda berada. Kami dioptimumkan sepenuhnya untuk kegunaan mudah alih, memastikan pengalaman permainan yang lancar pada telefon pintar dan tablet sama ada menggunakan Android atau iOS. Pengguna Android yang inginkan pengalaman seperti aplikasi boleh <strong><a href="https://clubmy.org/muat-turun-apk">memuat turin APK rasmi CLUBMY</a></strong>. Uruskan akaun anda, deposit dana, dan mainkan permainan kegemaran anda secara mudah.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pembayaran yang Selamat & Mudah</h2>
-                                <p>Urusan deposit dan pengeluaran di clubmy sangat mudah, pantas, dan selamat. Kami menerima pelbagai <strong><a href="https://clubmy.org/kaedah-pembayaran">kaedah pembayaran</a></strong> termasuk kad kredit dan debit, e-dompet tempatan seperti GrabPay dan Touch 'n Go, serta mata wang kripto popular. Deposit dikreditkan segera dan kebanyakan pengeluaran diproses dalam tempoh 24 jam. Kunjungi kaedah pembayaran untuk maklumat lanjut.</p>
+                                <p>Urusan deposit dan pengeluaran di CLUBMY sangat mudah, pantas, dan selamat. Kami menerima pelbagai <strong><a href="https://clubmy.org/kaedah-pembayaran">kaedah pembayaran</a></strong> termasuk kad kredit dan debit, e-dompet tempatan seperti GrabPay dan Touch 'n Go, serta mata wang kripto popular. Deposit dikreditkan segera dan kebanyakan pengeluaran diproses dalam tempoh 24 jam. Kunjungi kaedah pembayaran untuk maklumat lanjut.</p>
+                                <p>&nbsp;</p>
                                 <h2>Bonus Eksklusif & Promosi Berterusan</h2>
                                 <p>Tingkatkan peluang kemenangan anda dengan pelbagai promosi menarik kami. Pemain baru akan menerima bonus alu-aluan yang lumayan, manakala pemain tetap boleh menikmati bonus mingguan, tawaran cashback, dan promosi istimewa mengikut musim. Lawati bahagian <strong><a href="https://clubmy.org/bonus-promosi">bonus dan promosi</a></strong> kami secara kerap untuk tawaran terkini yang menarik.</p>
+                                <p>&nbsp;</p>
                                 <h2>Komitmen Terhadap Permainan Bertanggungjawab</h2>
                                 <p>Di club my, kesejahteraan anda menjadi keutamaan. Kami menyediakan alat yang membantu anda bermain secara bertanggungjawab termasuk had deposit dan kerugian, tempoh bertenang, serta pengecualian diri. Jika perjudian menjadi terlalu membebankan, khidmat sokongan profesional tersedia menerusi <strong><a href="https://clubmy.org/perjudian-bertanggungjawab">sumber perjudian bertanggungjawab</a></strong> kami.</p>
+                                <p>&nbsp;</p>
                                 <h2>Komuniti Pemain Aktif & Kejohanan Menarik</h2>
-                                <p>Sertai komuniti aktif para pemain di clubmy. Sertai kejohanan tetap, bersaing dalam papan pendahulu, dan kongsikan kemenangan anda di forum pemain. Acara komuniti kami menambahkan keseronokan dan interaksi sosial dalam perjalanan permainan anda, menjadikan pengalaman lebih bermakna.</p>
+                                <p>Sertai komuniti aktif para pemain di CLUBMY. Sertai kejohanan tetap, bersaing dalam papan pendahulu, dan kongsikan kemenangan anda di forum pemain. Acara komuniti kami menambahkan keseronokan dan interaksi sosial dalam perjalanan permainan anda, menjadikan pengalaman lebih bermakna.</p>
+                                <p>&nbsp;</p>
                                 <h2>Sokongan Pelanggan Berdedikasi</h2>
-                                <p>Ada sebarang pertanyaan atau perlukan bantuan? Pasukan sokongan pelanggan clubmy sentiasa bersedia membantu anda melalui sembang langsung, e-mel, atau Telegram. Bantuan yang pantas, mesra, dan boleh dipercayai sentiasa tersedia apabila diperlukan. Layari halaman <strong><a href="https://clubmy.org/hubungi-kami">hubungan kami</a></strong> untuk mendapatkan bantuan terus.</p>
+                                <p>Ada sebarang pertanyaan atau perlukan bantuan? Pasukan sokongan pelanggan CLUBMY sentiasa bersedia membantu anda melalui sembang langsung, e-mel, atau Telegram. Bantuan yang pantas, mesra, dan boleh dipercayai sentiasa tersedia apabila diperlukan. Layari halaman <strong><a href="https://clubmy.org/hubungi-kami">hubungan kami</a></strong> untuk mendapatkan bantuan terus.</p>
+                                <p>&nbsp;</p>
+                                <h2>Testimoni Pengguna di CLUBMY</h2>
+                                <p class="mb-3">“Walaupun saya tidak pernah bermain slot sebelum ini, CLUBMY sangat mudah difahami.  Saya main pada masa lunch pada setiap hari.”</br> — Nurul, Penang</p>
+                                <p class="mb-3">“Sebaik-baiknya, pengeluaran duit sangat pantas. Walau apa pun yang berlaku, wang masih terus masuk tanpa sebarang isu.”</br> — Alex, Kuala Lumpur</p>
+                                <p class="mb-3">“Customer support dorang sangat responsif, dan aplikasi berjalan dengan lancar di telefon aku. Jauh lagi bagus dari laman lain yang pernah aku main.”</br> — Hafiz, Melaka</p>
+                                <p>Pemain baru menjadi lebih yakin dengan apa yang boleh dijangka hasil daripada review yang ringkas ini.</p>
                             </div>
                         </div>
                     </div>
@@ -383,7 +427,7 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Bagaimana cara untuk saya daftar akaun di clubmy?
+                                        Bagaimana cara untuk saya daftar akaun di CLUBMY?
                                     </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -431,7 +475,7 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                        Adakah clubmy memiliki lesen yang sah?
+                                        Adakah CLUBMY memiliki lesen yang sah?
                                     </button>
                                     </h3>
                                     <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -467,7 +511,7 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        Adakah clubmy menyokong pembayaran mata wang kripto?
+                                        Adakah CLUBMY menyokong pembayaran mata wang kripto?
                                     </button>
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -551,7 +595,7 @@ include 'inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                        Adakah clubmy mempunyai ciri unik yang tiada di laman kasino lain?
+                                        Adakah CLUBMY mempunyai ciri unik yang tiada di laman kasino lain?
                                     </button>
                                     </h3>
                                     <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -561,9 +605,6 @@ include 'inc/functions.php';
                                     </div>
                                 </div>
                             </div>
-                            <br>
-                            <h2>Kesimpulan</h2>
-                            <p>Clubmy merupakan kasino dalam talian yang selamat, menyeronokkan, dan mesra pemain baru di Malaysia. Daftar sekarang untuk menikmati promosi eksklusif dan sertai komuniti pemain yang mengutamakan kualiti, keadilan, serta keseronokan permainan. Alami pengalaman permainan dalam talian terbaik di clubmy hari ini!</p>
                         </div>
                     </div>
                 </div>

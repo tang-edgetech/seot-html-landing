@@ -15,12 +15,12 @@ include '../inc/functions.php';
         <meta name="author" content="CLUBMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>CLUBMY - Deposit & Pengeluaran Cepat dan Selamat di Malaysia</title>
-        <meta name="title" content="CLUBMY - Deposit & Pengeluaran Cepat dan Selamat di Malaysia">
+        <title>CLUBMY - Kaedah Pembayaran Terbaik & Pengeluaran Cepat di Malaysia</title>
+        <meta name="title" content="CLUBMY - Kaedah Pembayaran Terbaik & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="CLUBMY menyediakan sistem deposit dan pengeluaran yang cepat, selamat, dan mudah untuk pengguna di Malaysia. Fahami langkah transaksi berfungsi dan pasukan sokongan pelanggan 24/7.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="CLUBMY - Deposit & Pengeluaran Cepat dan Selamat di Malaysia">
+        <meta itemprop="name" content="CLUBMY - Kaedah Pembayaran Terbaik & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="CLUBMY menyediakan sistem deposit dan pengeluaran yang cepat, selamat, dan mudah untuk pengguna di Malaysia. Fahami langkah transaksi berfungsi dan pasukan sokongan pelanggan 24/7.">
         <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
 
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://clubmy.org/kaedah-pembayaran/">
-        <meta property="og:title" content="CLUBMY - Deposit & Pengeluaran Cepat dan Selamat di Malaysia">
+        <meta property="og:title" content="CLUBMY - Kaedah Pembayaran Terbaik & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="CLUBMY menyediakan sistem deposit dan pengeluaran yang cepat, selamat, dan mudah untuk pengguna di Malaysia. Fahami langkah transaksi berfungsi dan pasukan sokongan pelanggan 24/7.">
         <meta property="og:site_name" content="CLUBMY">
         <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -45,7 +45,7 @@ include '../inc/functions.php';
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@clubmy">
-        <meta name="twitter:title" content="CLUBMY - Deposit & Pengeluaran Cepat dan Selamat di Malaysia">
+        <meta name="twitter:title" content="CLUBMY - Kaedah Pembayaran Terbaik & Pengeluaran Cepat di Malaysia">
         <meta name="twitter:description" content="CLUBMY menyediakan sistem deposit dan pengeluaran yang cepat, selamat, dan mudah untuk pengguna di Malaysia. Fahami langkah transaksi berfungsi dan pasukan sokongan pelanggan 24/7.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
@@ -82,7 +82,7 @@ include '../inc/functions.php';
             "name": "Apakah kaedah pembayaran yang diterima di clubmy?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "clubmy menerima pelbagai kaedah termasuk kad kredit Visa dan Mastercard, e-dompet tempatan seperti GrabPay, Touch ‘n Go, ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum."
+                "text": "clubmy menerima pelbagai kaedah termasuk kad kredit Visa dan Mastercard, e-wallet tempatan seperti GrabPay, Touch ‘n Go, ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum."
             }
             },
             {
@@ -159,10 +159,10 @@ include '../inc/functions.php';
             },
             {
             "@type": "Question",
-            "name": "Adakah clubmy menyokong pembayaran melalui e-dompet tempatan?",
+            "name": "Adakah clubmy menyokong pembayaran melalui e-wallet tempatan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, kami menyokong e-dompet seperti GrabPay, Touch ‘n Go, dan ShopeePay bagi kemudahan transaksi pengguna Malaysia."
+                "text": "Ya, kami menyokong e-wallet seperti GrabPay, Touch ‘n Go, dan ShopeePay bagi kemudahan transaksi pengguna Malaysia."
             }
             },
             {
@@ -200,6 +200,26 @@ include '../inc/functions.php';
         ]
         }
         </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "CLUBMY",
+                    "item": "https://clubmy.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kaedah Pembayaran",
+                    "item": "https://clubmy.org/kaedah-pembayaran/"
+                }
+            ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -222,15 +242,20 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Kaedah Pembayaran di CLUBMY– Mudah, Selamat, dan Pantas</h1>
-                                <p>Di clubmy, kami memahami bahawa kemudahan pembayaran adalah aspek penting dalam pengalaman permainan anda. Oleh itu, kami menyediakan pelbagai kaedah pembayaran yang mudah digunakan, cepat diproses, dan dijamin keselamatannya. Pilih kaedah yang paling sesuai dengan keperluan anda dan nikmati transaksi tanpa masalah.</p>
+                                <p>Di CLUBMY, kami memahami bahawa kemudahan pembayaran adalah aspek penting dalam pengalaman permainan anda. Oleh itu, kami menyediakan pelbagai kaedah pembayaran yang mudah digunakan, cepat diproses, dan dijamin keselamatannya. Pilih kaedah yang paling sesuai dengan keperluan anda dan nikmati transaksi tanpa masalah.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pilihan Deposit yang Pelbagai dan Segera</h2>
-                                <p>Anda boleh membuat deposit dengan pelbagai pilihan seperti kad kredit Visa dan Mastercard, e-dompet popular tempatan seperti GrabPay, Touch ‘n Go, dan ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum. Semua deposit dikreditkan serta-merta ke akaun anda, membolehkan anda mula bermain tanpa menunggu.</p>
+                                <p>Anda boleh membuat deposit dengan <a href="https://clubmy.org/"><strong>kaedah pembayaran rasmi CLUBMY</strong></a> seperti kad kredit Visa dan Mastercard, e-wallet popular tempatan seperti GrabPay, Touch ‘n Go, dan ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum. Semua deposit dikreditkan serta-merta ke akaun anda, membolehkan anda mula bermain tanpa menunggu.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pengeluaran Dana Cepat dan Terpercaya</h2>
-                                <p>Proses pengeluaran di <strong><a href="https://clubmy.org/">club my</a></strong> direka untuk menjadi mudah dan cepat. Kebanyakan permintaan pengeluaran diproses dalam masa kurang daripada 24 jam. Dana akan dikembalikan ke akaun e-dompet anda dalam beberapa jam, manakala pemindahan bank mungkin mengambil masa sehingga dua hari bekerja. Anda sentiasa akan diberitahu tentang anggaran masa pemprosesan sebelum mengesahkan transaksi.</p>
+                                <p>Proses pengeluaran di <a href="https://clubmy.org/"><strong>homepage CLUBMY APK rasmi</strong></a> direka untuk menjadi mudah dan cepat. Kebanyakan permintaan pengeluaran diproses dalam masa kurang daripada 24 jam. Dana akan dikembalikan ke akaun e-wallet anda dalam beberapa jam, manakala pemindahan bank mungkin mengambil masa sehingga dua hari bekerja. Anda sentiasa akan diberitahu tentang anggaran masa pemprosesan sebelum mengesahkan transaksi.</p>
+                                <p>&nbsp;</p>
                                 <h2>Tiada Caj Tersembunyi</h2>
-                                <p>clubmy tidak mengenakan sebarang caj tambahan untuk deposit atau pengeluaran. Sekiranya penyedia pembayaran anda mengenakan bayaran perkhidmatan, ia akan dinyatakan dengan jelas semasa transaksi supaya anda dapat membuat keputusan yang tepat.</p>
+                                <p>CLUBMY tidak mengenakan sebarang caj tambahan untuk deposit atau pengeluaran. Sekiranya penyedia pembayaran anda mengenakan bayaran perkhidmatan, ia akan dinyatakan dengan jelas semasa transaksi supaya anda dapat membuat keputusan yang tepat.</p>
+                                <p>&nbsp;</p>
                                 <h2>Mata Wang Tempatan dan Penukaran Automatik</h2>
                                 <p>Untuk memudahkan pengguna Malaysia, kami menerima deposit dalam Ringgit Malaysia (RM) serta beberapa mata wang asing lain. Penukaran mata wang berlaku secara automatik dan kadar terkini akan dipaparkan sebelum anda mengesahkan transaksi.</p>
+                                <p>&nbsp;</p>
                                 <h2>Keselamatan Transaksi Dijamin</h2>
                                 <p>Keselamatan transaksi anda adalah keutamaan kami. Semua transaksi dilindungi oleh teknologi penyulitan SSL bertaraf bank, dan sistem kami mematuhi protokol anti-penipuan yang ketat. Sekiranya anda mengesyaki aktiviti mencurigakan pada akaun anda, hubungi pasukan sokongan kami dengan segera untuk tindakan pantas.</p>
                             </div>
@@ -243,17 +268,17 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim tentang Kaedah Pembayaran di clubmy</h2>
+                            <h2>Soalan Lazim tentang Kaedah Pembayaran di CLUBMY</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Apakah kaedah pembayaran yang diterima di clubmy?
+                                        Apakah kaedah pembayaran yang diterima di CLUBMY?
                                     </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                            clubmy menerima pelbagai kaedah termasuk kad kredit Visa dan Mastercard, e-dompet tempatan seperti GrabPay, Touch ‘n Go, ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum.
+                                        CLUBMY menerima pelbagai kaedah termasuk kad kredit Visa dan Mastercard, e-wallet tempatan seperti GrabPay, Touch ‘n Go, ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum.
                                     </div>
                                     </div>
                                 </div>
@@ -368,12 +393,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                        Adakah clubmy menyokong pembayaran melalui e-dompet tempatan?
+                                        Adakah CLUBMY menyokong pembayaran melalui e-wallet tempatan?
                                     </button>
                                     </h3>
                                     <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Ya, kami menyokong e-dompet seperti GrabPay, Touch ‘n Go, dan ShopeePay bagi kemudahan transaksi pengguna Malaysia.
+                                        Ya, kami menyokong e-wallet seperti GrabPay, Touch ‘n Go, dan ShopeePay bagi kemudahan transaksi pengguna Malaysia.
                                     </div>
                                     </div>
                                 </div>

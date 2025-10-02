@@ -225,21 +225,28 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>CLUBMY Slot– Koleksi Permainan Slot Terbaik Malaysia</h1>
-                                <p><strong><a href="https://clubmy.org/">Clubmy</a></strong> membawa anda ke dunia slot dalam talian yang penuh variasi dan keseronokan. Dari mesin slot klasik hingga video slot berteknologi tinggi dengan bonus menarik, setiap permainan di sini direka untuk memberikan pengalaman yang lancar dan peluang kemenangan yang adil.</p>
+                                <p><a href="https://clubmy.org/"><strong>CLUBMY</strong></a> membawa anda ke dunia slot dalam talian yang penuh variasi dan keseronokan. Dari mesin slot klasik hingga video slot berteknologi tinggi dengan bonus menarik, setiap permainan di sini direka untuk memberikan pengalaman yang lancar dan peluang kemenangan yang adil.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pelbagai Jenis Slot untuk Semua Jenis Pemain</h2>
-                                <p>Di clubmy, anda boleh memilih dari pelbagai slot bertema, dari pengembaraan epik hingga kisah fantasi dan budaya popular. Pilihan luas ini sesuai untuk pemula yang baru cuba serta pemain berpengalaman yang mahukan cabaran. Jangan lupa juga untuk melihat koleksi jackpot progresif kami yang menawarkan peluang kemenangan besar.</p>
+                                <p>Di CLUBMY, anda boleh memilih dari pelbagai slot bertema, dari pengembaraan epik hingga kisah fantasi dan budaya popular. Pilihan luas ini sesuai untuk pemula yang baru cuba serta pemain berpengalaman yang mahukan cabaran. Jangan lupa juga untuk melihat koleksi jackpot progresif kami yang menawarkan peluang kemenangan besar.</p>
+                                <p>&nbsp;</p>
                                 <h2>Slot Eksklusif dengan Sentuhan Lokal</h2>
-                                <p>Selain permainan popular global, clubmy mempersembahkan slot eksklusif yang mengangkat unsur budaya Malaysia dan Asia Tenggara. Ini memberikan pengalaman bermain yang lebih relevan dan menyeronokkan bagi pemain tempatan.</p>
+                                <p>Selain permainan popular global, CLUBMY mempersembahkan slot eksklusif yang mengangkat unsur budaya Malaysia dan Asia Tenggara. Ini memberikan pengalaman bermain yang lebih relevan dan menyeronokkan bagi pemain tempatan.</p>
+                                <p>&nbsp;</p>
                                 <h2>Panduan Mudah Memulakan Slot</h2>
-                                <p>Bagi yang baru berjinak-jinak dengan slot online, memahami konsep seperti RTP dan volatiliti sangat penting. clubmy menyediakan panduan lengkap agar anda boleh membuat pilihan bijak berdasarkan gaya permainan dan risiko yang anda sanggup ambil. Anda juga boleh mencuba mod demo tanpa risiko sebelum bertaruh dengan wang sebenar, membantu anda lebih yakin.</p>
+                                <p>Bagi yang baru berjinak-jinak dengan slot online, memahami konsep seperti RTP dan volatiliti sangat penting. CLUBMY menyediakan panduan lengkap agar anda boleh membuat pilihan bijak berdasarkan gaya permainan dan risiko yang anda sanggup ambil. Anda juga boleh mencuba mod demo tanpa risiko sebelum bertaruh dengan wang sebenar, membantu anda lebih yakin.</p>
+                                <p>&nbsp;</p>
                                 <h2>Akses Mudah Melalui Peranti Mudah Alih</h2>
-                                <p>Platform clubmy direka untuk memberikan pengalaman terbaik sama ada anda bermain di komputer atau telefon pintar. Untuk pengguna Android, muat turun aplikasi APK kami untuk akses pantas, manakala pengguna iOS hanya perlu gunakan pelayar mudah alih untuk menikmati permainan tanpa gangguan.</p>
+                                <p>Platform CLUBMY direka untuk memberikan pengalaman terbaik sama ada anda bermain di komputer atau telefon pintar. Untuk pengguna Android, muat turun aplikasi APK kami untuk akses pantas, manakala pengguna iOS hanya perlu gunakan pelayar mudah alih untuk menikmati permainan tanpa gangguan.</p>
+                                <p>&nbsp;</p>
                                 <h2>Cara Memaksimakan Peluang Anda</h2>
-                                <p>Selain memilih slot dengan RTP tinggi, memanfaatkan bonus dan promosi adalah cara terbaik untuk memperluaskan masa bermain dan peluang menang. Lawati <strong><a href="https://clubmy.org/bonus-promosi">bonus dan promosi</a></strong> untuk melihat tawaran terkini yang boleh menambah nilai kepada setiap putaran anda.</p>
+                                <p>Selain memilih slot dengan RTP tinggi, memanfaatkan bonus dan promosi adalah cara terbaik untuk memperluaskan masa bermain dan peluang menang. Lawati <a href="https://clubmy.org/bonus-promosi/"><strong>bonus dan promosi terbaru</strong></a> untuk melihat tawaran terkini yang boleh menambah nilai kepada setiap putaran anda.</p>
+                                <p>&nbsp;</p>
                                 <h2>Keselamatan & Keadilan yang Terjamin</h2>
-                                <p>Setiap slot di clubmy menggunakan sistem penjana nombor rawak yang telah diaudit secara bebas untuk memastikan setiap putaran adalah adil. Keselamatan akaun anda juga dipastikan melalui teknologi penyulitan terkini dan sistem pengesahan yang ketat.</p>
+                                <p>Setiap slot di CLUBMY menggunakan sistem penjana nombor rawak yang telah diaudit secara bebas untuk memastikan setiap putaran adalah adil. Keselamatan akaun anda juga dipastikan melalui teknologi penyulitan terkini dan sistem pengesahan yang ketat.</p>
+                                <p>&nbsp;</p>
                                 <h2>Memahami Pembayaran untuk Pemain Slot</h2>
-                                <p>Mudahnya membuat deposit dan pengeluaran di clubmy menjadi salah satu sebab populariti kami. Dengan pelbagai kaedah pembayaran yang disokong, termasuk e-dompet dan mata wang kripto, proses transaksi anda pantas dan selamat. Untuk maklumat terperinci, anda boleh <strong><a href="https://clubmy.org/kaedah-pembayaran">melihat kaedah pembayaran kami</a></strong>.</p>
+                                <p>Mudahnya membuat deposit dan pengeluaran di CLUBMY menjadi salah satu sebab populariti kami. Dengan pelbagai kaedah pembayaran yang disokong, termasuk e-dompet dan mata wang kripto, proses transaksi anda pantas dan selamat. Untuk maklumat terperinci, anda boleh <a href="https://clubmy.org/kaedah-pembayaran/"><strong>melihat kaedah pembayaran kami</strong></a>.</p>
                             </div>
                         </div>
                     </div>
@@ -249,12 +256,12 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim tentang Slot di clubmy</h2>
+                            <h2>Soalan Lazim tentang Slot di CLUBMY</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Bagaimana saya mula bermain slot di clubmy?
+                                        Bagaimana saya mula bermain slot di CLUBMY?
                                     </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -266,7 +273,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                        Berapa taruhan minimum untuk slot clubmy?
+                                        Berapa taruhan minimum untuk slot CLUBMY?
                                     </button>
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -314,7 +321,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        Adakah slot di clubmy adil dan selamat?
+                                        Adakah slot di CLUBMY adil dan selamat?
                                     </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -386,7 +393,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                        Adakah clubmy menerima pembayaran menggunakan mata wang kripto untuk slot?
+                                        Adakah CLUBMY menerima pembayaran menggunakan mata wang kripto untuk slot?
                                     </button>
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -422,7 +429,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                        Adakah slot eksklusif clubmy berbeza dari slot biasa?
+                                        Adakah slot eksklusif CLUBMY berbeza dari slot biasa?
                                     </button>
                                     </h3>
                                     <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -434,7 +441,7 @@ include '../inc/functions.php';
                             </div>
                             <br>
                             <h2>Kesimpulan</h2>
-                            <p>Bermula di clubmy bermakna anda memilih platform yang mengutamakan kepuasan, keadilan, dan keselamatan pemain. Dengan pelbagai pilihan slot, kemudahan mudah alih, serta sokongan penuh dari pasukan kami, anda boleh menikmati permainan dengan yakin dan seronok. Daftar hari ini, dan alami sendiri keunikan pengalaman slot terbaik di Malaysia.</p>
+                            <p>Bermula di CLUBMY bermakna anda memilih platform yang mengutamakan kepuasan, keadilan, dan keselamatan pemain. Dengan pelbagai pilihan slot, kemudahan mudah alih, serta sokongan penuh dari pasukan kami, anda boleh menikmati permainan dengan yakin dan seronok. Daftar hari ini, dan alami sendiri keunikan pengalaman slot terbaik di Malaysia.</p>
                         </div>
                     </div>
                 </div>

@@ -82,18 +82,23 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Perjudian Bertanggungjawab di CLUBMY – Keutamaan Keselamatan dan Kesejahteraan Pemain</h1>
-                                <p>Di clubmy, kami memahami bahawa perjudian haruslah menjadi aktiviti yang menyeronokkan dan terkawal. Oleh itu, kami komited untuk menyediakan persekitaran permainan yang selamat dan bertanggungjawab, di mana setiap pemain diberi alat dan sokongan yang diperlukan untuk mengawal aktiviti perjudian mereka secara sihat dan seimbang.</p>
+                                <p>Di CLUBMY, kami memahami bahawa perjudian haruslah menjadi aktiviti yang menyeronokkan dan terkawal. Oleh itu, kami komited untuk menyediakan persekitaran permainan yang selamat dan bertanggungjawab, di mana setiap pemain diberi alat dan sokongan yang diperlukan untuk mengawal aktiviti perjudian mereka secara sihat dan seimbang.</p>
+                                <p>&nbsp;</p>
                                 <h2>Alat Bantuan Diri untuk Kawalan Perjudian</h2>
-                                <p>clubmy menawarkan pelbagai alat mudah digunakan yang membolehkan anda menetapkan had deposit harian, mingguan, atau bulanan mengikut kemampuan kewangan anda. Selain itu, anda boleh memilih tempoh rehat (cool-off) yang membolehkan anda menghentikan sementara aktiviti akaun selama 24 jam hingga 30 hari. Jika perlu, fungsi pengecualian diri (self-exclusion) juga tersedia bagi pemain yang mahu menyekat akses akaun mereka untuk jangka masa lebih lama, termasuk pengecualian kekal.</p>
+                                <p>CLUBMY menawarkan pelbagai alat mudah digunakan yang membolehkan anda menetapkan had deposit harian, mingguan, atau bulanan mengikut kemampuan kewangan anda. Selain itu, anda boleh memilih tempoh rehat (cool-off) yang membolehkan anda menghentikan sementara aktiviti akaun selama 24 jam hingga 30 hari. Jika perlu, fungsi pengecualian diri (self-exclusion) juga tersedia bagi pemain yang mahu menyekat akses akaun mereka untuk jangka masa lebih lama, termasuk pengecualian kekal.</p>
+                                <p>&nbsp;</p>
                                 <h2>Sokongan Profesional dan Pendidikan</h2>
-                                <p>Selain menyediakan alat pengurusan perjudian, clubmy bekerjasama dengan organisasi sokongan perjudian bermasalah terkemuka. Jika anda merasa perjudian sudah mula mengganggu aspek kehidupan lain, pautan dan maklumat tentang pusat bantuan serta perkhidmatan kaunseling profesional disediakan untuk membantu anda mendapatkan sokongan yang diperlukan.</p>
+                                <p>Selain menyediakan alat pengurusan perjudian, CLUBMY bekerjasama dengan organisasi sokongan perjudian bermasalah terkemuka. Jika anda merasa perjudian sudah mula mengganggu aspek kehidupan lain, pautan dan maklumat tentang pusat bantuan serta perkhidmatan kaunseling profesional disediakan untuk membantu anda mendapatkan sokongan yang diperlukan.</p>
+                                <p>&nbsp;</p>
                                 <h2>Pengesanan Awal Perilaku Risiko</h2>
-                                <p>Dengan menggunakan teknologi analisis tingkah laku terkini, clubmy mampu mengesan corak perjudian yang berisiko dan mengambil tindakan proaktif. Pasukan sokongan kami akan menghubungi pemain yang menunjukkan tanda-tanda perjudian berlebihan untuk menawarkan nasihat, bantuan, dan sumber yang sesuai bagi membantu mereka mengawal tabiat perjudian mereka.</p>
+                                <p>Dengan menggunakan teknologi analisis tingkah laku terkini, kami mampu mengesan corak perjudian yang berisiko dan mengambil tindakan proaktif. Pasukan sokongan kami akan menghubungi pemain yang menunjukkan tanda-tanda perjudian berlebihan untuk menawarkan nasihat, bantuan, dan sumber yang sesuai bagi membantu mereka mengawal tabiat perjudian mereka.</p>
+                                <p>&nbsp;</p>
                                 <h2>Keadilan dan Ketelusan dalam Permainan</h2>
-                                <p>clubmy memastikan setiap permainan dijalankan dengan integriti tinggi melalui penggunaan penjana nombor rawak (RNG) yang telah disahkan oleh pihak bebas. Kami mengamalkan ketelusan penuh dengan membenarkan pemain mengakses laporan audit untuk memastikan keadilan setiap putaran dan permainan.</p>
-                                <h2>Komitmen Berterusan clubmy</h2>
-                                <p>Keselamatan dan kesejahteraan anda adalah keutamaan utama kami. clubmy sentiasa menambah baik dasar dan amalan perjudian bertanggungjawab untuk memenuhi piawaian tertinggi dalam industri dan membantu pemain menikmati pengalaman yang menyeronokkan tanpa risiko yang tidak terkawal.</p>
-                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila lawati <strong><a href="https://clubmy.org/">https://clubmy.org/</a></strong>.</p>
+                                <p>Kami memastikan setiap permainan dijalankan dengan integriti tinggi melalui penggunaan penjana nombor rawak (RNG) yang telah disahkan oleh pihak bebas. Kami mengamalkan ketelusan penuh dengan membenarkan pemain mengakses laporan audit untuk memastikan keadilan setiap putaran dan permainan.</p>
+                                <p>&nbsp;</p>
+                                <h2>Komitmen Berterusan CLUBMY</h2>
+                                <p class="mb-3">Keselamatan dan kesejahteraan anda adalah keutamaan utama kami. Kami sentiasa menambah baik dasar dan amalan perjudian bertanggungjawab untuk memenuhi piawaian tertinggi dalam industri dan membantu pemain menikmati pengalaman yang menyeronokkan tanpa risiko yang tidak terkawal.</p>
+                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila lawati <a href="https://clubmy.org/"><strong>laman utama rasmi CLUBMY</strong></a>.</p>
                             </div>
                         </div>
                     </div>

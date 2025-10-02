@@ -174,7 +174,7 @@ include '../inc/functions.php';
                                 foreach( $top_brands as $key => $brand ) {
                                     $brand_title = $brand['title'];
                                     $brand_desc = $brand['description'];
-                                    $brand_thumbnail = $site_base_url.'images/top_brand/top_brand_'.$key.'.png';
+                                    $brand_thumbnail = $site_base_url.'/images/top_brand/top_brand_'.$key.'.webp';
                                     $brand_link = $brand['url'];
                             echo '<div class="top-brand-item '.$key.' p-2">
                                 <div class="top-brand-inner d-flex align-items-center justify-content-start">
@@ -431,12 +431,12 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>CLUBMY VIP: Panduan Eksklusif untuk Menjadi Ahli Istimewa</h1>
-                                <p class="mb-3">Program <strong>clubmy</strong> menawarkan pengalaman yang berbeza kepada pemain yang mencari ganjaran tinggi, sokongan peribadi, dan keistimewaan luar biasa. Sama ada anda baru sahaja mendaftar atau sudah berpengalaman dalam platform ini, status VIP memberikan nilai tambah yang nyata.</p>
-                                <p>Ketahui cara untuk menyertai program ini, kelebihan utama yang ditawarkan, serta strategi terbaik untuk memaksimumkan manfaat anda sebagai <a href="{{site_base_url}}/vip/"><strong>member vip clubmy</strong></a>.</p>
+                                <p class="mb-3">Program <strong>SUBMY VIP</strong> menawarkan pengalaman yang berbeza kepada pemain yang mencari ganjaran tinggi, sokongan peribadi, dan keistimewaan luar biasa. Sama ada anda baru sahaja mendaftar atau sudah berpengalaman dalam platform ini, status VIP memberikan nilai tambah yang nyata.</p>
+                                <p>Ketahui cara untuk menyertai program ini, kelebihan utama yang ditawarkan, serta strategi terbaik untuk memaksimumkan manfaat anda sebagai <a href="<?= $site_base_url;?>/vip/"><strong>ahli VIP CLUBMY</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Apakah Faedah Menyertai Program VIP CLUBMY?</h2>
-                                <p class="mb-2">Program VIP oleh clubmy merupakan sistem keahlian eksklusif yang direka khas untuk pemain yang aktif dan konsisten. Ia menawarkan pelbagai insentif seperti:</p>
+                                <p class="mb-2">Program VIP oleh CLUBMY merupakan sistem keahlian eksklusif yang direka khas untuk pemain yang aktif dan konsisten. Ia menawarkan pelbagai insentif seperti:</p>
                                 <ul class="mb-3">
                                     <li class="mb-2">Ganjaran tunai dan bonus eksklusif.</li>
                                     <li class="mb-2">Had pengeluaran yang lebih tinggi.</li>
@@ -458,7 +458,7 @@ include '../inc/functions.php';
                                 <h2>Cara Menyertai CLUBMY VIP dengan Mudah</h2>
                                 <p class="mb-2">Berikut adalah langkah ringkas untuk menjadi ahli VIP:</p>
                                 <ul class="mb-3">
-                                    <li class="mb-2">Daftar dan aktifkan akaun di <a href="{{site_base_url}}"><strong>laman rasmi clubmy</strong></a>.</li>
+                                    <li class="mb-2">Daftar dan aktifkan akaun di <a href="<?= $site_base_url;?>/"><strong>portal rasmi CLUBMY</strong></a>.</li>
                                     <li class="mb-2">Lakukan pertaruhan secara konsisten mengikut had minimum yang ditetapkan.</li>
                                     <li>Mohon keahlian VIP melalui borang khas atau berhubung terus dengan pasukan sokongan VIP.</li>
                                 </ul>
@@ -486,14 +486,11 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Testimoni daripada Ahli VIP Kami</h2>
-                                <p><i>“Saya bermula dengan pertaruhan kecil, sekadar untuk mencuba. Namun selepas beberapa minggu, saya layak menyertai program VIP dan segala-galanya berubah. Sokongan lebih pantas, promosi lebih menarik, dan saya mendapat cashback setiap minggu.”
- – Ahmad, 32 tahun</i></p>
+                                <p><i>“Saya bermula dengan pertaruhan kecil, sekadar untuk mencuba. Namun selepas beberapa minggu, saya layak menyertai program VIP dan segala-galanya berubah. Sokongan lebih pantas, promosi lebih menarik, dan saya mendapat cashback setiap minggu.”<br/> – Ahmad, 32 tahun</i></p>
                                 <p>&nbsp;</p>
-                                <p><i>“Sebagai pemain berpengalaman, saya pernah sertai beberapa platform. Namun, clubmy VIP nyata lebih profesional. Pengurus akaun sangat responsif dan saya dapat akses awal kepada promosi khas — rasa benar-benar dihargai.”
- – Suraya, 38 tahun</i></p>
+                                <p><i>“Sebagai pemain berpengalaman, saya pernah sertai beberapa platform. Namun, CLUBMY VIP nyata lebih profesional. Pengurus akaun sangat responsif dan saya dapat akses awal kepada promosi khas — rasa benar-benar dihargai.”<br/> – Suraya, 38 tahun</i></p>
                                 <p>&nbsp;</p>
-                                <p><i>“Saya suka cara clubmy uruskan keahlian VIP. Semua teratur, tiada yuran tersembunyi, dan ganjaran yang diterima memang setimpal dengan usaha saya. Sangat disyorkan untuk pemain serius yang mahu lebih.”
- – Faizal, 41 tahun</i></p>
+                                <p><i>“Saya suka cara CLUBMY uruskan keahlian VIP. Semua teratur, tiada yuran tersembunyi, dan ganjaran yang diterima memang setimpal dengan usaha saya. Sangat disyorkan untuk pemain serius yang mahu lebih.”<br/> – Faizal, 41 tahun</i></p>
                             </div>
                         </div>
                     </div>
@@ -509,7 +506,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Apakah itu clubmy VIP?
+                                            Apakah itu CLUBMY VIP?
                                         </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
@@ -522,7 +519,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            Bagaimana cara menyertai clubmy VIP?
+                                            Bagaimana cara menyertai CLUBMY VIP?
                                         </button>
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
@@ -645,8 +642,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h2>Kesimpulan</h2>
-                                <p>Keahlian <strong>ClubMY VIP</strong> adalah peluang terbaik bagi pemain yang ingin memperoleh lebih nilai dalam setiap permainan. Dengan bonus eksklusif, ganjaran tunai, dan layanan khas, program ini jelas memberikan kelebihan berbanding akaun biasa. Jika anda belum menyertainya, inilah masa yang sesuai untuk bertindak.</p>
+                                <h2>Keistimewaan Menjadi Ahli VIP</h2>
+                                <p>Keahlian <a href="<?= $site_base_url;?>/vip/"><strong>CLUBMY VIP</strong></a> adalah peluang terbaik bagi pemain yang ingin memperoleh lebih nilai dalam setiap permainan. Dengan bonus eksklusif, ganjaran tunai, dan layanan khas, program ini jelas memberikan kelebihan berbanding akaun biasa. Jika anda belum menyertainya, inilah masa yang sesuai untuk bertindak.</p>
                             </div>
                         </div>
                     </div>

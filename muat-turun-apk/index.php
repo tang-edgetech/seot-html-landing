@@ -226,6 +226,7 @@ include '../inc/functions.php';
                             <div class="text-editor">
                                 <h1>Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda</h1>
                                 <p>Nikmati pengalaman bermain kasino online CLUBMY yang lancar dengan aplikasi APK rasmi kami untuk Android. Dengan muat turun mudah, anda dapat mengakses koleksi permainan penuh tanpa perlu bergantung pada pelayar web. APK clubmy menawarkan prestasi pantas, navigasi mesra pengguna, dan pemberitahuan masa nyata untuk promosi terkini.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kelebihan Menggunakan APK CLUBMY</h2>
                                 <p>Dengan memasang <strong><a href="https://clubmy.org/">APK CLUBMY</a></strong> pada peranti Android anda, anda akan dapat:</p>
                                 <ul>
@@ -234,6 +235,7 @@ include '../inc/functions.php';
                                     <li>Nikmati tawaran eksklusif khusus untuk pengguna aplikasi</li>
                                     <li>Antara muka yang dioptimumkan khas untuk saiz skrin mudah alih, memberikan pengalaman bermain yang lebih selesa</li>
                                 </ul>
+                                <p>&nbsp;</p>
                                 <h2>Cara Mudah Memasang APK clubmy</h2>
                                 <p>Ikuti langkah mudah berikut untuk mula bermain dalam masa beberapa minit:</p>
                                 <ol>
@@ -242,12 +244,28 @@ include '../inc/functions.php';
                                     <li>Buka fail yang dimuat turun dan pilih ‘Pasang’</li>
                                     <li>Lancarkan aplikasi, log masuk atau daftar akaun baru, kemudian buat deposit pertama anda</li>
                                 </ol>
+                                <p>&nbsp;</p>
                                 <h2>Keperluan Sistem untuk APK clubmy</h2>
-                                <p>Aplikasi APK clubmy serasi dengan Android versi 5.0 ke atas. Pastikan anda mempunyai sekurang-kurangnya 100 MB ruang storan kosong dan sambungan internet yang stabil untuk prestasi terbaik.</p>
+                                <ul>
+                                    <li class="mb-2">✅ Android versi 9.0 atau lebih tinggi</li>
+                                    <li class="mb-2">✅ Sekurang-kurangnya 64gb ruang storan kosong</li>
+                                    <li class="mb-2">✅ Sambungan internet yang stabil</li>
+                                    <li>✅ Berfungsi dengan pelbagai peranti popular seperti Samsung, Xiaomi, Oppo, Vivo, Realme, Huawei, OnePlus, dan Google Pixel</li>
+                                </ul>
+                                <p>&nbsp;</p>
                                 <h2>Kemas Kini Automatik dan Ciri Baharu</h2>
-                                <p>Selepas pemasangan, APK clubmy akan mengemas kini secara automatik di latar belakang. Ini memastikan anda sentiasa menggunakan versi terbaru dengan pembaikan bug, peningkatan keselamatan, dan permainan terbaru tanpa perlu memuat turun secara manual.</p>
+                                <p>Selepas pemasangan, <strong>CLUBMY aplikasi rasmi</strong> akan mengemas kini secara automatik di latar belakang. Ini memastikan anda sentiasa menggunakan versi terbaru dengan pembaikan bug, peningkatan keselamatan, dan permainan terbaru tanpa perlu memuat turun secara manual.</p>
+                                <p>&nbsp;</p>
                                 <h2>Keselamatan dan Kebenaran Aplikasi</h2>
                                 <p>Keselamatan anda diutamakan. APK kami hanya memerlukan kebenaran penting untuk pemasangan dan operasi permainan. Semua data transaksi dan komunikasi dienkripsi menggunakan SSL. Anda boleh menyemak dan mengurus kebenaran aplikasi melalui tetapan peranti bila-bila masa.</p>
+                                <p>&nbsp;</p>
+                                <h2>Isu Biasa dengan Pemasangan</h2>
+                                <p class="mb-2">Panduan bahawa membantu pengguna dengan masalah biasa selepas pemasangan aplikasi kami dan menjadikan pengalaman penggunaan lebih lancar.</p>
+                                <ol>
+                                    <li class="mb-2">Adakah selepas pemasangan, aplikasi tidak boleh digunakan?<br/>Padam aplikasi yang sudah digunakan dan pasang semula dengan teliti.</li>
+                                    <li class="mb-2">Berterusan di skrin putih?<br/>✅ Gunakan data menggunakan peranti mudah alih daripada WiFi.<br/>✅ Cuba menukar bahasa peranti kepada Bahasa Inggeris untuk sementara waktu.</li>
+                                    <li>Aplikasi (iOS) yang tidak boleh dipercayai?<br/>Selepas pergi ke Setting, pergi ke Pengurusan Peranti dan sahkan pembangun (developer).</li>
+                                </ol>
                             </div>
                         </div>
                     </div>

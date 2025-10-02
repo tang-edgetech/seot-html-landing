@@ -222,25 +222,35 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Bonus & Promosi di CLUBMY – Peluang Hebat Menanti Anda</h1>
-                                <p>Di <strong><a href="https://clubmy.org/">CLUBMY</a></strong>, kami tidak hanya menyediakan permainan yang menarik, tetapi juga ganjaran yang memaksimumkan nilai setiap sesi permainan anda. Dengan pelbagai bonus dan promosi yang sentiasa dikemas kini, kami memastikan setiap pemain mendapat peluang untuk meningkatkan peluang menang dan menikmati pengalaman bermain yang lebih seronok.</p>
+                                <p>Di <a href="https://clubmy.org/"><strong>CLUBMY</strong></a>, kami tidak hanya menyediakan permainan yang menarik, tetapi juga ganjaran yang memaksimumkan nilai setiap sesi permainan anda. Dengan pelbagai bonus dan promosi yang sentiasa dikemas kini, kami memastikan setiap pemain mendapat peluang untuk meningkatkan peluang menang dan menikmati pengalaman bermain yang lebih seronok.</p>
+                                <p>&nbsp;</p>
                                 <h2>Jenis Bonus dan Promosi yang Ditawarkan di CLUBMY</h2>
-                                <p>Berikut adalah beberapa jenis bonus dan promosi utama yang sedang berlangsung dan popular di kalangan pemain clubmy:</p>
+                                <p>Berikut adalah beberapa jenis bonus dan promosi utama yang sedang berlangsung dan popular di kalangan pemain CLUBMY:</p>
+                                <p>&nbsp;</p>
                                 <h2>Bonus Selamat Datang yang Lumayan</h2>
                                 <p>Pemain baru menerima bonus perlawanan deposit pertama sehingga 150% dan tambahan putaran percuma untuk slot terpilih. Bonus ini membantu anda memulakan permainan dengan modal lebih besar dan peluang menang yang lebih tinggi.</p>
+                                <p>&nbsp;</p>
                                 <h2>Reload Bonus Mingguan</h2>
-                                <p>Setiap minggu, clubmy menawarkan <strong><a href="https://clubmy.org/bonus-promosi">bonus reload sehingga 50%</a></strong> untuk deposit anda. Bonus ini memberi peluang kepada pemain setia untuk mengisi semula baki akaun mereka dengan nilai tambahan.</p>
+                                <p>Setiap minggu, CLUBMY menawarkan <a href="https://clubmy.org/bonus-promosi/"><strong>tambah nilai bonus 50%</strong></a> untuk deposit anda. Bonus ini memberi peluang kepada pemain setia untuk mengisi semula baki akaun mereka dengan nilai tambahan.</p>
+                                <p>&nbsp;</p>
                                 <h2>Cashback Harian</h2>
                                 <p>Nikmati pulangan wang tunai sehingga 10% daripada jumlah kerugian harian anda. Cashback ini memberi anda peluang kedua untuk bermain semula tanpa risiko besar.</p>
+                                <p>&nbsp;</p>
                                 <h2>Putaran Percuma Eksklusif</h2>
                                 <p>Dapatkan putaran percuma yang boleh digunakan pada slot popular secara berkala. Putaran percuma ini biasanya ditawarkan sebagai sebahagian daripada promosi mingguan atau kempen khas.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kejohanan Slot Bulanan</h2>
-                                <p><strong><a href="https://clubmy.org/slot">Sertai kejohanan slot</a></strong> dengan hadiah wang tunai bernilai puluhan ribu ringgit. Bersaing dengan pemain lain dalam leaderboard dan menangi ganjaran menarik berdasarkan kedudukan anda.</p>
+                                <p><a href="https://clubmy.org/slot/"><strong>Sertai kejohanan CLUBMY slot</strong></a> dengan hadiah wang tunai bernilai puluhan ribu ringgit. Bersaing dengan pemain lain dalam leaderboard dan menangi ganjaran menarik berdasarkan kedudukan anda.</p>
+                                <p>&nbsp;</p>
                                 <h2>Bonus VIP Eksklusif</h2>
-                                <p><strong><a href="https://clubmy.org/vip">Sebagai ahli VIP</a></strong>, anda akan menerima bonus khas yang tidak tersedia untuk umum, termasuk bonus ulang tahun, hadiah peribadi, dan akses ke acara istimewa serta kejohanan VIP.</p>
+                                <p>Sebagai <a href="https://clubmy.org/vip/"><strong>pelanggan VIP CLUBMY</strong></a>, anda akan menerima bonus khas yang tidak tersedia untuk umum, termasuk bonus ulang tahun, hadiah peribadi, dan akses ke acara istimewa serta kejohanan VIP.</p>
+                                <p>&nbsp;</p>
                                 <h2>Cara Menuntut dan Memanfaatkan Bonus di CLUBMY</h2>
                                 <p>Untuk menggunakan bonus dan promosi, anda hanya perlu memenuhi syarat yang ditetapkan seperti deposit minimum dan syarat pertaruhan. Maklumat lengkap boleh diperoleh pada setiap tawaran di laman promosi kami. Sentiasa semak bahagian promosi untuk tidak terlepas tawaran terbaru dan eksklusif.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kemas Kini Promosi dan Tawaran Eksklusif</h2>
-                                <p>clubmy sentiasa memperbaharui tawaran promosi mengikut musim, perayaan, dan acara khusus. <strong><a href="https://clubmy.org/muat-turun-apk">Pengguna APK</a></strong> juga mendapat kelebihan akses awal dan promosi eksklusif melalui notifikasi aplikasi supaya anda tidak terlepas sebarang peluang menarik.</p>
+                                <p>CLUBMY sentiasa memperbaharui tawaran promosi mengikut musim, perayaan, dan acara khusus. <a href="https://clubmy.org/muat-turun-apk/"><strong>Pengguna APK</strong></a> juga mendapat kelebihan akses awal dan promosi eksklusif melalui notifikasi aplikasi supaya anda tidak terlepas sebarang peluang menarik.</p>
+                                <p>&nbsp;</p>
                                 <h2>Sokongan Penuh untuk Pemain</h2>
                                 <p>Pasukan sokongan kami sedia membantu anda memahami syarat bonus dan promosi, memastikan tiada kekeliruan dan anda dapat menikmati ganjaran secara maksimum.</p>
                             </div>
@@ -253,7 +263,7 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim (FAQ) Tentang Bonus LPK777</h2>
+                            <h2>Soalan Lazim (FAQ) Tentang Bonus CLUBMY</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
@@ -354,7 +364,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                        Bagaimana saya boleh mengetahui promosi terkini di clubmy?
+                                        Bagaimana saya boleh mengetahui promosi terkini di CLUBMY?
                                     </button>
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
