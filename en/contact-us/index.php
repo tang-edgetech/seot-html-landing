@@ -16,7 +16,7 @@ include '../../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download WINMY apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
@@ -24,7 +24,7 @@ include '../../inc/functions.php';
         <meta property="og:title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download WINMY apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="WINMY">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="WINMY slot">
         <meta property="article:tag" content="WINMY login">

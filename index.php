@@ -22,7 +22,7 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta itemprop="description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
@@ -44,7 +44,7 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="">
+        <meta name="twitter:site" content="@WINMY">
         <meta name="twitter:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="twitter:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta name="twitter:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">

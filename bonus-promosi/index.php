@@ -23,7 +23,7 @@ include '../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="Bonus & Promosi WINMY: Tawaran Harian & VIP">
         <meta itemprop="description" content="Dapatkan tawaran terbaru di WINMY: bonus deposit, free spin, cashback mingguan, dan promosi VIP eksklusif. Semak sekarang dan tingkatkan peluang menang anda!">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
