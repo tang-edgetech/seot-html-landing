@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/hubungi-kami">
         <meta property="og:title" content="Hubungi Kami WINMY: Sokongan 24/7 & Maklumat Perhubungan">
         <meta property="og:description" content="Hubungi pasukan sokongan WINMY 24/7 melalui email, Telegram, Facebook, atau lawati pejabat kami untuk bantuan segera.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image"   content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="winmy">
         <meta property="article:tag" content="hubungi kami">

@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/permainan-slot/">
         <meta property="og:title" content="Permainan Slot Online WINMY: Koleksi & Bonus">
         <meta property="og:description" content="Main slot online terbaik di WINMY. Terokai koleksi slot klasik, video, dan 3D dengan RTP tinggi, bonus eksklusif, dan pengalaman adil dengan RNG disahkan.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="slot WINMY">

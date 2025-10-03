@@ -14,22 +14,22 @@ include 'inc/functions.php';
         <meta name="author" content="WINMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000</title>
-        <meta name="title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
-        <meta name="description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
+        <title>WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000</title>
+        <meta name="title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta name="description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta name="keywords" content="winmy, winmy slot, winmy casino, winmy login, muat turun APK, download winmy, win myr, winmy apk download, kasino online, VIP kasino, WINMY bonus slot">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
-        <meta itemprop="description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
+        <meta itemprop="name" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta itemprop="description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta itemprop="image" content="">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://winmy.info/">
-        <meta property="og:title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
-        <meta property="og:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
+        <meta property="og:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta property="og:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY">
@@ -45,8 +45,8 @@ include 'inc/functions.php';
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="">
-        <meta name="twitter:title" content="Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000">
-        <meta name="twitter:description" content="Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
+        <meta name="twitter:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
+        <meta name="twitter:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta name="twitter:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
@@ -57,7 +57,7 @@ include 'inc/functions.php';
             "name": "WINMY",
             "url": "https://winmy.info/",
             "logo": "https://winmy.info/images/winmy_logo.webp",
-            "description": "Sertai program rujukan winmy hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
+            "description": "Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "No. 45, Jalan Merpati 3, Taman Melati",
@@ -1167,7 +1167,7 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Program Referral WINMY ᐉ Dapatkan RM50 & Bonus Hingga RM4,888,000</h1>
+                                <h1>WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000</h1>
                                 <p>Program Referral di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> menawarkan ganjaran lumayan untuk pengguna yang berkongsi platform ini dengan rakan-rakan sekalian. Setiap rujukan berjaya memberikan RM50, disertai komisen deposit 0.88%, komisen pertaruhan 0.48%, dan bonus pencapaian sehingga RM4.88 juta. Jika anda baru nak cuba atau sudah berpengalaman, kami mudahkan cara anda sign up, sahkan maklumat, dan terus boleh buat pertaruhan pertama.</p>
                                 <p>&nbsp;</p>
                                 <h2>Buat Pertaruhan Pertama Dalam Masa Beberapa Minit</h2>

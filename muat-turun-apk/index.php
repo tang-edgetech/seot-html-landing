@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/muat-turun-apk">
         <meta property="og:title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
         <meta property="og:description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="muat turun WINMY apk">
         <meta property="article:tag" content="WINMY app download">

@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.online/bonus-promosi/">
         <meta property="og:title" content="Bonus & Promosi WINMY: Tawaran Harian & VIP">
         <meta property="og:description" content="Dapatkan tawaran terbaru di WINMY: bonus deposit, free spin, cashback mingguan, dan promosi VIP eksklusif. Semak sekarang dan tingkatkan peluang menang anda!">
-        <meta property="og:site_name" content="winmy.online">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY promosi kasino">
         <meta property="article:tag" content="WINMY cashback harian">

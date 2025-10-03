@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/vip">
         <meta property="og:title" content="Program VIP WINMY: Ganjaran & Keistimewaan">
         <meta property="og:description" content="Sertai Program VIP WINMY dan nikmati ganjaran eksklusif: cashback tinggi, bonus istimewa, dan akses awal ke promosi. Kelayakan automatik berdasarkan taruhan & deposit.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY vip">
         <meta property="article:tag" content="WINMY kasino">

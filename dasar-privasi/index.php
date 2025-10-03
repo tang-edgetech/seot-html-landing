@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/dasar-privasi">
         <meta property="og:title" content="Dasar Privasi WINMY: Perlindungan Data & Privasi">
         <meta property="og:description" content="Baca Dasar Privasi WINMY untuk maklumat cara kami melindungi data peribadi anda, penggunaan cookies, dan hak pengguna.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="winmy">
         <meta property="article:tag" content="dasar privasi">

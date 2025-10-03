@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/perjudian-bertanggungjawab">
         <meta property="og:title" content="Perjudian Bertanggungjawab di WINMY: Panduan & Sokongan">
         <meta property="og:description" content="WINMY komited memastikan pengalaman perjudian selamat dan terkawal dengan had deposit, pengecualian kendiri, dan sokongan 24/7.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="winmy">
         <meta property="article:tag" content="perjudian bertanggungjawab">

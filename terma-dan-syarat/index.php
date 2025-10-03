@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://WINMY.info/terma-dan-syarat">
         <meta property="og:title" content="Terma & Syarat WINMY: Polisi Penggunaan Perkhidmatan">
         <meta property="og:description" content="Semak Terma & Syarat WINMY untuk maklumat terperinci mengenai penggunaan perkhidmatan, akaun, transaksi, dan tanggungjawab pemain.">
-        <meta property="og:site_name" content="WINMY.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?= $site_base_url;?>/images/WINMY_logo.webp">
         <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="terma syarat">

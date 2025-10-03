@@ -31,7 +31,7 @@ include '../inc/functions.php';
         <meta property="og:url" content="https://winmy.info/kaedah-pembayaran">
         <meta property="og:title" content="Kaedah Pembayaran WINMY: Bank, E-Wallet & Crypto">
         <meta property="og:description" content="Pilih kaedah pembayaran pantas & selamat di WINMY: bank tempatan, e-wallet, dan kripto. Deposit & pengeluaran diproses segera tanpa caj tersembunyi.">
-        <meta property="og:site_name" content="winmy.info">
+        <meta property="og:site_name" content="WINMY">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY kaedah pembayaran">
         <meta property="article:tag" content="WINMY e-wallet Malaysia">
