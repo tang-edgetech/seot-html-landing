@@ -1020,6 +1020,20 @@ include 'inc/functions.php';
         ]
         }
         </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000",
+            "url": "https://winmy.info/",
+            "description": "Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
+            "inLanguage": "th",
+            "isPartOf": {
+                "@type": "WebSite",
+                "url": "https://winmy.info/"
+            }
+        }
+        </script>
     </head>
     <body>
         <?php include 'inc/navbar.php';?>
