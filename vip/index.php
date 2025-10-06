@@ -78,7 +78,7 @@ include '../inc/functions.php';
         "mainEntity": [
             {
             "@type": "Question",
-            "name": "Apakah itu CLUBMY?",
+            "name": "Apakah itu CLUBMY VIP?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Keahlian eksklusif yang menawarkan ganjaran tunai, promosi istimewa dan sokongan pelanggan premium."
@@ -86,7 +86,7 @@ include '../inc/functions.php';
             },
             {
             "@type": "Question",
-            "name": "Bagaimana cara menyertai CLUBMY?",
+            "name": "Bagaimana cara menyertai CLUBMY VIP?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau live chat."
@@ -431,7 +431,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>CLUBMY VIP: Panduan Eksklusif untuk Menjadi Ahli Istimewa</h1>
-                                <p class="mb-3">Program <strong>SUBMY VIP</strong> menawarkan pengalaman yang berbeza kepada pemain yang mencari ganjaran tinggi, sokongan peribadi, dan keistimewaan luar biasa. Sama ada anda baru sahaja mendaftar atau sudah berpengalaman dalam platform ini, status VIP memberikan nilai tambah yang nyata.</p>
+                                <p class="mb-3">Program <strong>CLUBMY VIP</strong> menawarkan pengalaman yang berbeza kepada pemain yang mencari ganjaran tinggi, sokongan peribadi, dan keistimewaan luar biasa. Sama ada anda baru sahaja mendaftar atau sudah berpengalaman dalam platform ini, status VIP memberikan nilai tambah yang nyata.</p>
                                 <p>Ketahui cara untuk menyertai program ini, kelebihan utama yang ditawarkan, serta strategi terbaik untuk memaksimumkan manfaat anda sebagai <a href="<?= $site_base_url;?>/vip/"><strong>ahli VIP CLUBMY</strong></a>.</p>
                                 <p>&nbsp;</p>
 

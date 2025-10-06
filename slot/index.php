@@ -224,9 +224,9 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>CLUBMY Slot– Koleksi Permainan Slot Terbaik Malaysia</h1>
+                                <h1>CLUBMY Slot – Koleksi Permainan Slot Terbaik Malaysia</h1>
                                 <p><a href="https://clubmy.org/"><strong>CLUBMY</strong></a> membawa anda ke dunia slot dalam talian yang penuh variasi dan keseronokan. Dari mesin slot klasik hingga video slot berteknologi tinggi dengan bonus menarik, setiap permainan di sini direka untuk memberikan pengalaman yang lancar dan peluang kemenangan yang adil.</p>
-                                <p>&nbsp;</p>
+                                <p>&nbsp;</p>   
                                 <h2>Pelbagai Jenis Slot untuk Semua Jenis Pemain</h2>
                                 <p>Di CLUBMY, anda boleh memilih dari pelbagai slot bertema, dari pengembaraan epik hingga kisah fantasi dan budaya popular. Pilihan luas ini sesuai untuk pemula yang baru cuba serta pemain berpengalaman yang mahukan cabaran. Jangan lupa juga untuk melihat koleksi jackpot progresif kami yang menawarkan peluang kemenangan besar.</p>
                                 <p>&nbsp;</p>

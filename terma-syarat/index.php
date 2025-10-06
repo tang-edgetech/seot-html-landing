@@ -97,8 +97,8 @@ include '../inc/functions.php';
                                 <p>Semua permainan menggunakan penjana nombor rawak (RNG) yang disahkan dan diaudit secara bebas. Aktiviti kolusi, manipulasi atau penggodaman akan menyebabkan akaun digantung dan dana dibekukan. Laporan audit boleh diakses oleh pemain untuk memastikan ketelusan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Permainan Bertanggungjawab</h2>
-                                <p class="mb-3">Anda boleh menetapkan had deposit, mengambil tempoh rehat, atau mengecualikan diri melalui tetapan akaun. Jika anda memerlukan bantuan, lawati <a href="https://clubmy.org/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> atau hubungi pasukan sokongan kami.</p>
-                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila lawati <a href="https://clubmy.org/"><strong>kembali ke Laman Utama</strong></a>.</p>
+                                <p class="mb-3">Anda boleh menetapkan had deposit, mengambil tempoh rehat, atau mengecualikan diri melalui tetapan akaun. Jika anda memerlukan bantuan, lawati <a href="https://clubmy.org/perjudian-bertanggungjawab/"><strong>perjudian bertanggungjawab</strong></a> atau hubungi pasukan sokongan kami.</p>
+                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila <a href="https://clubmy.org/"><strong>kembali ke Laman Utama</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Harta Intelek</h2>
                                 <p>Semua kandungan termasuk logo, teks, dan perisian, adalah milik CLUBMY atau dilindungi oleh lesen. Anda tidak dibenarkan menyalin, mengedarkan atau menghasilkan karya derivatif tanpa kebenaran bertulis.</p>

@@ -108,7 +108,7 @@ include 'inc/functions.php';
                 },
                 {
                     "@type": "Question",
-                    "name": "Adakah clubmy memiliki lesen yang sah?",
+                    "name": "Adakah CLUBMY memiliki lesen yang sah?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Ya, clubmy beroperasi di bawah lesen permainan Malaysia yang sah dan sentiasa diaudit secara bebas."
@@ -132,7 +132,7 @@ include 'inc/functions.php';
                 },
                 {
                     "@type": "Question",
-                    "name": "Adakah clubmy menyokong pembayaran mata wang kripto?",
+                    "name": "Adakah CLUBMY menyokong pembayaran mata wang kripto?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Ya, kami menerima Bitcoin, Ethereum dan beberapa mata wang kripto lain."
@@ -188,7 +188,7 @@ include 'inc/functions.php';
                 },
                 {
                     "@type": "Question",
-                    "name": "Adakah clubmy mempunyai ciri unik yang tiada di laman kasino lain?",
+                    "name": "Adakah CLUBMY mempunyai ciri unik yang tiada di laman kasino lain?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Ya, clubmy menawarkan permainan realiti maya (VR) dan kejohanan interaktif eksklusif yang jarang ditemui di kasino dalam talian Malaysia."
@@ -390,22 +390,22 @@ include 'inc/functions.php';
                                 <p>Kami menghargai kesetiaan pemain secara eksklusif. Setiap taruhan anda akan menghasilkan mata yang membawa anda kepada status VIP bermula dari tahap Silver, Gold, Platinum, hingga Diamond. Setiap tahap memberikan faedah istimewa seperti pengeluaran yang lebih pantas, promosi peribadi, sokongan pelanggan berdedikasi, dan jemputan eksklusif ke acara khas. Ketahui lebih lanjut tentang kelebihan program ini di <a href="https://clubmy.org/vip/"><strong>halaman VIP CLUBMY</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kemudahan Bermain di Mudah Alih</h2>
-                                <p>Nikmati kemudahan bermain di mana-mana sahaja anda berada. Kami dioptimumkan sepenuhnya untuk kegunaan mudah alih, memastikan pengalaman permainan yang lancar pada telefon pintar dan tablet sama ada menggunakan Android atau iOS. Pengguna Android yang inginkan pengalaman seperti aplikasi boleh <a href="https://clubmy.org/muat-turun-apk"><strong>memuat turin APK rasmi CLUBMY</strong></a>. Uruskan akaun anda, deposit dana, dan mainkan permainan kegemaran anda secara mudah.</p>
+                                <p>Nikmati kemudahan bermain di mana-mana sahaja anda berada. Kami dioptimumkan sepenuhnya untuk kegunaan mudah alih, memastikan pengalaman permainan yang lancar pada telefon pintar dan tablet sama ada menggunakan Android atau iOS. Pengguna Android yang inginkan pengalaman seperti aplikasi boleh <a href="https://clubmy.org/muat-turun-apk/"><strong>memuat turin APK rasmi CLUBMY</strong></a>. Uruskan akaun anda, deposit dana, dan mainkan permainan kegemaran anda secara mudah.</p>
                                 <p>&nbsp;</p>
                                 <h2>Pembayaran yang Selamat & Mudah</h2>
-                                <p>Urusan deposit dan pengeluaran di CLUBMY sangat mudah, pantas, dan selamat. Kami menerima pelbagai <a href="https://clubmy.org/kaedah-pembayaran"><strong>kaedah pembayaran</strong></a> termasuk kad kredit dan debit, e-dompet tempatan seperti GrabPay dan Touch 'n Go, serta mata wang kripto popular. Deposit dikreditkan segera dan kebanyakan pengeluaran diproses dalam tempoh 24 jam. Kunjungi kaedah pembayaran untuk maklumat lanjut.</p>
+                                <p>Urusan deposit dan pengeluaran di CLUBMY sangat mudah, pantas, dan selamat. Kami menerima pelbagai <a href="https://clubmy.org/kaedah-pembayaran/"><strong>kaedah pembayaran</strong></a> termasuk kad kredit dan debit, e-dompet tempatan seperti GrabPay dan Touch 'n Go, serta mata wang kripto popular. Deposit dikreditkan segera dan kebanyakan pengeluaran diproses dalam tempoh 24 jam. Kunjungi kaedah pembayaran untuk maklumat lanjut.</p>
                                 <p>&nbsp;</p>
                                 <h2>Bonus Eksklusif & Promosi Berterusan</h2>
-                                <p>Tingkatkan peluang kemenangan anda dengan pelbagai promosi menarik kami. Pemain baru akan menerima bonus alu-aluan yang lumayan, manakala pemain tetap boleh menikmati bonus mingguan, tawaran cashback, dan promosi istimewa mengikut musim. Lawati bahagian <a href="https://clubmy.org/bonus-promosi"><strong>bonus dan promosi</strong></a> kami secara kerap untuk tawaran terkini yang menarik.</p>
+                                <p>Tingkatkan peluang kemenangan anda dengan pelbagai promosi menarik kami. Pemain baru akan menerima bonus alu-aluan yang lumayan, manakala pemain tetap boleh menikmati bonus mingguan, tawaran cashback, dan promosi istimewa mengikut musim. Lawati bahagian <a href="https://clubmy.org/bonus-promosi/"><strong>bonus dan promosi</strong></a> kami secara kerap untuk tawaran terkini yang menarik.</p>
                                 <p>&nbsp;</p>
                                 <h2>Komitmen Terhadap Permainan Bertanggungjawab</h2>
-                                <p>Di club my, kesejahteraan anda menjadi keutamaan. Kami menyediakan alat yang membantu anda bermain secara bertanggungjawab termasuk had deposit dan kerugian, tempoh bertenang, serta pengecualian diri. Jika perjudian menjadi terlalu membebankan, khidmat sokongan profesional tersedia menerusi <a href="https://clubmy.org/perjudian-bertanggungjawab"><strong>sumber perjudian bertanggungjawab</strong></a> kami.</p>
+                                <p>Di club my, kesejahteraan anda menjadi keutamaan. Kami menyediakan alat yang membantu anda bermain secara bertanggungjawab termasuk had deposit dan kerugian, tempoh bertenang, serta pengecualian diri. Jika perjudian menjadi terlalu membebankan, khidmat sokongan profesional tersedia menerusi <a href="https://clubmy.org/perjudian-bertanggungjawab/"><strong>sumber perjudian bertanggungjawab</strong></a> kami.</p>
                                 <p>&nbsp;</p>
                                 <h2>Komuniti Pemain Aktif & Kejohanan Menarik</h2>
                                 <p>Sertai komuniti aktif para pemain di CLUBMY. Sertai kejohanan tetap, bersaing dalam papan pendahulu, dan kongsikan kemenangan anda di forum pemain. Acara komuniti kami menambahkan keseronokan dan interaksi sosial dalam perjalanan permainan anda, menjadikan pengalaman lebih bermakna.</p>
                                 <p>&nbsp;</p>
                                 <h2>Sokongan Pelanggan Berdedikasi</h2>
-                                <p>Ada sebarang pertanyaan atau perlukan bantuan? Pasukan sokongan pelanggan CLUBMY sentiasa bersedia membantu anda melalui sembang langsung, e-mel, atau Telegram. Bantuan yang pantas, mesra, dan boleh dipercayai sentiasa tersedia apabila diperlukan. Layari halaman <a href="https://clubmy.org/hubungi-kami"><strong>hubungan kami</strong></a> untuk mendapatkan bantuan terus.</p>
+                                <p>Ada sebarang pertanyaan atau perlukan bantuan? Pasukan sokongan pelanggan CLUBMY sentiasa bersedia membantu anda melalui sembang langsung, e-mel, atau Telegram. Bantuan yang pantas, mesra, dan boleh dipercayai sentiasa tersedia apabila diperlukan. Layari halaman <a href="https://clubmy.org/hubungi-kami/"><strong>hubungan kami</strong></a> untuk mendapatkan bantuan terus.</p>
                                 <p>&nbsp;</p>
                                 <h2>Testimoni Pengguna di CLUBMY</h2>
                                 <p class="mb-3">“Walaupun saya tidak pernah bermain slot sebelum ini, CLUBMY sangat mudah difahami.  Saya main pada masa lunch pada setiap hari.”</br> — Nurul, Penang</p>

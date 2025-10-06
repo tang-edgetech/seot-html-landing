@@ -108,7 +108,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h2>Langkah-langkah Keselamatan</h2>
-                                <p>CLUBMY melindungi data anda menggunakan teknologi penyulitan SSL dan langkah keselamatan lain yang terkini. Akses kepada maklumat sensitif adalah terhad kepada kakitangan yang diberi kuasa sahaja dan kami menjalankan audit keselamatan secara berkala.</p>
+                                <p><a href="https://clubmy.org/"><strong>CLUBMY</strong></a> melindungi data anda menggunakan teknologi penyulitan SSL dan langkah keselamatan lain yang terkini. Akses kepada maklumat sensitif adalah terhad kepada kakitangan yang diberi kuasa sahaja dan kami menjalankan audit keselamatan secara berkala.</p>
                                 <p>&nbsp;</p>
                                 <h2>Tempoh Penyimpanan Data</h2>
                                 <p>Data akaun dan transaksi disimpan selagi diperlukan untuk memenuhi keperluan undang-undang, menyelesaikan pertikaian, dan menyediakan perkhidmatan berterusan. Jika anda menutup akaun, data tertentu akan disimpan untuk tempoh minimum yang ditetapkan oleh peraturan.</p>
@@ -117,7 +117,7 @@ include '../inc/functions.php';
                                 <p>Anda berhak untuk mengakses, membetulkan, atau memadam data peribadi anda, serta mengehadkan atau membantah pemprosesan tertentu. Untuk melaksanakan hak anda, sila hubungi pegawai perlindungan data kami melalui e-mel atau laman hubungi kami.</p>
                                 <p>&nbsp;</p>
                                 <h2>Privasi Kanak-kanak</h2>
-                                <p>CLUBMY hanya untuk pemain berumur sah sahaja. Kami tidak mengumpul data peribadi daripada kanak-kanak di bawah umur perjudian yang sah dan akan memadamkan maklumat jika kami mendapati terdapat data sedemikian.</p>
+                                <p>Clubmy hanya untuk pemain berumur sah sahaja. Kami tidak mengumpul data peribadi daripada kanak-kanak di bawah umur perjudian yang sah dan akan memadamkan maklumat jika kami mendapati terdapat data sedemikian.</p>
                                 <p>&nbsp;</p>
                                 <h2>Perubahan Dasar Privasi</h2>
                                 <p>Kami mungkin mengemaskini dasar ini dari semasa ke semasa. Sebarang perubahan akan diumumkan di laman web dan, jika perlu, anda akan dimaklumkan secara langsung.</p>
