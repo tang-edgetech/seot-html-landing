@@ -410,7 +410,7 @@ $top_brands = [
     "win111" => [
         "title" => "WIN111",
         "description" => "Refer to Your Friends & Earn RM50",
-        "url" => "https://tinyurl.com/4p7t4c9c",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
     ],
     "winbebas" => [
         "title" => "WINBEBAS",

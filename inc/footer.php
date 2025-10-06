@@ -8,7 +8,7 @@
             <img src="<?php echo $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Referrer">
             <span class="text-center">Promosi</span>
         </strong></a>
-        <a href="https://www.winbebas.com/register/?affiliateCode=wbbseo3" rel="nofollow noopener noreferrer" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+        <a href="https://www.win111.asia/register/?affiliateCode=win111v1seo3" rel="nofollow noopener noreferrer" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Comission">
             <span class="text-center">Referrer</span>
         </strong></a>
