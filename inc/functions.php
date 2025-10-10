@@ -5,8 +5,17 @@ if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
     $site_base_url_en = 'https://jom99.org/en';
 }
 else {
-    $site_base_url = 'http://localhost/jom99.org';
-    $site_base_url_en = 'http://localhost/jom99.org/en';
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $site_base_url = 'http://localhost:8080/jom99.org';
+        $site_base_url_en = 'http://localhost:8080/jom99.org/en';
+    }
+    else {
+        $site_base_url = 'http://localhost/jom99.org';
+        $site_base_url_en = 'http://localhost/jom99.org/en';
+    }
 }
 $site_title = 'JOM99';
 if( !empty($page_name) ) {
@@ -31,7 +40,7 @@ $available_languages = [
 ];
 $menu_items = [
     [
-        "title" => "Permainan Slot",
+        "title" => "Slot",
         "url" => "slot",
         "target" => "_self",
     ],
@@ -400,38 +409,45 @@ $gameProviders = [
 $top_brands = [
     "win111" => [
         "title" => "WIN111",
-        "description" => "Login Daily and Win Up to RM88",
-        "url" => "https://tinyurl.com/34trd6t7",
+        "description" => "First Deposit Bonus 160%",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "alt" => "",
     ],
     "winmy" => [
         "title" => "WINMY",
         "description" => "Welcome Bonus 60%",
         "url" => "https://winmy.asia/register/referer/a6e0ace56f",
+        "alt" => "",
     ],
     "win4u" => [
         "title" => "WIN4U",
         "description" => "120% First Deposit Bonus",
         "url" => "https://www.win4u.asia/m/register?affiliateCode=win4u0010",
+        "alt" => "",
     ],
     "winboleh" => [
         "title" => "Winboleh",
         "description" => "Welcome bonus RM888 140%",
         "url" => "http://mplanding2.winboleh1.com/",
+        "alt" => "",
     ],
     "kaya88" => [
         "title" => "KAYA88",
         "description" => "Welcome bonus 60%",
         "url" => "https://kayabet88.com/register/referer/86b284c3b1",
+        "alt" => "",
     ],
     "klwin" => [
         "title" => "KLWIN",
         "description" => "First deposit<br/>30 dpt 60<br/>100 dpt 200",
         "url" => "https://klwin111.com/register/referer/c6a6dd69be",
+        "alt" => "",
     ],
     "kaya96" => [
         "title" => "Kaya96",
         "description" => "20% weekend bonus",
         "url" => "https://kaya96.com/register/referer/08fadc27ba",
+        "alt" => "",
     ],
 ];
 ?>

@@ -16,23 +16,23 @@ include '../inc/functions.php';
         <meta name="renderer" content="webkit"/>
 
         <!-- Meta Title and Description for Jom99 Responsible Gambling -->
-        <title>Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia</title>
-        <meta name="title" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
-        <meta name="description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <title>Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia</title>
+        <meta name="title" content="Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta name="description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di JOM99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
         <meta name="keywords" content="jom99 perjudian bertanggungjawab, bermain secara selamat, panduan perjudian, kesedaran perjudian, had perjudian, tanggungjawab perjudian">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
-        <meta itemprop="description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta itemprop="name" content="Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta itemprop="description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di JOM99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://jom99.org/perjudian-bertanggungjawab/">
-        <meta property="og:title" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
-        <meta property="og:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
-        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:title" content="Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta property="og:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di JOM99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="jom99 perjudian bertanggungjawab">
         <meta property="article:tag" content="perjudian bertanggungjawab">
@@ -43,11 +43,32 @@ include '../inc/functions.php';
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <meta name="twitter:title" content="Jom99 Perjudian Bertanggungjawab ᐉ Panduan untuk Bermain Secara Selamat di Malaysia">
-        <meta name="twitter:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di Jom99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
+        <meta name="twitter:title" content="Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia">
+        <meta name="twitter:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di JOM99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://jom99.org/"
+                },
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Perjudian Bertaggungjawab",
+                "item": "https://jom99.org/perjudian-bertanggungjawab/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -58,8 +79,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Perjudian Bertanggungjawab</h1>
-                                <p> Di Jom99, kami komited untuk mempromosikan perjudian bertanggungjawab dan memastikan pemain kami menikmati pengalaman permainan yang selamat dan menyeronokkan. Kami percaya bahawa perjudian haruslah satu aktiviti yang menghiburkan dan tidak mengganggu kehidupan harian anda. Matlamat kami adalah untuk menyediakan persekitaran yang selamat di mana anda boleh bermain sambil mengekalkan kawalan ke atas tabiat permainan anda. </p>
+                                <h1>Perjudian Bertanggungjawab - JOM99</h1>
+                                <p> Di <a href="https://jom99.org/"><strong>JOM99</strong></a>, kami komited untuk mempromosikan perjudian bertanggungjawab dan memastikan pemain kami menikmati pengalaman permainan yang selamat dan menyeronokkan. Kami percaya bahawa perjudian haruslah satu aktiviti yang menghiburkan dan tidak mengganggu kehidupan harian anda. Matlamat kami adalah untuk menyediakan persekitaran yang selamat di mana anda boleh bermain sambil mengekalkan kawalan ke atas tabiat permainan anda. </p>
                                 <p> Kami menggalakkan pemain untuk menetapkan batasan peribadi semasa terlibat dalam aktiviti perjudian. Kami menyediakan pelbagai alat dan sumber untuk membantu anda menguruskan aktiviti perjudian anda, termasuk: </p>
                                 <ul>
                                     <li><strong>Pengecualian Diri</strong>: Pemain boleh memilih untuk mengecualikan diri daripada platform kami untuk tempoh tertentu bagi membantu mereka mengawal tabiat perjudian.</li>
@@ -67,7 +88,7 @@ include '../inc/functions.php';
                                     <li><strong>Pengesahan Realiti</strong>: Pemain boleh menetapkan peringatan untuk memantau masa yang dibelanjakan di platform kami, mengelakkan permainan berlebihan.</li>
                                     <li><strong>Akses Kepada Sokongan</strong>: Kami menyediakan akses kepada talian bantuan dan sumber luar untuk pemain yang memerlukan bantuan profesional berhubung masalah perjudian.</li>
                                 </ul>
-                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di Jom99, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
+                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di <strong>platform slot rasmi jom99.org</strong>, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
                             </div>
                         </div>
                     </div>

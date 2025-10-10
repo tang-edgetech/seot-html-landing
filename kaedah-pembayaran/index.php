@@ -16,38 +16,62 @@ include '../inc/functions.php';
         <meta name="renderer" content="webkit"/>
 
         <!-- Meta Title and Description for Jom99 Payment Method -->
-        <title>Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat</title>
-        <meta name="title" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
-        <meta name="description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <title>JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar</title>
+        <meta name="title" content="JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar">
+        <meta name="description" content="JOM99 memastikan pembayaran anda lancar.  Pilih kaedah pengeluaran dan deposit cepat yang sesuai dengan keperluan anda.">
         <meta name="keywords" content="jom99 kaedah pembayaran, pembayaran jom99, deposit jom99, pengeluaran jom99, kaedah transaksi, pembayaran selamat malaysia, jom99 payment method">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
-        <meta itemprop="description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <meta itemprop="name" content="JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar">
+        <meta itemprop="description" content="JOM99 memastikan pembayaran anda lancar.  Pilih kaedah pengeluaran dan deposit cepat yang sesuai dengan keperluan anda.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://jom99.org/kaedah-pembayaran/">
-        <meta property="og:title" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
-        <meta property="og:description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
-        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:title" content="JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar">
+        <meta property="og:description" content="JOM99 memastikan pembayaran anda lancar.  Pilih kaedah pengeluaran dan deposit cepat yang sesuai dengan keperluan anda.">
+        <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <meta property="article:tag" content="jom99 kaedah pembayaran">
-        <meta property="article:tag" content="jom99 payment method">
-        <meta property="article:tag" content="deposit jom99">
-        <meta property="article:tag" content="pengeluaran jom99">
-        <meta property="article:tag" content="pembayaran selamat">
+        <meta property="article:tag" content="JOM99 kaedah pembayaran">
+        <meta property="article:tag" content="JOM99 payment method">
+        <meta property="article:tag" content="Cara deposit JOM99">
+        <meta property="article:tag" content="Pengeluaran JOM99">
+        <meta property="article:tag" content="Pembayaran e-wallet JOM99">
+        <meta property="article:tag" content="Cryptocurrency JOM99">
+        <meta property="article:tag" content="Online banking Malaysia">
+        <meta property="article:tag" content="Perbankan tempatan">
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <meta name="twitter:title" content="Jom99 Kaedah Pembayaran ᐉ Pilih Pembayaran Selamat untuk Transaksi Cepat">
-        <meta name="twitter:description" content="Pelajari pelbagai kaedah pembayaran yang selamat dan cepat di Jom99. Pilih kaedah yang sesuai untuk deposit dan pengeluaran tanpa masalah di platform kami.">
+        <meta name="twitter:title" content="JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar">
+        <meta name="twitter:description" content="JOM99 memastikan pembayaran anda lancar.  Pilih kaedah pengeluaran dan deposit cepat yang sesuai dengan keperluan anda.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+         <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://jom99.org/"
+                },
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Kaedah Pembyaran",
+                "item": "https://jom99.org/kaedah-pembayaran/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -69,10 +93,10 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Kaedah Pembayaran Jom99 - Mudah dan Selamat</h1>
-                                <p>Di Jom99, kami memastikan proses transaksi deposit dan pengeluaran adalah cepat, mudah, dan selamat. Kami menawarkan pelbagai kaedah pembayaran untuk memenuhi keperluan semua pemain. Sama ada anda lebih suka menggunakan kad kredit/debit, e-wallets, atau pemindahan bank, anda boleh memilih pilihan yang paling sesuai dengan anda.</p>
+                                <h1>Kaedah Pembayaran JOM99 - Mudah dan Selamat</h1>
+                                <p>Pengeluaran dan deposit adalah mudah, cepat, dan selamat di Jom99.  Untuk memenuhi keperluan semua pemain, kami menawarkan pelbagai cara pembayaran.  Anda boleh memilih cara yang paling sesuai dengan anda, sama ada anda lebih suka menggunakan kad kredit, kad debit, e-wallet atau pemindahan bank.</p>
                                 <h2>Kenapa Pilih Kaedah Pembayaran Jom99?</h2>
-                                <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di <strong><a href="<?php echo $site_base_url;?>/">Jom99</a></strong>, kami komited untuk menyediakan kaedah pembayaran yang cepat dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
+                                <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di <a href="https://jom99.org/"><strong>portal gaming JOM99</strong></a>, kami komited untuk menyediakan kaedah pembayaran yang cepat dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
                                 <h3>Pelbagai Pilihan Pembayaran yang Fleksibel</h3>
                                 <p>Kami menawarkan pelbagai pilihan pembayaran yang fleksibel, membolehkan anda memilih kaedah yang paling mudah dan selamat. Sama ada anda ingin menggunakan kad kredit/debit, e-wallets, atau pemindahan bank, kami mempunyai pilihan untuk memenuhi semua keperluan pemain kami.</p>
                                 <h3>Transaksi Pantas dan Selamat</h3>
@@ -113,7 +137,7 @@ include '../inc/functions.php';
                                 <h3>Transaksi Tanpa Batasan</h3>
                                 <p>Kami membolehkan pemain untuk membuat transaksi tanpa sebarang had yang tidak perlu. Anda boleh melakukan deposit dan pengeluaran mengikut keselesaan anda tanpa gangguan.</p>
                                 <h2>Kesimpulan</h2>
-                                <p>Di Jom99, kami menawarkan pelbagai kaedah pembayaran yang pantas, mudah, dan selamat untuk memastikan pengalaman permainan yang lancar. Kami komited untuk memberikan pilihan pembayaran yang fleksibel dan tanpa yuran tersembunyi, supaya anda dapat bermain tanpa sebarang kebimbangan.</p>
+                                <p>Di <a href="https://jom99.org/"><strong>laman slot rasmi JOM99</strong></a>, kami menawarkan pelbagai kaedah pembayaran yang pantas, mudah, dan selamat untuk memastikan pengalaman permainan yang lancar. Kami komited untuk memberikan pilihan pembayaran yang fleksibel dan tanpa yuran tersembunyi, supaya anda dapat bermain tanpa sebarang kebimbangan.</p>
                             </div>
                         </div>
                     </div>

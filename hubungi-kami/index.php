@@ -16,23 +16,23 @@ include '../inc/functions.php';
         <meta name="renderer" content="webkit"/>
 
         <!-- Meta Title and Description for Jom99 Contact -->
-        <title>Jom99 Hubungi Kami ᐉ Dapatkan Sokongan Pelanggan dan Bantuan Segera di Malaysia</title>
-        <meta name="title" content="Jom99 Hubungi Kami ᐉ Dapatkan Sokongan Pelanggan dan Bantuan Segera di Malaysia">
-        <meta name="description" content="Hubungi kami di Jom99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
+        <title>Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia</title>
+        <meta name="title" content="Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia">
+        <meta name="description" content="Hubungi kami di JOM99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
         <meta name="keywords" content="jom99 hubungi kami, sokongan pelanggan, bantuan jom99, pertanyaan jom99, servis pelanggan malaysia, hubungi sokongan jom99">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Jom99 Hubungi Kami ᐉ Dapatkan Sokongan Pelanggan dan Bantuan Segera di Malaysia">
-        <meta itemprop="description" content="Hubungi kami di Jom99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
+        <meta itemprop="name" content="Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia">
+        <meta itemprop="description" content="Hubungi kami di JOM99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://jom99.org/hubungi-kami/">
-        <meta property="og:title" content="Jom99 Hubungi Kami ᐉ Dapatkan Sokongan Pelanggan dan Bantuan Segera di Malaysia">
-        <meta property="og:description" content="Hubungi kami di Jom99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
-        <meta property="og:site_name" content="jom99.org">
+        <meta property="og:title" content="Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia">
+        <meta property="og:description" content="Hubungi kami di JOM99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
+        <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="jom99 hubungi kami">
         <meta property="article:tag" content="sokongan pelanggan">
@@ -42,11 +42,32 @@ include '../inc/functions.php';
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
-        <meta name="twitter:title" content="Jom99 Hubungi Kami ᐉ Dapatkan Sokongan Pelanggan dan Bantuan Segera di Malaysia">
-        <meta name="twitter:description" content="Hubungi kami di Jom99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
+        <meta name="twitter:title" content="Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia">
+        <meta name="twitter:description" content="Hubungi kami di JOM99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://jom99.org/"
+                },
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Hubungi Kami",
+                "item": "https://jom99.org/hubungi-kami/"
+                }
+            ]
+        }
+        </script>
+
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

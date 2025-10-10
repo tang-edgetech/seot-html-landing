@@ -1,4 +1,4 @@
-<?php
+    <?php
 $page_name = "Home";
 $page_slug = 'home';
 $page_index = 1;
@@ -13,39 +13,39 @@ include 'inc/functions.php';
         <meta name="author" content="jom99">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma</title>
-        <meta name="title" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
-        <meta name="description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
+        <title>JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma</title>
+        <meta name="title" content="JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma">
+        <meta name="description" content="JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
-        <meta itemprop="description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
+        <meta itemprop="name" content="JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma">
+        <meta itemprop="description" content="JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.">
         <meta itemprop="image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://jom99.org/">
-        <meta property="og:title" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
-        <meta property="og:description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
+        <meta property="og:title" content="JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma">
+        <meta property="og:description" content="JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.">
         <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
-        <meta property="article:tag" content="jom99">
-        <meta property="article:tag" content="jom99 slot">
-        <meta property="article:tag" content="jom99 login">
-        <meta property="article:tag" content="jom99 vip">
-        <meta property="article:tag" content="jom99 app">
-        <meta property="article:tag" content="jom99 slot login">
-        <meta property="article:tag" content="jom99 casino">
-        <meta property="article:tag" content="jom99 malaysia">
-        <meta property="article:tag" content="jom99 apk">
-        <meta property="article:tag" content="jom99 online">
+        <meta property="article:tag" content="JOM99">
+        <meta property="article:tag" content="JOM99 slot">
+        <meta property="article:tag" content="JOM99 login">
+        <meta property="article:tag" content="JOM99 vip eksklusif">
+        <meta property="article:tag" content="JOM99 app download">
+        <meta property="article:tag" content="JOM99 bonus">
+        <meta property="article:tag" content="JOM99 casino online">
+        <meta property="article:tag" content="JOM99 malaysia">
+        <meta property="article:tag" content="JOM99 apk">
+        <meta property="article:tag" content="JOM99 withdrawal">
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="<?= $site_base_url;?>/images/jom99_logo.webp">
-        <meta name="twitter:title" content="Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma">
-        <meta name="twitter:description" content="Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.">
+        <meta name="twitter:title" content="JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma">
+        <meta name="twitter:description" content="JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.">
         <meta name="twitter:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
@@ -57,7 +57,7 @@ include 'inc/functions.php';
         "name": "Jom99",
         "url": "https://jom99.org/",
         "logo": "https://jom99.org/images/jom99_logo.webp",
-        "description": "Jom99 ialah platform slot dalam talian dengan bonus putaran percuma setiap hari. Sertai Program super VIP dan dapatkan gaji harian hingga RM6,000 sebulan.",
+        "description": "JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Tingkat 10, Menara A, No. 23 Jalan Bukit Bintang",
@@ -176,13 +176,12 @@ include 'inc/functions.php';
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "jom99",
+            "name": "JOM99",
             "item": "https://jom99.org/"
             }
         ]
         }
         </script>
-
         <script type="application/ld+json">
         {
         "@context": "http://schema.org",
@@ -190,127 +189,128 @@ include 'inc/functions.php';
         "mainEntity": [
             {
             "@type": "Question",
-            "name": "Bagaimana cara untuk mencipta akaun di Jom99?",
+            "name": "Bagaimanakah saya boleh mendaftar di JOM99?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Untuk mendaftar, hanya lawati halaman pendaftaran, isikan butiran anda, dan cipta kata laluan yang selamat."
+                "text": "Terus pergi ke halaman pendaftaran, masukkan maklumat anda, dan buat kata laluan yang selamat."
             }
             },
             {
             "@type": "Question",
-            "name": "Apakah jenis permainan yang boleh saya mainkan di Jom99?",
+            "name": "Apakah permainan yang tersedia di JOM99?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jom99 menawarkan pelbagai permainan termasuk slot, permainan kasino langsung, permainan meja, dan banyak lagi."
+                "text": "Pelbagai permainan di Jom99 termasuk slot, permainan kasino langsung dan permainan meja, antara lain."
             }
             },
             {
             "@type": "Question",
-            "name": "Adakah Jom99 tersedia di telefon bimbit?",
+            "name": "Adakah aplikasi rasmi tersedia melalui telefon?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, anda boleh memuat turun Jom99 APK untuk bermain pada peranti Android anda bila-bila masa, di mana sahaja."
+                "text": "Ya, Jom99 APK boleh dimuat turun dan digunakan untuk bermain pada peranti Android anda bila-bila masa."
             }
             },
             {
             "@type": "Question",
-            "name": "Apakah kaedah pembayaran yang disediakan di Jom99?",
+            "name": "Apakah kaedah pembayaran yang ditawarkan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Kami menerima kad kredit, e-dompet, dan pemindahan bank untuk deposit dan pengeluaran."
+                "text": "Untuk deposit dan pengeluaran, kami menerima pemindahan bank, kad kredit dan e-wallet."
             }
             },
             {
             "@type": "Question",
-            "name": "Adakah permainan di Jom99 adil?",
+            "name": "Adakah JOM99 adil untuk bermain?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, semua permainan dijana menggunakan RNG (Random Number Generators) untuk memastikan keadilan."
+                "text": "Ya, untuk memastikan keadilan, semua permainan dibuat menggunakan generator nombor rawak (RNG)."
             }
             },
             {
             "@type": "Question",
-            "name": "Bagaimana saya menuntut bonus selamat datang saya?",
+            "name": "Bagaimanakah saya boleh menuntut bonus selamat datang?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hanya daftar sebagai pengguna baru, dan bonus selamat datang akan dimasukkan ke dalam akaun anda secara automatik."
+                "text": "Anda akan menerima bonus selamat datang secara automatik apabila anda hanya mendaftar sebagai pengguna baru."
             }
             },
             {
             "@type": "Question",
-            "name": "Bolehkah saya menggunakan bonus saya untuk semua permainan?",
+            "name": "Adakah mungkin untuk saya menggunakan bonus saya untuk semua permainan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Bonus boleh digunakan pada kebanyakan permainan, tetapi beberapa pengecualian mungkin terpakai. Sila semak syarat dan terma."
+                "text": "Walaupun bonus boleh digunakan dalam kebanyakan permainan, terdapat beberapa pengecualian. Sila semak terma dan syarat."
             }
             },
             {
             "@type": "Question",
-            "name": "Apakah program VIP?",
+            "name": "Apakah jenis program VIP?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Program VIP memberikan ganjaran kepada pemain setia dengan bonus eksklusif, pengeluaran lebih pantas, dan pengurus akaun peribadi."
+                "text": "Program VIP menawarkan pengurus akaun peribadi, pengeluaran lebih pantas dan bonus eksklusif untuk pemain setia."
             }
             },
             {
             "@type": "Question",
-            "name": "Bagaimana saya boleh mengeluarkan kemenangan saya?",
+            "name": "Bagaimanakah saya boleh memperoleh keuntungan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Anda boleh membuat pengeluaran Jom99 melalui kaedah pembayaran pilihan selepas akaun anda disahkan."
+                "text": "Selepas akaun anda disahkan, anda boleh membuat pengeluaran Jom99 menggunakan kaedah pembayaran yang anda suka."
             }
             },
             {
             "@type": "Question",
-            "name": "Adakah Jom99 selamat untuk dimainkan?",
+            "name": "Adakah selamat untuk bermain di JOM99?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, kami menggunakan teknologi penyulitan untuk melindungi data anda dan memastikan permainan yang adil."
+                "text": "Ya, kami melindungi data anda dan memastikan permainan yang adil dengan menggunakan teknologi penyulitan."
             }
             },
             {
             "@type": "Question",
-            "name": "Apa yang perlu saya lakukan jika saya perlukan bantuan?",
+            "name": "Jika saya perlukan bantuan, apa yang perlu saya lakukan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Anda boleh menghubungi sokongan pelanggan kami 24/7 melalui sembang langsung, e-mel, atau telefon."
+                "text": "Anda boleh menghubungi sokongan pelanggan kami pada bila-bila masa, setiap hari, melalui telefon, e-mel atau sembang langsung."
             }
             },
             {
             "@type": "Question",
-            "name": "Bolehkah saya menukar butiran akaun saya?",
+            "name": "Adakah mungkin untuk saya menukar butiran akaun saya?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, anda boleh mengemas kini maklumat akaun melalui bahagian tetapan akaun anda."
+                "text": "Ya, anda boleh mengemas kini butiran akaun anda di bahagian tetapan."
             }
             },
             {
             "@type": "Question",
-            "name": "Apa yang perlu saya lakukan jika saya terlupa kata laluan?",
+            "name": "Jika saya terlupa kata laluan, apa yang perlu saya lakukan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Anda boleh menetapkan semula kata laluan anda dengan mengikuti pautan 'Lupa Kata Laluan' di halaman log masuk."
+                "text": "Di halaman log masuk, anda boleh mencari pautan 'Lupa Kata Laluan' untuk menetapkan semula kata laluan anda."
             }
             },
             {
             "@type": "Question",
-            "name": "Bagaimana saya memastikan perjudian yang bertanggungjawab?",
+            "name": "Bagaimanakah saya boleh memastikan perjudian adalah sah?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Jom99 menawarkan alat seperti pengecualian diri dan had deposit untuk membantu anda berjudi secara bertanggungjawab."
+                "text": "Untuk menjadikan perjudian anda lebih bertanggungjawab, Jom99 menawarkan alat seperti pengecualian diri dan had deposit."
             }
             },
             {
             "@type": "Question",
-            "name": "Adakah terdapat program rujukan?",
+            "name": "Adakah terdapat inisiatif yang menawarkan rujukan?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, Jom99 menawarkan program afiliasi di mana anda boleh menjana pendapatan dengan merujuk orang lain ke platform."
+                "text": "Ya, anda boleh menggunakan program affiliate Jom99, yang membolehkan anda menjana wang dengan menggalakkan orang lain untuk menggunakan platform itu."
             }
             }
         ]
         }
         </script>
+
     </head>
     <body>
         <?php include 'inc/navbar.php';?>
@@ -458,67 +458,81 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Jom99 – Destinasi Gaming Terbaik dengan Bonus Putaran Percuma</h1>
-                                <p>Selamat datang ke Jom99, destinasi utama untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Sama ada anda mencari <strong><a href="<?= $site_base_url;?>/slot/">permainan slot dalam talian</a></strong>, permainan kasino secara langsung, ganjaran VIP eksklusif, atau kaedah pembayaran yang mudah, <strong><a href="<?= $site_base_url;?>/">Jom99</a></strong> adalah pilihan utama untuk hiburan dalam talian. Sertai kami hari ini untuk meneroka pelbagai jenis permainan berkualiti tinggi, nikmati permainan mudah alih tanpa gangguan, dan manfaatkan bonus yang menarik.</p>
-                                <h2>Kenapa Pengguna Pilih Jom99?</h2>
-                                <p>Di Jom99, kami mengutamakan keselamatan, pengalaman permainan yang lancar, dan perkhidmatan pelanggan yang cemerlang. Berikut adalah sebab mengapa ribuan pemain memilih kami:</p>
-                                <h3>Permainan Dalam Talian yang Selamat dan Terpercaya</h3>
-                                <p>Kami faham bahawa keselamatan adalah aspek yang paling penting ketika bermain dalam talian. Oleh itu, Jom99 menggunakan teknologi penyulitan terkini untuk melindungi data peribadi dan kewangan anda. Permainan kami dijana oleh pembekal perisian yang dipercayai, memastikan keadilan dalam setiap putaran gulungan atau taruhan yang anda buat.</p>
-                                <h3>Kaedah Pembayaran yang Mudah dan Dipercayai</h3>
-                                <p>Membuat deposit dan pengeluaran dana di Jom99 adalah mudah. Kami menyokong pelbagai <strong><a href="<?= $site_base_url;?>/kaedah-pembayaran/">kaedah pembayaran rasmi JOM99</a></strong>, termasuk kad kredit, e-wallet, dan bank transfer, menjadikan ia mudah untuk anda menguruskan dana anda dengan selamat.</p>
-                                <h3>Sokongan Pelanggan 24/7</h3>
-                                <p>Di Jom99, sokongan pelanggan kami tersedia sepanjang masa untuk membantu anda. Sama ada anda memerlukan bantuan dengan Jom99 login atau mempunyai pertanyaan mengenai akaun anda, pasukan mesra kami sentiasa bersedia memberikan bantuan segera.</p>
-                                <h3>Jelajahi Permainan Kami</h3>
-                                <p>Perpustakaan permainan kami di Jom99 menawarkan hiburan tanpa henti dengan pelbagai pilihan slot, permainan kasino secara langsung, dan banyak lagi. Apa sahaja gaya permainan anda, pasti ada sesuatu untuk anda nikmati.</p>
-                                <h3>Pilihan Slot yang Luas</h3>
-                                <p>Kami menawarkan koleksi slot yang kaya, termasuk mesin 3-rol klasik, slot video 5-rol, dan jackpot progresif. Slot kami hadir dengan pelbagai tema, ciri, dan struktur pembayaran, memastikan ada permainan untuk setiap jenis pemain.</p>
-                                <p>Dari slot bertemakan fantasi hingga permainan bertema pengembaraan yang penuh aksi, setiap pemain pasti akan menemui permainan yang sesuai dengan gaya dan cita rasa mereka.</p>
-                                <h3>Permainan Kasino Secara Langsung</h3>
-                                <p>Masuki dunia permainan pengedar langsung untuk pengalaman kasino secara langsung yang mendalam. Berinteraksi dengan pengedar profesional sambil bermain blackjack, rolet, baccarat, dan banyak lagi. Kehebatan bermain dalam suasana kasino sebenar dari keselesaan rumah anda adalah apa yang membuatkan permainan kasino langsung kami begitu popular.</p>
-                                <h3>Tajuk Baru: Permainan Segar Setiap Minggu</h3>
-                                <p>Kami komited untuk memastikan pengalaman permainan anda sentiasa segar. Setiap minggu, kami menambah permainan baharu ke platform kami, jadi anda akan sentiasa menemui sesuatu yang baru untuk diterokai dan nikmati.</p>
-                                <h2>Program Jom99 untuk Ahli VIP</h2>
-                                <p>Program VIP kami memberi ganjaran kepada pemain yang setia dengan manfaat eksklusif dan perkhidmatan peribadi, menjadikan pengalaman permainan anda lebih istimewa.</p>
+                                <h1>JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma</h1>
+                                <p>Selamat datang ke <a href="https://jom99.org/"><strong>platform rasmi JOM99</strong></a>, tempat terbaik untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Platform kami adalah pilihan utama untuk hiburan dalam talian sama ada anda mencari <a href="https://jom99.org/slot/"><strong>laman slot online menarik</strong></a>, permainan live casino, ganjaran VIP eksklusif atau pilihan pembayaran yang mudah. Nikmatilah pelbagai jenis permainan berkualiti tinggi dengan kami hari ini, direka untuk memberi ahli peluang sebenar untuk menang besar.</p>
+                                <p>&nbsp;</p>
+
+                                <h2>Mengapa JOM99 Jadi Pilihan Pemain</h2>
+                                <p>Kami mengutamakan keselamatan, kelancaran permainan dan perkhidmatan pelanggan yang hebat di JOM99. Kami dipilih setiap hari oleh ribuan pemain kerana pengalaman permainan yang boleh dipercayai, ganjaran yang menarik dan sokongan berterusan.</p>
+                                <p>&nbsp;</p>
+
+                                <h3>Permainan Online Dilindungi dan Dipercayai</h2>
+                                <p><strong>JOM99</strong> menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda selamat. Semua permainan slot kami dicipta oleh penyedia perisian yang diiktiraf, yang memastikan keadilan sepenuhnya dalam setiap putaran dan taruhan.</p>
+                                <p>&nbsp;</p>
+
+                                <h3>Pelbagai Jenis Slot dalam Talian</h3>
+                                <p class="mb-3">Di JOM99, anda boleh menikmati koleksi slot lengkap dari <a href="https://jom99.org/slot/"><strong>slot klasik, slot video terbaru, jackpot proresif</strong></a> dengan potensi pulangan yang luar biasa:</p>
+                                <ol>
+                                    <li class="mb-2">Slot tiga gulung klasik untuk pengalaman tradisional</li>
+                                    <li class="mb-2">Slot video 5-gulung yang mempunyai tema terbaru</li>
+                                    <li>Jackpot progresif menawarkan peluang yang sangat baik untuk menang</li>
+                                </ol>
+                                <p>Laman slot kami pasti mempunyai sesuatu untuk anda sama ada anda suka tema fantasi, pengembaraan atau klasik.</p>
+                                <p>&nbsp;</p>
+
+                                <h3>Permainan Live Casino</h3>
+                                <p>Permainan live dealer di <strong>platform jom99.org</strong> membolehkan anda menikmati suasana sebenar kasino. Pemain boleh cuba permainan kasino seperti blackjack, roulette, baccarat dan banyak lagi dengan live dealer profesional dari keselesaan rumah anda. </p>
+                                <p>&nbsp;</p>
+
+                                <h3>Tajuk Baru: Permainan Slot Kemas Kini</h3>
+                                <p>Kami komited untuk memastikan pengalaman permainan anda sentiasa segar. Setiap minggu, kami menambah permainan baharu ke platform kami, jadi anda akan sentiasa menemui sesuatu yang baru untuk diterokai dan nikmati.
+</p>
+                                <p>&nbsp;</p>
+
+                                <h2>Ganjaran Harian Pemain Bersetia JOM99</h2>
+                                <p>Kami menghargai setiap pemain yang iyang menunjukkan kesetiaan kepada platform kami. Program <a href="https://jom99.org/vip/"><strong>VIP eksklusif JOM99</strong></a> membolehkan anda menikmati layanan eksklusif, bonus eksklusif, dan kelebihan tambahan yang dicipta khusus untuk meningkatkan nilai pengalaman permainan anda.</p>
+                                <p>&nbsp;</p>
+
                                 <h3>Ganjaran dan Manfaat VIP Eksklusif</h3>
-                                <p>Sebagai seorang <strong><a href="<?= $site_base_url;?>/vip/">member VIP JOM99 club</a></strong>, anda mendapat akses kepada pelbagai manfaat, seperti bonus yang diperibadikan, pengeluaran yang lebih pantas, dan sokongan pelanggan yang diutamakan. Semakin banyak anda bermain, semakin banyak ganjaran yang boleh anda perolehi, menjadikan setiap saat di Jom99 lebih menarik.</p>
-                                <h3>Cara Menjadi VIP</h3>
+                                <p>Ahli Super VIP mempunyai keistimewaan seperti ganjaran harian <strong>sehingga RM6,000 sebulan</strong>, pengeluaran lebih pantas, bonus peribadi, dan keutamaan dalam semua promosi. Program ini mengira tahap kesetiaan anda: 🎖️ Lebih banyak anda bermain, lebih banyak ganjaran yang menanti!</p>
+                                <p>&nbsp;</p>
+                                
+                                <p>Cara Menjadi Ahli VIP</p>
                                 <p>Menjadi VIP di Jom99 adalah mudah. Cuma main secara berkala, dan apabila anda mengumpul mata kesetiaan, anda akan membuka lebih banyak manfaat VIP eksklusif. Begitu mudah!</p>
-                                <h2>Permainan Selamat dan Lancar dengan APK Jom99</h2>
-                                <p>Main permainan kegemaran anda di mana sahaja dengan <strong><a href="<?= $site_base_url;?>/muat-turun-apk/">download aplikasi rasmi JOM99</a></strong> untuk peranti Android. Muat turun aplikasi ini untuk menikmati permainan mudah alih tanpa gangguan. Dengan aplikasi kami, anda boleh mengakses semua permainan kegemaran anda dengan pengalaman yang sama berkualiti tinggi seperti di desktop.</p>
-                                <h3>Muat Turun APK Jom99 untuk Permainan Tanpa Gangguan</h3>
-                                <p>Jom99 APK telah dioptimumkan sepenuhnya untuk memberikan anda pengalaman permainan yang lancar pada peranti mudah alih anda. Muat turun dan pasang APK pada peranti Android anda untuk mula bermain.</p>
-                                <h3>Kaedah Pembayaran Jom99</h3>
-                                <p>Membuat pembayaran di Jom99 adalah pantas, selamat, dan mudah. Kami menawarkan pelbagai pilihan untuk memastikan anda dapat memilih kaedah yang paling sesuai untuk anda.</p>
-                                <h3>Transaksi Mudah dan Selamat</h3>
-                                <p>Kami menyokong pelbagai kaedah pembayaran, termasuk kad kredit, e-wallet, bank transfer, dan banyak lagi. Setiap transaksi diproses dengan selamat untuk memastikan wang anda terjamin.</p>
-                                <h3>Pengeluaran Cepat</h3>
-                                <p>Pengeluaran di Jom99 adalah pantas dan mudah. Kami berusaha untuk memproses setiap permintaan pengeluaran dengan cepat, supaya anda boleh mengakses kemenangan anda tanpa kelewatan.</p>
-                                <h2>Bonus dan Promosi Tanpa Tangguh</h2>
-                                <p>Jom99 sentiasa memberi ganjaran kepada pemain kami. Dari bonus alu-aluan yang murah hati hingga promosi berkala, terdapat sentiasa peluang untuk menambah kemenangan anda.</p>
+                                
+                                <h2>Permainan Selamat dan Lancar dengan Aplikasi JOM99</h2>
+                                <p class="mb-3">Muat turun <a href="https://jom99.org/muat-turun-apk/"><strong>aplikasi versi terbaru untuk Android atau iOS</strong></a> dan main permainan kegemaran anda di mana sahaja anda mahu. Dengan memuat turun aplikasi ini, anda boleh menikmati permainan mudah alih anda dengan lancar. Aplikasi kami memberikan anda pengalaman berkualiti tinggi yang sama seperti bermain permainan di desktop anda.</p>
+                                <h3>Muat Turun Aplikasi JOM99 untuk Permainan Tanpa Gangguan</h3>
+                                <p class="mb-3">Jom99 aplikasi telah dioptimumkan sepenuhnya untuk memberikan anda pengalaman permainan yang lancar pada peranti mudah alih anda. Muat turun dan pasang APK pada peranti Android anda untuk mula bermain.</p>
+                                <h3>Pembayaran Mudah &amp; Pengeluaran Pantas</h3>
+                                <p class="mb-3"><a href="https://jom99.org/kaedah-pembayaran/"><strong>JOM99 deposit dan pengeluaran</strong></a> wang adalah mudah pada bila-bila masa kerana kami menyokong kad kredit, e-wallet (Touch 'n Go, Boost, GrabPay) dan pemindahan bank tempatan. Pengguna boleh tenang kerana sistem keselamatan bertaraf tinggi menangani setiap transaksi.</p>
+                                <p>&nbsp;</p>
+                                <h2>Bonus dan Promosi Eksklusif Tanpa Tangguh</h2>
+                                <p class="mb-3">Jom99 sentiasa memberi ganjaran kepada semua pemain kami. Dari bonus selamat datang yang murah hati hingga promosi berkala, terdapat sentiasa peluang untuk menambah kemenangan anda.</p>
                                 <h3>Bonus Selamat Datang untuk Pengguna Baru</h3>
-                                <p>Pemain baru boleh menikmati <strong><a href="<?= $site_base_url;?>/bonus-promosi/">bonus selamat datang</a></strong> alu-aluan apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
+                                <p class="mb-3">Pemain baru boleh menikmati bonus selamat datang apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
                                 <h3>Promosi Berkala dan Tawaran Khas</h3>
-                                <p>Kami sering menawarkan putaran percuma, bonus deposit, dan promosi menarik lain. Sentiasa periksa halaman promosi kami untuk tawaran terkini!</p>
+                                <p class="mb-3">Kami sering menawarkan <strong>putaran percuma, bonus deposit</strong>, dan promosi menarik lain. Sentiasa periksa <a href="https://jom99.org/bonus-promosi/"><strong>tawaran hebat di halaman bonus & promosi terkini</strong></a>.</p>
                                 <h3>Program Kesetiaan</h3>
                                 <p>Program kesetiaan kami membolehkan anda mengumpul mata setiap kali anda bertaruh. Mata ini boleh ditukarkan kepada ganjaran, termasuk bonus, putaran percuma, dan banyak lagi.</p>
                                 <h2>Perjudian Bertanggungjawab</h2>
-                                <p>Di Jom99, kami komited untuk menyediakan persekitaran perjudian yang <strong><a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/">selamat dan bertanggungjawab</a></strong>. Kami menawarkan beberapa alat untuk membantu pemain menikmati pengalaman permainan mereka secara bertanggungjawab.</p>
+                                <p class="mb-3">Jom99 komited untuk menyediakan persekitaran <a href="https://jom99.org/perjudian-bertanggungjawab/"><strong>perjudian selamat dan bertanggungjawab</strong></a>. Kami menawarkan beberapa alat untuk membantu pemain menikmati pengalaman permainan mereka secara bertanggungjawab.</p>
                                 <h3>Perjudian dengan Integriti dan Kawalan</h3>
-                                <p>Kami menggalakkan pemain untuk berjudi secara bertanggungjawab dan menawarkan ciri-ciri seperti pengecualian diri dan had deposit untuk membantu menguruskan masa bermain dan perbelanjaan. Perjudian seharusnya sentiasa menyeronokkan, dan kami menyediakan sumber untuk menyokong itu.</p>
-                                <h2>Privasi & Keselamatan: Komitmen Jom99</h2>
-                                <p><strong><a href="<?= $site_base_url;?>/dasar-privasi/">Dasar Privasi di JOM99</a></strong> dan keselamatan anda adalah keutamaan kami. Di Jom99, kami menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
+                                <p class="mb-3">Kami menggalakkan pemain untuk berjudi secara bertanggungjawab dan menawarkan ciri-ciri seperti pengecualian diri dan had deposit untuk membantu menguruskan masa bermain dan perbelanjaan. Perjudian seharusnya sentiasa menyeronokkan, dan kami menyediakan sumber untuk menyokong itu.</p>
+                                <p>&nbsp;</p>
+                                <h2>Privasi & Keselamatan: Komitmen JOM99</h2>
+                                <p class="mb-3">Dasar <a href="https://jom99.org/dasar-privasi/"><strong>perlindungan Data &amp; Privasi</strong></a> dan keselamatan anda adalah keutamaan kami. Jom99 menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
                                 <h3>Bagaimana Kami Melindungi Data Anda</h3>
-                                <p>Kami menggunakan kaedah penyulitan yang canggih untuk melindungi maklumat sensitif anda semasa transaksi dan semasa anda melayari laman kami. Keselamatan anda adalah keutamaan kami.</p>
+                                <p class="mb-3">Kami menggunakan kaedah penyulitan yang canggih untuk melindungi maklumat sensitif anda semasa transaksi dan semasa anda melayari laman kami. Keselamatan anda adalah keutamaan kami.</p>
                                 <h3>Jaminan Permainan yang Adil</h3>
                                 <p>Semua permainan di Jom99 menggunakan Random Number Generators (RNG) untuk memastikan setiap keputusan adalah adil dan tidak berat sebelah. Anda boleh yakin bahawa setiap putaran, gulungan, atau keputusan adalah berdasarkan nasib.</p>
-                                <h2>Syarat & Terma Kami (T&C)</h2>
-                                <p>Sebelum bermula, kami menggalakkan semua pemain untuk membaca <strong><a href="<?= $site_base_url;?>/terma-syarat/">terma dan syarat</a></strong> kami untuk memastikan pengalaman permainan yang lancar dan menyenangkan.</p>
-                                <h3>Peraturan yang Telus dan Mudah Difahami</h3>
-                                <p>Syarat dan terma (T&C) kami menggariskan peraturan platform dan cara pemain harus berinteraksi dengan laman ini. Peraturan ini memastikan keadilan dan ketelusan dalam semua perkhidmatan kami.</p>
-                                <h2>Hubungi Kami</h2>
-                                <p>Jika anda mempunyai sebarang pertanyaan atau memerlukan bantuan, <strong><a href="<?= $site_base_url;?>/hubungi-kami/">pasukan sokongan pelanggan kami</a></strong> tersedia 24/7 untuk membantu anda. Kami sedia membantu!</p>
-                                <h3>Hubungi Kami untuk Sebarang Pertanyaan</h3>
-                                <p>Anda boleh menghubungi kami melalui sembang langsung, e-mel, atau telefon. Pasukan sokongan mesra kami sentiasa sedia untuk menjawab soalan anda.</p>
+                                
+                                <h2>Syarat dan Ketentuan Kami (T&C)</h2>
+                                <p class="mb-3">Semua pemain digalakkan untuk membaca terma dan syarat sebelum menggunakan laman kami. Kami memastikan peraturan platform ini jelas, mudah difahami, dan bertanggungjawab, dan setiap pemain tahu cara menggunakannya dengan adil. Ini akan memastikan semua orang mempunyai pengalaman permainan yang lancar, selamat dan menyeronokkan. </p>
+                                <p> 👉 Lihat <a href="https://jom99.org/terma-syarat/"><strong>terma dan syarat penuh yang menetapkan hak, tanggungjawab, dan peraturan penggunaan</strong></a> platform ini.</p>
+                                <p>&nbsp;</p>
+                                <h2>Hubungi Kami Sebarang Pertanyaan</h2>
+                                <p>Pasukan sokongan pelanggan kami sedia membantu anda 24/7. Untuk sebarang pertanyaan, <a href="https://jom99.org/hubungi-kami/"><strong>hubungi customer support</strong></a> kami melalui WhatsApp, Telegram, atau e-mel. Nikmati bantuan pantas dan mesra yang dipercayai oleh ramai pemain.</p>
                             </div>
                         </div>
                     </div>
@@ -530,185 +544,199 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionExample">
+                            <div class="accordion" id="accordionJom99">
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Bagaimana cara untuk mencipta akaun di Jom99?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Untuk mendaftar, hanya lawati halaman pendaftaran, isikan butiran anda, dan cipta kata laluan yang selamat.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading01">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
+                                            1. Bagaimanakah saya boleh mendaftar di JOM99?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse01" class="accordion-collapse collapse show" aria-labelledby="heading01" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Terus pergi ke halaman pendaftaran, masukkan maklumat anda, dan buat kata laluan yang selamat.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                        Apakah jenis permainan yang boleh saya mainkan di Jom99?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Jom99 menawarkan pelbagai permainan termasuk slot, permainan kasino langsung, permainan meja, dan banyak lagi.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading02">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
+                                            2. Apakah permainan yang tersedia di JOM99?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse02" class="accordion-collapse collapse" aria-labelledby="heading02" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Pelbagai permainan di laman rasmi kami termasuk slot, permainan kasino langsung dan permainan meja, antara lain.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                        Adakah Jom99 tersedia di telefon bimbit?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Ya, anda boleh memuat turun Jom99 APK untuk bermain pada peranti Android anda bila-bila masa, di mana sahaja.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading03">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
+                                            3. Adakah aplikasi rasmi tersedia melalui telefon?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse03" class="accordion-collapse collapse" aria-labelledby="heading03" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Ya, Jom99 APK boleh dimuat turun dan digunakan untuk bermain pada peranti Android anda bila-bila masa.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                        Apakah kaedah pembayaran yang disediakan di Jom99?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Kami menerima kad kredit, e-dompet, dan pemindahan bank untuk deposit dan pengeluaran.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading04">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
+                                            4. Apakah kaedah pembayaran yang ditawarkan?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse04" class="accordion-collapse collapse" aria-labelledby="heading04" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Untuk deposit dan pengeluaran, kami menerima pemindahan bank, kad kredit dan e-wallet.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                        Adakah permainan di Jom99 adil?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Ya, semua permainan dijana menggunakan RNG (Random Number Generators) untuk memastikan keadilan.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading05">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
+                                            5. Adakah JOM99 adil untuk bermain?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse05" class="accordion-collapse collapse" aria-labelledby="heading05" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Ya, untuk memastikan keadilan, semua permainan dibuat menggunakan generator nombor rawak (RNG).
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        Bagaimana saya menuntut bonus selamat datang saya?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Hanya daftar sebagai pengguna baru, dan bonus selamat datang akan dimasukkan ke dalam akaun anda secara automatik.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading06">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
+                                            6. Bagaimanakah saya boleh menuntut bonus selamat datang?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse06" class="accordion-collapse collapse" aria-labelledby="heading06" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Anda akan menerima bonus selamat datang secara automatik apabila anda hanya mendaftar sebagai pengguna baru.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                        Bolehkah saya menggunakan bonus saya untuk semua permainan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Bonus boleh digunakan pada kebanyakan permainan, tetapi beberapa pengecualian mungkin terpakai. Sila semak syarat dan terma.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading07">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
+                                            7. Adakah mungkin untuk saya menggunakan bonus saya untuk semua permainan?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse07" class="accordion-collapse collapse" aria-labelledby="heading07" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Walaupun bonus boleh digunakan dalam kebanyakan permainan, terdapat beberapa pengecualian. Sila semak terma dan syarat kami.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        Apakah program VIP?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Program VIP memberikan ganjaran kepada pemain setia dengan bonus eksklusif, pengeluaran lebih pantas, dan pengurus akaun peribadi.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading08">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
+                                            8. Apakah jenis program VIP?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse08" class="accordion-collapse collapse" aria-labelledby="heading08" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Program VIP menawarkan pengurus akaun peribadi, pengeluaran lebih pantas dan bonus eksklusif untuk pemain setia.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                        Bagaimana saya boleh mengeluarkan kemenangan saya?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Anda boleh membuat pengeluaran Jom99 melalui kaedah pembayaran pilihan selepas akaun anda disahkan.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading09">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
+                                            9. Bagaimanakah saya boleh memperoleh keuntungan?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse09" class="accordion-collapse collapse" aria-labelledby="heading09" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Selepas akaun anda disahkan, anda boleh membuat pengeluaran Jom99 menggunakan kaedah pembayaran yang anda suka.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                        Adakah Jom99 selamat untuk dimainkan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Ya, kami menggunakan teknologi penyulitan untuk melindungi data anda dan memastikan permainan yang adil.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading10">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                                            10. Adakah selamat untuk bermain di JOM99?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Ya, kami melindungi data anda dan memastikan permainan yang adil dengan menggunakan teknologi penyulitan.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                        Apa yang perlu saya lakukan jika saya perlukan bantuan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Anda boleh menghubungi sokongan pelanggan kami 24/7 melalui sembang langsung, e-mel, atau telefon.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading11">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                                            11. Jika saya perlukan bantuan, apa yang perlu saya lakukan?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Anda boleh menghubungi sokongan pelanggan kami pada bila-bila masa, setiap hari, melalui telefon, e-mel atau sembang langsung.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                        Bolehkah saya menukar butiran akaun saya?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Ya, anda boleh mengemas kini maklumat akaun melalui bahagian tetapan akaun anda.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading12">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                                            12. Adakah mungkin untuk saya menukar butiran akaun saya?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Ya, anda boleh mengemas kini butiran akaun anda di bahagian tetapan.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                        Apa yang perlu saya lakukan jika saya terlupa kata laluan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Anda boleh menetapkan semula kata laluan anda dengan mengikuti pautan "Lupa Kata Laluan" di halaman log masuk.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading13">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                                            13. Jika saya terlupa kata laluan, apa yang perlu saya lakukan?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Di halaman log masuk, anda boleh mencari pautan "Lupa Kata Laluan" untuk menetapkan semula kata laluan anda.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                        Bagaimana saya memastikan perjudian yang bertanggungjawab?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Jom99 menawarkan alat seperti pengecualian diri dan had deposit untuk membantu anda berjudi secara bertanggungjawab.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading14">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                                            14. Bagaimanakah saya boleh memastikan perjudian adalah sah?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse14" class="accordion-collapse collapse" aria-labelledby="heading14" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Untuk menjadikan perjudian anda lebih bertanggungjawab, Jom99 menawarkan alat seperti pengecualian diri dan had deposit.
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                        Adakah terdapat program rujukan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse15" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Ya, Jom99 menawarkan program afiliasi di mana anda boleh menjana pendapatan dengan merujuk orang lain ke platform.
-                                    </div>
+                                    <h2 class="accordion-header" id="heading15">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                                            15. Adakah terdapat inisiatif yang menawarkan rujukan?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse15" class="accordion-collapse collapse" aria-labelledby="heading15" data-bs-parent="#accordionJom99">
+                                        <div class="accordion-body">
+                                            Ya, anda boleh menggunakan program affiliate JOM99, yang membolehkan anda menjana wang dengan menggalakkan orang lain untuk menggunakan platform itu.
+                                        </div>
                                     </div>
                                 </div>
                             </div>

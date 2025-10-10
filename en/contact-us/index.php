@@ -23,7 +23,7 @@ include '../../inc/functions.php';
         <meta property="og:url" content="https://lpk777.org/">
         <meta property="og:title" content="WINMYR - Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:site_name" content="JOM99">
         <meta property="og:image" content="">
         <meta property="article:tag" content="LPK777">
         <meta property="article:tag" content="LPK777 slot">
