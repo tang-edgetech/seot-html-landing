@@ -497,7 +497,7 @@ include 'inc/functions.php';
                                 <p>Ahli Super VIP mempunyai keistimewaan seperti ganjaran harian <strong>sehingga RM6,000 sebulan</strong>, pengeluaran lebih pantas, bonus peribadi, dan keutamaan dalam semua promosi. Program ini mengira tahap kesetiaan anda: 🎖️ Lebih banyak anda bermain, lebih banyak ganjaran yang menanti!</p>
                                 <p>&nbsp;</p>
                                 
-                                <p>Cara Menjadi Ahli VIP</p>
+                                <h3>Cara Menjadi Ahli VIP</h3>
                                 <p>Menjadi VIP di Jom99 adalah mudah. Cuma main secara berkala, dan apabila anda mengumpul mata kesetiaan, anda akan membuka lebih banyak manfaat VIP eksklusif. Begitu mudah!</p>
                                 
                                 <h2>Permainan Selamat dan Lancar dengan Aplikasi JOM99</h2>
