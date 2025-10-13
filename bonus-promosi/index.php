@@ -43,7 +43,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:site" content="@clubmyorg">
         <meta name="twitter:title" content="CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)">
         <meta name="twitter:description" content="CLUBMY adalah destinasi game dalam talian yang lengkap dengan hadiah istimewa, kejohanan menarik, dan pengalaman pengguna yang lancar di APK dan iOS.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -221,7 +221,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Bonus & Promosi di CLUBMY – Peluang Hebat Menanti Anda</h1>
+                                <h1>CLUBMY Promo - Daftar dan Dapat Bonus Slot 250% Hari Ini! (Masa Terhad)</h1>
                                 <p>Di <a href="https://clubmy.org/"><strong>CLUBMY</strong></a>, kami tidak hanya menyediakan permainan yang menarik, tetapi juga ganjaran yang memaksimumkan nilai setiap sesi permainan anda. Dengan pelbagai bonus dan promosi yang sentiasa dikemas kini, kami memastikan setiap pemain mendapat peluang untuk meningkatkan peluang menang dan menikmati pengalaman bermain yang lebih seronok.</p>
                                 <p>&nbsp;</p>
                                 <h2>Jenis Bonus dan Promosi yang Ditawarkan di CLUBMY</h2>
@@ -243,7 +243,7 @@ include '../inc/functions.php';
                                 <p><a href="https://clubmy.org/slot/"><strong>Sertai kejohanan CLUBMY slot</strong></a> dengan hadiah wang tunai bernilai puluhan ribu ringgit. Bersaing dengan pemain lain dalam leaderboard dan menangi ganjaran menarik berdasarkan kedudukan anda.</p>
                                 <p>&nbsp;</p>
                                 <h2>Bonus VIP Eksklusif</h2>
-                                <p><a href="https://clubmy.org/vip/"><strong>Sebagai pelanggan VIP CLUBMY</strong></a>, anda akan menerima bonus khas yang tidak tersedia untuk umum, termasuk bonus ulang tahun, hadiah peribadi, dan akses ke acara istimewa serta kejohanan VIP.</p>
+                                <p>Sebagai <a href="https://clubmy.org/vip/"><strong>pelanggan VIP CLUBMY</strong></a>, anda akan menerima bonus khas yang tidak tersedia untuk umum, termasuk bonus ulang tahun, hadiah peribadi, dan akses ke acara istimewa serta kejohanan VIP.</p>
                                 <p>&nbsp;</p>
                                 <h2>Cara Menuntut dan Memanfaatkan Bonus di CLUBMY</h2>
                                 <p>Untuk menggunakan bonus dan promosi, anda hanya perlu memenuhi syarat yang ditetapkan seperti deposit minimum dan syarat pertaruhan. Maklumat lengkap boleh diperoleh pada setiap tawaran di laman promosi kami. Sentiasa semak bahagian promosi untuk tidak terlepas tawaran terbaru dan eksklusif.</p>

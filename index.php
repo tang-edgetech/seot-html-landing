@@ -15,12 +15,12 @@ include 'inc/functions.php';
         <meta name="author" content="CLUBMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia</title>
-        <meta name="title" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <title>CLUBMY - Gaming Platform Terbaik & Deposit Bonus 120% di Malaysia</title>
+        <meta name="title" content="CLUBMY - Gaming Platform Terbaik & Deposit Bonus 120% di Malaysia">
         <meta name="description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta itemprop="name" content="CLUBMY - Gaming Platform Terbaik & Deposit Bonus 120% di Malaysia">
         <meta itemprop="description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
         <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
 
@@ -28,7 +28,7 @@ include 'inc/functions.php';
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://clubmy.org/">
-        <meta property="og:title" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta property="og:title" content="CLUBMY - Gaming Platform Terbaik & Deposit Bonus 120% di Malaysia">
         <meta property="og:description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
         <meta property="og:site_name" content="CLUBMY">
         <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -46,14 +46,41 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
-        <meta name="twitter:title" content="CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia">
+        <meta name="twitter:site" content="@clubmyorg">
+        <meta name="twitter:title" content="CLUBMY - Gaming Platform Terbaik & Deposit Bonus 120% di Malaysia">
         <meta name="twitter:description" content="CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
 
         <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "CLUBMY",
+            "url": "https://clubmy.org/",
+            "logo": "https://clubmy.org/images/clubmy_logo.webp",
+            "description": "CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3b, Jalan Kerayong, Bukit Petaling",
+                "addressLocality": "Kuala Lumpur",
+                "postalCode": "50460",
+                "addressCountry": "MY"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Customer Service",
+                "email": "support@o9win.org",
+                "telephone": "+6017-3067583",
+                "availableLanguage": [
+                    "Malay",
+                    "English"
+                ]
+            }
+        }
+        </script>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -68,7 +95,6 @@ include 'inc/functions.php';
             ]
         }
         </script>
-
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -195,33 +221,6 @@ include 'inc/functions.php';
                     }
                 }
             ]
-        }
-        </script>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "CLUBMY",
-            "url": "https://clubmy.org/",
-            "logo": "https://clubmy.org/images/clubmy_logo.webp",
-            "description": "CLUBMY adalah platform slot dalam talian terkemuka di Malaysia yang menawarkan permainan seronok dan selamat, pembayaran pantas, bonus hebat, dan sokongan 24 jam.",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "3b, Jalan Kerayong, Bukit Petaling",
-                "addressLocality": "Kuala Lumpur",
-                "postalCode": "50460",
-                "addressCountry": "MY"
-            },
-            "contactPoint": {
-                "@type": "ContactPoint",
-                "contactType": "Customer Service",
-                "email": "support@o9win.org",
-                "telephone": "+6017-3067583",
-                "availableLanguage": [
-                    "Malay",
-                    "English"
-                ]
-            }
         }
         </script>
     </head>
@@ -371,7 +370,7 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>CLUBMY - Gaming Platform Terbaik & Bonus 250% di Malaysia</h1>
+                                <h1>CLUBMY - Gaming Platform Terbaik & Deposit Bonus 120% di Malaysia</h1>
                                 <p>Selamat datang ke platform <a href="https://clubmy.org/"></strong>CLUBMY</strong></a> dalam talian terkemuka di Malaysia yang telah dibangunkan untuk memenuhi keperluan pemain. Kami menawarkan sokongan pelanggan yang dipercayai, navigasi yang mudah difahami, pembayaran pantas, dan perkhidmatan yang sesuai untuk pemula dan veteran. Setiap ciri dibangunkan dengan teliti untuk memastikan pengalaman permainan anda tidak hanya menyenangkan, tetapi juga selamat dan menguntungkan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kenapa Pemain Mempercayai CLUBMY</h2>

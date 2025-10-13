@@ -15,12 +15,12 @@ include '../inc/functions.php';
         <meta name="author" content="CLUBMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)</title>
-        <meta name="title" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <title>CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)</title>
+        <meta name="title" content="CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)">
         <meta name="description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta itemprop="name" content="CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)">
         <meta itemprop="description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
         <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
 
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://clubmy.org/muat-turun-apk/">
-        <meta property="og:title" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta property="og:title" content="CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)">
         <meta property="og:description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
         <meta property="og:site_name" content="CLUBMY">
         <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -46,8 +46,8 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
-        <meta name="twitter:title" content="CLUBMY APK - Download Link Rasmi iOS & Android (Update Terbaru)">
+        <meta name="twitter:site" content="@clubmyorg">
+        <meta name="twitter:title" content="CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)">
         <meta name="twitter:description" content="CLUBMY adalah APK rasmi untuk bermain slot game di Malaysia. Nikmati permainan menarik, bonus 250%, dan pasukan sokongan mesra pengguna.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
@@ -224,7 +224,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Muat Turun APK CLUBMY– Akses Mudah dan Pantas ke Kasino Anda</h1>
+                                <h1>CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)</h1>
                                 <p>Nikmati pengalaman bermain kasino online CLUBMY yang lancar dengan aplikasi APK rasmi kami untuk Android. Dengan muat turun mudah, anda dapat mengakses koleksi permainan penuh tanpa perlu bergantung pada pelayar web. Aplikasi kami menawarkan prestasi pantas, navigasi mesra pengguna, dan pemberitahuan masa nyata untuk promosi terkini.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kelebihan Menggunakan APK CLUBMY    </h2>

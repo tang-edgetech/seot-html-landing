@@ -44,7 +44,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:site" content="@clubmyorg">
         <meta name="twitter:title" content="CLUBMY - Kaedah Pembayaran Terbaik & Pengeluaran Cepat di Malaysia">
         <meta name="twitter:description" content="CLUBMY menyediakan sistem deposit dan pengeluaran yang cepat, selamat, dan mudah untuk pengguna di Malaysia. Fahami langkah transaksi berfungsi dan pasukan sokongan pelanggan 24/7.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">

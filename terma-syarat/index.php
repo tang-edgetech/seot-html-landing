@@ -43,7 +43,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:site" content="@clubmyorg">
         <meta name="twitter:title" content="Terma & Syarat CLUBMY - Syarat Penggunaan Platform Slot">
         <meta name="twitter:description" content="CLUBMY menetapkan terma dan syarat penggunaan perkhidmatan bagi memastikan pengalaman permainan yang adil dan selamat. Sila baca sebelum menggunakan platform kami.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">

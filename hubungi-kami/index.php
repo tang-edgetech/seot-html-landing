@@ -15,12 +15,12 @@ include '../inc/functions.php';
         <meta name="author" content="CLUBMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>Hubungi Kami - CLUBMY</title>
-        <meta name="title" content="Hubungi Kami - CLUBMY">
+        <title>Hubungi Kami CLUBMY - Sokongan Mesra 24/7 untuk Anda</title>
+        <meta name="title" content="Hubungi Kami CLUBMY - Sokongan Mesra 24/7 untuk Anda">
         <meta name="description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Hubungi Kami - CLUBMY">
+        <meta itemprop="name" content="Hubungi Kami CLUBMY - Sokongan Mesra 24/7 untuk Anda">
         <meta itemprop="description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
         <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
 
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://clubmy.org/hubungi-kami/">
-        <meta property="og:title" content="Hubungi Kami - CLUBMY">
+        <meta property="og:title" content="Hubungi Kami CLUBMY - Sokongan Mesra 24/7 untuk Anda">
         <meta property="og:description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
         <meta property="og:site_name" content="CLUBMY">
         <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -43,8 +43,8 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
-        <meta name="twitter:title" content="Hubungi Kami - CLUBMY">
+        <meta name="twitter:site" content="@clubmyorg">
+        <meta name="twitter:title" content="Hubungi Kami CLUBMY - Sokongan Mesra 24/7 untuk Anda">
         <meta name="twitter:description" content="CLUBMY menyediakan sokongan pelanggan 24/7 melalui live chat, e-mel, dan Telegram. Dapatkan bantuan segera untuk isu akaun, transaksi, dan masalah teknikal.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
@@ -81,7 +81,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Hubungi Kami di CLUBMY – Sokongan Mesra 24/7 untuk Anda</h1>
+                                <h1>Hubungi Kami CLUBMY - Sokongan Mesra 24/7 untuk Anda</h1>
                                 <p><a href="https://clubmy.org/"><strong>Clubmy</strong></a> sentiasa bersedia membantu anda dengan pantas dan mesra. Sama ada anda mempunyai soalan mengenai akaun, transaksi, permainan, atau memerlukan bantuan teknikal, pasukan sokongan kami berdedikasi untuk memberikan penyelesaian terbaik pada bila-bila masa.</p>
                                 <p>&nbsp;</p>
                                 <h2>Cara Menghubungi Pasukan Sokongan CLUBMY</h2>
@@ -100,7 +100,7 @@ include '../inc/functions.php';
                                 <ul>
                                     <li><strong>E-mel:</strong> support@clubmy.org</li>
                                     <li><strong>Telefon:</strong> +6012-8547733</li>
-                                    <li><strong>Telegram:</strong> @clubmy</li>
+                                    <li><strong>Telegram:</strong> @clubmyorg</li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h2>Bantuan untuk Isu Lazim</h2>

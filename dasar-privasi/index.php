@@ -15,12 +15,12 @@ include '../inc/functions.php';
         <meta name="author" content="CLUBMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>CLUBMY Dasar Privasi - Perlindungan Data Pengguna</title>
-        <meta name="title" content="CLUBMY Dasar Privasi - Perlindungan Data Pengguna">
+        <title>Dasar Privasi CLUBMY - Perlindungan Data Anda adalah Keutamaan Kami</title>
+        <meta name="title" content="Dasar Privasi CLUBMY - Perlindungan Data Anda adalah Keutamaan Kami">
         <meta name="description" content="CLUBMY sentiasa komited terhadap perlindungan data pengguna. Fahami bagaimana maklumat data pengguna dikumpul, digunakan, dan disimpan dengan selamat mengikut dasar privasi kami.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="CLUBMY Dasar Privasi - Perlindungan Data Pengguna">
+        <meta itemprop="name" content="Dasar Privasi CLUBMY - Perlindungan Data Anda adalah Keutamaan Kami">
         <meta itemprop="description" content="CLUBMY sentiasa komited terhadap perlindungan data pengguna. Fahami bagaimana maklumat data pengguna dikumpul, digunakan, dan disimpan dengan selamat mengikut dasar privasi kami.">
         <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
 
@@ -28,15 +28,15 @@ include '../inc/functions.php';
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://clubmy.org/dasar-privasi/">
-        <meta property="og:title" content="CLUBMY Dasar Privasi - Perlindungan Data Pengguna">
+        <meta property="og:title" content="Dasar Privasi CLUBMY - Perlindungan Data Anda adalah Keutamaan Kami">
         <meta property="og:description" content="CLUBMY sentiasa komited terhadap perlindungan data pengguna. Fahami bagaimana maklumat data pengguna dikumpul, digunakan, dan disimpan dengan selamat mengikut dasar privasi kami.">
         <meta property="og:site_name" content="CLUBMY">
         <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
-        <meta name="twitter:title" content="CLUBMY Dasar Privasi - Perlindungan Data Pengguna">
+        <meta name="twitter:site" content="@clubmyorg">
+        <meta name="twitter:title" content="Dasar Privasi CLUBMY - Perlindungan Data Anda adalah Keutamaan Kami">
         <meta name="twitter:description" content="CLUBMY sentiasa komited terhadap perlindungan data pengguna. Fahami bagaimana maklumat data pengguna dikumpul, digunakan, dan disimpan dengan selamat mengikut dasar privasi kami.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">

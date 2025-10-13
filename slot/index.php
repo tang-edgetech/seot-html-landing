@@ -46,7 +46,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:site" content="@clubmyorg">
         <meta name="twitter:title" content="CLUBMY Slot - Slot Online Terbaru & Kadar RTP Tinggi">
         <meta name="twitter:description" content="CLUBMY menawarkan slot game online yang penuh hiburan dengan pelbagai pilihan genre, akses mudah alih pantas, jackpot progresif, dan hadiah istimewa.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">

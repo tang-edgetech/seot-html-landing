@@ -42,7 +42,7 @@ include '../inc/functions.php';
         
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
+        <meta name="twitter:site" content="@clubmyorg">
         <meta name="twitter:title" content="CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas">
         <meta name="twitter:description" content="CLUBMY menawarkan program VIP dengan ganjaran eksklusif, cashback, had pengeluaran tinggi dan sokongan peribadi. Sertai hari ini untuk nilai maksimum.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -430,7 +430,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>CLUBMY VIP: Panduan Eksklusif untuk Menjadi Ahli Istimewa</h1>
+                                <h1>CLUBMY - Hadiah Eksklusif, Cashback dan Pengeluaran Pantas</h1>
                                 <p class="mb-3">Program <strong>CLUBMY VIP</strong> menawarkan pengalaman yang berbeza kepada pemain yang mencari ganjaran tinggi, sokongan peribadi, dan keistimewaan luar biasa. Sama ada anda baru sahaja mendaftar atau sudah berpengalaman dalam platform ini, status VIP memberikan nilai tambah yang nyata.</p>
                                 <p>Ketahui cara untuk menyertai program ini, kelebihan utama yang ditawarkan, serta strategi terbaik untuk memaksimumkan manfaat anda sebagai <a href="<?= $site_base_url;?>/vip/"><strong>ahli VIP CLUBMY</strong></a>.</p>
                                 <p>&nbsp;</p>

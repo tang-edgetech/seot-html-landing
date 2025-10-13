@@ -15,12 +15,12 @@ include '../inc/functions.php';
         <meta name="author" content="CLUBMY">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="renderer" content="webkit"/>
-        <title>Perjudian Bertanggungjawab - CLUBMY</title>
-        <meta name="title" content="Perjudian Bertanggungjawab - CLUBMY">
+        <title>Perjudian Bertanggungjawab CLUBMY - Keutamaan Keselamatan dan Kesejahteraan Pemain</title>
+        <meta name="title" content="Perjudian Bertanggungjawab CLUBMY - Keutamaan Keselamatan dan Kesejahteraan Pemain">
         <meta name="description" content="CLUBMY komited terhadap perjudian bertanggungjawab. Ketahui cara bermain dengan selamat, kawalan kendiri, dan mendapatkan bantuan jika diperlukan.">
 
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Perjudian Bertanggungjawab - CLUBMY">
+        <meta itemprop="name" content="Perjudian Bertanggungjawab CLUBMY - Keutamaan Keselamatan dan Kesejahteraan Pemain">
         <meta itemprop="description" content="CLUBMY komited terhadap perjudian bertanggungjawab. Ketahui cara bermain dengan selamat, kawalan kendiri, dan mendapatkan bantuan jika diperlukan.">
         <meta itemprop="image" content="https://clubmy.org/images/clubmy_logo.webp">
 
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://clubmy.org/perjudian-bertanggungjawab/">
-        <meta property="og:title" content="Perjudian Bertanggungjawab - CLUBMY">
+        <meta property="og:title" content="Perjudian Bertanggungjawab CLUBMY - Keutamaan Keselamatan dan Kesejahteraan Pemain">
         <meta property="og:description" content="CLUBMY komited terhadap perjudian bertanggungjawab. Ketahui cara bermain dengan selamat, kawalan kendiri, dan mendapatkan bantuan jika diperlukan.">
         <meta property="og:site_name" content="CLUBMY">
         <meta property="og:image" content="https://clubmy.org/images/clubmy_logo.webp">
@@ -43,8 +43,8 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@clubmy">
-        <meta name="twitter:title" content="Perjudian Bertanggungjawab - CLUBMY">
+        <meta name="twitter:site" content="@clubmyorg">
+        <meta name="twitter:title" content="Perjudian Bertanggungjawab CLUBMY - Keutamaan Keselamatan dan Kesejahteraan Pemain">
         <meta name="twitter:description" content="CLUBMY komited terhadap perjudian bertanggungjawab. Ketahui cara bermain dengan selamat, kawalan kendiri, dan mendapatkan bantuan jika diperlukan.">
         <meta name="twitter:image" content="https://clubmy.org/images/clubmy_logo.webp">
         <base href="<?php echo $site_base_url;?>">
@@ -81,7 +81,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Perjudian Bertanggungjawab di CLUBMY – Keutamaan Keselamatan dan Kesejahteraan Pemain</h1>
+                                <h1>Perjudian Bertanggungjawab CLUBMY - Keutamaan Keselamatan dan Kesejahteraan Pemain</h1>
                                 <p>Di CLUBMY, kami memahami bahawa perjudian haruslah menjadi aktiviti yang menyeronokkan dan terkawal. Oleh itu, kami komited untuk menyediakan persekitaran permainan yang selamat dan bertanggungjawab, di mana setiap pemain diberi alat dan sokongan yang diperlukan untuk mengawal aktiviti perjudian mereka secara sihat dan seimbang.</p>
                                 <p>&nbsp;</p>
                                 <h2>Alat Bantuan Diri untuk Kawalan Perjudian</h2>
