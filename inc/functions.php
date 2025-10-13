@@ -411,36 +411,43 @@ $top_brands = [
         "title" => "WIN111",
         "description" => "Login Daily and Win Up to RM88",
         "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => ""
     ],
     "winbebas" => [
         "title" => "WINBEBAS",
         "description" => "First Deposit Bonus Up to 120%",
-        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => "winbebas-promo"
+    ],
+    "win4u" => [
+        "title" => "Winboleh",
+        "description" => "Welcome bonus RM888 140%",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => "win4u-promo"
     ],
     "winboleh" => [
         "title" => "Winboleh",
         "description" => "Welcome bonus RM888 140%",
-        "url" => "http://mplanding2.winboleh1.com/",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => "winboleh-promo"
     ],
     "kaya88" => [
         "title" => "KAYA88",
         "description" => "Welcome bonus 60%",
-        "url" => "https://kayabet88.com/register/referer/86b284c3b1",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => "kaya88-promo"
     ],
     "klwin" => [
         "title" => "KLWIN",
         "description" => "First deposit<br/>30 dpt 60<br/>100 dpt 200",
-        "url" => "https://klwin111.com/register/referer/c6a6dd69be",
-    ],
-    "winmy" => [
-        "title" => "WINMY",
-        "description" => "DAILY FREE CREDIT UP TO 88.88",
-        "url" => "https://winmy.asia/register/referer/a6e0ace56f",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => "klwin-promo"
     ],
     "kaya96" => [
         "title" => "Kaya96",
         "description" => "20% weekend bonus",
-        "url" => "https://kaya96.com/register/referer/08fadc27ba",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
+        "alt" => "kaya96-promo"
     ],
 ];
 ?>
