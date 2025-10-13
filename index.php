@@ -79,7 +79,7 @@ include 'inc/functions.php';
                     "name": "Bagaimana cara untuk saya daftar akaun di clubmy?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Klik butang "Daftar", isi maklumat anda, sahkan e-mel, dan anda boleh mula bermain dalam masa beberapa minit."
+                        "text": "Klik butang \"Daftar\", isi maklumat anda, sahkan e-mel, dan anda boleh mula bermain dalam masa beberapa minit."
                     }
                 },
                 {
@@ -175,7 +175,7 @@ include 'inc/functions.php';
                     "name": "Apa yang perlu saya lakukan jika terlupa kata laluan?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Klik "Lupa Kata Laluan" di halaman log masuk dan ikut arahan yang diberikan."
+                        "text": "Klik \"Lupa Kata Laluan\" di halaman log masuk dan ikut arahan yang diberikan."
                     }
                 },
                 {
