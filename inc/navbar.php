@@ -6,9 +6,9 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
         <div class="navbar-row">
             <button type="button" class="navbar-toggler collapsed filter-black-to-white" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="d-none">Open Mobile Menu</span>
-                <img src="<?php echo $site_base_url;?>/images/icon-menu.png"/>
+                <img src="<?php echo $site_base_url.'/';?>/images/icon-menu.png"/>
             </button>
-            <a href="<?php echo $site_base_url;?>" class="navbar-brand p-0">
+            <a href="<?php echo $site_base_url.'/';?>" class="navbar-brand p-0">
                 <span class="d-none">Home</span>
                 <picture>
                     <source srcset="<?php echo $site_base_url;?>/images/jom99_logo.webp" type="image/webp">
@@ -19,7 +19,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/jom99_logo.webp" alt="LPK777 Logo" class="img-fit mx-auto"></strong></a></h4>
+                    <h4 class="d-block text-center p-4 py-2 title-logo mb-0"><a href="<?php echo $site_base_url.'/';?>" class="d-block"><img src="<?php echo $site_base_url;?>/images/jom99_logo.webp" alt="LPK777 Logo" class="img-fit mx-auto"></strong></a></h4>
                     <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
@@ -29,7 +29,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                             
                             $home_active = ( trim($current_url, "lpk777/") === "" ) ? ' active' : '';?>
                             <li class="nav-item home nav-item-0">
-                                <a href="<?php echo $site_base_url;?>" class="nav-link<?php echo $home_active;?>">Home</strong></a>
+                                <a href="<?php echo $site_base_url.'/';?>" class="nav-link<?php echo $home_active;?>">Home</strong></a>
                             </li>
                             <?php 
                             foreach( $menu_items as $key => $item ) {
@@ -40,7 +40,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                                 $is_active = str_contains($current_url, $item['url']) ? ' active' : '';
                             ?>
                                 <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
-                                    <a href="<?php echo $site_base_url.'/'.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
+                                    <a href="<?php echo $site_base_url.'/'.$url.'/';?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></strong></a>
                                 </li>
                             <?php
                             }
@@ -56,7 +56,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                                 $dis_active = str_contains($current_url, $ditem['url']) ? ' active' : '';
                             ?>
                                 <li class="nav-item <?php echo $durl;?>">
-                                    <a href="<?php echo $site_base_url.'/'.$durl;?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></strong></a>
+                                    <a href="<?php echo $site_base_url.'/'.$durl.'/';?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></strong></a>
                                 </li>
                             <?php
                             }
