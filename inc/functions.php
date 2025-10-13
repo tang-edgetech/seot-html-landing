@@ -409,9 +409,9 @@ $gameProviders = [
 $top_brands = [
     "win111" => [
         "title" => "WIN111",
-        "description" => "Login Daily and Win Up to RM88",
+        "description" => "Welcome Bonus Up to RM188",
         "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo8",
-        "alt" => ""
+        "alt" => "win111-welcome-bonus-rm188"
     ],
     "winbebas" => [
         "title" => "WINBEBAS",
