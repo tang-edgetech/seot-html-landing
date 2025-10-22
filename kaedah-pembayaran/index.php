@@ -59,7 +59,7 @@ include '../inc/functions.php';
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "CLUBMY",
             "item": "https://clubmy.org/"
             },
             {
@@ -245,10 +245,10 @@ include '../inc/functions.php';
                                 <p>Di CLUBMY, kami memahami bahawa kemudahan pembayaran adalah aspek penting dalam pengalaman permainan anda. Oleh itu, kami menyediakan pelbagai kaedah pembayaran yang mudah digunakan, cepat diproses, dan dijamin keselamatannya. Pilih kaedah yang paling sesuai dengan keperluan anda dan nikmati transaksi tanpa masalah.</p>
                                 <p>&nbsp;</p>
                                 <h2>Pilihan Deposit yang Pelbagai dan Segera</h2>
-                                <p>Anda boleh membuat deposit dengan <a href="https://clubmy.org/"><strong>kaedah pembayaran rasmi CLUBMY</strong></a> seperti kad kredit Visa dan Mastercard, e-wallet popular tempatan seperti GrabPay, Touch ‘n Go, dan ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum. Semua deposit dikreditkan serta-merta ke akaun anda, membolehkan anda mula bermain tanpa menunggu.</p>
+                                <p>Anda boleh membuat deposit dengan <a href="https://clubmy.org/kaedah-pembayaran/"><strong>kaedah pembayaran rasmi CLUBMY</strong></a> seperti kad kredit Visa dan Mastercard, e-wallet popular tempatan seperti GrabPay, Touch ‘n Go, dan ShopeePay, serta mata wang kripto seperti Bitcoin dan Ethereum. Semua deposit dikreditkan serta-merta ke akaun anda, membolehkan anda mula bermain tanpa menunggu.</p>
                                 <p>&nbsp;</p>
                                 <h2>Pengeluaran Dana Cepat dan Terpercaya</h2>
-                                <p>Proses pengeluaran di <a href="https://clubmy.org/"><strong>homepage CLUBMY APK rasmi</strong></a> direka untuk menjadi mudah dan cepat. Kebanyakan permintaan pengeluaran diproses dalam masa kurang daripada 24 jam. Dana akan dikembalikan ke akaun e-wallet anda dalam beberapa jam, manakala pemindahan bank mungkin mengambil masa sehingga dua hari bekerja. Anda sentiasa akan diberitahu tentang anggaran masa pemprosesan sebelum mengesahkan transaksi.</p>
+                                <p>Proses pengeluaran di <a href="https://clubmy.org/"><strong>platform slot online</strong></a> direka untuk menjadi mudah dan cepat. Kebanyakan permintaan pengeluaran diproses dalam masa kurang daripada 24 jam. Dana akan dikembalikan ke akaun e-wallet anda dalam beberapa jam, manakala pemindahan bank mungkin mengambil masa sehingga dua hari bekerja. Anda sentiasa akan diberitahu tentang anggaran masa pemprosesan sebelum mengesahkan transaksi.</p>
                                 <p>&nbsp;</p>
                                 <h2>Tiada Caj Tersembunyi</h2>
                                 <p>CLUBMY tidak mengenakan sebarang caj tambahan untuk deposit atau pengeluaran. Sekiranya penyedia pembayaran anda mengenakan bayaran perkhidmatan, ia akan dinyatakan dengan jelas semasa transaksi supaya anda dapat membuat keputusan yang tepat.</p>
@@ -257,7 +257,7 @@ include '../inc/functions.php';
                                 <p>Untuk memudahkan pengguna Malaysia, kami menerima deposit dalam Ringgit Malaysia (RM) serta beberapa mata wang asing lain. Penukaran mata wang berlaku secara automatik dan kadar terkini akan dipaparkan sebelum anda mengesahkan transaksi.</p>
                                 <p>&nbsp;</p>
                                 <h2>Keselamatan Transaksi Dijamin</h2>
-                                <p>Keselamatan transaksi anda adalah keutamaan kami. Semua transaksi dilindungi oleh teknologi penyulitan SSL bertaraf bank, dan sistem kami mematuhi protokol anti-penipuan yang ketat. Sekiranya anda mengesyaki aktiviti mencurigakan pada akaun anda, hubungi pasukan sokongan kami dengan segera untuk tindakan pantas.</p>
+                                <p>Keselamatan transaksi anda adalah keutamaan kami. Semua transaksi dilindungi oleh teknologi penyulitan SSL bertaraf bank, dan sistem kami mematuhi protokol anti-penipuan yang ketat. Sekiranya anda mengesyaki aktiviti mencurigakan pada akaun anda, hubungi <a href="https://clubmy.org/hubungi-kami/"><strong>pasukan sokongan kami</strong></a> dengan segera untuk tindakan pantas.</p>
                             </div>
                         </div>
                     </div>

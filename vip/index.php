@@ -89,7 +89,7 @@ include '../inc/functions.php';
             "name": "Bagaimana cara menyertai CLUBMY VIP?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau live chat."
+                "text": "Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau lawati ke halaman Customer Support kami."
             }
             },
             {
@@ -169,30 +169,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php
-                            if( $top_brands ) {
-                                foreach( $top_brands as $key => $brand ) {
-                                    $brand_title = $brand['title'];
-                                    $brand_desc = $brand['description'];
-                                    $brand_thumbnail = $site_base_url.'/images/top_brand/top_brand_'.$key.'.webp';
-                                    $brand_link = $brand['url'];
-                            echo '<div class="top-brand-item '.$key.' p-2">
-                                <div class="top-brand-inner d-flex align-items-center justify-content-start">
-                                    <div class="col col-header pt-3">
-                                        <div class="col-image"><img src="'.$brand_thumbnail.'"/></div>
-                                        <div class="col-title">'.$brand_title.'</div>
-                                    </div>
-                                    <div class="col col-desc pt-3">
-                                        <p class="mb-0">'.$brand_desc.'</p>
-                                    </div>
-                                    <div class="col col-cta pt-3">
-                                        <a href="'.$brand_link.'"><span>VISIT</span></a>
-                                    </div>
-                                </div>
-                            </div>';
-                                }
-                            }
-                            ?>
+                            <?php include '../inc/top-brand.php';?>
                             </div>
 
                             <div class="userprofile-container p-3 mt-3 w-100">
@@ -468,7 +445,7 @@ include '../inc/functions.php';
                                 <h2>Strategi Menjana Nilai Maksimum Sebagai Ahli VIP</h2>
                                 <p class="mb-2">Untuk memastikan anda mendapat manfaat penuh daripada program VIP, berikut beberapa strategi yang terbukti berkesan:</p>
                                 <ul class="mb-3">
-                                    <li class="mb-2"><strong>Bermain semasa waktu promosi aktif</strong> untuk memperoleh bonus yang lebih tinggi.</li>
+                                    <li class="mb-2"><strong>Bermain semasa waktu</strong> <a href="https://clubmy.org/bonus-promosi/"><strong>promosi aktif</strong></a> untuk memperoleh bonus yang lebih tinggi.</li>
                                     <li class="mb-2"><strong>Rancang pengeluaran berdasarkan struktur ganjaran</strong>—tunggu hingga capai ambang maksimum.</li>
                                     <li><strong>Manfaatkan cashback dan mata ganjaran</strong> untuk mengurangkan kos keseluruhan permainan anda.</li>
                                 </ul>
@@ -524,7 +501,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau live chat.
+                                            Aktifkan akaun, lakukan pertaruhan secara konsisten dan mohon keahlian melalui borang atau <a href="https://clubmy.org/hubungi-kami/"><strong>lawati ke halaman Customer Support kami</strong></a>.
                                         </div>
                                     </div>
                                 </div>

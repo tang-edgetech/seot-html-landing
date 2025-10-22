@@ -51,7 +51,7 @@ include '../inc/functions.php';
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "CLUBMY",
             "item": "https://clubmy.org/"
             },
             {
@@ -82,7 +82,7 @@ include '../inc/functions.php';
                                     <li class="mb-2">Butiran pendaftaran seperti nama, tarikh lahir, alamat e-mel, dan alamat tempat tinggal.</li>
                                     <li class="mb-2">Dokumen pengesahan identiti untuk mematuhi peraturan pengawalseliaan.</li>
                                     <li class="mb-2">Rekod aktiviti permainan termasuk taruhan, kemenangan, dan mata kesetiaan.</li>
-                                    <li class="mb-2">Data pembayaran dan transaksi, dengan perlindungan ketat terhadap maklumat kewangan.</li>
+                                    <li class="mb-2">Data <a href=" https://clubmy.org/kaedah-pembayaran/"><strong>pembayaran dan transaksi</strong></a>, dengan perlindungan ketat terhadap maklumat kewangan.</li>
                                     <li>Butiran teknikal seperti alamat IP dan tetapan peranti bagi tujuan keselamatan dan prestasi.</li>
                                 </ul>
                                 <p>&nbsp;</p>
@@ -114,7 +114,7 @@ include '../inc/functions.php';
                                 <p>Data akaun dan transaksi disimpan selagi diperlukan untuk memenuhi keperluan undang-undang, menyelesaikan pertikaian, dan menyediakan perkhidmatan berterusan. Jika anda menutup akaun, data tertentu akan disimpan untuk tempoh minimum yang ditetapkan oleh peraturan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Hak Anda terhadap Data Peribadi</h2>
-                                <p>Anda berhak untuk mengakses, membetulkan, atau memadam data peribadi anda, serta mengehadkan atau membantah pemprosesan tertentu. Untuk melaksanakan hak anda, sila hubungi pegawai perlindungan data kami melalui e-mel atau laman hubungi kami.</p>
+                                <p>Anda berhak untuk mengakses, membetulkan, atau memadam data peribadi anda, serta mengehadkan atau membantah pemprosesan tertentu. Untuk melaksanakan hak anda, sila hubungi pegawai perlindungan data kami melalui e-mel atau <a href="https://clubmy.org/hubungi-kami/"><strong>laman hubungi kami</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Privasi Kanak-kanak</h2>
                                 <p>Clubmy hanya untuk pemain berumur sah sahaja. Kami tidak mengumpul data peribadi daripada kanak-kanak di bawah umur perjudian yang sah dan akan memadamkan maklumat jika kami mendapati terdapat data sedemikian.</p>

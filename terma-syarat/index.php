@@ -82,7 +82,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Terma & Syarat Penggunaan di CLUBMY</h1>
-                                <p>Selamat datang ke <a href="https://clubmy.org/"><strong>CLUBMY</strong></a>. Dengan mengakses atau menggunakan perkhidmatan kami di <a href="https://clubmy.org/"><strong>clubmy.org</strong></a>, anda bersetuju untuk mematuhi terma dan syarat berikut. Sila baca dengan teliti sebelum mendaftar atau menggunakan platform kami. Jika anda tidak bersetuju, sila jangan teruskan penggunaan.</p>
+                                <p>Selamat datang ke <a href="https://clubmy.org/"><strong>CLUBMY</strong></a>. Dengan mengakses atau menggunakan perkhidmatan kami di clubmy.org, anda bersetuju untuk mematuhi terma dan syarat berikut. Sila baca dengan teliti sebelum mendaftar atau menggunakan platform kami. Jika anda tidak bersetuju, sila jangan teruskan penggunaan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kelayakan Pengguna</h2>
                                 <p>Anda mesti berumur sekurang-kurangnya umur sah perjudian di Malaysia dan berupaya mengikat kontrak secara sah. Semua maklumat yang anda berikan semasa pendaftaran mestilah tepat, benar dan terkini.</p>
@@ -98,7 +98,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 <h2>Permainan Bertanggungjawab</h2>
                                 <p class="mb-3">Anda boleh menetapkan had deposit, mengambil tempoh rehat, atau mengecualikan diri melalui tetapan akaun. Jika anda memerlukan bantuan, lawati <a href="https://clubmy.org/perjudian-bertanggungjawab/"><strong>perjudian bertanggungjawab</strong></a> atau hubungi pasukan sokongan kami.</p>
-                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila <a href="https://clubmy.org/"><strong>kembali ke Laman Utama</strong></a>.</p>
+                                <p>Untuk maklumat lanjut tentang pendekatan kami terhadap perjudian bertanggungjawab, sila <a href="https://clubmy.org/hubungi-kami/"><strong>hubungi pasukan bantuan kami</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Harta Intelek</h2>
                                 <p>Semua kandungan termasuk logo, teks, dan perisian, adalah milik CLUBMY atau dilindungi oleh lesen. Anda tidak dibenarkan menyalin, mengedarkan atau menghasilkan karya derivatif tanpa kebenaran bertulis.</p>

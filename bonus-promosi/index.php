@@ -249,7 +249,7 @@ include '../inc/functions.php';
                                 <p>Untuk menggunakan bonus dan promosi, anda hanya perlu memenuhi syarat yang ditetapkan seperti deposit minimum dan syarat pertaruhan. Maklumat lengkap boleh diperoleh pada setiap tawaran di laman promosi kami. Sentiasa semak bahagian promosi untuk tidak terlepas tawaran terbaru dan eksklusif.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kemas Kini Promosi dan Tawaran Eksklusif</h2>
-                                <p>CLUBMY sentiasa memperbaharui tawaran promosi mengikut musim, perayaan, dan acara khusus. <a href="https://clubmy.org/muat-turun-apk/"><strong>Pengguna APK</strong></a> juga mendapat kelebihan akses awal dan promosi eksklusif melalui notifikasi aplikasi supaya anda tidak terlepas sebarang peluang menarik.</p>
+                                <p>CLUBMY sentiasa memperbaharui tawaran promosi mengikut musim, perayaan, dan acara khusus. <a href="https://clubmy.org/muat-turun-apk/"><strong>Muat turun aplikasi rasmi</strong></a> juga mendapat kelebihan akses awal dan promosi eksklusif melalui notifikasi aplikasi supaya anda tidak terlepas sebarang peluang menarik.</p>
                                 <p>&nbsp;</p>
                                 <h2>Sokongan Penuh untuk Pemain</h2>
                                 <p>Pasukan sokongan kami sedia membantu anda memahami syarat bonus dan promosi, memastikan tiada kekeliruan dan anda dapat menikmati ganjaran secara maksimum.</p>
@@ -297,7 +297,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        clubmy menawarkan cashback sehingga 10% dari kerugian bersih harian yang layak.
+                                        CLUBMY menawarkan cashback sehingga 10% dari kerugian bersih harian yang layak.
                                     </div>
                                     </div>
                                 </div>

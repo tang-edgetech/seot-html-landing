@@ -225,23 +225,23 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>CLUBMY - Download APK Rasmi iOS & Android (Update Terbaru)</h1>
-                                <p>Nikmati pengalaman bermain kasino online CLUBMY yang lancar dengan aplikasi APK rasmi kami untuk Android. Dengan muat turun mudah, anda dapat mengakses koleksi permainan penuh tanpa perlu bergantung pada pelayar web. Aplikasi kami menawarkan prestasi pantas, navigasi mesra pengguna, dan pemberitahuan masa nyata untuk promosi terkini.</p>
+                                <p>Nikmati pengalaman bermain <a href="https://clubmy.org/"><strong>platform kasino terbaik di Malaysia</strong></a> yang lancar dengan aplikasi APK rasmi kami untuk Android. Dengan muat turun mudah, anda dapat mengakses koleksi permainan penuh tanpa perlu bergantung pada pelayar web. Aplikasi kami menawarkan prestasi pantas, navigasi mesra pengguna, dan pemberitahuan masa nyata untuk promosi terkini.</p>
                                 <p>&nbsp;</p>
-                                <h2>Kelebihan Menggunakan APK CLUBMY    </h2>
-                                <p>Dengan memasang <a href="https://clubmy.org/"><strong>APK CLUBMY<strong></a> pada peranti Android anda, anda akan dapat:</p>
+                                <h2>Kelebihan Menggunakan APK CLUBMY</h2>
+                                <p>Dengan <a href="https://clubmy.org/muat-turun-apk/"><strong>muat turun aplikasi rasmi CLUBMY<strong></a> pada peranti Android anda, anda akan dapat:</p>
                                 <ul>
-                                    <li>Lancarkan permainan kegemaran dengan satu sentuhan tanpa perlu melalui skrin muat turun yang panjang</li>
-                                    <li>Terima pemberitahuan segera tentang promosi dan kejohanan terbaru supaya tidak terlepas peluang menarik</li>
-                                    <li>Nikmati tawaran eksklusif khusus untuk pengguna aplikasi</li>
+                                    <li class="mb-2">Lancarkan <a href="https://clubmy.org/slot/"><strong>permainan slot online</strong></a> kegemaran dengan satu sentuhan tanpa perlu melalui skrin muat turun yang panjang</li>
+                                    <li class="mb-2">Terima pemberitahuan segera tentang promosi dan kejohanan terbaru supaya tidak terlepas peluang menarik</li>
+                                    <li class="mb-2">Nikmati tawaran eksklusif khusus untuk pengguna aplikasi</li>
                                     <li>Antara muka yang dioptimumkan khas untuk saiz skrin mudah alih, memberikan pengalaman bermain yang lebih selesa</li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h2>Cara Mudah Memasang APK CLUBMY</h2>
                                 <p>Ikuti langkah mudah berikut untuk mula bermain dalam masa beberapa minit:</p>
                                 <ol>
-                                    <li>Aktifkan pemasangan aplikasi dari sumber tidak dikenali dalam tetapan peranti anda</li>
-                                    <li>Muat turun fail APK CLUBMY terus ke telefon Android anda</li>
-                                    <li>Buka fail yang dimuat turun dan pilih ‘Pasang’</li>
+                                    <li class="mb-2">Aktifkan pemasangan aplikasi dari sumber tidak dikenali dalam tetapan peranti anda</li>
+                                    <li class="mb-2">Muat turun fail APK CLUBMY terus ke telefon Android anda</li>
+                                    <li class="mb-2">Buka fail yang dimuat turun dan pilih ‘Pasang’</li>
                                     <li>Lancarkan aplikasi, log masuk atau daftar akaun baru, kemudian buat deposit pertama anda</li>
                                 </ol>
                                 <p>&nbsp;</p>
