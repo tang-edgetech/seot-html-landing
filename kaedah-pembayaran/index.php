@@ -95,6 +95,7 @@ include '../inc/functions.php';
                             <div class="text-editor">
                                 <h1>Kaedah Pembayaran JOM99 - Mudah dan Selamat</h1>
                                 <p>Pengeluaran dan deposit adalah mudah, cepat, dan selamat di Jom99.  Untuk memenuhi keperluan semua pemain, kami menawarkan pelbagai cara pembayaran.  Anda boleh memilih cara yang paling sesuai dengan anda, sama ada anda lebih suka menggunakan kad kredit, kad debit, e-wallet atau pemindahan bank.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kenapa Pilih Kaedah Pembayaran Jom99?</h2>
                                 <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di <a href="https://jom99.org/"><strong>portal gaming JOM99</strong></a>, kami komited untuk menyediakan kaedah pembayaran yang cepat dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
                                 <h3>Pelbagai Pilihan Pembayaran yang Fleksibel</h3>
@@ -103,6 +104,7 @@ include '../inc/functions.php';
                                 <p>Setiap transaksi di Jom99 diproses dengan teknologi penyulitan terkini, memastikan data peribadi dan kewangan anda sentiasa dilindungi. Kami komited untuk memastikan bahawa semua deposit dan pengeluaran dibuat dengan pantas dan selamat.</p>
                                 <h3>Tiada Yuran Tersembunyi</h3>
                                 <p>Kami tidak mengenakan sebarang yuran tersembunyi untuk deposit atau pengeluaran. Anda boleh melakukan transaksi tanpa bimbang mengenai sebarang kos tambahan. Semua proses pembayaran adalah jelas dan telus.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kaedah Pembayaran yang Disediakan di Jom99</h2>
                                 <p>Kami menyediakan pelbagai kaedah pembayaran yang memastikan setiap pemain dapat menguruskan dana mereka dengan mudah dan selamat.</p>
                                 <h3>Kad Kredit/Debit</h3>
@@ -113,22 +115,25 @@ include '../inc/functions.php';
                                 <p>Bagi pemain yang lebih suka menggunakan kaedah tradisional, kami juga menawarkan pemindahan bank untuk deposit dan pengeluaran. Walaupun sedikit lebih lama berbanding e-wallet, kaedah ini adalah pilihan yang sangat selamat dan boleh dipercayai.</p>
                                 <h3>Cryptocurrency</h3>
                                 <p>Kami turut menyediakan kemudahan pembayaran melalui cryptocurrency, termasuk Bitcoin, Ethereum, USDT (Tether), dan lebih banyak lagi. Untuk pemain yang gemar menggunakan cryptocurrency sebagai kaedah pembayaran mereka, Jom99 memberikan pilihan ini sebagai kaedah yang selamat dan efisien.</p>
+                                <p>&nbsp;</p>
                                 <h2>Cara Melakukan Deposit di Jom99</h2>
                                 <p>Menambah dana ke dalam akaun Jom99 anda adalah mudah dan pantas. Ikuti langkah-langkah berikut untuk membuat deposit:</p>
                                 <ol>
-                                    <li><strong>Log Masuk ke Akaun Anda:</strong> Jika anda belum mendaftar, buat akaun terlebih dahulu di Jom99.</li>
-                                    <li><strong>Pilih Kaedah Pembayaran:</strong> Pilih kaedah pembayaran yang anda inginkan dari pilihan yang disediakan.</li>
-                                    <li><strong>Masukkan Jumlah Deposit:</strong> Tentukan jumlah yang ingin anda depositkan ke dalam akaun anda.</li>
+                                    <li class="mb-2"><strong>Log Masuk ke Akaun Anda:</strong> Jika anda belum mendaftar, buat akaun terlebih dahulu di Jom99.</li>
+                                    <li class="mb-2"><strong>Pilih Kaedah Pembayaran:</strong> Pilih kaedah pembayaran yang anda inginkan dari pilihan yang disediakan.</li>
+                                    <li class="mb-2"><strong>Masukkan Jumlah Deposit:</strong> Tentukan jumlah yang ingin anda depositkan ke dalam akaun anda.</li>
                                     <li><strong>Sahkan Pembayaran:</strong> Ikut arahan untuk mengesahkan pembayaran anda dan transaksi akan diproses dalam masa yang singkat.</li>
                                 </ol>
+                                <p>&nbsp;</p>
                                 <h2>Cara Melakukan Pengeluaran di Jom99</h2>
                                 <p>Mengeluarkan kemenangan anda di Jom99 adalah mudah dan tidak rumit. Ikuti langkah-langkah berikut untuk membuat pengeluaran:</p>
                                 <ol>
-                                    <li><strong>Log Masuk ke Akaun Anda: </strong>Pastikan anda sudah log masuk ke akaun anda sebelum membuat pengeluaran.</li>
-                                    <li><strong>Pilih Kaedah Pengeluaran: </strong>Pilih kaedah pengeluaran yang sesuai dengan anda.</li>
-                                    <li><strong>Masukkan Jumlah Pengeluaran: </strong>Tentukan jumlah wang yang ingin anda keluarkan dari akaun anda.</li>
+                                    <li class="mb-2"><strong>Log Masuk ke Akaun Anda: </strong>Pastikan anda sudah log masuk ke akaun anda sebelum membuat pengeluaran.</li>
+                                    <li class="mb-2"><strong>Pilih Kaedah Pengeluaran: </strong>Pilih kaedah pengeluaran yang sesuai dengan anda.</li>
+                                    <li class="mb-2"><strong>Masukkan Jumlah Pengeluaran: </strong>Tentukan jumlah wang yang ingin anda keluarkan dari akaun anda.</li>
                                     <li><strong>Sahkan Pengeluaran: </strong>Sahkan transaksi pengeluaran anda dan wang akan diproses mengikut kaedah yang anda pilih.</li>
                                 </ol>
+                                <p>&nbsp;</p>
                                 <h2>Keuntungan Menggunakan Kaedah Pembayaran di Jom99</h2>
                                 <h3>Keselamatan Tinggi</h3>
                                 <p>Di Jom99, kami mengutamakan keselamatan setiap transaksi. Semua kaedah pembayaran kami menggunakan teknologi penyulitan SSL untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
@@ -136,6 +141,7 @@ include '../inc/functions.php';
                                 <p>Tidak kira di mana sahaja anda berada, anda boleh menggunakan kaedah pembayaran <strong>kami</strong> untuk bermain permainan kegemaran anda. Kami menyediakan pelbagai pilihan untuk pemain dari seluruh dunia, memastikan akses global yang mudah dan efisien.</p>
                                 <h3>Transaksi Tanpa Batasan</h3>
                                 <p>Kami membolehkan pemain untuk membuat transaksi tanpa sebarang had yang tidak perlu. Anda boleh melakukan deposit dan pengeluaran mengikut keselesaan anda tanpa gangguan.</p>
+                                <p>&nbsp;</p>
                                 <h2>Kesimpulan</h2>
                                 <p>Di <a href="https://jom99.org/"><strong>laman slot rasmi JOM99</strong></a>, kami menawarkan pelbagai kaedah pembayaran yang pantas, mudah, dan selamat untuk memastikan pengalaman permainan yang lancar. Kami komited untuk memberikan pilihan pembayaran yang fleksibel dan tanpa yuran tersembunyi, supaya anda dapat bermain tanpa sebarang kebimbangan.</p>
                             </div>
