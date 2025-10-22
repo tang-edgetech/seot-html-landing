@@ -45,7 +45,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="JOM99 VIP - Dapatkan Keistimewaan dan Bonus Eksklusif di Malaysia">
         <meta name="twitter:description" content="Jadi ahli VIP JOM99 dan nikmati keistimewaan eksklusif, bonus besar, serta layanan pelanggan terbaik di Malaysia. Daftar sekarang dan dapatkan keuntungan lebih.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
@@ -343,7 +343,7 @@ include '../inc/functions.php';
                                 <h3>Had Hadiah yang Lebih Tinggi</h3>
                                 <p>Sebagai pemain VIP, anda akan menikmati had hadiah yang lebih tinggi, yang bermaksud peluang untuk meraih ganjaran yang lebih besar daripada pemain biasa.</p>
                                 <h2>Cara Daftar Ahli VIP JOM99</h2>
-                                <p>Menjadi ahli VIP di Jom99 sangat mudah. Berikut adalah cara untuk menyertai program VIP kami:</p>
+                                <p>Menjadi ahli VIP di Jom99 sangat mudah. Berikut adalah cara untuk menyertai <a href="https://jom99.org/vip/"><strong>program VIP</strong></a> kami:</p>
                                 <ol>
                                     <li>Main secara berkala: Main dengan kerap dan tingkatkan mata kesetiaan anda untuk membuka akses ke program VIP.</li>
                                     <li>Kumpulkan mata kesetiaan: Setiap taruhan yang anda buat akan mengumpulkan mata kesetiaan, yang akan membantu anda naik ke peringkat VIP yang lebih tinggi.</li>
@@ -358,7 +358,7 @@ include '../inc/functions.php';
                                 <h3>Peringkat Gold dan Platinum</h3>
                                 <p>Ahli Gold dan Platinum adalah yang paling setia dan aktif dalam program VIP. Peringkat ini memberikan ganjaran eksklusif, hadiah mewah, dan perkhidmatan pelanggan khas untuk memastikan pengalaman permainan anda luar biasa.</p>
                                 <h2>Kesimpulan</h2>
-                                <p>Sebagai <strong>ahli VIP jom99.org</strong> memberikan anda peluang untuk menikmati lebih banyak keistimewaan, termasuk bonus lebih tinggi, pengeluaran lebih pantas, dan sokongan pelanggan peribadi. Jadi, tunggu apa lagi? Sertai kami dan mulakan perjalanan VIP anda hari ini untuk pengalaman perjudian yang lebih mewah dan menguntungkan. Untuk kembali ke halaman utama, <a href="<?php echo $site_base_url;?>/"><strong>klik di sini.</strong></a></p>
+                                <p>Sebagai <strong>ahli VIP jom99.org</strong> memberikan anda peluang untuk menikmati lebih banyak keistimewaan, termasuk bonus lebih tinggi, pengeluaran lebih pantas, dan <a href="https://jom99.org/hubungi-kami/"><strong>sokongan pelanggan yang mesra</strong></a> peribadi. Jadi, tunggu apa lagi? Sertai kami dan mulakan perjalanan VIP anda hari ini untuk pengalaman perjudian yang lebih mewah dan menguntungkan. Untuk kembali ke halaman utama, <a href="<?php echo $site_base_url;?>/"><strong>klik di sini.</strong></a></p>
                             </div>
                         </div>
                     </div>

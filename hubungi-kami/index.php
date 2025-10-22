@@ -41,7 +41,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia">
         <meta name="twitter:description" content="Hubungi kami di JOM99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
@@ -79,9 +79,9 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Hubungi Kami</h1>
-                                <p class="mb-3">Sertai pasukan sokongan <strong><a href="<?php echo $site_base_url;?>/">JOM99</a></strong> untuk mendapatkan bantuan cepat dan menyelesaikan sebarang isu atau pertanyaan yang anda hadapi di platform kasino dalam talian terkemuka di Malaysia. Jangan ragu untuk menghubungi kami - kami sentiasa sedia membantu!</p>
+                                <p class="mb-3">Hubungi dengan pasukan sokongan JOM99 untuk mendapatkan bantuan cepat dan menyelesaikan sebarang isu atau pertanyaan yang anda hadapi di <a href="https://jom99.org/"><strong>platform kasino dalam talian</strong></a> terkemuka di Malaysia. Jangan ragu untuk menghubungi kami - kami sentiasa sedia membantu!</p>
                                 <ol>
-                                    <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
+                                    <li class="mb-3"><strong>Sokongan Live Chat:</strong> <a href="https://jom99.org/hubungi-kami/"><strong>Customer Support Tersedia 24/7</strong></a> untuk respon pantas dan penyelesaian segera.</li>
                                     <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:jom99@gmail.com"><strong>jom99@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
                                     <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6012-8541234"><strong>+6012-8541234</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
                                 </ol>

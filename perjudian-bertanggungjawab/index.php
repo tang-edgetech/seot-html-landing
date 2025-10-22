@@ -42,7 +42,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia">
         <meta name="twitter:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di JOM99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
@@ -88,7 +88,7 @@ include '../inc/functions.php';
                                     <li><strong>Pengesahan Realiti</strong>: Pemain boleh menetapkan peringatan untuk memantau masa yang dibelanjakan di platform kami, mengelakkan permainan berlebihan.</li>
                                     <li><strong>Akses Kepada Sokongan</strong>: Kami menyediakan akses kepada talian bantuan dan sumber luar untuk pemain yang memerlukan bantuan profesional berhubung masalah perjudian.</li>
                                 </ul>
-                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di <strong>platform slot rasmi jom99.org</strong>, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
+                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di <a href="https://jom99.org/slot/"><strong>permainan slot online di Malaysia</strong></a>, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
                             </div>
                         </div>
                     </div>

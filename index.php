@@ -43,7 +43,7 @@ include 'inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?= $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma">
         <meta name="twitter:description" content="JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.">
         <meta name="twitter:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">

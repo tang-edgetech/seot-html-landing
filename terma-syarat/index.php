@@ -41,7 +41,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="Terma & Syarat JOM99 - Ketahui Peraturan untuk Bermain di Platform Kami">
         <meta name="twitter:description" content="Baca terma dan syarat rasmi JOM99 sebelum bermain. Fahami peraturan, kewajipan, dan hak anda sebagai pemain di platform kami yang sah dan terjamin.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
@@ -89,7 +89,7 @@ include '../inc/functions.php';
                                 <h2>Bonus dan Promosi</h2>
                                 <p> Promosi dan bonus adalah tertakluk kepada terma dan syarat tertentu, yang mungkin termasuk syarat seperti keperluan pertaruhan dan had masa. Pemain mesti mematuhi peraturan khusus untuk setiap promosi bagi memenuhi syarat untuk menerima ganjaran. Jom99 berhak untuk membatalkan atau mengubah sebarang <a href="https://jom99.org/bonus-promosi/"><strong>bonus eksklusif dan tawaran terkini</strong></a> mengikut budi bicara kami.</p>
                                 <h2>Perjudian yang Adil dan Bertanggungjawab</h2>
-                                <p> Jom99 komited untuk menyediakan pengalaman permainan yang adil. Kami menggunakan Random Number Generators (RNG) untuk memastikan semua permainan dimainkan secara adil dan hasilnya adalah rawak. Kami juga mempromosikan perjudian bertanggungjawab dan menggalakkan pemain untuk memantau tabiat permainan mereka.</p>
+                                <p> Jom99 komited untuk menyediakan pengalaman permainan yang adil. Kami menggunakan Random Number Generators (RNG) untuk memastikan semua permainan dimainkan secara adil dan hasilnya adalah rawak. Kami juga mempromosikan <a href="https://jom99.org/perjudian-bertanggungjawab/"><strong>perjudian bertanggungjawab</strong></a> dan menggalakkan pemain untuk memantau tabiat permainan mereka.</p>
                                 <h2>Aktiviti Terlarang</h2>
                                 <p>Anda bersetuju untuk tidak terlibat dalam sebarang aktiviti berikut:</p>
                                 <ul>

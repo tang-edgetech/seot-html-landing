@@ -45,7 +45,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar">
         <meta name="twitter:description" content="JOM99 memastikan pembayaran anda lancar.  Pilih kaedah pengeluaran dan deposit cepat yang sesuai dengan keperluan anda.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">

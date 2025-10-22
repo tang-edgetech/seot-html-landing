@@ -46,7 +46,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="https://jom99.org/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="JOM99 - Rasai Permainan Menarik & Hadiah Slot Progresif">
         <meta name="twitter:description" content="JOM99 menawarkan pengalaman slot dalam talian terbaik dengan grafik yang menarik, putaran percuma dan hadiah progresif yang menguntungkan.">
         <meta name="twitter:image" content="https://jom99.org/images/jom99_logo.webp">
@@ -94,7 +94,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>JOM99 - Rasai Permainan Menarik & Hadiah Slot Progresif</h1>
-                                <p>Selamat datang ke <a href="https://jom99.org/"><strong>laman slot rasmi JOM99</strong></a>, di mana keseronokan dan kemenangan besar menanti anda! Kami menawarkan koleksi slot dalam talian yang pelbagai dengan tema menarik, ciri-ciri hebat, dan peluang kemenangan yang luar biasa. Sama ada anda peminat jackpot progresif atau slot video moden, di sini terdapat sesuatu untuk setiap pemain.</p>
+                                <p>Selamat datang ke <a href="https://jom99.org/"><strong>platform slot dipercayai di Malaysia</strong></a>, di mana keseronokan dan kemenangan besar menanti anda! Kami menawarkan koleksi slot dalam talian yang pelbagai dengan tema menarik, ciri-ciri hebat, dan peluang kemenangan yang luar biasa. Sama ada anda peminat jackpot progresif atau slot video moden, di sini terdapat sesuatu untuk setiap pemain.</p>
                                 <p>&nbsp</p>
                                 <h2>Mengapa Memilih Slot JOM99?</h2>
                                 <p>Di Jom99, kami percaya permainan slot kami harus memberi pengalaman yang tidak hanya menyeronokkan tetapi juga memberikan peluang besar untuk menang. Inilah sebabnya mengapa pemain terus memilih kami:</p>
@@ -138,7 +138,8 @@ include '../inc/functions.php';
                                 <h3>Manfaatkan Bonus dan Promosi</h3>
                                 <p>Gunakan <a href="https://jom99.org/bonus-promosi/"><strong>bonus deposit, putaran percuma, dan promosi</strong></a> lain yang ditawarkan oleh Jom99 untuk mendapatkan lebih banyak peluang tanpa menambah banyak modal.</p>
                                 <h3>Tetapkan Had Perbelanjaan Anda</h3>
-                                <p>Jangan lupa untuk menetapkan had perbelanjaan anda semasa bermain. Menjaga kewangan anda adalah kunci untuk menikmati pengalaman permainan yang lebih sihat dan menyeronokkan.</p>
+                                <p class="mb-3">Jangan lupa untuk menetapkan had perbelanjaan anda semasa bermain. Menjaga kewangan anda adalah kunci untuk menikmati pengalaman permainan yang lebih sihat dan menyeronokkan.</p>
+                                <p>Sila rujuk <a href="https://jom99.org/perjudian-bertanggungjawab/"><strong>halaman perjudian bertanggungjawab</strong></a> kami untuk mengetahui lebih lanjut tentang cara menetapkan had belanjawan.</p>
                             </div>
                         </div>
                     </div>

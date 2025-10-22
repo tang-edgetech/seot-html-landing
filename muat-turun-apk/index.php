@@ -45,7 +45,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="Muat Turun Aplikasi JOM99 - Permainan Lancar Sepanjang Masa">
         <meta name="twitter:description" content="JOM99 menyediakan pengalaman permainan mudah alih yang lancar dan pantas. Muat turun aplikasi rasmi hari ini dan main bila-bila masa, di mana sahaja.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
@@ -94,11 +94,11 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Muat Turun Aplikasi JOM99 - Permainan Lancar Sepanjang Masa</h1>
-                                <p>Nikmati pengalaman permainan dalam talian yang lancar dan tanpa gangguan di mana sahaja anda berada dengan <a href="https://jom99.org/"><strong>aplikasi JOM99 versi terkini</strong></strong></a>. Muat turun aplikasi kami untuk Android dan mulakan perjalanan permainan kasino dalam talian anda secara langsung di telefon mudah alih anda.</p>
+                                <p>Nikmati pengalaman permainan dalam talian yang lancar dan tanpa gangguan di mana sahaja anda berada dengan <a href="https://jom99.org/"><strong>portal permainan yang dipercayai di Malaysia</strong></strong></a>. Muat turun aplikasi kami untuk Android dan mulakan perjalanan permainan kasino dalam talian anda secara langsung di telefon mudah alih anda.</p>
                                 <h2>Mengapa Memilih Muat Turun APK JOM99?</h2>
                                 <p>Dengan aplikasi, anda dapat bermain <a href="https://jom99.org/slot/"><strong>slot permainan dalam talian</strong></a>, permainan kasino langsung, dan banyak lagi, semuanya di hujung jari anda. Berikut adalah beberapa sebab mengapa aplikasi kami adalah pilihan terbaik untuk peminat permainan dalam talian:</p>
                                 <h3>Pengalaman Permainan Tanpa Gangguan</h3>
-                                <p>Dengan aplikasi Jom99 APK, anda tidak perlu risau tentang kesulitan sambungan internet atau prestasi permainan. Aplikasi ini dioptimumkan untuk memastikan pengalaman permainan lancar, tanpa sebarang masalah.</p>
+                                <p>Dengan <a href="https://jom99.org/muat-turun-apk/"><strong>aplikasi JOM99 versi terkini</strong></a>, anda tidak perlu risau tentang kesulitan sambungan internet atau prestasi permainan. Aplikasi ini dioptimumkan untuk memastikan pengalaman permainan lancar, tanpa sebarang masalah.</p>
                                 <h3>Akses ke Semua Permainan</h3>
                                 <p>Dengan Jom99 APK, anda boleh mengakses seluruh koleksi permainan yang kami tawarkan, termasuk slot video, jackpot progresif, permainan meja, dan permainan kasino langsung. Semua permainan ini tersedia hanya di hujung jari anda.</p>
                                 <h3>Kemudahan Pembayaran dan Pengeluaran</h3>

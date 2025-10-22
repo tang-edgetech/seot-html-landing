@@ -41,7 +41,7 @@ include '../inc/functions.php';
 
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
+        <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="Dasar Privasi JOM99 - Perlindungan Data Pengguna yang Penuh di Malaysia">
         <meta name="twitter:description" content="Baca dasar privasi JOM99 dan ketahui bagaimana kami melindungi maklumat peribadi anda. Kami komited untuk menjaga privasi dan keselamatan data semua pengguna.">
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/jom99_logo.webp">
@@ -81,7 +81,7 @@ include '../inc/functions.php';
                                 <h1>Dasar Privasi - JOM99</h1>
                                 <p class="mb-4">Kami di JOM99 komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
                                 <ol>
-                                    <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di JOM99. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
+                                    <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di <a href="https://jom99.org/"><strong>laman permainan dalam talian yang terkenal</strong></a>. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
                                     <li class="mb-3"><strong>Penggunaan Maklumat</strong><br/>Maklumat yang dikumpul digunakan untuk:<br/>
                                         <ul>
                                             <li>Memproses pendaftaran dan transaksi anda.</li>
