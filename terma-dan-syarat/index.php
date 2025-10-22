@@ -48,18 +48,17 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://WINMY.info"
+                    "item": "https://winmy.info/"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Terma dan Syarat",
-                    "item": "https://WINMY.info/terma-dan-syarat/"
+                    "item": "https://winmy.info/terma-dan-syarat/"
                 }
             ]
         }
         </script>
-
     </head>
     <body>
         <?php include '../inc/navbar.php';?>≈
@@ -70,22 +69,22 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Terma dan Syarat Penggunaan di WINMY</h1>
-                                <p class="mb-3">Sila baca dengan teliti Terma dan Syarat berikut sebelum menggunakan laman web dan perkhidmatan WINMY. Dengan mengakses dan menggunakan <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>WINMY apk</strong></a>, anda bersetuju untuk mematuhi semua peraturan dan syarat yang dinyatakan.</p>
+                                <h1>Terma dan Syarat Penggunaan WINMY</h1>
+                                <p class="mb-3">Sila baca dengan teliti Terma dan Syarat berikut sebelum menggunakan laman web dan perkhidmatan WINMY. Dengan mengakses dan menggunakan <a href="https://winmy.info/muat-turun-apk/"><strong>aplikasi official WINMY</strong></a>, anda bersetuju untuk mematuhi semua peraturan dan syarat yang dinyatakan.</p>
                                 <ol>
                                     <li class="mb-3"><strong>Pendaftaran Akaun</strong><br/>Anda mesti berumur sekurang-kurangnya 21 tahun dan mempunyai dokumen pengenalan sah untuk mendaftar akaun WINMY. Semua maklumat yang diberikan mestilah tepat dan terkini.</li>
-                                    <li class="mb-3"><strong>Kebenaran dan Kelulusan</strong><br/><a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> berhak menolak atau menggantung akaun tanpa memberi notis jika terdapat pelanggaran terma atau aktiviti mencurigakan.</li>
+                                    <li class="mb-3"><strong>Kebenaran dan Kelulusan</strong><br/><a href="https://winmy.info/"><strong>WINMY</strong></a> berhak menolak atau menggantung akaun tanpa memberi notis jika terdapat pelanggaran terma atau aktiviti mencurigakan.</li>
                                     <li class="mb-3"><strong>Perlindungan Akaun</strong><br/>Anda bertanggungjawab menjaga keselamatan maklumat log masuk dan tidak mendedahkan kata laluan kepada pihak ketiga. Sebarang aktiviti yang berlaku melalui akaun anda dianggap tanggungjawab anda.</li>
                                     <li class="mb-3"><strong>Pertaruhan dan Kemenangan</strong><br/>Semua pertaruhan mesti mematuhi peraturan permainan yang ditetapkan. Keputusan permainan adalah muktamad dan WINMY tidak bertanggungjawab terhadap sebarang pertikaian mengenai hasil permainan.</li>
-                                    <li class="mb-3"><strong>Bonus dan Promosi</strong><br/>Setiap tawaran <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>bonus dan promosi</strong></a> adalah tertakluk kepada terma dan syarat khas yang ditetapkan di halaman promosi. Penipuan atau penyalahgunaan bonus boleh menyebabkan pembatalan ganjaran.</li>
+                                    <li class="mb-3"><strong>Bonus dan Promosi</strong><br/>Setiap tawaran <a href="https://winmy.info/bonus-promosi/"><strong>bonus dan promosi</strong></a> adalah tertakluk kepada terma dan syarat khas yang ditetapkan di halaman promosi. Penipuan atau penyalahgunaan bonus boleh menyebabkan pembatalan ganjaran.</li>
                                     <li class="mb-3"><strong>Pengeluaran Dana</strong><br/>Permohonan pengeluaran tertakluk kepada proses pengesahan akaun dan kelulusan. WINMY berhak menangguhkan pengeluaran jika terdapat kecurigaan aktiviti tidak sah.</li>
                                     <li class="mb-3"><strong>Privasi dan Keselamatan Data</strong><br/>Penggunaan data peribadi anda adalah tertakluk kepada Polisi Privasi WINMY yang boleh dirujuk untuk maklumat lanjut.</li>
-                                    <li class="mb-3"><strong>Perubahan Terma dan Syarat</strong><br/>WINMY berhak mengubah <a href="<?= $site_base_url;?>/terma-dan-syarat/"><strong>terma dan syarat</strong></a> ini pada bila-bila masa tanpa notis terlebih dahulu. Penggunaan berterusan selepas perubahan bermakna anda menerima syarat baru tersebut.</li>
+                                    <li class="mb-3"><strong>Perubahan Terma dan Syarat</strong><br/>WINMY berhak mengubah <a href="https://winmy.info/terma-dan-syarat/"><strong>Terma dan Syarat Penggunaan Platform Kami</strong></a> ini pada bila-bila masa tanpa notis terlebih dahulu. Penggunaan berterusan selepas perubahan bermakna anda menerima syarat baru tersebut.</li>
                                     <li class="mb-3"><strong>Had Liabiliti</strong><br/>WINMY tidak bertanggungjawab atas sebarang kerugian langsung atau tidak langsung yang timbul daripada penggunaan laman web atau perkhidmatan kami.</li>
                                     <li><strong>Undang-undang dan Penyelesaian Pertikaian</strong><br/>Terma ini tertakluk kepada undang-undang Malaysia. Sebarang pertikaian akan diselesaikan secara rundingan terlebih dahulu, jika gagal, boleh dirujuk ke mahkamah yang berkenaan.</li>
                                 </ol>
                                 <p>&nbsp;</p>
-                                <p>Dengan menggunakan perkhidmatan WINMY, anda mengesahkan bahawa anda telah membaca, memahami dan bersetuju untuk mematuhi semua terma dan syarat yang dinyatakan di atas. Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pasukan sokongan kami melalui <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>halaman hubungi WINMY</strong></a>.</p>
+                                <p>Dengan menggunakan perkhidmatan WINMY, anda mengesahkan bahawa anda telah membaca, memahami dan bersetuju untuk mematuhi semua terma dan syarat yang dinyatakan di atas. Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pasukan sokongan kami melalui <a href="https://winmy.info/hubungi-kami/"><strong>halaman hubungi WINMY</strong></a>.</p>
                             </div>
                         </div>
                     </div>

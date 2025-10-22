@@ -84,15 +84,15 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Cara Pembayaran WINMY: Mudah, Selamat & Pantas</h1>
-                                <p>Di <a href="<?php echo $site_base_url;?>/"><strong>Winmy</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
+                                <p>Di <a href="https://winmy.info/"><strong>Winmy</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pilihan Kaedah Pembayaran yang Disokong</h2>
                                 <p class="mb-2">Kami bekerjasama dengan penyedia pembayaran terkemuka untuk memberikan anda pilihan paling mudah dan dipercayai. Antara kaedah popular termasuk:</p>
                                 <ul>
-                                    <li><strong>Touch ’n Go e-wallet</strong>: Mudah dan cepat, hanya beberapa ketikan untuk deposit atau pengeluaran.</li>
-                                    <li><strong>GrabPay</strong>: Alternatif e-wallet yang sangat popular di kalangan pengguna mudah alih Malaysia.</li>
-                                    <li><strong>FPX (Financial Process Exchange)</strong>: Pemindahan terus dari akaun bank tempatan anda dengan kelulusan segera.</li>
+                                    <li class="mb-2"><strong>Touch ’n Go e-wallet</strong>: Mudah dan cepat, hanya beberapa ketikan untuk deposit atau pengeluaran.</li>
+                                    <li class="mb-2"><strong>GrabPay</strong>: Alternatif e-wallet yang sangat popular di kalangan pengguna mudah alih Malaysia.</li>
+                                    <li class="mb-2"><strong>FPX (Financial Process Exchange)</strong>: Pemindahan terus dari akaun bank tempatan anda dengan kelulusan segera.</li>
                                     <li><strong>Kad Kredit dan Debit</strong>: Visa dan Mastercard diterima untuk kemudahan pembayaran global.</li>
                                 </ul>
                                 <p>&nbsp;</p>
@@ -102,9 +102,9 @@ include '../inc/functions.php';
                                 <h2>Cara Deposit di WINMY</h2>
                                 <p class="mb-2">Membuat deposit mudah dan pantas. Ikuti langkah mudah ini:</p>
                                 <ol>
-                                    <li>Log masuk ke akaun <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> anda.</li>
-                                    <li>Pergi ke halaman Kaedah Pembayaran WINMY di akaun anda.</li>
-                                    <li>Pilih kaedah pembayaran yang sesuai.</li>
+                                    <li class="mb-2">Log masuk ke akaun <a href="https://winmy.info/"><strong>WINMY</strong></a> anda.</li>
+                                    <li class="mb-2">Pergi ke halaman <a href="https://winmy.info/kaedah-pembayaran/"><strong>Kaedah Pembayaran WINMY</strong></a> di akaun anda.</li>
+                                    <li class="mb-2">Pilih kaedah pembayaran yang sesuai.</li>
                                     <li>Masukkan jumlah deposit dan sahkan transaksi.</li>
                                 </ol>
                                 <p>&nbsp;</p>
@@ -114,9 +114,9 @@ include '../inc/functions.php';
                                 <h2>Proses Pengeluaran yang Lancar</h2>
                                 <p class="mb-2">Apabila tiba masa nak keluarkan kemenangan, kami pastikan prosesnya cepat dan mudah:</p>
                                 <ol>
-                                    <li>Log masuk ke akaun.</li>
-                                    <li>Pergi ke halaman Pengeluaran.</li>
-                                    <li>Pilih kaedah pengeluaran yang sama dengan kaedah deposit (jika boleh).</li>
+                                    <li class="mb-2">Log masuk ke akaun.</li>
+                                    <li class="mb-2">Pergi ke halaman Pengeluaran.</li>
+                                    <li class="mb-2">Pilih kaedah pengeluaran yang sama dengan kaedah deposit (jika boleh).</li>
                                     <li>Masukkan jumlah yang ingin dikeluarkan dan hantar permohonan.</li>
                                 </ol>
                                 <p>&nbsp;</p>
@@ -128,7 +128,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan dan Bantuan Pembayaran</h2>
-                                <p>Jika anda menghadapi sebarang masalah atau mempunyai pertanyaan berkaitan pembayaran, pasukan sokongan kami sentiasa bersedia membantu. Hubungi kami melalui halaman <a href="<?php echo $site_base_url;?>/hubungi-kami"><strong>Contact Us</strong></a> untuk respon pantas dan penyelesaian yang memuaskan.</p>
+                                <p>Jika anda menghadapi sebarang masalah atau mempunyai pertanyaan berkaitan pembayaran, pasukan sokongan kami sentiasa bersedia membantu. Hubungi kami melalui halaman <a href="https://winmy.info/hubungi-kami"><strong>Bantuan dan Sokongan 24/7</strong></a> untuk respon pantas dan penyelesaian yang memuaskan.</p>
                             </div>
                         </div>
                     </div>

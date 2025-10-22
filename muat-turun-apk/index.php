@@ -84,21 +84,21 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Gaming On The Go di WINMY</h1>
-                                <p>Main permainan kasino kegemaran anda bila-bila masa, di mana saja dengan aplikasi Android khusus kami. <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>WINMY APK</strong></a> menawarkan masa muat pantas, ciri berguna, dan keselamatan kukuh supaya anda boleh fokus pada keseronokan. Langkau pelayar dan terus ke aksi—anda tidak akan korbankan kualiti atau kelajuan.</p>
+                                <h1>Muat Turun WINMY APK: Panduan & Pemasangan</h1>
+                                <p>Main permainan kasino kegemaran anda bila-bila masa, di mana saja dengan aplikasi Android khusus kami. <a href="https://winmy.info/muat-turun-apk/"><strong>WINMY APK</strong></a> menawarkan masa muat pantas, ciri berguna, dan keselamatan kukuh supaya anda boleh fokus pada keseronokan. Langkau pelayar dan terus ke aksi—anda tidak akan korbankan kualiti atau kelajuan.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Mengapa Muat Turun APK WINMY?</h2>
-                                <p>Jika anda pilih <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>WINMY APK</strong></a>, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
+                                <p>Jika anda pilih <a href="https://winmy.info/muat-turun-apk/"><strong>muat turun aplikasi versi terbaru</strong></a>, anda akan menikmati pengalaman permainan yang lebih lancar berbanding bermain melalui pelayar. Anda juga akan dapat “<strong>app exclusive perks</strong>” yang direka untuk permainan dalam perjalanan dan manfaat lapisan keselamatan tambahan dalam pakej aplikasi.</p>
                                 <p>&nbsp;</p>
                                 <h3>Masa Download Lebih Pantas & boleh percaya</h3>
-                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di <a href="<?php echo $site_base_url;?>/permainan-slot/"><strong>halaman slot WINMY</strong></a>.</p>
+                                <p>Aplikasi kami dioptimumkan untuk penggunaan berulang, memulakan dalam masa kurang lima saat walaupun pada peranti mid-range. Itu bermaksud kurang menunggu dan lebih banyak putaran berbanding bermain dari pelayar mudah alih di <a href="https://winmy.info/permainan-slot/"><strong>halaman slot WINMY</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Ciri Eksklusif Mudah Alih</h3>
-                                <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>mobile-only bonuses & promotions</strong></a> menambah peluang anda menang.</p>
+                                <p>Nikmati flash bonuses apabila anda hidupkan <strong>instant push notifications</strong>, besar kemenangan, dan amaran kejohanan yang tidak tersedia di pelayar. <strong>One-tap deposits</strong> memudahkan tambah dana, dan <a href="https://winmy.info/bonus-promosi/"><strong>Bonus dan Promosi Eksklusif untuk Pemain Setia</strong></a> menambah peluang anda menang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penambahbaikan Keselamatan & Privasi</h3>
-                                <p>WINMY APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="<?php echo $site_base_url;?>/dasar-privasi/"><strong>Privacy Policy</strong></a>.</p>
+                                <p>WINMY APK kami ditandatangani digital dan disulitkan untuk elakkan pengubahsuaian, dengan pemeriksaan integriti berkala untuk pastikan anda gunakan versi asli. Maklumat peribadi dan kewangan anda dilindungi dalam persekitaran terenkapsulasi, dan anda boleh semak semua langkah keselamatan di <a href="https://winmy.info/dasar-privasi/"><strong>Dasar Privasi</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Keperluan Sistem & Keserasian</h2>
@@ -143,7 +143,7 @@ include '../inc/functions.php';
                                 <p>Dapatkan makluman <strong>flash reload bonuses</strong>, <strong>jackpot leaders</strong>, dan <strong>VIP milestones</strong> tanpa buka aplikasi. Notifikasi muncul di skrin utama, jadi anda tidak terlepas apa-apa.</p>
                                 <p>&nbsp;</p>
                                 <h3>One-Tap Deposits & Quick Cashouts</h3>
-                                <p>Paut e-wallet atau akaun bank pilihan anda untuk deposit pantas. Bila tiba masa keluarkan kemenangan, minta <strong>payout</strong> dengan satu ketik sahaja, rujuk halaman <a href="<?php echo $site_base_url;?>/kaedah-pembayaran/"><strong>Payment Methods</strong></a> untuk butiran.</p>
+                                <p>Paut e-wallet atau akaun bank pilihan anda untuk deposit pantas. Bila tiba masa keluarkan kemenangan, minta <strong>payout</strong> dengan satu ketik sahaja, rujuk halaman <a href="https://winmy.info/kaedah-pembayaran/"><strong>Kaedah Pembayaran</strong></a> untuk butiran.</p>
                                 <p>&nbsp;</p>
                                 <h3>Offline Asset Caching</h3>
                                 <p>Aplikasi cache aset utama supaya skrin muat walaupun sambungan terganggu. Anda akan lihat thumbnail permainan dan menu serta-merta, kemudian animasi penuh apabila sambungan pulih.</p>
@@ -154,14 +154,14 @@ include '../inc/functions.php';
                                 <ul>
                                     <li><strong>Manage App Cache</strong><br/>
                                         <ul>
-                                            <li>Dalam Settings > Apps > <a href="<?= $site_base_url;?>/"><strong>Homepage</strong></a>, ketik “Clear Cache” setiap minggu.</li>
+                                            <li>Dalam Settings > Apps > <a href="https://winmy.info/"><strong>Homepage</strong></a>, ketik “Clear Cache” setiap minggu.</li>
                                         </ul>
                                     </li>
                                     <li><strong>Troubleshooting Common Issues</strong><br/>
                                         <ul>
                                             <li>Jika fail install, semak “Unknown Sources” diaktifkan dan storan mencukupi.</li>
                                             <li>Untuk crash, kemas kini ke APK terkini atau mulakan semula peranti.</li>
-                                            <li>Jika masih bermasalah, lawat halaman <a href="<?php echo $site_base_url;?>/hubungi-kami/"><strong>Contact Us</strong></a> untuk bantuan.</li>
+                                            <li>Jika masih bermasalah, lawat halaman <a href="https://winmy.info/hubungi-kami/"><strong>Sokongan pelanggan rasmi WINMY</strong></a> untuk bantuan.</li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -174,7 +174,7 @@ include '../inc/functions.php';
                                 <p>Setiap kali anda buka aplikasi, ia semak integriti untuk halang versi diganggu. Semua data dihantar menggunakan <strong>SSL encryption</strong> bagi lindungi maklumat anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>In-App Responsible Gambling Tools</h3>
-                                <p>Tetapkan had deposit, kerugian, dan sesi terus dalam aplikasi. Anda juga boleh <strong>self-exclusion</strong> atau rehat seketika dengan satu ketik. Ketahui lebih lanjut di halaman <a href="<?php echo $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>.</p>
+                                <p>Tetapkan had deposit, kerugian, dan sesi terus dalam aplikasi. Anda juga boleh <strong>self-exclusion</strong> atau rehat seketika dengan satu ketik. Ketahui lebih lanjut di halaman <a href="https://winmy.info/perjudian-bertanggungjawab"><strong>Perjudian Bertanggungjawab</strong></a>.</p>
                             </div>
                         </div>
                     </div>

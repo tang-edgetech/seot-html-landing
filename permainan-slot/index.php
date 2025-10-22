@@ -87,7 +87,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Permainan WINMY Slot: Putar, Menang, Ulang</h1>
-                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
+                                <p>Bersiap untuk aksi slot yang mengujakan di <a href="https://winmy.info/"><strong>WINMY</strong></a>, di mana setiap putaran membawa sensasi baharu. Dari buah klasik hingga video slot hebat, koleksi slot dalam talian kami ada untuk semua gaya, sama ada anda mengejar kemenangan kecil atau jackpot besar. Jom selami apa yang membuat kami berbeza.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Mengapa Pilih WINMY untuk Slot?</h2>
@@ -97,7 +97,7 @@ include '../inc/functions.php';
                                 <p>Kami bekerjasama dengan pembekal berlesen sahaja, di mana generator nombor rawak mereka diaudit secara berkala oleh pihak ketiga. Semak laporan pembayaran bila-bila masa untuk sahkan setiap hasil tidak diubah suai.</p>
                                 <p>&nbsp;</p>
                                 <h3>Antara Muka Mesra Pemula</h3>
-                                <p><a href="<?= $site_base_url;?>/permainan-slot/"><strong>Navigasi slot Winmy</strong></a> mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
+                                <p><a href="https://winmy.info/permainan-slot/"><strong>Permainan slot menarik WINMY</strong></a> mudah dan intuitif. Petua di skrin terangkan garisan bayaran, simbol, dan pencetus bonus langkah demi langkah, jadi anda yakin walaupun kali pertama bermain.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kategori Slot Kami</h2>
@@ -123,7 +123,7 @@ include '../inc/functions.php';
                                 <p>RTP tunjuk peratusan pulangan jangka panjang, manakala volatiliti ukur kekerapan dan saiz kemenangan. Volatiliti rendah beri kemenangan kecil kerap; tinggi beri kemenangan besar jarang.</p>
                                 <p>&nbsp;</p>
                                 <h3>Saiz Pertaruhan, Garisan Bayaran & Simbol Khas</h3>
-                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>pusingan bonus</strong></a>.</p>
+                                <p>Laraskan pertaruhan setiap garisan dan bilangan garisan aktif ikut bajet. Wild gantikan simbol lain, manakala scatter kerap picu putaran percuma atau <a href="https://winmy.info/bonus-promosi/"><strong>pusingan bonus</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Panduan Ringkas Cara Putar</h3>
                                 <ol>
@@ -138,7 +138,7 @@ include '../inc/functions.php';
                                 <p>Sedikit perancangan memastikan permainan anda seronok dan berterusan. Gunakan petua ini untuk urus bajet dan maksimumkan keseronokan.</p>
                                 <p>&nbsp;</p>
                                 <h3>Menetapkan Had Bankroll</h3>
-                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab"><strong>Responsible Gambling</strong></a>. Ini membantu anda kekal berhemah.</p>
+                                <p>Tentukan had deposit dan kerugian sebelum mula, kemudian tetapkan melalui alat <a href="https://winmy.info/perjudian-bertanggungjawab"><strong>Bermain Secara Bertanggungjawab</strong></a>. Ini membantu anda kekal berhemah.</p>
                                 <p>&nbsp;</p>
                                 <h3>Memilih Slot Berdasarkan Volatiliti</h3>
                                 <p>Pilih volatiliti rendah untuk kemenangan kerap atau tinggi untuk peluang kemenangan besar. Padankan permainan dengan gaya dan mood anda.</p>
@@ -154,7 +154,7 @@ include '../inc/functions.php';
                                 <p>Setiap pertaruhan dermakan peratusan kecil kepada kumpulan bersama. Semakin ramai pemain join, semakin naik jackpot sebelum satu putaran bertuah merampasnya.</p>
                                 <p>&nbsp;</p>
                                 <h3>Kemenangan Jackpot Mengubah Hidup Terkini</h3>
-                                <p>Bulan lepas, seorang pemain di KL memenangi RM250,000 pada <a href="<?= $site_base_url;?>/permainan-slot/"><strong>slot progresif</strong></a>, buktikan hadiah besar bukan sekadar janji.</p>
+                                <p>Bulan lepas, seorang pemain di KL memenangi RM250,000 pada <a href="https://winmy.info/permainan-slot/"><strong>Koleksi Permainan Slot Progresif Terbaik</strong></a>, buktikan hadiah besar bukan sekadar janji.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pengalaman Slot Mudah Alih</h2>
@@ -206,7 +206,7 @@ include '../inc/functions.php';
                                 </div>
                                 <p>&nbsp;</p>
                                 <h3>Bonus Eksklusif Mudah Alih</h3>
-                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>Bonuses & Promotions</strong></a>.</p>
+                                <p>Dapatkan putaran percuma dan padanan deposit tambahan apabila main di telefon. Tawaran terkini ada di halaman <a href="https://winmy.info/bonus-promosi/"><strong>Bonus & Promosi terbaik</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kejohanan Slot & Papan Pendahulu</h2>
@@ -216,7 +216,7 @@ include '../inc/functions.php';
                                 <p>Putar tajuk terpilih atau capai sasaran kemenangan tertentu untuk layak. Papan pendahulu dikemas kini secara langsung supaya anda tahu kedudukan anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Hadiah: Tunai, Putaran Percuma dan Barangan</h3>
-                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
+                                <p>Pencapaian tertinggi kongsi kumpulan hadiah tunai, putaran percuma, dan barangan <a href="https://winmy.info/"><strong>WINMY</strong></a> seperti kad TNG edisi terhad dan T-shirt. Pemain elit juga dapat pengganda mata bonus untuk cabaran seterusnya.</p>
                             </div>
                         </div>
                     </div>

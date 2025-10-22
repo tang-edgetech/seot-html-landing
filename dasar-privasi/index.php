@@ -72,8 +72,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Polisi Privasi di WINMY</h1>
-                                <p class="mb-4">Kami di <strong>WINMY</strong> komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
+                                <h1>Dasar Privasi WINMY: Perlindungan Data & Privasi</h1>
+                                <p class="mb-4">Kami di <a href="https://winmy.info/"><strong>WINMY</strong></a> komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
                                 <ol>
                                     <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di <strong>WINMY</strong>. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
                                     <li class="mb-3"><strong>Penggunaan Maklumat</strong><br/>Maklumat yang dikumpul digunakan untuk:<br/>

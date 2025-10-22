@@ -73,30 +73,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php
-                            if( $top_brands ) {
-                                foreach( $top_brands as $key => $brand ) {
-                                    $brand_title = $brand['title'];
-                                    $brand_desc = $brand['description'];
-                                    $brand_thumbnail = $site_base_url.'/images/top_brand/top_brand_'.$key.'.webp';
-                                    $brand_link = $brand['url'];
-                            echo '<div class="top-brand-item '.$key.' p-2">
-                                <div class="top-brand-inner d-flex align-items-center justify-content-start">
-                                    <div class="col col-header pt-3">
-                                        <div class="col-image"><img src="'.$brand_thumbnail.'"/></div>
-                                        <div class="col-title">'.$brand_title.'</div>
-                                    </div>
-                                    <div class="col col-desc pt-3">
-                                        <p class="mb-0">'.$brand_desc.'</p>
-                                    </div>
-                                    <div class="col col-cta pt-3">
-                                        <a href="'.$brand_link.'"><strong><span>VISIT</span></strong></a>
-                                    </div>
-                                </div>
-                            </div>';
-                                }
-                            }
-                            ?>
+                            <?php include 'inc/top-brand.php';?>
                             </div>
 
                             <div class="userprofile-container p-3 mt-3 w-100">
@@ -335,7 +312,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>WINMY VIP Slot - Cashback & Ganjaran Eksklusif </h1>
-                                <p><a href="<?= $site_base_url;?>/vip/"><strong>Program WINMY VIP</strong></a> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
+                                <p><a href="https://winmy.info/vip/"><strong>Program WINMY VIP</strong></a> membawa pengalaman permainan anda ke tahap lebih tinggi bermakna lebih daripada sekadar pertaruhan besar. Ia bermaksud ganjaran peribadi dan perkhidmatan yang menghargai kesetiaan anda. <strong>VIP program</strong> ni mengiktiraf komitmen anda dengan keistimewaan yang tidak terdapat di tempat lain. </p>
                                 <p>&nbsp;</p>
 
                                 <h2>Mengapa Sertai Kelab VIP?</h2>
@@ -347,7 +324,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Kemajuan Tahap Lebih Pantas</h2>
-                                <p>Ahli VIP menikmati peningkatan mata istimewa dan <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>promosi terarah</strong></a>  yang mempercepat kenaikan tahap. Semasa kempen perayaan, setiap RM1 pertaruhan boleh mendapat 2× atau 3× mata, membolehkan anda capai status Silver, Gold, atau Platinum dengan lebih cepat.</p>
+                                <p>Ahli VIP menikmati peningkatan mata istimewa dan <a href="https://winmy.info/bonus-promosi/"><strong>promosi terarah</strong></a>  yang mempercepat kenaikan tahap. Semasa kempen perayaan, setiap RM1 pertaruhan boleh mendapat 2× atau 3× mata, membolehkan anda capai status Silver, Gold, atau Platinum dengan lebih cepat.</p>
                                 <p>&nbsp;</p>
                                 <div class="table-wrapper">
                                     <table class="table table-striped">
@@ -396,7 +373,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 
                                 <h2>Ciri Eksklusif Hanya untuk VIP</h2>
-                                <p>Kelab VIP <a href="<?= $site_base_url;?>"><strong>WINMY</strong></a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
+                                <p><a href="https://winmy.info/"><strong>WINMY</strong></a> menawarkan kelebihan unik yang memastikan pemain paling setia menerima layanan luar biasa.</p>
                                 <p>&nbsp;</p>
                                 <h3>Cashback Ulang Tahun</h3>
                                 <p>Raikan ulang tahun keahlian anda dengan bonus cashback khas yang dikira berdasarkan kerugian bersih tahunan. Ini adalah tanda penghargaan kami kerana terus bersama.</p>
@@ -412,11 +389,11 @@ include '../inc/functions.php';
                                 <p>Selesaikan pengesahan akaun dengan cepat melalui proses KYC dipercepat. Setelah disahkan, anda menikmati masa pengeluaran terpantas, sering kali dalam beberapa jam sahaja.</p>
                                 <p>&nbsp;</p>
                                 <h3>Penyulitan Tambahan untuk Akaun VIP</h3>
-                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="<?= $site_base_url;?>/dasar-privasi"><strong>Privacy Policy</strong></a> untuk maklumat penuh.</p>
+                                <p>Akaun VIP menerima lapisan penyulitan dan pemeriksaan integriti tambahan. Kami lindungi data sensitif untuk memastikan maklumat peribadi dan kewangan anda selamat. Sila rujuk <a href="https://winmy.info/dasar-privasi"><strong>Cara Kami Melindungi Data dan Privasi Anda</strong></a> untuk maklumat penuh.</p>
                                 <p>&nbsp;</p>
                                 
                                 <h2>Permainan Bertanggungjawab untuk Ahli VIP</h2>
-                                <p>Biarpun di tahap tertinggi, <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> tetap penting. Ahli VIP mempunyai akses kepada had boleh laras dan sokongan khusus untuk mengekalkan tabiat permainan sihat.</p>
+                                <p>Biarpun di tahap tertinggi, <a href="https://winmy.info/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> tetap penting. Ahli VIP mempunyai akses kepada had boleh laras dan sokongan khusus untuk mengekalkan tabiat permainan sihat.</p>
                                 <p>&nbsp;</p>
                                 <h3>Had Boleh Laras dan Pengecualian Kendiri</h3>
                                 <p>Tetapkan had deposit, kerugian, dan sesi terus dalam tetapan akaun anda. Jika perlu berehat, anda boleh melakukan pengecualian kendiri untuk tempoh yang sesuai.</p>

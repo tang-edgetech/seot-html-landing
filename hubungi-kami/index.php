@@ -73,8 +73,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Hubungi Kami di WINMY</h1>
-                                <p class="mb-3">Kami di <strong>WINMY</strong> sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, pembayaran, atau promosi, sila hubungi kami melalui kaedah berikut:</p>
+                                <h1>Hubungi Kami - Bantuan 24/7 WINMY</h1>
+                                <p class="mb-3">Kami di <strong>WINMY</strong> sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, <a href="https://winmy.info/kaedah-pembayaran/"><strong>pembayaran yang pantas dan selamat</strong></a>, atau <a href="https://winmy.info/bonus-promosi/"><strong>promosi menarik</strong></a>, sila hubungi kami melalui kaedah berikut:</p>
                                 <ol>
                                     <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
                                     <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:winmy@gmail.com"><strong>winmy@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
@@ -84,7 +84,7 @@ include '../inc/functions.php';
                                 <h4>Alamat Pejabat</h4>
                                 <p>No. 45, Jalan Merpati 3, Taman Melati, 53100 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
-                                <p>Kami komited memberikan perkhidmatan pelanggan yang profesional dan mesra. Jangan ragu untuk menghubungi kami bila-bila masa anda perlukan bantuan.</p>
+                                <p><a href="https://winmy.info/"><strong>WINMY</strong></a> komited memberikan perkhidmatan pelanggan yang profesional dan mesra. Jangan ragu untuk menghubungi kami bila-bila masa anda perlukan bantuan.</p>
                             </div>
                         </div>
                     </div>
