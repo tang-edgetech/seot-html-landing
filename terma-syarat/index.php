@@ -6,7 +6,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
         <link rel="canonical" href="https://clubmy.org/terma-syarat/">
@@ -76,6 +76,17 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include '../inc/marquee.php';?>
+
+            <section>
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="top-brand">
+                            <?php include '../inc/top-brand.php';?>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">

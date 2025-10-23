@@ -6,7 +6,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
         <link rel="canonical" href="https://clubmy.org/dasar-privasi/">
@@ -26,7 +26,7 @@ include '../inc/functions.php';
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="website">
+        <meta property="og:type" content="article">
         <meta property="og:url" content="https://clubmy.org/dasar-privasi/">
         <meta property="og:title" content="Dasar Privasi CLUBMY - Perlindungan Data Anda adalah Keutamaan Kami">
         <meta property="og:description" content="CLUBMY sentiasa komited terhadap perlindungan data pengguna. Fahami bagaimana maklumat data pengguna dikumpul, digunakan, dan disimpan dengan selamat mengikut dasar privasi kami.">
@@ -68,6 +68,17 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include '../inc/marquee.php';?>
+            
+            <section>
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="top-brand">
+                            <?php include '../inc/top-brand.php';?>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
