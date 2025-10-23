@@ -73,7 +73,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php include 'inc/top-brand.php';?>
+                            <?php include '../inc/top-brand.php';?>
                             </div>
 
                             <div class="userprofile-container p-3 mt-3 w-100">
