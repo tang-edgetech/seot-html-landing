@@ -94,14 +94,14 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Bonus & Promosi JOM99 - Dapatkan Tawaran Eksklusif dan Hadiah Menarik</h1>
-                                <p>Di JOM99, kami percaya bahawa setiap pemain layak mendapatkan ganjaran yang menarik. Kami menawarkan pelbagai bonus dan promosi yang memberi peluang kepada anda untuk memaksimumkan pengalaman permainan dan meningkatkan peluang kemenangan anda. Dari bonus bonus selamat datang hingga promosi harian, ada banyak cara untuk anda mendapat lebih daripada sekadar hiburan! </p>
+                                <p>Kami di <a href="https://jom99.org/"><strong>JOM99</strong></a> percaya bahawa setiap pemain berhak atas hadiah yang menarik. Kami menawarkan pelbagai bonus dan promosi yang memberi peluang kepada anda untuk memaksimumkan pengalaman permainan dan meningkatkan peluang kemenangan anda. Dari bonus bonus selamat datang hingga promosi harian, ada banyak cara untuk anda mendapat lebih daripada sekadar hiburan! </p>
                                 <p>&nbsp;</p>
                                 <h2>Apakah Unik tentang Bonus & Promosi JOM99?</h2>
-                                <p>Laman slot kami memberi ganjaran kepada pemain dengan bonus dan promosi menarik untuk memastikan pengalaman bermain anda lebih menguntungkan. Berikut adalah beberapa sebab mengapa anda patut memilih <a href="https://jom99.org/"><strong>JOM99</strong></a>: </p>
+                                <p>Laman slot kami memberi ganjaran kepada pemain dengan bonus dan promosi menarik untuk memastikan pengalaman bermain anda lebih menguntungkan. Berikut adalah beberapa sebab mengapa anda patut memilih JOM99: </p>
                                 <h3>Pelbagai Pilihan Bonus Menanti Anda</h3>
                                 <p>Kami menawarkan pelbagai bonus untuk pemain baru dan lama. Anda boleh menikmati bonus alu-aluan, putaran percuma, bonus deposit, dan banyak lagi. Setiap promosi kami direka untuk memberikan lebih banyak peluang kepada anda untuk menang. </p>
                                 <h3>Promosi Berkala dan Eksklusif</h3>
-                                <p>Kami sentiasa memperkenalkan promosi baru yang memberi anda peluang untuk memenangi hadiah menarik. Dapatkan akses ke promosi eksklusif yang hanya tersedia untuk pemain VIP atau pemain setia kami. </p>
+                                <p>Kami sentiasa memperkenalkan promosi baru yang memberi anda peluang untuk memenangi hadiah menarik. Dapatkan akses ke <a href="https://jom99.org/bonus-promosi/"><strong>promosi eksklusif</strong></a> yang hanya tersedia untuk pemain VIP atau pemain setia kami. </p>
                                 <h3>Tiada Yuran Tersembunyi</h3>
                                 <p>Semua bonus dan promosi yang ditawarkan adalah jelas dan telus. Kami tidak mengenakan yuran tersembunyi untuk promosi yang anda terima, jadi anda boleh menikmati hadiah anda tanpa risau. </p>
                                 <p>&nbsp;</p>
@@ -117,11 +117,11 @@ include '../inc/functions.php';
                                 <p>Di Jom99, anda juga berpeluang menerima bonus tanpa deposit. Dengan bonus ini, anda boleh mencuba permainan kami tanpa perlu mengeluarkan wang anda sendiri. Ini memberi peluang untuk memenangi wang sebenar tanpa risiko. </p>
                                 <p>&nbsp;</p>
                                 <h2>Promosi Eksklusif untuk Pemain VIP</h2>
-                                <p>Ahli VIP di Jom99 akan menikmati promosi eksklusif yang memberi lebih banyak nilai. Sebagai ahli VIP, anda akan mendapat peluang untuk menikmati bonus lebih besar, putaran percuma eksklusif, dan ganjaran istimewa. Anda juga boleh mendapatkan akses ke <a href="https://jom99.org/vip/"><strong>Jadual Acara VIP</strong></a> yang menawarkan hadiah mewah dan peluang tambahan untuk menang. </p>
+                                <p>Ahli VIP di Jom99 akan menikmati promosi eksklusif yang memberi lebih banyak nilai. Sebagai ahli VIP, anda akan mendapat peluang untuk menikmati bonus lebih besar, putaran percuma eksklusif, dan ganjaran istimewa. Anda juga boleh menyertai <a href="https://jom99.org/vip/"><strong>Program VIP</strong></a>, yang menawarkan hadiah mewah dan peluang menang tambahan.</p>
                                 <h3>Promosi Harian</h3>
                                 <p>Setiap hari, kami menawarkan promosi harian untuk memastikan anda sentiasa mendapat lebih banyak peluang. Dari bonus deposit harian hingga putaran percuma pada mesin slot tertentu, promosi ini memberikan pengalaman permainan yang lebih bermanfaat dan menguntungkan. </p>
                                 <h3>Tawaran Mingguan dan Bulanan</h3>
-                                <p>Selain <a href="https://jom99.org/bonus-promosi/"><strong>Promosi Harian Eksklusif JOM99</strong></a>, kami juga memperkenalkan tawaran mingguan dan bulanan yang memberikan peluang untuk memenangi ganjaran besar. Pastikan anda sentiasa mengikuti promosi kami untuk memastikan anda tidak terlepas tawaran menarik. </p>
+                                <p>Selain Promosi Harian Eksklusif JOM99, kami juga memperkenalkan tawaran mingguan dan bulanan yang memberikan peluang untuk memenangi ganjaran besar. Pastikan anda sentiasa mengikuti promosi kami untuk memastikan anda tidak terlepas tawaran menarik. </p>
                                 <p>&nbsp;</p>
                                 <h2>Cara Menuntut Bonus di Jom99</h2>
                                 <p class="mb-2">Mendapatkan bonus adalah mudah dan cepat. Ikuti langkah-langkah mudah berikut untuk menuntut bonus yang anda layak terima: </p>

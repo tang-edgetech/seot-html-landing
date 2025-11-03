@@ -94,7 +94,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Muat Turun Aplikasi JOM99 - Permainan Lancar Sepanjang Masa</h1>
-                                <p>Nikmati pengalaman permainan dalam talian yang lancar dan tanpa gangguan di mana sahaja anda berada dengan <a href="https://jom99.org/"><strong>portal permainan yang dipercayai di Malaysia</strong></strong></a>. Muat turun aplikasi kami untuk Android dan mulakan perjalanan permainan kasino dalam talian anda secara langsung di telefon mudah alih anda.</p>
+                                <p>Nikmati pengalaman permainan dalam talian yang lancar dan tanpa gangguan di mana sahaja anda berada dengan <a href="https://jom99.org/"><strong>laman slot terbaik di Malaysia</strong></a>. Muat turun aplikasi kami untuk Android dan mulakan perjalanan permainan kasino dalam talian anda secara langsung di telefon mudah alih anda.</p>
                                 <p>&nbsp;</p>
                                 <h2>Mengapa Memilih Muat Turun APK JOM99?</h2>
                                 <p>Dengan aplikasi, anda dapat bermain <a href="https://jom99.org/slot/"><strong>slot permainan dalam talian</strong></a>, permainan kasino langsung, dan banyak lagi, semuanya di hujung jari anda. Berikut adalah beberapa sebab mengapa aplikasi kami adalah pilihan terbaik untuk peminat permainan dalam talian:</p>
@@ -103,7 +103,7 @@ include '../inc/functions.php';
                                 <h3>Akses ke Semua Permainan</h3>
                                 <p>Dengan Jom99 APK, anda boleh mengakses seluruh koleksi permainan yang kami tawarkan, termasuk slot video, jackpot progresif, permainan meja, dan permainan kasino langsung. Semua permainan ini tersedia hanya di hujung jari anda.</p>
                                 <h3>Kemudahan Pembayaran dan Pengeluaran</h3>
-                                <p>Aplikasi juga memudahkan proses <a href="https://jom99.org/kaedah-pembayaran/"><strong>deposit dan pengeluaran cepat dan lancar</strong></a>, membolehkan anda menguruskan dana permainan dengan mudah dan selamat. Nikmati transaksi yang pantas dan selamat terus dari telefon mudah alih anda.</p>
+                                <p>Aplikasi juga memudahkan proses <a href="https://jom99.org/kaedah-pembayaran/"><strong>kaedah pembayaran yang pantas</strong></a>, membolehkan anda menguruskan dana permainan dengan mudah dan selamat. Nikmati transaksi yang pantas dan selamat terus dari telefon mudah alih anda.</p>
                                 <p>&nbsp;</p>
                                 <h2>Ciri-ciri Utama JOM99 APK</h2>
                                 <p>Aplikasi mempunyai beberapa ciri yang menjadikannya pilihan terbaik untuk pemain yang mahu bermain permainan kasino dalam talian secara mudah alih.</p>

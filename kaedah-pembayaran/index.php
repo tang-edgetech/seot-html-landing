@@ -94,10 +94,10 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Kaedah Pembayaran JOM99 - Mudah dan Selamat</h1>
-                                <p>Pengeluaran dan deposit adalah mudah, cepat, dan selamat di Jom99.  Untuk memenuhi keperluan semua pemain, kami menawarkan pelbagai cara pembayaran.  Anda boleh memilih cara yang paling sesuai dengan anda, sama ada anda lebih suka menggunakan kad kredit, kad debit, e-wallet atau pemindahan bank.</p>
+                                <p>Pengeluaran dan deposit adalah mudah, cepat, dan selamat di <a href="https://jom99.org/"><strong>Jom99</strong></a>. Untuk memenuhi keperluan semua pemain, kami menawarkan pelbagai cara pembayaran.  Anda boleh memilih cara yang paling sesuai dengan anda, sama ada anda lebih suka menggunakan kad kredit, kad debit, e-wallet atau pemindahan bank.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kenapa Pilih Kaedah Pembayaran Jom99?</h2>
-                                <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di <a href="https://jom99.org/"><strong>portal gaming JOM99</strong></a>, kami komited untuk menyediakan kaedah pembayaran yang cepat dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
+                                <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di portal gaming JOM99, kami komited untuk menyediakan <a href="https://jom99.org/kaedah-pembayaran/"><strong>kaedah pembayaran yang cepat</strong></a> dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
                                 <h3>Pelbagai Pilihan Pembayaran yang Fleksibel</h3>
                                 <p>Kami menawarkan pelbagai pilihan pembayaran yang fleksibel, membolehkan anda memilih kaedah yang paling mudah dan selamat. Sama ada anda ingin menggunakan kad kredit/debit, e-wallets, atau pemindahan bank, kami mempunyai pilihan untuk memenuhi semua keperluan pemain kami.</p>
                                 <h3>Transaksi Pantas dan Selamat</h3>

@@ -97,16 +97,16 @@ include '../inc/functions.php';
                                 <p>Selamat datang ke <a href="https://jom99.org/"><strong>platform slot dipercayai di Malaysia</strong></a>, di mana keseronokan dan kemenangan besar menanti anda! Kami menawarkan koleksi slot dalam talian yang pelbagai dengan tema menarik, ciri-ciri hebat, dan peluang kemenangan yang luar biasa. Sama ada anda peminat jackpot progresif atau slot video moden, di sini terdapat sesuatu untuk setiap pemain.</p>
                                 <p>&nbsp</p>
                                 <h2>Mengapa Memilih Slot JOM99?</h2>
-                                <p>Di Jom99, kami percaya permainan slot kami harus memberi pengalaman yang tidak hanya menyeronokkan tetapi juga memberikan peluang besar untuk menang. Inilah sebabnya mengapa pemain terus memilih kami:</p>
+                                <p>Di Jom99, kami percaya <a href="https://jom99.org/slot/"><strong>permainan koleksi slot</strong></a> kami harus memberi pengalaman yang tidak hanya menyeronokkan tetapi juga memberikan peluang besar untuk menang. Inilah sebabnya mengapa pemain terus memilih kami:</p>
                                 <h3>Pelbagai Pilihan Slot Berkualiti Tinggi</h3>
-                                <p>Kami menawarkan <a href="https://jom99.org/slot/"><strong>koleksi slot dalam talian terbaik di Malaysia</strong></a> dari pembekal perisian terkemuka yang memastikan setiap permainan mempunyai grafik berkualiti tinggi, tema yang menarik, dan ciri bonus yang memberi ganjaran. Sama ada anda suka tema fantasi, petualangan, atau klasik, kami mempunyai semuanya di Jom99. Dapatkan pengalaman terbaik dengan bermain melalui <a href="https://jom99.org/muat-turun-apk/"><strong>muat turun aplikasi rasmi JOM99</strong></a> yang memberikan anda kemudahan bermain di mana-mana sahaja.</p>
+                                <p>Kami menawarkan slot online yang penuh dengan hiburan dari pembekal perisian terkemuka yang memastikan setiap permainan mempunyai grafik berkualiti tinggi, tema yang menarik, dan ciri bonus yang memberi ganjaran. Sama ada anda suka tema fantasi, petualangan, atau klasik, kami mempunyai semuanya di Jom99. Dapatkan pengalaman terbaik dengan bermain melalui <a href="https://jom99.org/muat-turun-apk/"><strong>download aplikasi JOM99</strong></a> yang memberikan anda kemudahan bermain di mana-mana sahaja.</p>
                                 <h3>Kemenangan Besar Dengan Jackpot Progresif</h3>
                                 <p>Bergabunglah dengan permainan jackpot progresif di Jom99 dan berpeluang untuk meraih hadiah yang sangat besar. Dengan setiap taruhan, jackpot bertambah, memberi peluang kepada anda untuk menang besar setiap kali bermain. Jangan lepaskan peluang ini, dan mula bermain sekarang dengan mudah di halaman permainan slot kami.</p>
                                 <p>&nbsp</p>
                                 <h2>Jenis Slot Yang Tersedia di JOM99</h2>
                                 <p>Kami menawarkan pelbagai jenis slot dalam talian untuk memastikan setiap pemain dapat menikmati pengalaman yang sesuai dengan selera mereka.</p>
                                 <h3>Slot Video</h3>
-                                <p>Slot video adalah pilihan yang paling popular di kalangan pemain yang mencari grafik yang menarik dan ciri bonus yang hebat. Dengan pelbagai tema yang berbeza, dari filem hingga muzik dan fantasi, slot video memberi pengalaman bermain yang serba dinamik.</p>
+                                <p>Slot video adalah pilihan yang paling popular di kalangan pemain yang mencari grafik yang menarik dan ciri <a href="https://jom99.org/bonus-promosi/"><strong>bonus dan promosi yang tinggi</strong></a>. Dengan pelbagai tema yang berbeza, dari filem hingga muzik dan fantasi, slot video memberi pengalaman bermain yang serba dinamik.</p>
                                 <h3>Slot Klasik 3-Roll</h3>
                                 <p>Jika anda peminat permainan slot klasik, kami juga menawarkan mesin slot 3-roll yang memberikan sentuhan nostalgia dan kesederhanaan permainan tradisional dengan peluang kemenangan yang menguntungkan.</p>
                                 <h3>Slot Progresif</h3>
@@ -136,7 +136,7 @@ include '../inc/functions.php';
                                 <h3>Pilih Slot Dengan RTP Tinggi</h3>
                                 <p>Pilih permainan slot dengan RTP (Return to Player) yang lebih tinggi. Slot dengan RTP lebih tinggi memberi anda peluang yang lebih baik untuk memenangi hadiah besar sepanjang permainan.</p>
                                 <h3>Manfaatkan Bonus dan Promosi</h3>
-                                <p>Gunakan <a href="https://jom99.org/bonus-promosi/"><strong>bonus deposit, putaran percuma, dan promosi</strong></a> lain yang ditawarkan oleh Jom99 untuk mendapatkan lebih banyak peluang tanpa menambah banyak modal.</p>
+                                <p>Gunakan bonus deposit, putaran percuma, dan promosi lain yang ditawarkan oleh Jom99 untuk mendapatkan lebih banyak peluang tanpa menambah banyak modal.</p>
                                 <h3>Tetapkan Had Perbelanjaan Anda</h3>
                                 <p class="mb-3">Jangan lupa untuk menetapkan had perbelanjaan anda semasa bermain. Menjaga kewangan anda adalah kunci untuk menikmati pengalaman permainan yang lebih sihat dan menyeronokkan.</p>
                                 <p>Sila rujuk <a href="https://jom99.org/perjudian-bertanggungjawab/"><strong>halaman perjudian bertanggungjawab</strong></a> kami untuk mengetahui lebih lanjut tentang cara menetapkan had belanjawan.</p>

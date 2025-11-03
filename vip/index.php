@@ -327,11 +327,11 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>JOM99 VIP - Nikmati Keistimewaan Sebagai Pemain VIP</h1>
-                                <p>Di <a href="<?php echo $site_base_url;?>/"><strong>Jom99</strong></a>, kami menghargai pemain yang setia dan memberi ganjaran kepada mereka dengan program VIP eksklusif yang penuh dengan manfaat. Sebagai ahli VIP, anda akan menikmati pelbagai keistimewaan yang tidak tersedia untuk pemain biasa. Sertai program VIP kami dan rasai pengalaman bermain yang lebih istimewa.</p>
+                                <p>Kami menghargai pemain yang setia di <a href="https://jom99.org/"><stromg>JOM99</strong></a> dengan menawarkan mereka program VIP eksklusif yang penuh dengan faedah untuk pemain biasa. Sertai program VIP kami dan rasai pengalaman bermain yang lebih istimewa.</p>
                                 <h2>Faedah Menjadi VIP JOM99</h2>
                                 <p>Sebagai ahli VIP, anda akan mendapat pelbagai manfaat eksklusif yang menjadikan pengalaman permainan anda lebih menarik. Kami komited untuk memberikan anda lebih daripada sekadar permainan, tetapi juga layanan peribadi yang memenuhi keperluan anda.</p>
                                 <h3>Hadiah dan Ganjaran Eksklusif</h3>
-                                <p>Sebagai ahli VIP, anda akan menerima hadiah dan ganjaran eksklusif yang tidak ditawarkan kepada pemain biasa. Ganjaran ini termasuk bonus yang lebih besar, putaran percuma, dan lebih banyak peluang untuk menang.</p>
+                                <p>Sebagai ahli VIP, anda akan menerima hadiah dan ganjaran eksklusif yang tidak ditawarkan kepada pemain biasa. Ganjaran ini termasuk <a href="https://jom99.org/bonus-promosi/"><strong>bonus dan promosi tinggi</strong></a>, putaran percuma, dan lebih banyak peluang untuk menang.</p>
                                 <h3>Pengeluaran Lebih Cepat</h3>
                                 <p>Kami faham bahawa pemain VIP memerlukan pengeluaran yang cepat. Sebagai ahli VIP, anda akan menikmati pengeluaran lebih pantas tanpa sebarang halangan atau kelewatan, memberikan anda akses yang lebih cepat kepada kemenangan anda.</p>
                                 <h2>Kelebihan Lumayan Sebagai Ahli VIP JOM99</h2>
@@ -339,7 +339,7 @@ include '../inc/functions.php';
                                 <h3>Perkhidmatan Pelanggan Utama</h3>
                                 <p>Sebagai ahli VIP, anda akan menerima sokongan pelanggan peribadi yang memberi perhatian lebih kepada keperluan anda. Pasukan sokongan kami sentiasa bersedia untuk membantu anda dengan lebih cepat dan efisien.</p>
                                 <h3>Tawaran Eksklusif untuk VIP</h3>
-                                <p>Nikmati <a href="<?php echo $site_base_url;?>/bonus-promosi/"><strong>promosi dan tawaran eksklusif</strong></a> yang hanya tersedia untuk ahli VIP. Ini termasuk bonus peribadi yang lebih tinggi, peluang untuk menghadiri acara VIP, dan peluang untuk mendapatkan hadiah istimewa yang hanya diperuntukkan kepada pemain VIP.</p>
+                                <p>Nikmati promosi dan tawaran eksklusif yang hanya tersedia untuk ahli VIP. Ini termasuk bonus peribadi yang lebih tinggi, peluang untuk menghadiri acara VIP, dan peluang untuk mendapatkan hadiah istimewa yang hanya diperuntukkan kepada pemain VIP.</p>
                                 <h3>Had Hadiah yang Lebih Tinggi</h3>
                                 <p>Sebagai pemain VIP, anda akan menikmati had hadiah yang lebih tinggi, yang bermaksud peluang untuk meraih ganjaran yang lebih besar daripada pemain biasa.</p>
                                 <h2>Cara Daftar Ahli VIP JOM99</h2>
@@ -358,7 +358,7 @@ include '../inc/functions.php';
                                 <h3>Peringkat Gold dan Platinum</h3>
                                 <p>Ahli Gold dan Platinum adalah yang paling setia dan aktif dalam program VIP. Peringkat ini memberikan ganjaran eksklusif, hadiah mewah, dan perkhidmatan pelanggan khas untuk memastikan pengalaman permainan anda luar biasa.</p>
                                 <h2>Kesimpulan</h2>
-                                <p>Sebagai <strong>ahli VIP jom99.org</strong> memberikan anda peluang untuk menikmati lebih banyak keistimewaan, termasuk bonus lebih tinggi, pengeluaran lebih pantas, dan <a href="https://jom99.org/hubungi-kami/"><strong>sokongan pelanggan yang mesra</strong></a> peribadi. Jadi, tunggu apa lagi? Sertai kami dan mulakan perjalanan VIP anda hari ini untuk pengalaman perjudian yang lebih mewah dan menguntungkan. Untuk kembali ke halaman utama, <a href="<?php echo $site_base_url;?>/"><strong>klik di sini.</strong></a></p>
+                                <p>Sebagai <strong>ahli VIP jom99.org</strong> memberikan anda peluang untuk menikmati lebih banyak keistimewaan, termasuk bonus lebih tinggi, pengeluaran lebih pantas, dan <a href="https://jom99.org/hubungi-kami/"><strong>sokongan pelanggan yang mesra</strong></a> peribadi. Jadi, tunggu apa lagi? Sertai kami dan mulakan perjalanan VIP anda hari ini untuk pengalaman perjudian yang lebih mewah dan menguntungkan. 👉 Klik di sini untuk kembali ke <a href="https://jom99.org/"><strong>Halaman Utama</strong></a>.</p>
                             </div>
                         </div>
                     </div>
