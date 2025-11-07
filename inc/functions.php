@@ -410,43 +410,43 @@ $top_brands = [
     "win111" => [
         "title" => "WIN111",
         "description" => "Refer to Your Friends & Earn RM50",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "win111-refer-friends-get-rm50"
     ],
     "winbebas" => [
         "title" => "WINBEBAS",
         "description" => "First Deposit Bonus Up to 120%",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "winbebas-promo"
     ],
     "win4u" => [
         "title" => "Winboleh",
         "description" => "Welcome bonus RM888 140%",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "win4u-promo"
     ],
     "winboleh" => [
         "title" => "Winboleh",
         "description" => "Welcome bonus RM888 140%",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "winboleh-promo"
     ],
     "kaya88" => [
         "title" => "KAYA88",
         "description" => "Welcome bonus 60%",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "kaya88-promo"
     ],
     "klwin" => [
         "title" => "KLWIN",
         "description" => "First deposit<br/>30 dpt 60<br/>100 dpt 200",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "klwin-promo"
     ],
     "kaya96" => [
         "title" => "Kaya96",
         "description" => "20% weekend bonus",
-        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo3",
+        "url" => "https://win111.one/register/?affiliateCode=win111v1seo3",
         "alt" => "kaya96-promo"
     ],
 ];
