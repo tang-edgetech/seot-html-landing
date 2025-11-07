@@ -8,7 +8,7 @@
             <img src="<?= $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Referrer">
             <span class="text-center">Promosi</span>
         </a>
-        <a href="https://www.win111.asia/register/?affiliateCode=win111v1seo8" rel="nofollow noopener noreferrer" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+        <a href="https://win111.one/register/?affiliateCode=win111v1seo8" rel="nofollow noopener noreferrer" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?= $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Comission">
             <span class="text-center">Referrer</span>
         </a>
