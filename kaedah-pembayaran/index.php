@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.org/kaedah-pembayaran/">   
+        <link rel="canonical" href="https://jom99.space/kaedah-pembayaran/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.org/kaedah-pembayaran/">
+        <meta property="og:url" content="https://jom99.space/kaedah-pembayaran/">
         <meta property="og:title" content="JOM99 Kaedah Pembayaran - Deposit Cepat Pengeluaran Lancar">
         <meta property="og:description" content="JOM99 memastikan pembayaran anda lancar.  Pilih kaedah pengeluaran dan deposit cepat yang sesuai dengan keperluan anda.">
         <meta property="og:site_name" content="JOM99">
@@ -60,13 +60,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.org/"
+                "item": "https://jom99.space/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Kaedah Pembyaran",
-                "item": "https://jom99.org/kaedah-pembayaran/"
+                "item": "https://jom99.space/kaedah-pembayaran/"
                 }
             ]
         }
@@ -94,10 +94,10 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Kaedah Pembayaran JOM99 - Mudah dan Selamat</h1>
-                                <p>Pengeluaran dan deposit adalah mudah, cepat, dan selamat di <a href="https://jom99.org/"><strong>Jom99</strong></a>. Untuk memenuhi keperluan semua pemain, kami menawarkan pelbagai cara pembayaran.  Anda boleh memilih cara yang paling sesuai dengan anda, sama ada anda lebih suka menggunakan kad kredit, kad debit, e-wallet atau pemindahan bank.</p>
+                                <p>Pengeluaran dan deposit adalah mudah, cepat, dan selamat di <a href="https://jom99.space/"><strong>Jom99</strong></a>. Untuk memenuhi keperluan semua pemain, kami menawarkan pelbagai cara pembayaran.  Anda boleh memilih cara yang paling sesuai dengan anda, sama ada anda lebih suka menggunakan kad kredit, kad debit, e-wallet atau pemindahan bank.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kenapa Pilih Kaedah Pembayaran Jom99?</h2>
-                                <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di portal gaming JOM99, kami komited untuk menyediakan <a href="https://jom99.org/kaedah-pembayaran/"><strong>kaedah pembayaran yang cepat</strong></a> dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
+                                <p>Kami memahami bahawa kemudahan dan keselamatan dalam setiap transaksi adalah aspek yang sangat penting dalam pengalaman permainan dalam talian. Di portal gaming JOM99, kami komited untuk menyediakan <a href="https://jom99.space/kaedah-pembayaran/"><strong>kaedah pembayaran yang cepat</strong></a> dan selamat, supaya anda dapat menikmati permainan tanpa sebarang kebimbangan.</p>
                                 <h3>Pelbagai Pilihan Pembayaran yang Fleksibel</h3>
                                 <p>Kami menawarkan pelbagai pilihan pembayaran yang fleksibel, membolehkan anda memilih kaedah yang paling mudah dan selamat. Sama ada anda ingin menggunakan kad kredit/debit, e-wallets, atau pemindahan bank, kami mempunyai pilihan untuk memenuhi semua keperluan pemain kami.</p>
                                 <h3>Transaksi Pantas dan Selamat</h3>
@@ -143,7 +143,7 @@ include '../inc/functions.php';
                                 <p>Kami membolehkan pemain untuk membuat transaksi tanpa sebarang had yang tidak perlu. Anda boleh melakukan deposit dan pengeluaran mengikut keselesaan anda tanpa gangguan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kesimpulan</h2>
-                                <p>Di <a href="https://jom99.org/"><strong>laman slot rasmi JOM99</strong></a>, kami menawarkan pelbagai kaedah pembayaran yang pantas, mudah, dan selamat untuk memastikan pengalaman permainan yang lancar. Kami komited untuk memberikan pilihan pembayaran yang fleksibel dan tanpa yuran tersembunyi, supaya anda dapat bermain tanpa sebarang kebimbangan.</p>
+                                <p>Di <a href="https://jom99.space/"><strong>laman slot rasmi JOM99</strong></a>, kami menawarkan pelbagai kaedah pembayaran yang pantas, mudah, dan selamat untuk memastikan pengalaman permainan yang lancar. Kami komited untuk memberikan pilihan pembayaran yang fleksibel dan tanpa yuran tersembunyi, supaya anda dapat bermain tanpa sebarang kebimbangan.</p>
                             </div>
                         </div>
                     </div>

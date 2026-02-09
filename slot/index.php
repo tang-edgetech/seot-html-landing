@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.org/slot/">   
+        <link rel="canonical" href="https://jom99.space/slot/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -24,16 +24,16 @@ include '../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="JOM99 - Rasai Permainan Menarik & Hadiah Slot Progresif">
         <meta itemprop="description" content="JOM99 menawarkan pengalaman slot dalam talian terbaik dengan grafik yang menarik, putaran percuma dan hadiah progresif yang menguntungkan.">
-        <meta itemprop="image" content="https://jom99.org/images/jom99_logo.webp">
+        <meta itemprop="image" content="https://jom99.space/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.org/slot/">
+        <meta property="og:url" content="https://jom99.space/slot/">
         <meta property="og:title" content="JOM99 - Rasai Permainan Menarik & Hadiah Slot Progresif">
         <meta property="og:description" content="JOM99 menawarkan pengalaman slot dalam talian terbaik dengan grafik yang menarik, putaran percuma dan hadiah progresif yang menguntungkan.">
         <meta property="og:site_name" content="JOM99">
-        <meta property="og:image" content="https://jom99.org/images/jom99_logo.webp">
+        <meta property="og:image" content="https://jom99.space/images/jom99_logo.webp">
         <meta property="article:tag" content="JOM99">
         <meta property="article:tag" content="Slot JOM99">
         <meta property="article:tag" content="slot online malaysia">
@@ -49,8 +49,8 @@ include '../inc/functions.php';
         <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="JOM99 - Rasai Permainan Menarik & Hadiah Slot Progresif">
         <meta name="twitter:description" content="JOM99 menawarkan pengalaman slot dalam talian terbaik dengan grafik yang menarik, putaran percuma dan hadiah progresif yang menguntungkan.">
-        <meta name="twitter:image" content="https://jom99.org/images/jom99_logo.webp">
-        <base href="https://jom99.org">
+        <meta name="twitter:image" content="https://jom99.space/images/jom99_logo.webp">
+        <base href="https://jom99.space">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -61,13 +61,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.org/"
+                "item": "https://jom99.space/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Slot",
-                "item": "https://jom99.org/slot/"
+                "item": "https://jom99.space/slot/"
                 }
             ]
         }
@@ -94,19 +94,19 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>JOM99 - Rasai Permainan Menarik & Hadiah Slot Progresif</h1>
-                                <p>Selamat datang ke <a href="https://jom99.org/"><strong>platform slot dipercayai di Malaysia</strong></a>, di mana keseronokan dan kemenangan besar menanti anda! Kami menawarkan koleksi slot dalam talian yang pelbagai dengan tema menarik, ciri-ciri hebat, dan peluang kemenangan yang luar biasa. Sama ada anda peminat jackpot progresif atau slot video moden, di sini terdapat sesuatu untuk setiap pemain.</p>
+                                <p>Selamat datang ke <a href="https://jom99.space/"><strong>platform slot dipercayai di Malaysia</strong></a>, di mana keseronokan dan kemenangan besar menanti anda! Kami menawarkan koleksi slot dalam talian yang pelbagai dengan tema menarik, ciri-ciri hebat, dan peluang kemenangan yang luar biasa. Sama ada anda peminat jackpot progresif atau slot video moden, di sini terdapat sesuatu untuk setiap pemain.</p>
                                 <p>&nbsp</p>
                                 <h2>Mengapa Memilih Slot JOM99?</h2>
-                                <p>Di Jom99, kami percaya <a href="https://jom99.org/slot/"><strong>permainan koleksi slot</strong></a> kami harus memberi pengalaman yang tidak hanya menyeronokkan tetapi juga memberikan peluang besar untuk menang. Inilah sebabnya mengapa pemain terus memilih kami:</p>
+                                <p>Di Jom99, kami percaya <a href="https://jom99.space/slot/"><strong>permainan koleksi slot</strong></a> kami harus memberi pengalaman yang tidak hanya menyeronokkan tetapi juga memberikan peluang besar untuk menang. Inilah sebabnya mengapa pemain terus memilih kami:</p>
                                 <h3>Pelbagai Pilihan Slot Berkualiti Tinggi</h3>
-                                <p>Kami menawarkan slot online yang penuh dengan hiburan dari pembekal perisian terkemuka yang memastikan setiap permainan mempunyai grafik berkualiti tinggi, tema yang menarik, dan ciri bonus yang memberi ganjaran. Sama ada anda suka tema fantasi, petualangan, atau klasik, kami mempunyai semuanya di Jom99. Dapatkan pengalaman terbaik dengan bermain melalui <a href="https://jom99.org/muat-turun-apk/"><strong>download aplikasi JOM99</strong></a> yang memberikan anda kemudahan bermain di mana-mana sahaja.</p>
+                                <p>Kami menawarkan slot online yang penuh dengan hiburan dari pembekal perisian terkemuka yang memastikan setiap permainan mempunyai grafik berkualiti tinggi, tema yang menarik, dan ciri bonus yang memberi ganjaran. Sama ada anda suka tema fantasi, petualangan, atau klasik, kami mempunyai semuanya di Jom99. Dapatkan pengalaman terbaik dengan bermain melalui <a href="https://jom99.space/muat-turun-apk/"><strong>download aplikasi JOM99</strong></a> yang memberikan anda kemudahan bermain di mana-mana sahaja.</p>
                                 <h3>Kemenangan Besar Dengan Jackpot Progresif</h3>
                                 <p>Bergabunglah dengan permainan jackpot progresif di Jom99 dan berpeluang untuk meraih hadiah yang sangat besar. Dengan setiap taruhan, jackpot bertambah, memberi peluang kepada anda untuk menang besar setiap kali bermain. Jangan lepaskan peluang ini, dan mula bermain sekarang dengan mudah di halaman permainan slot kami.</p>
                                 <p>&nbsp</p>
                                 <h2>Jenis Slot Yang Tersedia di JOM99</h2>
                                 <p>Kami menawarkan pelbagai jenis slot dalam talian untuk memastikan setiap pemain dapat menikmati pengalaman yang sesuai dengan selera mereka.</p>
                                 <h3>Slot Video</h3>
-                                <p>Slot video adalah pilihan yang paling popular di kalangan pemain yang mencari grafik yang menarik dan ciri <a href="https://jom99.org/bonus-promosi/"><strong>bonus dan promosi yang tinggi</strong></a>. Dengan pelbagai tema yang berbeza, dari filem hingga muzik dan fantasi, slot video memberi pengalaman bermain yang serba dinamik.</p>
+                                <p>Slot video adalah pilihan yang paling popular di kalangan pemain yang mencari grafik yang menarik dan ciri <a href="https://jom99.space/bonus-promosi/"><strong>bonus dan promosi yang tinggi</strong></a>. Dengan pelbagai tema yang berbeza, dari filem hingga muzik dan fantasi, slot video memberi pengalaman bermain yang serba dinamik.</p>
                                 <h3>Slot Klasik 3-Roll</h3>
                                 <p>Jika anda peminat permainan slot klasik, kami juga menawarkan mesin slot 3-roll yang memberikan sentuhan nostalgia dan kesederhanaan permainan tradisional dengan peluang kemenangan yang menguntungkan.</p>
                                 <h3>Slot Progresif</h3>
@@ -139,7 +139,7 @@ include '../inc/functions.php';
                                 <p>Gunakan bonus deposit, putaran percuma, dan promosi lain yang ditawarkan oleh Jom99 untuk mendapatkan lebih banyak peluang tanpa menambah banyak modal.</p>
                                 <h3>Tetapkan Had Perbelanjaan Anda</h3>
                                 <p class="mb-3">Jangan lupa untuk menetapkan had perbelanjaan anda semasa bermain. Menjaga kewangan anda adalah kunci untuk menikmati pengalaman permainan yang lebih sihat dan menyeronokkan.</p>
-                                <p>Sila rujuk <a href="https://jom99.org/perjudian-bertanggungjawab/"><strong>halaman perjudian bertanggungjawab</strong></a> kami untuk mengetahui lebih lanjut tentang cara menetapkan had belanjawan.</p>
+                                <p>Sila rujuk <a href="https://jom99.space/perjudian-bertanggungjawab/"><strong>halaman perjudian bertanggungjawab</strong></a> kami untuk mengetahui lebih lanjut tentang cara menetapkan had belanjawan.</p>
                             </div>
                         </div>
                     </div>

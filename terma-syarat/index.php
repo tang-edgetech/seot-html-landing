@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.org/terma-syarat/">   
+        <link rel="canonical" href="https://jom99.space/terma-syarat/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.org/terma-syarat/">
+        <meta property="og:url" content="https://jom99.space/terma-syarat/">
         <meta property="og:title" content="Terma & Syarat JOM99 - Ketahui Peraturan untuk Bermain di Platform Kami">
         <meta property="og:description" content="Baca terma dan syarat rasmi JOM99 sebelum bermain. Fahami peraturan, kewajipan, dan hak anda sebagai pemain di platform kami yang sah dan terjamin.">
         <meta property="og:site_name" content="JOM99">
@@ -56,13 +56,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.org/"
+                "item": "https://jom99.space/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Terma & Syarat",
-                "item": "https://jom99.org/terma-syarat/"
+                "item": "https://jom99.space/terma-syarat/"
                 }
             ]
         }
@@ -79,17 +79,17 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Terma dan Syarat - JOM99</h1>
-                                <p> Dengan mengakses dan menggunakan <a href="https://jom99.org/"><strong>JOM99</strong></a>, anda bersetuju untuk mematuhi dan terikat dengan Terma dan Syarat berikut. Terma ini mengatur penggunaan perkhidmatan yang disediakan oleh jom99.org, termasuk mengakses laman web kami, mendaftar akaun, dan terlibat dalam sebarang aktiviti permainan.</p>
+                                <p> Dengan mengakses dan menggunakan <a href="https://jom99.space/"><strong>JOM99</strong></a>, anda bersetuju untuk mematuhi dan terikat dengan Terma dan Syarat berikut. Terma ini mengatur penggunaan perkhidmatan yang disediakan oleh jom99.space, termasuk mengakses laman web kami, mendaftar akaun, dan terlibat dalam sebarang aktiviti permainan.</p>
                                 <h2>Pendaftaran Akaun</h2>
                                 <p> Untuk mengakses platform kami, anda perlu membuat akaun yang sah. Semasa pendaftaran, anda mesti memberikan maklumat yang tepat dan lengkap. Dengan mendaftar, anda mengesahkan bahawa anda berumur sekurang-kurangnya 18 tahun atau umur majoriti yang sah di kawasan anda.</p>
                                 <h2>Keselamatan Akaun</h2>
                                 <p> Anda bertanggungjawab untuk memastikan kerahsiaan butiran log masuk akaun anda dan memastikan bahawa akaun anda tidak diakses oleh individu yang tidak dibenarkan. Jom99 tidak bertanggungjawab atas sebarang penggunaan akaun yang tidak sah.</p>
                                 <h2>Deposit dan Pengeluaran</h2>
-                                <p> Anda boleh mendepositkan dana ke akaun anda menggunakan <a href="https://jom99.org/kaedah-pembayaran/"><strong>perkhidmatan pembayaran</strong></a> yang disediakan di platform kami. Semua deposit adalah tertakluk kepada pengesahan. Permintaan pengeluaran mesti dibuat melalui kaedah yang sama digunakan untuk deposit, atau alternatif yang diluluskan oleh JOM99.</p>
+                                <p> Anda boleh mendepositkan dana ke akaun anda menggunakan <a href="https://jom99.space/kaedah-pembayaran/"><strong>perkhidmatan pembayaran</strong></a> yang disediakan di platform kami. Semua deposit adalah tertakluk kepada pengesahan. Permintaan pengeluaran mesti dibuat melalui kaedah yang sama digunakan untuk deposit, atau alternatif yang diluluskan oleh JOM99.</p>
                                 <h2>Bonus dan Promosi</h2>
-                                <p> Promosi dan bonus adalah tertakluk kepada terma dan syarat tertentu, yang mungkin termasuk syarat seperti keperluan pertaruhan dan had masa. Pemain mesti mematuhi peraturan khusus untuk setiap promosi bagi memenuhi syarat untuk menerima ganjaran. Jom99 berhak untuk membatalkan atau mengubah sebarang <a href="https://jom99.org/bonus-promosi/"><strong>bonus dan promosi eksklusif</strong></a> mengikut budi bicara kami.</p>
+                                <p> Promosi dan bonus adalah tertakluk kepada terma dan syarat tertentu, yang mungkin termasuk syarat seperti keperluan pertaruhan dan had masa. Pemain mesti mematuhi peraturan khusus untuk setiap promosi bagi memenuhi syarat untuk menerima ganjaran. Jom99 berhak untuk membatalkan atau mengubah sebarang <a href="https://jom99.space/bonus-promosi/"><strong>bonus dan promosi eksklusif</strong></a> mengikut budi bicara kami.</p>
                                 <h2>Perjudian yang Adil dan Bertanggungjawab</h2>
-                                <p> Jom99 komited untuk menyediakan pengalaman permainan yang adil. Kami menggunakan Random Number Generators (RNG) untuk memastikan semua permainan dimainkan secara adil dan hasilnya adalah rawak. Kami juga mempromosikan <a href="https://jom99.org/perjudian-bertanggungjawab/"><strong>perjudian bertanggungjawab</strong></a> dan menggalakkan pemain untuk memantau tabiat permainan mereka.</p>
+                                <p> Jom99 komited untuk menyediakan pengalaman permainan yang adil. Kami menggunakan Random Number Generators (RNG) untuk memastikan semua permainan dimainkan secara adil dan hasilnya adalah rawak. Kami juga mempromosikan <a href="https://jom99.space/perjudian-bertanggungjawab/"><strong>perjudian bertanggungjawab</strong></a> dan menggalakkan pemain untuk memantau tabiat permainan mereka.</p>
                                 <h2>Aktiviti Terlarang</h2>
                                 <p>Anda bersetuju untuk tidak terlibat dalam sebarang aktiviti berikut:</p>
                                 <ul>
