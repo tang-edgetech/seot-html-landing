@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.info/">   
+        <link rel="canonical" href="https://winmy.site/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="WINMY">
@@ -22,16 +22,16 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta itemprop="description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta itemprop="image" content="https://winmy.info/images/winmy_logo.webp">
+        <meta itemprop="image" content="https://winmy.site/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.info/">
+        <meta property="og:url" content="https://winmy.site/">
         <meta property="og:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta property="og:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta property="og:site_name" content="WINMY">
-        <meta property="og:image" content="https://winmy.info/images/winmy_logo.webp">
+        <meta property="og:image" content="https://winmy.site/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="WINMY slot">
         <meta property="article:tag" content="WINMY casino">
@@ -47,16 +47,16 @@ include 'inc/functions.php';
         <meta name="twitter:site" content="WINMY_88">
         <meta name="twitter:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="twitter:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta name="twitter:image" content="https://winmy.info/images/winmy_logo.webp">
-        <base href="https://winmy.info">
+        <meta name="twitter:image" content="https://winmy.site/images/winmy_logo.webp">
+        <base href="https://winmy.site">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "WINMY",
-            "url": "https://winmy.info/",
-            "logo": "https://winmy.info/images/winmy_logo.webp",
+            "url": "https://winmy.site/",
+            "logo": "https://winmy.site/images/winmy_logo.webp",
             "description": "Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "address": {
                 "@type": "PostalAddress",
@@ -68,7 +68,7 @@ include 'inc/functions.php';
             "contactPoint": {
                 "@type": "ContactPoint",
                 "contactType": "khidmat pelanggan",
-                "email": "support@winmy.info",
+                "email": "support@winmy.site",
                 "telephone": "+6014-3507586",
                 "availableLanguage": ["Malay", "English"]
             },
@@ -83,7 +83,7 @@ include 'inc/functions.php';
             "https://www.gta5-mods.com/users/winmyinfo",
             "https://pad.fs.lmu.de/s/kQXqbeaLk",
             "https://www.blogger.com/profile/05581610532658413724",
-            "https://securityheaders.com/?q=https%3A%2F%2Fwinmy.info%2F&followRedirects=on",
+            "https://securityheaders.com/?q=https%3A%2F%2Fwinmy.site%2F&followRedirects=on",
             "https://www.slideserve.com/winmyinfo",
             "https://it.quora.com/profile/WINMY",
             "https://wibki.com/winmyinfo",
@@ -335,7 +335,7 @@ include 'inc/functions.php';
             "https://3dlancer.net/profile/u1128048",
             "https://tatoeba.org/en/user/profile/winmyinfo",
             "http://palangshim.com/space-uid-4425091.html",
-            "https://www.webwiki.at/https://winmy.info/",
+            "https://www.webwiki.at/https://winmy.site/",
             "https://clik.social/winmyinfo",
             "https://www.dnnsoftware.com/activity-feed/my-profile/userid/3277537",
             "https://lightroom.adobe.com/u/winmywinmy",
@@ -926,7 +926,7 @@ include 'inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "WINMY",
-            "item": "https://winmy.info/"
+            "item": "https://winmy.site/"
             }
         ]
         }
@@ -1025,12 +1025,12 @@ include 'inc/functions.php';
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000",
-            "url": "https://winmy.info/",
+            "url": "https://winmy.site/",
             "description": "Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "inLanguage": "th",
             "isPartOf": {
                 "@type": "WebSite",
-                "url": "https://winmy.info/"
+                "url": "https://winmy.site/"
             }
         }
         </script>
@@ -1054,7 +1054,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="https://winmy.info/images/winmy-rm50-referral-banner.webp" alt="promo banner">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/winmy-rm50-referral-banner.webp" alt="promo banner">
                         </div>
                     </div>
                 </div>
@@ -1085,13 +1085,13 @@ include 'inc/functions.php';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://win111.one/register/?affiliateCode=win111v1seo3" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="https://winmy.info/images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://win111.one/register/?affiliateCode=win111v1seo3" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="https://winmy.info/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -1104,7 +1104,7 @@ include 'inc/functions.php';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://win111.one/register/?affiliateCode=win111v1seo3" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="https://winmy.info/images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
                                                 </div>
                                             </a>
@@ -1182,7 +1182,7 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000</h1>
-                                <p>Program Referral di <a href="https://winmy.info/"><strong>WINMY</strong></a> menawarkan ganjaran lumayan untuk pengguna yang berkongsi platform ini dengan rakan-rakan sekalian. Setiap rujukan berjaya memberikan RM50, disertai komisen deposit 0.88%, komisen pertaruhan 0.48%, dan bonus pencapaian sehingga RM4.88 juta. Jika anda baru nak cuba atau sudah berpengalaman, kami mudahkan cara anda sign up, sahkan maklumat, dan terus boleh buat pertaruhan pertama.</p>
+                                <p>Program Referral di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> menawarkan ganjaran lumayan untuk pengguna yang berkongsi platform ini dengan rakan-rakan sekalian. Setiap rujukan berjaya memberikan RM50, disertai komisen deposit 0.88%, komisen pertaruhan 0.48%, dan bonus pencapaian sehingga RM4.88 juta. Jika anda baru nak cuba atau sudah berpengalaman, kami mudahkan cara anda sign up, sahkan maklumat, dan terus boleh buat pertaruhan pertama.</p>
                                 <p>&nbsp;</p>
                                 <h2>Buat Pertaruhan Pertama Dalam Masa Beberapa Minit</h2>
                                 <p class="mb-2">Kami faham langkah pertama kadang rasa mencabar, jadi kami pecahkan proses itu kepada tiga langkah mudah. Dengan hanya tiga klik, anda boleh bergerak dari pendaftaran hingga buat pertaruhan pertama tanpa rasa pening atau tertunda.</p>
@@ -1193,7 +1193,7 @@ include 'inc/functions.php';
                                 </ol>
                                 <p>&nbsp;</p>
                                 <h2>Pilihan Slot Sesuai Untuk Semua</h2>
-                                <p>Sama ada anda suka <a href="https://winmy.info/permainan-slot/"><strong>slot klasik atau teruja</strong></a> dengan pengalaman dealer langsung, aplikasi winmy ada semua. Perpustakaan kami campur rasa tempatan dan trend global, jadi sentiasa ada yang baru untuk dicuba.</p>
+                                <p>Sama ada anda suka <a href="<?= $site_base_url;?>/permainan-slot/"><strong>slot klasik atau teruja</strong></a> dengan pengalaman dealer langsung, aplikasi winmy ada semua. Perpustakaan kami campur rasa tempatan dan trend global, jadi sentiasa ada yang baru untuk dicuba.</p>
                                 <p>&nbsp;</p>
                                 <h3>Pengembaraan Slot Mendebarkan</h3>
                                 <p class="mb-2">Daripada mesin tiga gelendong tradisional hingga video slot dengan grafik sinematik, pilihan kami pastikan gulungan terus berputar. Setiap permainan hadir dengan ciri bonus unik dan tema menarik ikut mood anda.</p>
@@ -1206,7 +1206,7 @@ include 'inc/functions.php';
                                 <h3>Papan Pendahulu Slot Komuniti: Bersaing dan Menang Besar</h3>
                                 <p class="mb-2">Setiap putaran dan pertaruhan menyumbang kepada papan pendahulu mingguan kami, di mana pemain Malaysia bersaing untuk tempat teratas. Kumpul mata dalam permainan kegemaran anda untuk naik pangkat dan rebut hadiah yang semakin hebat bila anda berada di kedudukan atas.</p>
                                 <ul>
-                                    <li class="mb-2"><a href="https://winmy.info/bonus-promosi/"><strong>Winmy bonus tunai</strong></a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
+                                    <li class="mb-2"><a href="<?= $site_base_url;?>/bonus-promosi/"><strong>Winmy bonus tunai</strong></a> sehingga RM1,000 untuk <strong>tiga pemenang teratas</strong></li>
                                     <li class="mb-2">100–500 putaran percuma pada slot terpilih untuk pencapaian tertentu</li>
                                     <li class="mb-2">Barangan eksklusif winmy edisi terhad (kad TNG, T-shirt)</li>
                                     <li class="mb-2">Jemputan ke acara VIP dan pengganda mata bonus untuk pemain elit</li>
@@ -1219,7 +1219,7 @@ include 'inc/functions.php';
                                 <h3>Proses Download apk WINMY Mudah</h3>
                                 <p class="mb-2">Pasang aplikasi tanpa pening kepala teknikal ikut langkah ini:</p>
                                 <ul>
-                                    <li class="mb-2">Lawat <a href="https://winmy.info/muat-turun-apk/"><strong>halaman muat turun aplikasi WINMY</strong></a> pada peranti Android anda</li>
+                                    <li class="mb-2">Lawat <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>halaman muat turun aplikasi WINMY</strong></a> pada peranti Android anda</li>
                                     <li class="mb-2">Ketik “Download” dan benarkan pemasangan dari sumber tidak dikenali</li>
                                     <li>Buka aplikasi dan log masuk dengan akaun winmy anda</li>
                                 </ul>
@@ -1244,7 +1244,7 @@ include 'inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <h3>Cara Buka Tahap VIP</h3>
-                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di <a href="https://winmy.info/vip/"><strong>halaman ahli VIP yang lumayan</strong></a> dan buka ganjaran apabila capai tahap baharu.</p>
+                                <p>Kenaikan status VIP berlaku automatik dan telus. Anda dapat satu mata untuk setiap RM1 dipertaruhkan; semak kemajuan di <a href="<?= $site_base_url;?>/vip/"><strong>halaman ahli VIP yang lumayan</strong></a> dan buka ganjaran apabila capai tahap baharu.</p>
                                 <p>&nbsp;</p>
                                 <h2>Kaedah Pembayaran Selamat dan Mudah</h2>
                                 <p>Tambah dana atau buat pengeluaran dengan pantas menggunakan pilihan tempatan dan antarabangsa yang dipercayai. Setiap langkah dijelaskan dengan jelas untuk memudahkan anda.</p>
@@ -1256,7 +1256,7 @@ include 'inc/functions.php';
                                     <li class="mb-2">GrabPay</li>
                                     <li>FPX Pemindahan Bank</li>
                                 </ul>
-                                <p>Maklumat lanjut ada di halaman <a href="https://winmy.info/kaedah-pembayaran/"><strong>Panduan Kaedah Pembayaran</strong></a>.</p>
+                                <p>Maklumat lanjut ada di halaman <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>Panduan Kaedah Pembayaran</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h3>Deposit dan Pengeluaran Pantas</h3>
                                 <p>Deposit biasanya diproses serta-merta manakala permintaan pengeluaran selalunya diselesaikan dalam masa 24 jam. Setiap transaksi dikemas kini secara live supaya anda tahu statusnya.</p>
@@ -1274,13 +1274,13 @@ include 'inc/functions.php';
                                 <p>Keseronokan perlu seiring dengan keselamatan. Kami sediakan alat untuk membantu anda kawal masa dan perbelanjaan bermain, termasuk had boleh ubah dan pilihan kendiri mengecualikan akaun.</p>
                                 <p>&nbsp;</p>
                                 <h2>Janji Privasi Kami</h2>
-                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="https://winmy.info/dasar-privasi/"><strong>Dasar Privasi Pengguna</strong></a>.</p>
+                                <p>Maklumat peribadi dan kewangan anda dilindungi dengan penyulitan termaju dan protokol ketat. Untuk maklumat penuh tentang perlindungan data, sila rujuk <a href="<?= $site_base_url;?>/dasar-privasi/"><strong>Dasar Privasi Pengguna</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <h2>Terma dan Syarat Telus</h2>
-                                <p>Tiada terma tersembunyi. Halaman <a href="https://winmy.info/terma-dan-syarat/"><strong>Terma & Syarat Penggunaan</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
+                                <p>Tiada terma tersembunyi. Halaman <a href="<?= $site_base_url;?>/terma-dan-syarat/"><strong>Terma & Syarat Penggunaan</strong></a> terangkan keperluan bonus, prosedur pengeluaran, dan peraturan pengesahan akaun supaya anda sentiasa jelas.</p>
                                 <p>&nbsp;</p>
                                 <h2>Perlukan Bantuan? Hubungi Pasukan Sokongan Kami</h2>
-                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="https://winmy.info/hubungi-kami/"><strong>hubungi customer support rasmi WINMY</strong></a>.</p>
+                                <p>Pasukan sokongan mesra kami sedia membantu 24/7 bagi sebarang soalan—dari pemasangan APK hingga pertanyaan VIP. Hubungi melalui live chat, emel atau telefon di halaman <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>hubungi customer support rasmi WINMY</strong></a>.</p>
                             </div>
                         </div>
                     </div>
@@ -1385,7 +1385,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        <a href="https://winmy.info/permainan-slot/"><strong>Perpustakaan slot kami</strong></a> ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar.
+                                        <a href="<?= $site_base_url;?>/permainan-slot/"><strong>Perpustakaan slot kami</strong></a> ada mesin tiga gelendong klasik, video slot interaktif, dan jackpot progresif dengan hadiah besar.
                                     </div>
                                     </div>
                                 </div>
@@ -1397,7 +1397,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman <a href="https://winmy.info/perjudian-bertanggungjawab/"><strong>Responsible Gambling</strong></a>.
+                                        Ya, tetapkan had deposit, kerugian dan sesi, atau pilih kendiri mengecualikan akaun di halaman <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/"><strong>Responsible Gambling</strong></a>.
                                     </div>
                                     </div>
                                 </div>

@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.info/dasar-privasi">
+        <link rel="canonical" href="https://winmy.site/dasar-privasi">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="winmy">
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.info/dasar-privasi">
+        <meta property="og:url" content="https://winmy.site/dasar-privasi">
         <meta property="og:title" content="Dasar Privasi WINMY: Perlindungan Data & Privasi">
         <meta property="og:description" content="Baca Dasar Privasi WINMY untuk maklumat cara kami melindungi data peribadi anda, penggunaan cookies, dan hak pengguna.">
         <meta property="og:site_name" content="WINMY">
@@ -50,13 +50,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.info"
+                    "item": "https://winmy.site"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Dasar Privasi",
-                    "item": "https://winmy.info/dasar-privasi/"
+                    "item": "https://winmy.site/dasar-privasi/"
                 }
             ]
         }
@@ -73,7 +73,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Dasar Privasi WINMY: Perlindungan Data & Privasi</h1>
-                                <p class="mb-4">Kami di <a href="https://winmy.info/"><strong>WINMY</strong></a> komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
+                                <p class="mb-4">Kami di <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
                                 <ol>
                                     <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di <strong>WINMY</strong>. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
                                     <li class="mb-3"><strong>Penggunaan Maklumat</strong><br/>Maklumat yang dikumpul digunakan untuk:<br/>

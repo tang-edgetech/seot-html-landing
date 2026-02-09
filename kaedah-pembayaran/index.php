@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.info/kaedah-pembayaran">
+        <link rel="canonical" href="https://winmy.site/kaedah-pembayaran">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="winmy">
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.info/kaedah-pembayaran">
+        <meta property="og:url" content="https://winmy.site/kaedah-pembayaran">
         <meta property="og:title" content="Kaedah Pembayaran WINMY: Bank, E-Wallet & Crypto">
         <meta property="og:description" content="Pilih kaedah pembayaran pantas & selamat di WINMY: bank tempatan, e-wallet, dan kripto. Deposit & pengeluaran diproses segera tanpa caj tersembunyi.">
         <meta property="og:site_name" content="WINMY">
@@ -50,13 +50,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.info"
+                    "item": "https://winmy.site"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Kaedah Pembayaran",
-                    "item": "https://winmy.info/kaedah-pembayaran/"
+                    "item": "https://winmy.site/kaedah-pembayaran/"
                 }
             ]
         }
@@ -84,7 +84,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Cara Pembayaran WINMY: Mudah, Selamat & Pantas</h1>
-                                <p>Di <a href="https://winmy.info/"><strong>Winmy</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
+                                <p>Di <a href="<?= $site_base_url;?>/"><strong>Winmy</strong></a>, kami faham betapa pentingnya proses pembayaran yang lancar supaya anda boleh fokus pada keseronokan bermain tanpa gangguan. Kami menawarkan pelbagai kaedah pembayaran yang sesuai dengan kehendak pemain di Malaysia, termasuk e-wallet tempatan dan bank utama. Semua transaksi dijalankan dengan tahap keselamatan tertinggi supaya wang anda selamat dan prosesnya pantas.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pilihan Kaedah Pembayaran yang Disokong</h2>
@@ -102,8 +102,8 @@ include '../inc/functions.php';
                                 <h2>Cara Deposit di WINMY</h2>
                                 <p class="mb-2">Membuat deposit mudah dan pantas. Ikuti langkah mudah ini:</p>
                                 <ol>
-                                    <li class="mb-2">Log masuk ke akaun <a href="https://winmy.info/"><strong>WINMY</strong></a> anda.</li>
-                                    <li class="mb-2">Pergi ke halaman <a href="https://winmy.info/kaedah-pembayaran/"><strong>Kaedah Pembayaran WINMY</strong></a> di akaun anda.</li>
+                                    <li class="mb-2">Log masuk ke akaun <a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> anda.</li>
+                                    <li class="mb-2">Pergi ke halaman <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>Kaedah Pembayaran WINMY</strong></a> di akaun anda.</li>
                                     <li class="mb-2">Pilih kaedah pembayaran yang sesuai.</li>
                                     <li>Masukkan jumlah deposit dan sahkan transaksi.</li>
                                 </ol>
@@ -128,7 +128,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan dan Bantuan Pembayaran</h2>
-                                <p>Jika anda menghadapi sebarang masalah atau mempunyai pertanyaan berkaitan pembayaran, pasukan sokongan kami sentiasa bersedia membantu. Hubungi kami melalui halaman <a href="https://winmy.info/hubungi-kami"><strong>Bantuan dan Sokongan 24/7</strong></a> untuk respon pantas dan penyelesaian yang memuaskan.</p>
+                                <p>Jika anda menghadapi sebarang masalah atau mempunyai pertanyaan berkaitan pembayaran, pasukan sokongan kami sentiasa bersedia membantu. Hubungi kami melalui halaman <a href="<?= $site_base_url;?>/hubungi-kami"><strong>Bantuan dan Sokongan 24/7</strong></a> untuk respon pantas dan penyelesaian yang memuaskan.</p>
                             </div>
                         </div>
                     </div>

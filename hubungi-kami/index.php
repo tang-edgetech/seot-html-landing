@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.info/hubungi-kami">
+        <link rel="canonical" href="https://winmy.site/hubungi-kami">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="winmy">
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.info/hubungi-kami">
+        <meta property="og:url" content="https://winmy.site/hubungi-kami">
         <meta property="og:title" content="Hubungi Kami WINMY: Sokongan 24/7 & Maklumat Perhubungan">
         <meta property="og:description" content="Hubungi pasukan sokongan WINMY 24/7 melalui email, Telegram, Facebook, atau lawati pejabat kami untuk bantuan segera.">
         <meta property="og:site_name" content="WINMY">
@@ -51,13 +51,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.info"
+                    "item": "https://winmy.site"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Hubungi Kami",
-                    "item": "https://winmy.info/hubungi-kami/"
+                    "item": "https://winmy.site/hubungi-kami/"
                 }
             ]
         }
@@ -74,7 +74,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Hubungi Kami - Bantuan 24/7 WINMY</h1>
-                                <p class="mb-3">Kami di <strong>WINMY</strong> sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, <a href="https://winmy.info/kaedah-pembayaran/"><strong>pembayaran yang pantas dan selamat</strong></a>, atau <a href="https://winmy.info/bonus-promosi/"><strong>promosi menarik</strong></a>, sila hubungi kami melalui kaedah berikut:</p>
+                                <p class="mb-3">Kami di <strong>WINMY</strong> sentiasa bersedia membantu anda. Jika anda mempunyai sebarang pertanyaan, masalah teknikal, atau memerlukan bantuan berkaitan akaun, <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>pembayaran yang pantas dan selamat</strong></a>, atau <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>promosi menarik</strong></a>, sila hubungi kami melalui kaedah berikut:</p>
                                 <ol>
                                     <li class="mb-3"><strong>Sokongan Live Chat:</strong> Tersedia 24/7 untuk respon pantas dan penyelesaian segera.</li>
                                     <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:winmy@gmail.com"><strong>winmy@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
@@ -84,7 +84,7 @@ include '../inc/functions.php';
                                 <h4>Alamat Pejabat</h4>
                                 <p>No. 45, Jalan Merpati 3, Taman Melati, 53100 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
-                                <p><a href="https://winmy.info/"><strong>WINMY</strong></a> komited memberikan perkhidmatan pelanggan yang profesional dan mesra. Jangan ragu untuk menghubungi kami bila-bila masa anda perlukan bantuan.</p>
+                                <p><a href="<?= $site_base_url;?>/"><strong>WINMY</strong></a> komited memberikan perkhidmatan pelanggan yang profesional dan mesra. Jangan ragu untuk menghubungi kami bila-bila masa anda perlukan bantuan.</p>
                             </div>
                         </div>
                     </div>
