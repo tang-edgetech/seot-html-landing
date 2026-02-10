@@ -1,20 +1,20 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://jom99.org';
-    $site_base_url_en = 'https://jom99.org/en';
+    $site_base_url = 'https://jom99.space';
+    $site_base_url_en = 'https://jom99.space/en';
 }
 else {
     if (
         (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
         (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
     ) {
-        $site_base_url = 'http://localhost:8080/jom99.org';
-        $site_base_url_en = 'http://localhost:8080/jom99.org/en';
+        $site_base_url = 'http://localhost:8080/jom99.space';
+        $site_base_url_en = 'http://localhost:8080/jom99.space/en';
     }
     else {
-        $site_base_url = 'http://localhost/jom99.org';
-        $site_base_url_en = 'http://localhost/jom99.org/en';
+        $site_base_url = 'http://localhost/jom99.space';
+        $site_base_url_en = 'http://localhost/jom99.space/en';
     }
 }
 $site_title = 'JOM99';
