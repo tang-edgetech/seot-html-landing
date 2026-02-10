@@ -1,20 +1,20 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://winmy.info';
-    $site_base_url_en = 'https://winmy.info/en';
+    $site_base_url = 'https://winmy.site';
+    $site_base_url_en = 'https://winmy.site/en';
 }
 else {
     if (
         (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
         (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
     ) {
-        $site_base_url = 'http://localhost:8080/winmy.info';
-        $site_base_url_en = 'http://localhost:8080/winmy.info/en';
+        $site_base_url = 'http://localhost:8080/winmy.site';
+        $site_base_url_en = 'http://localhost:8080/winmy.site/en';
     }
     else {
-        $site_base_url = 'http://localhost/winmy.info';
-        $site_base_url_en = 'http://localhost/winmy.info/en';
+        $site_base_url = 'http://localhost/winmy.site';
+        $site_base_url_en = 'http://localhost/winmy.site/en';
     }
 }
 $site_title = 'WINMYR';

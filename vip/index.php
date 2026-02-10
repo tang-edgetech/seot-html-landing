@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.site/vip">
+        <link rel="canonical" href="<?= $site_base_url;?>/vip">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="winmy">
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.site/vip">
+        <meta property="og:url" content="<?= $site_base_url;?>/vip">
         <meta property="og:title" content="Program VIP WINMY: Ganjaran & Keistimewaan">
         <meta property="og:description" content="Sertai Program VIP WINMY dan nikmati ganjaran eksklusif: cashback tinggi, bonus istimewa, dan akses awal ke promosi. Kelayakan automatik berdasarkan taruhan & deposit.">
         <meta property="og:site_name" content="WINMY">
@@ -51,13 +51,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.site"
+                    "item": "<?= $site_base_url;?>"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "VIP",
-                    "item": "https://winmy.site/vip/"
+                    "item": "<?= $site_base_url;?>/vip/"
                 }
             ]
         }

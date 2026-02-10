@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.site/hubungi-kami">
+        <link rel="canonical" href="<?= $site_base_url;?>/hubungi-kami">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="winmy">
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.site/hubungi-kami">
+        <meta property="og:url" content="<?= $site_base_url;?>/hubungi-kami">
         <meta property="og:title" content="Hubungi Kami WINMY: Sokongan 24/7 & Maklumat Perhubungan">
         <meta property="og:description" content="Hubungi pasukan sokongan WINMY 24/7 melalui email, Telegram, Facebook, atau lawati pejabat kami untuk bantuan segera.">
         <meta property="og:site_name" content="WINMY">
@@ -51,13 +51,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.site"
+                    "item": "<?= $site_base_url;?>"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Hubungi Kami",
-                    "item": "https://winmy.site/hubungi-kami/"
+                    "item": "<?= $site_base_url;?>/hubungi-kami/"
                 }
             ]
         }

@@ -8,7 +8,7 @@ include 'inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.site/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="WINMY">
@@ -22,16 +22,16 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta itemprop="description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta itemprop="image" content="https://winmy.site/images/winmy_logo.webp">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.site/">
+        <meta property="og:url" content="<?= $site_base_url;?>/">
         <meta property="og:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta property="og:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
         <meta property="og:site_name" content="WINMY">
-        <meta property="og:image" content="https://winmy.site/images/winmy_logo.webp">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
         <meta property="article:tag" content="WINMY">
         <meta property="article:tag" content="WINMY slot">
         <meta property="article:tag" content="WINMY casino">
@@ -47,16 +47,16 @@ include 'inc/functions.php';
         <meta name="twitter:site" content="WINMY_88">
         <meta name="twitter:title" content="WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000">
         <meta name="twitter:description" content="Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!">
-        <meta name="twitter:image" content="https://winmy.site/images/winmy_logo.webp">
-        <base href="https://winmy.site">
+        <meta name="twitter:image" content="<?= $site_base_url;?>/images/winmy_logo.webp">
+        <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "WINMY",
-            "url": "https://winmy.site/",
-            "logo": "https://winmy.site/images/winmy_logo.webp",
+            "url": "<?= $site_base_url;?>/",
+            "logo": "<?= $site_base_url;?>/images/winmy_logo.webp",
             "description": "Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "address": {
                 "@type": "PostalAddress",
@@ -335,7 +335,7 @@ include 'inc/functions.php';
             "https://3dlancer.net/profile/u1128048",
             "https://tatoeba.org/en/user/profile/winmyinfo",
             "http://palangshim.com/space-uid-4425091.html",
-            "https://www.webwiki.at/https://winmy.site/",
+            "https://www.webwiki.at/<?= $site_base_url;?>/",
             "https://clik.social/winmyinfo",
             "https://www.dnnsoftware.com/activity-feed/my-profile/userid/3277537",
             "https://lightroom.adobe.com/u/winmywinmy",
@@ -926,7 +926,7 @@ include 'inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "WINMY",
-            "item": "https://winmy.site/"
+            "item": "<?= $site_base_url;?>/"
             }
         ]
         }
@@ -1025,12 +1025,12 @@ include 'inc/functions.php';
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "WINMY: Program Referral | Dapatkan RM50 & Bonus Hingga RM4,888,000",
-            "url": "https://winmy.site/",
+            "url": "<?= $site_base_url;?>/",
             "description": "Sertai program kasino Malaysia rujukan WINMY hari ini dan mula jana pendapatan! Terima RM50 untuk setiap referral, komisen seumur hidup, dan bonus pencapaian sehingga RM4.88 juta. Daftar sekarang dan dapat ganjaran yang mantap!",
             "inLanguage": "th",
             "isPartOf": {
                 "@type": "WebSite",
-                "url": "https://winmy.site/"
+                "url": "<?= $site_base_url;?>/"
             }
         }
         </script>

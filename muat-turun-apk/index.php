@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://winmy.site/muat-turun-apk">
+        <link rel="canonical" href="<?= $site_base_url;?>/muat-turun-apk">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="winmy">
@@ -28,7 +28,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://winmy.site/muat-turun-apk">
+        <meta property="og:url" content="<?= $site_base_url;?>/muat-turun-apk">
         <meta property="og:title" content="Muat Turun WINMY APK: Panduan & Pemasangan">
         <meta property="og:description" content="Muat turun aplikasi WINMY APK untuk Android dengan panduan lengkap, kebenaran Unknown Sources, dan jaminan keselamatan. Bermain slot di smartphone anda dalam beberapa minit.">
         <meta property="og:site_name" content="WINMY">
@@ -51,13 +51,13 @@ include '../inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "WINMY",
-                    "item": "https://winmy.site"
+                    "item": "<?= $site_base_url;?>"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Muat Turun APK",
-                    "item": "https://winmy.site/muat-turun-apk/"
+                    "item": "<?= $site_base_url;?>/muat-turun-apk/"
                 }
             ]
         }
