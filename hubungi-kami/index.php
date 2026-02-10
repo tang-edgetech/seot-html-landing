@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.space/hubungi-kami/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/hubungi-kami/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.space/hubungi-kami/">
+        <meta property="og:url" content="<?= $site_base_url;?>/hubungi-kami/">
         <meta property="og:title" content="Hubungi JOM99 - Sokongan Pelanggan 24/7 di Malaysia">
         <meta property="og:description" content="Hubungi kami di JOM99 untuk mendapatkan sokongan pelanggan yang cepat dan efisien. Kami sedia membantu anda dengan sebarang pertanyaan atau masalah.">
         <meta property="og:site_name" content="JOM99">
@@ -56,13 +56,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.space/"
+                "item": "<?= $site_base_url;?>/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Hubungi Kami",
-                "item": "https://jom99.space/hubungi-kami/"
+                "item": "<?= $site_base_url;?>/hubungi-kami/"
                 }
             ]
         }
@@ -79,9 +79,9 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Hubungi Kami</h1>
-                                <p class="mb-3">Hubungi dengan pasukan sokongan JOM99 untuk mendapatkan bantuan cepat dan menyelesaikan sebarang isu atau pertanyaan yang anda hadapi di <a href="https://jom99.space/"><strong>platform kasino dalam talian</strong></a> terkemuka di Malaysia. Jangan ragu untuk menghubungi kami - kami sentiasa sedia membantu!</p>
+                                <p class="mb-3">Hubungi dengan pasukan sokongan JOM99 untuk mendapatkan bantuan cepat dan menyelesaikan sebarang isu atau pertanyaan yang anda hadapi di <a href="<?= $site_base_url;?>/"><strong>platform kasino dalam talian</strong></a> terkemuka di Malaysia. Jangan ragu untuk menghubungi kami - kami sentiasa sedia membantu!</p>
                                 <ol>
-                                    <li class="mb-3"><strong>Sokongan Live Chat:</strong> <a href="https://jom99.space/hubungi-kami/"><strong>Customer Support Tersedia 24/7</strong></a> untuk respon pantas dan penyelesaian segera.</li>
+                                    <li class="mb-3"><strong>Sokongan Live Chat:</strong> <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>Customer Support Tersedia 24/7</strong></a> untuk respon pantas dan penyelesaian segera.</li>
                                     <li class="mb-3"><strong>Emel:</strong> Hantar pertanyaan anda ke <a href="mailto:jom99@gmail.com"><strong>jom99@gmail.com</strong></a>, dan kami akan membalas secepat mungkin.</li>
                                     <li><strong>Telefon:</strong> Hubungi nombor <a href="tel:+6012-8541234"><strong>+6012-8541234</strong></a> untuk khidmat pelanggan langsung pada waktu pejabat.</li>
                                 </ol>

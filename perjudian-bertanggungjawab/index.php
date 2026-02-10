@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.space/perjudian-bertanggungjawab/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/perjudian-bertanggungjawab/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.space/perjudian-bertanggungjawab/">
+        <meta property="og:url" content="<?= $site_base_url;?>/perjudian-bertanggungjawab/">
         <meta property="og:title" content="Perjudian Bertanggungjawab JOM99 - Panduan untuk Bermain Secara Selamat di Malaysia">
         <meta property="og:description" content="Ketahui lebih lanjut tentang perjudian bertanggungjawab di JOM99. Kami memberi panduan untuk membantu anda bermain dengan selamat dan bijak di platform kami.">
         <meta property="og:site_name" content="JOM99">
@@ -57,13 +57,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.space/"
+                "item": "<?= $site_base_url;?>/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Perjudian Bertaggungjawab",
-                "item": "https://jom99.space/perjudian-bertanggungjawab/"
+                "item": "<?= $site_base_url;?>/perjudian-bertanggungjawab/"
                 }
             ]
         }
@@ -80,7 +80,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Perjudian Bertanggungjawab - JOM99</h1>
-                                <p> Di <a href="https://jom99.space/"><strong>JOM99</strong></a>, kami komited untuk mempromosikan perjudian bertanggungjawab dan memastikan pemain kami menikmati pengalaman permainan yang selamat dan menyeronokkan. Kami percaya bahawa perjudian haruslah satu aktiviti yang menghiburkan dan tidak mengganggu kehidupan harian anda. Matlamat kami adalah untuk menyediakan persekitaran yang selamat di mana anda boleh bermain sambil mengekalkan kawalan ke atas tabiat permainan anda. </p>
+                                <p> Di <a href="<?= $site_base_url;?>/"><strong>JOM99</strong></a>, kami komited untuk mempromosikan perjudian bertanggungjawab dan memastikan pemain kami menikmati pengalaman permainan yang selamat dan menyeronokkan. Kami percaya bahawa perjudian haruslah satu aktiviti yang menghiburkan dan tidak mengganggu kehidupan harian anda. Matlamat kami adalah untuk menyediakan persekitaran yang selamat di mana anda boleh bermain sambil mengekalkan kawalan ke atas tabiat permainan anda. </p>
                                 <p>&nbsp;</p>
                                 <p> Kami menggalakkan pemain untuk menetapkan batasan peribadi semasa terlibat dalam aktiviti perjudian. Kami menyediakan pelbagai alat dan sumber untuk membantu anda menguruskan aktiviti perjudian anda, termasuk: </p>
                                 <ul>
@@ -90,7 +90,7 @@ include '../inc/functions.php';
                                     <li><strong>Akses Kepada Sokongan</strong>: Kami menyediakan akses kepada talian bantuan dan sumber luar untuk pemain yang memerlukan bantuan profesional berhubung masalah perjudian.</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di <a href="https://jom99.space/slot/"><strong>permainan slot online di Malaysia</strong></a>, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
+                                <p> Jika anda atau seseorang yang anda kenali mengalami ketagihan perjudian, kami menggalakkan anda untuk mendapatkan bantuan profesional. Di <a href="<?= $site_base_url;?>/slot/"><strong>permainan slot online di Malaysia</strong></a>, kami percaya bahawa keselamatan dan kesejahteraan pemain adalah keutamaan utama kami dan kami sentiasa bersedia untuk membantu anda kekal mengawal. </p>
                             </div>
                         </div>
                     </div>

@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.space/bonus-promosi/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/bonus-promosi/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -24,16 +24,16 @@ include '../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="JOM99 Bonus & Promosi - Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
         <meta itemprop="description" content="Daftar akaun JOM99 dan nikmati pelbagai bonus & promosi eksklusif yang hanya tersedia untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar segera!">
-        <meta itemprop="image" content="https://jom99.space/images/jom99_logo.webp">
+        <meta itemprop="image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
 
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.space/bonus-promosi/">
+        <meta property="og:url" content="<?= $site_base_url;?>/bonus-promosi/">
         <meta property="og:title" content="JOM99 Bonus & Promosi - Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
         <meta property="og:description" content="Daftar akaun JOM99 dan nikmati pelbagai bonus & promosi eksklusif yang hanya tersedia untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar segera!">
         <meta property="og:site_name" content="JOM99">
-        <meta property="og:image" content="https://jom99.space/images/jom99_logo.webp">
+        <meta property="og:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
         <meta property="article:tag" content="Bonus dan promosi JOM99">
         <meta property="article:tag" content="JOM99 bonus selamat datang">
         <meta property="article:tag" content="Promosi harian JOM99">
@@ -48,8 +48,8 @@ include '../inc/functions.php';
         <meta name="twitter:site" content="jom99my">
         <meta name="twitter:title" content="JOM99 Bonus & Promosi - Dapatkan Tawaran Eksklusif dan Hadiah Menarik di Malaysia">
         <meta name="twitter:description" content="Daftar akaun JOM99 dan nikmati pelbagai bonus & promosi eksklusif yang hanya tersedia untuk pemain baru dan lama. Dapatkan tawaran menarik dan hadiah besar segera!">
-        <meta name="twitter:image" content="https://jom99.space/images/jom99_logo.webp">
-        <base href="https://jom99.space">
+        <meta name="twitter:image" content="<?= $site_base_url;?>/images/jom99_logo.webp">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -60,13 +60,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.space/"
+                "item": "<?= $site_base_url;?>/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Bonus & Promosi",
-                "item": "https://jom99.space/bonus-promosi/"
+                "item": "<?= $site_base_url;?>/bonus-promosi/"
                 }
             ]
         }
@@ -94,14 +94,14 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Bonus & Promosi JOM99 - Dapatkan Tawaran Eksklusif dan Hadiah Menarik</h1>
-                                <p>Kami di <a href="https://jom99.space/"><strong>JOM99</strong></a> percaya bahawa setiap pemain berhak atas hadiah yang menarik. Kami menawarkan pelbagai bonus dan promosi yang memberi peluang kepada anda untuk memaksimumkan pengalaman permainan dan meningkatkan peluang kemenangan anda. Dari bonus bonus selamat datang hingga promosi harian, ada banyak cara untuk anda mendapat lebih daripada sekadar hiburan! </p>
+                                <p>Kami di <a href="<?= $site_base_url;?>/"><strong>JOM99</strong></a> percaya bahawa setiap pemain berhak atas hadiah yang menarik. Kami menawarkan pelbagai bonus dan promosi yang memberi peluang kepada anda untuk memaksimumkan pengalaman permainan dan meningkatkan peluang kemenangan anda. Dari bonus bonus selamat datang hingga promosi harian, ada banyak cara untuk anda mendapat lebih daripada sekadar hiburan! </p>
                                 <p>&nbsp;</p>
                                 <h2>Apakah Unik tentang Bonus & Promosi JOM99?</h2>
                                 <p>Laman slot kami memberi ganjaran kepada pemain dengan bonus dan promosi menarik untuk memastikan pengalaman bermain anda lebih menguntungkan. Berikut adalah beberapa sebab mengapa anda patut memilih JOM99: </p>
                                 <h3>Pelbagai Pilihan Bonus Menanti Anda</h3>
                                 <p>Kami menawarkan pelbagai bonus untuk pemain baru dan lama. Anda boleh menikmati bonus alu-aluan, putaran percuma, bonus deposit, dan banyak lagi. Setiap promosi kami direka untuk memberikan lebih banyak peluang kepada anda untuk menang. </p>
                                 <h3>Promosi Berkala dan Eksklusif</h3>
-                                <p>Kami sentiasa memperkenalkan promosi baru yang memberi anda peluang untuk memenangi hadiah menarik. Dapatkan akses ke <a href="https://jom99.space/bonus-promosi/"><strong>promosi eksklusif</strong></a> yang hanya tersedia untuk pemain VIP atau pemain setia kami. </p>
+                                <p>Kami sentiasa memperkenalkan promosi baru yang memberi anda peluang untuk memenangi hadiah menarik. Dapatkan akses ke <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>promosi eksklusif</strong></a> yang hanya tersedia untuk pemain VIP atau pemain setia kami. </p>
                                 <h3>Tiada Yuran Tersembunyi</h3>
                                 <p>Semua bonus dan promosi yang ditawarkan adalah jelas dan telus. Kami tidak mengenakan yuran tersembunyi untuk promosi yang anda terima, jadi anda boleh menikmati hadiah anda tanpa risau. </p>
                                 <p>&nbsp;</p>
@@ -117,7 +117,7 @@ include '../inc/functions.php';
                                 <p>Di Jom99, anda juga berpeluang menerima bonus tanpa deposit. Dengan bonus ini, anda boleh mencuba permainan kami tanpa perlu mengeluarkan wang anda sendiri. Ini memberi peluang untuk memenangi wang sebenar tanpa risiko. </p>
                                 <p>&nbsp;</p>
                                 <h2>Promosi Eksklusif untuk Pemain VIP</h2>
-                                <p>Ahli VIP di Jom99 akan menikmati promosi eksklusif yang memberi lebih banyak nilai. Sebagai ahli VIP, anda akan mendapat peluang untuk menikmati bonus lebih besar, putaran percuma eksklusif, dan ganjaran istimewa. Anda juga boleh menyertai <a href="https://jom99.space/vip/"><strong>Program VIP</strong></a>, yang menawarkan hadiah mewah dan peluang menang tambahan.</p>
+                                <p>Ahli VIP di Jom99 akan menikmati promosi eksklusif yang memberi lebih banyak nilai. Sebagai ahli VIP, anda akan mendapat peluang untuk menikmati bonus lebih besar, putaran percuma eksklusif, dan ganjaran istimewa. Anda juga boleh menyertai <a href="<?= $site_base_url;?>/vip/"><strong>Program VIP</strong></a>, yang menawarkan hadiah mewah dan peluang menang tambahan.</p>
                                 <h3>Promosi Harian</h3>
                                 <p>Setiap hari, kami menawarkan promosi harian untuk memastikan anda sentiasa mendapat lebih banyak peluang. Dari bonus deposit harian hingga putaran percuma pada mesin slot tertentu, promosi ini memberikan pengalaman permainan yang lebih bermanfaat dan menguntungkan. </p>
                                 <h3>Tawaran Mingguan dan Bulanan</h3>
@@ -127,13 +127,13 @@ include '../inc/functions.php';
                                 <p class="mb-2">Mendapatkan bonus adalah mudah dan cepat. Ikuti langkah-langkah mudah berikut untuk menuntut bonus yang anda layak terima: </p>
                                 <ol>
                                     <li class="mb-2"><strong>Daftar Akaun</strong>: Jika anda belum mendaftar, buat akaun terlebih dahulu di Jom99.</li>
-                                    <li class="mb-2"><strong>Buat Deposit</strong>: Untuk menuntut bonus alu-aluan atau bonus deposit, buat deposit pertama anda melalui salah satu <a href="https://jom99.space/kaedah-pembayaran/"><strong>kaedah pembayaran yang selamat</strong></a> yang kami sediakan.</li>
+                                    <li class="mb-2"><strong>Buat Deposit</strong>: Untuk menuntut bonus alu-aluan atau bonus deposit, buat deposit pertama anda melalui salah satu <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>kaedah pembayaran yang selamat</strong></a> yang kami sediakan.</li>
                                     <li class="mb-2"><strong>Pilih Promosi</strong>: Pilih promosi yang sesuai untuk anda dan ikuti langkah-langkah untuk menuntutnya.</li>
                                     <li><strong>Nikmati Ganjaran</strong>: Setelah menuntut bonus, anda boleh terus bermain dan meningkatkan peluang kemenangan anda.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <h2>Terma dan Syarat Bonus</h2>
-                                <p>Setiap bonus dan promosi datang dengan <a href="https://jom99.space/terma-syarat/"><strong>Terma dan Syarat Kelayakan</strong></a> tertentu yang perlu dipatuhi oleh pemain. Pastikan anda membaca syarat-syarat dengan teliti sebelum menerima bonus. </p>
+                                <p>Setiap bonus dan promosi datang dengan <a href="<?= $site_base_url;?>/terma-syarat/"><strong>Terma dan Syarat Kelayakan</strong></a> tertentu yang perlu dipatuhi oleh pemain. Pastikan anda membaca syarat-syarat dengan teliti sebelum menerima bonus. </p>
                                 <h3>Syarat Pertaruhan</h3>
                                 <p>Syarat pertaruhan adalah syarat yang perlu dipenuhi sebelum anda boleh mengeluarkan wang yang dimenangi daripada bonus. Setiap bonus akan mempunyai keperluan pertaruhan yang berbeza, jadi pastikan anda memahami syarat ini untuk mengelakkan sebarang masalah di kemudian hari. </p>
                                 <h3>Tempoh Sah Bonus</h3>

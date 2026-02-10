@@ -7,7 +7,7 @@ include 'inc/functions.php';
 ?>
 <!DOCTYPE html><html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.space/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -25,7 +25,7 @@ include 'inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.space/">
+        <meta property="og:url" content="<?= $site_base_url;?>/">
         <meta property="og:title" content="JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma">
         <meta property="og:description" content="JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.">
         <meta property="og:site_name" content="JOM99">
@@ -55,8 +55,8 @@ include 'inc/functions.php';
         "@context": "https://schema.org", 
         "@type": "Organization",
         "name": "Jom99",
-        "url": "https://jom99.space/",
-        "logo": "https://jom99.space/images/jom99_logo.webp",
+        "url": "<?= $site_base_url;?>/",
+        "logo": "<?= $site_base_url;?>/images/jom99_logo.webp",
         "description": "JOM99 ialah platform slot dalam talian yang menawarkan bonus putaran percuma setiap hari. Dapatkan gaji harian sehingga RM6,000 sebulan dengan menyertai Program Super VIP.",
         "address": {
             "@type": "PostalAddress",
@@ -177,7 +177,7 @@ include 'inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "JOM99",
-            "item": "https://jom99.space/"
+            "item": "<?= $site_base_url;?>/"
             }
         ]
         }
@@ -459,7 +459,7 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>JOM99 - Laman Slot Premium Malaysia & Bonus Putaran Percuma</h1>
-                                <p>Selamat datang ke <a href="https://jom99.space/"><strong>platform official JOM99</strong></a>, tempat terbaik untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Platform kami adalah pilihan utama untuk hiburan dalam talian sama ada anda mencari <a href="https://jom99.space/slot/"><strong>laman slot online menarik</strong></a>, permainan live casino, ganjaran VIP eksklusif atau pilihan pembayaran yang mudah. Nikmatilah pelbagai jenis permainan berkualiti tinggi dengan kami hari ini, direka untuk memberi ahli peluang sebenar untuk menang besar.</p>
+                                <p>Selamat datang ke <a href="<?= $site_base_url;?>/"><strong>platform official JOM99</strong></a>, tempat terbaik untuk permainan dalam talian yang penuh dengan keseronokan dan peluang menguntungkan. Platform kami adalah pilihan utama untuk hiburan dalam talian sama ada anda mencari <a href="<?= $site_base_url;?>/slot/"><strong>laman slot online menarik</strong></a>, permainan live casino, ganjaran VIP eksklusif atau pilihan pembayaran yang mudah. Nikmatilah pelbagai jenis permainan berkualiti tinggi dengan kami hari ini, direka untuk memberi ahli peluang sebenar untuk menang besar.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Mengapa JOM99 Jadi Pilihan Pemain</h2>
@@ -471,7 +471,7 @@ include 'inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h3>Pelbagai Jenis Slot dalam Talian</h3>
-                                <p class="mb-3">Di JOM99, anda boleh menikmati <a href="https://jom99.space/slot/"><strong>koleksi slot</strong></a> lengkap dari slot klasik, slot video terbaru, jackpot proresif dengan potensi pulangan yang luar biasa:</p>
+                                <p class="mb-3">Di JOM99, anda boleh menikmati <a href="<?= $site_base_url;?>/slot/"><strong>koleksi slot</strong></a> lengkap dari slot klasik, slot video terbaru, jackpot proresif dengan potensi pulangan yang luar biasa:</p>
                                 <ol>
                                     <li class="mb-2">Slot tiga gulung klasik untuk pengalaman tradisional</li>
                                     <li class="mb-2">Slot video 5-gulung yang mempunyai tema terbaru</li>
@@ -490,7 +490,7 @@ include 'inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Ganjaran Harian Pemain Bersetia JOM99</h2>
-                                <p>Kami menghargai setiap pemain yang iyang menunjukkan kesetiaan kepada platform kami. Program <a href="https://jom99.space/vip/"><strong>VIP eksklusif JOM99</strong></a> membolehkan anda menikmati layanan eksklusif, bonus eksklusif, dan kelebihan tambahan yang dicipta khusus untuk meningkatkan nilai pengalaman permainan anda.</p>
+                                <p>Kami menghargai setiap pemain yang iyang menunjukkan kesetiaan kepada platform kami. Program <a href="<?= $site_base_url;?>/vip/"><strong>VIP eksklusif JOM99</strong></a> membolehkan anda menikmati layanan eksklusif, bonus eksklusif, dan kelebihan tambahan yang dicipta khusus untuk meningkatkan nilai pengalaman permainan anda.</p>
                                 <p>&nbsp;</p>
 
                                 <h3>Ganjaran dan Manfaat VIP Eksklusif</h3>
@@ -501,27 +501,27 @@ include 'inc/functions.php';
                                 <p>Menjadi VIP di Jom99 adalah mudah. Cuma main secara berkala, dan apabila anda mengumpul mata kesetiaan, anda akan membuka lebih banyak manfaat VIP eksklusif. Begitu mudah!</p>
                                 
                                 <h2>Permainan Selamat dan Lancar dengan Aplikasi JOM99</h2>
-                                <p class="mb-3">Muat turun <a href="https://jom99.space/muat-turun-apk/"><strong>aplikasi JOM99 untuk Android / iOS</strong></a> dan main permainan kegemaran anda di mana sahaja anda mahu. Dengan memuat turun aplikasi ini, anda boleh menikmati permainan mudah alih anda dengan lancar. Aplikasi kami memberikan anda pengalaman berkualiti tinggi yang sama seperti bermain permainan di desktop anda.</p>
+                                <p class="mb-3">Muat turun <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>aplikasi JOM99 untuk Android / iOS</strong></a> dan main permainan kegemaran anda di mana sahaja anda mahu. Dengan memuat turun aplikasi ini, anda boleh menikmati permainan mudah alih anda dengan lancar. Aplikasi kami memberikan anda pengalaman berkualiti tinggi yang sama seperti bermain permainan di desktop anda.</p>
                                 <h3>Muat Turun Aplikasi JOM99 untuk Permainan Tanpa Gangguan</h3>
                                 <p class="mb-3">Jom99 aplikasi telah dioptimumkan sepenuhnya untuk memberikan anda pengalaman permainan yang lancar pada peranti mudah alih anda. Muat turun dan pasang APK pada peranti Android anda untuk mula bermain.</p>
                                 <h3>Pembayaran Mudah &amp; Pengeluaran Pantas</h3>
-                                <p class="mb-3">Kami menyokong pemindahan bank tempatan, kad kredit, e-wallet (Touch 'n Go, Boost, GrabPay) dan e-wallet untuk memudahkan <a href="https://jom99.space/kaedah-pembayaran/"><strong>deposit dan pengeluaran</strong></a> wang pada bila-bila masa. Pengguna boleh tenang kerana sistem keselamatan bertaraf tinggi menangani setiap transaksi.</p>
+                                <p class="mb-3">Kami menyokong pemindahan bank tempatan, kad kredit, e-wallet (Touch 'n Go, Boost, GrabPay) dan e-wallet untuk memudahkan <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>deposit dan pengeluaran</strong></a> wang pada bila-bila masa. Pengguna boleh tenang kerana sistem keselamatan bertaraf tinggi menangani setiap transaksi.</p>
                                 <p>&nbsp;</p>
                                 <h2>Bonus dan Promosi Eksklusif Tanpa Tangguh</h2>
                                 <p class="mb-3">Jom99 sentiasa memberi ganjaran kepada semua pemain kami. Dari bonus selamat datang yang murah hati hingga promosi berkala, terdapat sentiasa peluang untuk menambah kemenangan anda.</p>
                                 <h3>Bonus Selamat Datang untuk Pengguna Baru</h3>
                                 <p class="mb-3">Pemain baru boleh menikmati bonus selamat datang apabila mereka membuat deposit pertama. Bonus ini adalah cara terbaik untuk memulakan dan memaksimumkan peluang anda untuk menang dari awal.</p>
                                 <h3>Promosi Berkala dan Tawaran Khas</h3>
-                                <p class="mb-3">Kami sering menawarkan <strong>putaran percuma, bonus deposit</strong>, dan promosi menarik lain. Sentiasa periksa tawaran hebat di halaman <a href="https://jom99.space/bonus-promosi/"><strong>bonus & promosi terkini</strong></a>.</p>
+                                <p class="mb-3">Kami sering menawarkan <strong>putaran percuma, bonus deposit</strong>, dan promosi menarik lain. Sentiasa periksa tawaran hebat di halaman <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>bonus & promosi terkini</strong></a>.</p>
                                 <h3>Program Kesetiaan</h3>
                                 <p>Program kesetiaan kami membolehkan anda mengumpul mata setiap kali anda bertaruh. Mata ini boleh ditukarkan kepada ganjaran, termasuk bonus, putaran percuma, dan banyak lagi.</p>
                                 <h2>Perjudian Bertanggungjawab</h2>
-                                <p class="mb-3">Jom99 komited untuk menyediakan persekitaran <a href="https://jom99.space/perjudian-bertanggungjawab/"><strong>perjudian selamat dan bertanggungjawab</strong></a>. Kami menawarkan beberapa alat untuk membantu pemain menikmati pengalaman permainan mereka secara bertanggungjawab.</p>
+                                <p class="mb-3">Jom99 komited untuk menyediakan persekitaran <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/"><strong>perjudian selamat dan bertanggungjawab</strong></a>. Kami menawarkan beberapa alat untuk membantu pemain menikmati pengalaman permainan mereka secara bertanggungjawab.</p>
                                 <h3>Perjudian dengan Integriti dan Kawalan</h3>
                                 <p class="mb-3">Kami menggalakkan pemain untuk berjudi secara bertanggungjawab dan menawarkan ciri-ciri seperti pengecualian diri dan had deposit untuk membantu menguruskan masa bermain dan perbelanjaan. Perjudian seharusnya sentiasa menyeronokkan, dan kami menyediakan sumber untuk menyokong itu.</p>
                                 <p>&nbsp;</p>
                                 <h2>Privasi & Keselamatan: Komitmen JOM99</h2>
-                                <p class="mb-3">Dasar kami sentiasa mengutamakan <a href="https://jom99.space/dasar-privasi/"><strong>Dasar Privasi</strong></a> pengguna dan keselamatan anda adalah keutamaan kami. Jom99 menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
+                                <p class="mb-3">Dasar kami sentiasa mengutamakan <a href="<?= $site_base_url;?>/dasar-privasi/"><strong>Dasar Privasi</strong></a> pengguna dan keselamatan anda adalah keutamaan kami. Jom99 menggunakan teknologi penyulitan terkini untuk memastikan data peribadi dan kewangan anda sentiasa dilindungi.</p>
                                 <h3>Bagaimana Kami Melindungi Data Anda</h3>
                                 <p class="mb-3">Kami menggunakan kaedah penyulitan yang canggih untuk melindungi maklumat sensitif anda semasa transaksi dan semasa anda melayari laman kami. Keselamatan anda adalah keutamaan kami.</p>
                                 <h3>Jaminan Permainan yang Adil</h3>
@@ -529,10 +529,10 @@ include 'inc/functions.php';
                                 
                                 <h2>Syarat dan Ketentuan Kami (T&C)</h2>
                                 <p class="mb-3">Semua pemain digalakkan untuk membaca terma dan syarat sebelum menggunakan laman kami. Kami memastikan peraturan platform ini jelas, mudah difahami, dan bertanggungjawab, dan setiap pemain tahu cara menggunakannya dengan adil. Ini akan memastikan semua orang mempunyai pengalaman permainan yang lancar, selamat dan menyeronokkan. </p>
-                                <p>👉 Baca <a href="https://jom99.space/terma-syarat/"><strong>terma dan syarat penuh</strong></a> untuk mengetahui hak, tanggungjawab, dan peraturan penggunaan platform ini.</p>
+                                <p>👉 Baca <a href="<?= $site_base_url;?>/terma-syarat/"><strong>terma dan syarat penuh</strong></a> untuk mengetahui hak, tanggungjawab, dan peraturan penggunaan platform ini.</p>
                                 <p>&nbsp;</p>
                                 <h2>Hubungi Kami Sebarang Pertanyaan</h2>
-                                <p>Pasukan sokongan pelanggan kami sedia membantu anda 24/7. Untuk sebarang pertanyaan, <a href="https://jom99.space/hubungi-kami/"><strong>hubungi customer support</strong></a> kami melalui WhatsApp, Telegram, atau e-mel. Nikmati bantuan pantas dan mesra yang dipercayai oleh ramai pemain.</p>
+                                <p>Pasukan sokongan pelanggan kami sedia membantu anda 24/7. Untuk sebarang pertanyaan, <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>hubungi customer support</strong></a> kami melalui WhatsApp, Telegram, atau e-mel. Nikmati bantuan pantas dan mesra yang dipercayai oleh ramai pemain.</p>
                             </div>
                         </div>
                     </div>

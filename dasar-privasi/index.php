@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://jom99.space/dasar-privasi/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/dasar-privasi/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://jom99.space/dasar-privasi/">
+        <meta property="og:url" content="<?= $site_base_url;?>/dasar-privasi/">
         <meta property="og:title" content="Dasar Privasi JOM99 - Perlindungan Data Pengguna yang Penuh di Malaysia">
         <meta property="og:description" content="Baca dasar privasi JOM99 dan ketahui bagaimana kami melindungi maklumat peribadi anda. Kami komited untuk menjaga privasi dan keselamatan data semua pengguna.">
         <meta property="og:site_name" content="JOM99">
@@ -56,13 +56,13 @@ include '../inc/functions.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://jom99.space/"
+                "item": "<?= $site_base_url;?>/"
                 },
                 {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Dasar Privasi",
-                "item": "https://jom99.space/dasar-privasi/"
+                "item": "<?= $site_base_url;?>/dasar-privasi/"
                 }
             ]
         }
@@ -81,19 +81,19 @@ include '../inc/functions.php';
                                 <h1>Dasar Privasi - JOM99</h1>
                                 <p class="mb-4">Kami di JOM99 komited untuk melindungi privasi dan maklumat peribadi anda. Polisi Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi data anda apabila anda menggunakan laman web dan perkhidmatan kami.</p>
                                 <ol>
-                                    <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di <a href="https://jom99.space/"><strong>platform jom99.space</strong></a>. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
+                                    <li class="mb-3"><strong>Pengumpulan Maklumat</strong><br/>Kami mengumpul maklumat peribadi seperti nama, alamat emel, nombor telefon, dan maklumat pembayaran apabila anda mendaftar atau membuat transaksi di <a href="<?= $site_base_url;?>/"><strong>platform jom99.space</strong></a>. Selain itu, kami juga mengumpul data penggunaan laman seperti alamat IP, jenis peranti, dan aktiviti permainan untuk meningkatkan perkhidmatan.</li>
                                     <li class="mb-3"><strong>Penggunaan Maklumat</strong><br/>Maklumat yang dikumpul digunakan untuk:<br/>
                                         <ul>
                                             <li>Memproses pendaftaran dan transaksi anda.</li>
                                             <li>Memberikan sokongan pelanggan yang berkualiti.</li>
-                                            <li>Menghantar <a href="https://jom99.space/bonus-promosi/"><strong>senarai promosi terkini</strong></a>, bonus, dan maklumat penting lain.</li>
+                                            <li>Menghantar <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>senarai promosi terkini</strong></a>, bonus, dan maklumat penting lain.</li>
                                             <li>Memastikan keselamatan akaun dan mencegah penipuan.</li>
                                             <li>Mematuhi keperluan undang-undang dan peraturan.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-3"><strong>Perkongsian Maklumat</strong><br/>Kami tidak menjual atau menyewakan maklumat peribadi anda kepada pihak ketiga. Namun, maklumat anda mungkin dikongsi dengan:<br/>
                                         <ul>
-                                            <li>Penyedia <a href="https://jom99.space/kaedah-pembayaran/"><strong>pilihan pembayaran yang disokong</strong></a> untuk memproses transaksi.</li>
+                                            <li>Penyedia <a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>pilihan pembayaran yang disokong</strong></a> untuk memproses transaksi.</li>
                                             <li>Pihak berkuasa jika dikehendaki oleh undang-undang.</li>
                                             <li>Pihak ketiga yang membantu operasi perniagaan kami dengan perjanjian kerahsiaan.</li>
                                         </ul>
@@ -103,7 +103,7 @@ include '../inc/functions.php';
                                     <li class="mb-3"><strong>Kuki dan Teknologi Penjejakan</strong><br/>JOM99 menggunakan kuki dan teknologi serupa untuk meningkatkan pengalaman pengguna, mengumpul data statistik dan memaparkan iklan yang relevan.</li>
                                     <li class="mb-3"><strong>Pematuhan GDPR dan Undang-undang Tempatan</strong><br/>Kami mematuhi peraturan perlindungan data antarabangsa seperti GDPR dan undang-undang privasi tempatan untuk memastikan hak privasi anda dihormati.</li>
                                     <li class="mb-3"><strong>Perubahan Polisi Privasi</strong><br/>Polisi ini mungkin dikemas kini dari masa ke masa. Sebarang perubahan akan diumumkan di laman web kami dan tarikh semakan terbaru akan dipaparkan.</li>
-                                    <li><strong>Hubungi Kami</strong><br/>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai polisi privasi ini, sila hubungi kami melalui halaman <a href="https://jom99.space/hubungi-kami/"><strong>Khidmat Pelanggan Rasmi JOM99</strong></a>.</li>
+                                    <li><strong>Hubungi Kami</strong><br/>Jika anda mempunyai sebarang pertanyaan atau kebimbangan mengenai polisi privasi ini, sila hubungi kami melalui halaman <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>Khidmat Pelanggan Rasmi JOM99</strong></a>.</li>
                                 </ol>
                                 <p>&nbsp;</p>
                                 <p>Kami bertekad untuk memastikan maklumat peribadi anda sentiasa dilindungi dan digunakan dengan penuh tanggungjawab. Terima kasih kerana mempercayai JOM99 sebagai platform permainan anda.</p>
