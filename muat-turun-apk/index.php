@@ -8,7 +8,7 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="<?= $site_base_url;?>/slot/">   
+        <link rel="canonical" href="<?= $site_base_url;?>/muat-turun-apk/">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="jom99">
@@ -29,7 +29,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="<?= $site_base_url;?>/slot/">
+        <meta property="og:url" content="<?= $site_base_url;?>/muat-turun-apk/">
         <meta property="og:title" content="Muat Turun Aplikasi JOM99 - Permainan Lancar Sepanjang Masa">
         <meta property="og:description" content="JOM99 menyediakan pengalaman permainan mudah alih yang lancar dan pantas. Muat turun aplikasi rasmi hari ini dan main bila-bila masa, di mana sahaja.">
         <meta property="og:site_name" content="JOM99">
