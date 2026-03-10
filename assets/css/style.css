@@ -230,6 +230,9 @@ a, button, .btn, a.btn, button.btn, .share-button::before {
 p, ul, ol, .text-p, .text-editor p+ul, .text-editor p+ol {
     margin-bottom: 2rem;
 }
+p:last-child, ul:last-child, ol:last-child, .text-p:last-child, .text-editor p:last-child, .text-editor p+ul:last-child, .text-editor p+ol:last-child {
+    margin-bottom: 0;
+}
 .heading-title li::marker {
     font-weight: 700;
 }
@@ -248,7 +251,7 @@ p, ul, ol, .text-p, .text-editor p+ul, .text-editor p+ol {
     display: inline-block;
     width: 100%;
 }
-.text-editor p+ul, .text-editor p+ol {
+.text-editor p+ul, .text-editor p+ol, .text-editor p+.table-wrapper {
     display: block;
     width: 100%;
     margin-top: -1.5rem;
@@ -259,8 +262,11 @@ p, ul, ol, .text-p, .text-editor p+ul, .text-editor p+ol {
 .text-editor h1 > a:hover, .text-editor h2 > a:hover, .text-editor h3 > a:hover, .text-editor h4 > a:hover, .text-editor h5 > a:hover, .text-editor h6 > a:hover, .text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
     text-decoration: underline;
 }
+.text-editor ul li:not(:last-child), .text-editor ol li:not(:last-child) {
+    margin-bottom: 0.313rem;
+}
 table thead tr th{
-    background-color: #9db0c7!important;
+    background-color: var(--primary-main)!important;
 }
 table thead tr th, table thead tr td, table tbody tr th {
     font-weight: bold;
@@ -523,6 +529,9 @@ a, button, .btn, a.button, button.btn {
     flex-direction: column;
     gap: 10px;
     border-radius: 0;
+}
+.accordion .accordion-button:not(.collapsed) {
+    background-color: var(--primary-main);
 }
 .accordion-item:first-of-type>.accordion-header .accordion-button, .accordion-item:first-of-type {
     border-top-left-radius: 0;
