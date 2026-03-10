@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://clubmy.org/sitemap.xml
+Sitemap: https://kaya88.info/sitemap.xml
