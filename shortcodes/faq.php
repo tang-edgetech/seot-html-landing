@@ -1,7 +1,7 @@
 <?php
 if( !empty($data['items'][0]['question']) && !empty($data['items'][0]['answer']) ) {
 ?>
-<section class="" id="faq">
+<section class="" id="section-faq">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 px-4">

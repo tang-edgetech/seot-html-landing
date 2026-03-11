@@ -130,6 +130,22 @@ function randomUniqueID($length = 8) {
     return substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyz'), 0, $length);
 }
 
+// To setup the sidebar top menu list
+$main_menu = [
+    "home",
+    "slot",
+    "kaedah-pembayaran",
+    "tentang-kami",
+];
+$disclaimer_menu = [
+    "perjudian-bertanggungjawab",
+    "keselamatan-akaun",
+    "lesen",
+    "dasar-privasi",
+    "privasi-policy",
+];
+
+// Alternative way to disable the shortcode
 $shortcode_visibility = [
     'marquee' => 1,
     'top-brand' => 0,

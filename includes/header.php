@@ -78,44 +78,47 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                         $menu_items = get_the_menu_items('pages');
                                         foreach( $menu_items as $key => $item ) {
                                             $url = $item['page_slug'];
-                                            if($url !== 'home') :
-                                            $index = intval($key)+1;
-                                            $title = $item['page_title'];
-                                            $target = isset($item['target']) ? $item['target'] : '_self';
-                                            if( is_localhost() ) { 
-                                                // localhost/u31th.asia/download
-                                                // current_url == u31th.asia/download
-                                                if (strpos($current_url, '/') !== false) {
-                                                    $temp = explode('/', $current_url);
-                                                    $path = $temp[1];
-                                                }
-                                                else {
-                                                    $path = $current_url;
+                                            if( in_array($url, $main_menu) ) { // this rule is to only display the item wanted to display on the sidebar top menu
+                                                if($url !== 'home') {
+                                                    $index = intval($key)+1;
+                                                    $title = $item['page_title'];
+                                                    $target = isset($item['target']) ? $item['target'] : '_self';
+                                                    if( is_localhost() ) { 
+                                                        // localhost/u31th.asia/download
+                                                        // current_url == u31th.asia/download
+                                                        if (strpos($current_url, '/') !== false) {
+                                                            $temp = explode('/', $current_url);
+                                                            $path = $temp[1];
+                                                        }
+                                                        else {
+                                                            $path = $current_url;
+                                                        }
+                                                    }
+                                                    else { 
+                                                        // u31th.asia/download
+                                                        // current_url == downnload
+                                                        $path = $current_url;
+                                                    }
+                                                    $is_active = ($path === trim($item['page_slug'], '/')) ? ' active' : '';
+                                                ?>
+                                                    <li class="nav-item <?= $url;?> nav-item-<?= $index;?>">
+                                                        <a href="<?= home_url().'/'.$url.'/';?>" target="<?= $target;?>" class="nav-link<?= $is_active;?>"><?= $title;?></strong></a>
+                                                    </li>
+                                                <?php
                                                 }
                                             }
-                                            else { 
-                                                // u31th.asia/download
-                                                // current_url == downnload
-                                                $path = $current_url;
-                                            }
-                                            $is_active = ($path === trim($item['page_slug'], '/')) ? ' active' : '';
-                                        ?>
-                                            <li class="nav-item <?= $url;?> nav-item-<?= $index;?>">
-                                                <a href="<?= home_url().'/'.$url.'/';?>" target="<?= $target;?>" class="nav-link<?= $is_active;?>"><?= $title;?></strong></a>
-                                            </li>
-                                        <?php
-                                            endif;
                                         }
                                         ?>
                                     </ul>
                                     
                                     <ul class="navbar-nav nav w-100 w-xl-auto p-4 px-0 p-xl-0" id="disclaimer-menu">
                                         
-                                        <?php $disclaimer_items = get_the_menu_items('disclaimer');
+                                        <?php $disclaimer_items = get_the_menu_items('pages');
                                         foreach( $disclaimer_items as $dkey => $ditem ) {
                                             // $index = intval($key)+1;
-                                            $dtitle = $ditem['page_title'];
                                             $durl = $ditem['page_slug'];
+                                            if( in_array($durl, $disclaimer_menu) ) {
+                                            $dtitle = $ditem['page_title'];
                                             $dtarget = isset($ditem['target']) ? $ditem['target'] : '_self';
                                             $dis_active = str_contains($current_url, $ditem['page_slug']) ? ' active' : '';
                                         ?>
@@ -123,6 +126,7 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                                 <a href="<?= home_url() .'/'.$durl.'/';?>" target="<?= $dtarget;?>" class="nav-link<?= $dis_active;?>"><?= $dtitle;?></strong></a>
                                             </li>
                                         <?php
+                                            }
                                         }
                                         ?>
                                     </ul>

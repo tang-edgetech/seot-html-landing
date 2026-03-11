@@ -65,4 +65,47 @@ $(document).ready(function() {
         }
     });
 
+	$('.table-of-contents a').each(function() {
+		var currentUrl = window.location.origin + window.location.pathname;
+        var sectionId = $(this).attr('href');
+		var newHref = currentUrl + sectionId;
+		var $this = $(this);
+		$this.attr('href', newHref);
+		$this.on('click', function(e){
+			e.preventDefault();
+			var section = $(sectionId);
+			if (section.length) {
+				$('html, body').animate({
+					scrollTop: section.offset().top - 65
+				}, 800);
+				history.pushState(null, '', newHref);
+			}
+		});
+	});
+
+    var hash = window.location.hash;
+    if (hash) {
+        var section = $(hash);
+        if (section.length) {
+            setTimeout(function() {
+                $('html, body').animate({
+                    scrollTop: section.offset().top - 65
+                }, 800);
+            }, 250);
+        }
+    }
+
+    var $back2top = $('.back2top');
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            $back2top.fadeIn();
+        } else {
+            $back2top.fadeOut();
+        }
+    });
+
+    $back2top.click(function(e) {
+        e.preventDefault();
+        $('html, body').animate({ scrollTop: 0 }, 600);
+    });
 });

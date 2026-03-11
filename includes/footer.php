@@ -7,7 +7,7 @@
                     </strong></a>
                     <a href="<?= home_url();?>/promosi/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Promotion">
-                        <span class="text-center">การส่งเสริม</span>
+                        <span class="text-center">Promosi</span>
                     </strong></a>
                     <a href="<?= home_url();?>/vip/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
@@ -39,6 +39,7 @@
                     <?php
                 } 
                 ?>
+                <div class="back2top"><div class="back2top-inner"><i class="fa fa-chevron-up" aria-hidden="true"></i></div></div>
             </footer>
         </div>
     </body>

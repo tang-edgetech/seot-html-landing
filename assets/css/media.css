@@ -101,6 +101,15 @@
     .responsive-table table {
         min-width: 600px;
     }
+    .table-wrapper {
+        overflow-x: auto;
+    }
+    .table-wrapper table, .table-wrapper .table {
+        min-width: max-content;
+    }
+    .back2top {
+        bottom: 6rem;
+    }
 }
 @media (min-width: 768px) {
     .platform, .platform-inner {
