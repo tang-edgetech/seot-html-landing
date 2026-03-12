@@ -1,6 +1,5 @@
 <?php
 if( isset($data) && !empty($data) ) {
-    if( !empty($data[0]['image'] ) ) {
 ?>
 <section class="<?php echo $id;?> pt-4 pb-2" id="<?php echo $id.'-'.randomUniqueID();?>">
     <div class="container-fluid">
@@ -8,18 +7,24 @@ if( isset($data) && !empty($data) ) {
             <div class="col-12 px-3">
                 <div class="swiper banner-swiper" id="banner-swiper-<?php echo randomUniqueID();?>">
                     <div class="swiper-wrapper">
+                    <?php foreach( $data as $banner ) {
+                        $image = $banner['image'];
+                    ?>
                         <div class="swiper-slide">
                             <div class="swiper-slide-inner">
                                 <div class="swiper-img">
                                     <?php 
                                     if( !empty($item['url']) ) { echo '<a href="" class="swiper-link">'; }
-                                    $banner_image = assets_url() . '/banner/kaya88.webp';
+                                    $banner_image = assets_url() . '/banner/'. $image;
                                     echo '<img src="'.$banner_image.'" class="w-100 h-100"/>';
                                     if( !empty($item['url']) ) { echo '</a>'; }
                                     ?>
                                 </div>
                             </div>
                         </div>
+                    <?php
+                    }
+                    ?>
                     </div>
                     <div class="swiper-navigation">
                         <button type="button" class="btn-nav nav-prev"><span class="d-none">Prev</span><i class="fa fa-chevron-left"></i></button>
@@ -32,6 +37,5 @@ if( isset($data) && !empty($data) ) {
     </div>
 </section>
 <?php
-    }
 }
 ?>

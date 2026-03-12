@@ -3,15 +3,15 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'kaya88.info');
-$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/kaya88.info"
+define('LOCALHOST_NAME', 'kaya68.info');
+$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/kaya68.info"
 $domainFolder = basename($serverPath);
-define('DOMAIN_NAME', $domainFolder); // kaya88.info
-$siteKey = 'kaya88';
+define('DOMAIN_NAME', $domainFolder); // kaya68.info
+$siteKey = 'kaya68';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
-define('SITE_KEY', $siteKey); // kaya88
+define('SITE_KEY', $siteKey); // kaya68
 
 // Detect if environment is localhost
 function is_localhost(): bool {
@@ -133,16 +133,19 @@ function randomUniqueID($length = 8) {
 // To setup the sidebar top menu list
 $main_menu = [
     "home",
-    "slot",
-    "kaedah-pembayaran",
-    "tentang-kami",
+    "welcome-bonus",
+    "free-credit",
+    "cashback",
+    "slot-bonus",
+    "payment-method",
 ];
 $disclaimer_menu = [
-    "perjudian-bertanggungjawab",
-    "keselamatan-akaun",
-    "lesen",
-    "dasar-privasi",
-    "privasi-policy",
+    "responsible-gambling",
+    "account-security",
+    "license",
+    "privacy-policy",
+    "terms",
+    "about-us",
 ];
 
 // Alternative way to disable the shortcode
@@ -154,7 +157,8 @@ $shortcode_visibility = [
     'game-providers' =>  ['home'],
     'leaderboard' => ['vip'],
     'content' => 1,
-    'faq' => 1
+    'faq' => 1,
+    'additional' => ['home'],
 ];
 
 
@@ -184,6 +188,7 @@ $language_label = array(
     'label_deposit' => 'Deposit',
     'label_withdraw' => 'Withdraw',
     'label_refresh' => 'Refresh',
+    'label_visit' => 'VISIT'
 );
 if( $language == 'ms' ) {
     $language_label['label_main_balance'] = 'Main Baki';
@@ -194,6 +199,7 @@ if( $language == 'ms' ) {
     $language_label['label_deposit'] = 'Deposit';
     $language_label['label_withdraw'] = 'Withdraw';
     $language_label['label_refresh'] = 'Segar Semula';
+    $language_label['label_visit'] = 'Laman';
 }
 else if( $language == 'th' ) {
     $language_label['label_main_balance'] = 'ยอดเงินคงเหลือหลัก';
@@ -204,4 +210,5 @@ else if( $language == 'th' ) {
     $language_label['label_deposit'] = 'เงินฝาก';
     $language_label['label_withdraw'] = 'ถอน';
     $language_label['label_refresh'] = 'รีเฟรช';
+    $language_label['label_visit'] = 'เยี่ยมชม';
 }

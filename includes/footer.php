@@ -5,17 +5,17 @@
                         <img src="<?= home_url();?>/assets/images/footer-home.png" class="icon img-fit" alt="Home">
                         <span class="text-center">Halaman Utama</span>
                     </strong></a>
-                    <a href="<?= home_url();?>/promosi/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="<?= home_url();?>/vip/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Promotion">
                         <span class="text-center">Promosi</span>
                     </strong></a>
-                    <a href="<?= home_url();?>/vip/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="<?= home_url();?>/how-to-claim/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
                         <span class="text-center">Cara Claim</span>
                     </strong></a>
-                    <a href="<?= home_url();?>/hubungi-kami/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+                    <a href="<?= home_url();?>/contact-us/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/footer-live_chat.png" class="icon img-fit" alt="Live Chat">
-                        <span class="text-center">Hubungai Kami</span>
+                        <span class="text-center">Hubungi Kami</span>
                     </strong></a>
                 </div>
                 <script type="text/javascript" src="<?= home_url();?>/assets/js/jquery-3.7.1.min.js"></script>

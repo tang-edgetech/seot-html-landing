@@ -1,6 +1,5 @@
-<?php if ( $data === 1 || $data === 'on' ) : 
-    
-    $gameProviders = json_decode(file_get_contents(__DIR__ . '/../data/game_providers.json'), true);
+<?php     
+$gameProviders = json_decode(file_get_contents(__DIR__ . '/../data/game_providers.json'), true);
 ?>
 <section class="pt-0 pb-3" id="">
     <div class="container-fluid">
@@ -61,4 +60,3 @@
         </div>
     </div>
 </section>
-<?php endif;?>

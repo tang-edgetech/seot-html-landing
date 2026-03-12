@@ -76,9 +76,19 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                         </li>
                                         <?php
                                         $menu_items = get_the_menu_items('pages');
-                                        foreach( $menu_items as $key => $item ) {
+                                        $sorted_menu_items = [];
+                                        $menu_lookup = array_column($menu_items, null, 'page_slug');
+
+                                        foreach ($main_menu as $slug) {
+                                            if (isset($menu_lookup[$slug])) {
+                                                $sorted_menu_items[] = $menu_lookup[$slug];
+                                            }
+                                        }
+
+                                        foreach ($sorted_menu_items as $key=>$item) {
                                             $url = $item['page_slug'];
-                                            if( in_array($url, $main_menu) ) { // this rule is to only display the item wanted to display on the sidebar top menu
+                                            // this rule is to only display the item wanted to display on the sidebar top menu
+                                            if( in_array($url, $main_menu) ) { 
                                                 if($url !== 'home') {
                                                     $index = intval($key)+1;
                                                     $title = $item['page_title'];
@@ -114,7 +124,16 @@ $settings = json_decode(file_get_contents( __DIR__ . '/../data/settings.json' ),
                                     <ul class="navbar-nav nav w-100 w-xl-auto p-4 px-0 p-xl-0" id="disclaimer-menu">
                                         
                                         <?php $disclaimer_items = get_the_menu_items('pages');
-                                        foreach( $disclaimer_items as $dkey => $ditem ) {
+                                        $sorted_disclaimer_menu_items = [];
+                                        $disclaimer_menu_lookup = array_column($disclaimer_items, null, 'page_slug');
+
+                                        foreach ($disclaimer_menu as $slug) {
+                                            if (isset($disclaimer_menu_lookup[$slug])) {
+                                                $sorted_disclaimer_menu_items[] = $disclaimer_menu_lookup[$slug];
+                                            }
+                                        }
+
+                                        foreach ($sorted_disclaimer_menu_items as $dkey=>$ditem) {
                                             // $index = intval($key)+1;
                                             $durl = $ditem['page_slug'];
                                             if( in_array($durl, $disclaimer_menu) ) {

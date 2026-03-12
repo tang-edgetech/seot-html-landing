@@ -1,6 +1,5 @@
 <?php 
-if( $data === 1 || $data === 'on' ) :
-    $data = $settings['user-profile'];
+$data = $settings['user-profile'];
 ?>
 <section class="section-login py-0" id="">
     <div class="container-fluid">
@@ -59,4 +58,3 @@ if( $data === 1 || $data === 'on' ) :
         </div>
     </div>
 </section>
-<?php endif; ?>
