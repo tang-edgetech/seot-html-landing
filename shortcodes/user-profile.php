@@ -1,4 +1,5 @@
-<?php if( $data === 1 || $data === 'on' ) :
+<?php 
+if( $data === 1 || $data === 'on' ) :
     $data = $settings['user-profile'];
 ?>
 <section class="section-login py-0" id="">
@@ -7,20 +8,20 @@
             <div class="col-12 px-4">
                 <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                     <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                        <a href="<?php echo $data['register'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="#">เข้าร่วม</a>
-                        <a href="<?php echo $data['login'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="#">เข้าสู่ระบบ</a>
+                        <a href="<?php echo $data['register'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="#"><?= $language_label['label_signup'];?></a>
+                        <a href="<?php echo $data['login'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="#"><?= $language_label['label_login'];?></a>
                     </div>
                     <div class="d-flex m-0 p-0 w-100">
                         <div class="col-7 px-0 pe-2">
-                            <div class="text-0-75">ยอดเงินคงเหลือหลัก:</div>
-                            <div class="text-1-3 text-weight-700 text-primary">THB&nbsp; <span class="setWallet-homepage d-inline-block" style="width: max-content">0.00</span></div>
+                            <div class="text-0-75"><?= $language_label['label_main_balance'];?>:</div>
+                            <div class="text-1-3 text-weight-700 text-primary"><?= $currency;?>&nbsp; <span class="setWallet-homepage d-inline-block" style="width: max-content">0.00</span></div>
                             <div class="d-flex m-0 p-0 text-0-75">
-                                <div class="col-6 px-0">เงินฝากขั้นต่ำ</div>
-                                <div class="col px-0">:&nbsp;231&nbsp;THB</div>
+                                <div class="col-6 px-0"><?= $language_label['label_min_deposit'];?></div>
+                                <div class="col px-0">:<?php if( $currency === 'THB' ): echo '&nbsp;231&nbsp;'.$currency; else: echo '&nbsp;'.$currency.'&nbsp;231&nbsp;'; endif;?></div>
                             </div>
                             <div class="d-flex m-0 p-0 text-0-75">
-                                <div class="col-6 px-0">ถอนขั้นต่ำ</div>
-                                <div class="col px-0">:&nbsp;385&nbsp;THB</div>
+                                <div class="col-6 px-0"><?= $language_label['label_min_withdraw'];?></div>
+                                <div class="col px-0">:<?php if( $currency === 'THB' ): echo '&nbsp;385&nbsp;'.$currency; else: echo '&nbsp;'.$currency.'&nbsp;385&nbsp;'; endif;?></div>
                             </div>
                         </div>
                         <div class="col-5 px-0 ">
@@ -28,13 +29,13 @@
                                 <a href="<?php echo $data['deposit'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0" src="<?php echo assets_url();?>/icon-deposit.png" alt="token" style="max-width: 11%">
-                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">เงินฝาก</span>
+                                        <span class="col px-0 ps-2 text-0-9 text-weight-600"><?= $language_label['label_deposit'];?></span>
                                     </div>
                                 </a>
                                 <a href="<?php echo $data['withdraw'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0 filter-black-to-white" src="<?php echo assets_url();?>/icon-withdrawal.png" alt="token" style="max-width: 11%">
-                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">ถอน</span>
+                                        <span class="col px-0 ps-2 text-0-9 text-weight-600"><?= $language_label['label_withdraw'];?></span>
                                         <div class="sequence-line">
                                             <span> </span>
                                             <span> </span>
@@ -47,7 +48,7 @@
                                 <a href="<?php echo $data['refresh'];?>" target="_blank" rel="nofollow noreferrer noopener" class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                     <div class="d-flex align-items-center">
                                         <img class="col-3 px-0 filter-black-to-white" src="<?php echo assets_url();?>/icon-refresh.png" alt="token" style="max-width: 11%">
-                                        <span class="col px-0 ps-2 text-0-9 text-weight-600">รีเฟรช</span>
+                                        <span class="col px-0 ps-2 text-0-9 text-weight-600"><?= $language_label['label_refresh'];?></span>
                                     </div>
                                 </a>
                             </div>

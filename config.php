@@ -156,3 +156,52 @@ $shortcode_visibility = [
     'content' => 1,
     'faq' => 1
 ];
+
+
+/**
+ * MYR - Malaysia
+ * SGD - Singapore
+ * THB - Thailand
+ * VND - Vietnam
+ * IDR - Indonesia
+ */
+$currency = 'MYR';
+/**
+ * en - English
+ * ms - Bahasa Malaysia
+ * id or in - Bahasa Indonesia
+ * vi - Vietnam
+ * th - Thailand
+ */
+$language = 'ms'; 
+
+$language_label = array(
+    'label_main_balance' => 'Main Balance',
+    'label_min_deposit' => 'Min Deposit',
+    'label_min_withdraw' => 'Min Withdrawal',
+    'label_signup' => 'JOIN',
+    'label_login' => 'LOGIN',
+    'label_deposit' => 'Deposit',
+    'label_withdraw' => 'Withdraw',
+    'label_refresh' => 'Refresh',
+);
+if( $language == 'ms' ) {
+    $language_label['label_main_balance'] = 'Main Baki';
+    $language_label['label_min_deposit'] = 'Depo Minimum';
+    $language_label['label_min_withdraw'] = 'Pengeluaran Minimum';
+    $language_label['label_signup'] = 'DAFTAR';
+    $language_label['label_login'] = 'LOG MASUK';
+    $language_label['label_deposit'] = 'Deposit';
+    $language_label['label_withdraw'] = 'Withdraw';
+    $language_label['label_refresh'] = 'Segar Semula';
+}
+else if( $language == 'th' ) {
+    $language_label['label_main_balance'] = 'ยอดเงินคงเหลือหลัก';
+    $language_label['label_min_deposit'] = 'เงินฝากขั้นต่ำ';
+    $language_label['label_min_withdraw'] = 'ถอนขั้นต่ำ';
+    $language_label['label_signup'] = 'เข้าร่วม';
+    $language_label['label_login'] = 'เข้าสู่ระบบ';
+    $language_label['label_deposit'] = 'เงินฝาก';
+    $language_label['label_withdraw'] = 'ถอน';
+    $language_label['label_refresh'] = 'รีเฟรช';
+}
