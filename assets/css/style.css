@@ -55,7 +55,8 @@ main {
 }
 #masthead .nav-item .nav-link.active {
     background-color: var(--primary-main);
-    color: var(--primary-white);
+    color: var(--primary-black);
+    font-weight: 500;
 }
 #masthead .dropdown-menu {
     padding-top: 0;
