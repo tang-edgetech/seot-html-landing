@@ -110,6 +110,10 @@
     .back2top {
         bottom: 6rem;
     }
+    .author-thumbnail {
+        width: 150px;
+        height: 174px;
+    }
 }
 @media (min-width: 768px) {
     .platform, .platform-inner {

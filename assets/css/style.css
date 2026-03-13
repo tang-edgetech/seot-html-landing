@@ -836,3 +836,32 @@ a, button, .btn, a.button, button.btn {
 .back2top .back2top-inner i {
     margin-top: -0.188rem;
 }
+.author-thumbnail {
+    display: block;
+    overflow: hidden;
+    width: 200px;
+    height: 224px;
+    background-color: var(--primary-black);
+}
+.author-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center bottom;
+}
+.author-body {
+    flex: 1;
+}
+.author-card .btn {
+    background-color: var(--primary-main);
+    color: var(--primary-black);
+    border: 1px solid var(--primary-main);
+}
+.author-card .btn:hover {
+    background-color: var(--primary-black);
+    color: var(--primary-white);
+}
+.author-designation {
+    font-size: 90%;
+    font-style: italic;
+}
