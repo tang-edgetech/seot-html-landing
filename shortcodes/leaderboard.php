@@ -8,11 +8,11 @@
                             <img src="https://maltese9.protonz-cdn.com/public/assets/global_home/temp_vip.png" alt="vip_rank" class="w-50">
                         </div>
                         <div class="col-7 pr-0">
-                            <div class="text-0-65 text-weight-400">อันดับปัจจุบัน</div>
+                            <div class="text-0-65 text-weight-400"><?= $language_label['label_current_rank'];?></div>
                             <div class="text-0-9 text-weight-700">--</div>
-                            <div class="text-0-65 text-weight-400 mt-2">เงินฝากปัจจุบัน</div>
+                            <div class="text-0-65 text-weight-400 mt-2"><?= $language_label['label_current_deposit'];?></div>
                             <div class="text-0-9 text-weight-700"> --</div>
-                            <div class="text-0-65 text-weight-400 mt-2">เงินฝากคริปโตปัจจุบัน</div>
+                            <div class="text-0-65 text-weight-400 mt-2"><?= $language_label['label_current_crypto_deposit'];?></div>
                             <div class="text-0-9 text-weight-700">0.00</div>
                         </div>
                     </div>
@@ -21,22 +21,22 @@
                 <div class="userprofile-container w-100 mt-3 p-3">
                     <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-0">
                         <div class="col-2 text-0-7 px-2 text-center">
-                            อันดับ
+                            <?= $language_label['label_rank'];?>
                         </div>
                         <div class="col-2 text-0-7 px-2 text-center">
-                            ยอดฝากรวมรายเดือน
+                            <?= $language_label['label_montly_total_deposit'];?>
                         </div>
                         <div class="col-2 text-0-7 px-2 text-center">
-                            โบนัสอัปเกรด VIP
+                            <?= $language_label['label_vip_upgrade_bonus'];?>
                         </div>
                         <div class="col-2 text-0-7 px-2 text-center">
-                            โบนัสวันเกิด
+                            <?= $language_label['label_birthday_bonus'];?>
                         </div>
                         <div class="col-2 text-0-7 px-2 text-center">
-                            วงเงินถอนรายวัน
+                            <?= $language_label['label_daily_withdrawal_limit'];?>
                         </div>
                         <div class="col-2 text-0-7 px-2 text-center">
-                            จำนวนการถอนรายวัน
+                            <?= $language_label['label_daily_withdrawal_count'];?>
                         </div>
                     </div>
                     <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">

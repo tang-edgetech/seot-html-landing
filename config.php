@@ -188,7 +188,15 @@ $language_label = array(
     'label_deposit' => 'Deposit',
     'label_withdraw' => 'Withdraw',
     'label_refresh' => 'Refresh',
-    'label_visit' => 'VISIT'
+    'label_current_rank' => 'Current Rank',
+    'label_current_deposit' => 'Current Deposit',
+    'label_current_crypto_deposit' => 'Current Crypto Deposit',
+    'label_rank' => 'Rank',
+    'label_montly_total_deposit' => 'Monthly Total Deposit',
+    'label_vip_upgrade_bonus' => 'VIP Upgrade Bonuns',
+    'label_birthday_bonus' => 'Birthday Bonus',
+    'label_daily_withdrawal_limit' => 'Daily Withdrawal Limit',
+    'label_daily_withdrawal_count' => 'Daily Withdrawal Count',
 );
 if( $language == 'ms' ) {
     $language_label['label_main_balance'] = 'Main Baki';
@@ -199,7 +207,15 @@ if( $language == 'ms' ) {
     $language_label['label_deposit'] = 'Deposit';
     $language_label['label_withdraw'] = 'Withdraw';
     $language_label['label_refresh'] = 'Segar Semula';
-    $language_label['label_visit'] = 'Laman';
+    $language_label['label_current_rank'] = 'Current Rank';
+    $language_label['label_current_deposit'] = 'Current Deposit';
+    $language_label['label_current_crypto_deposit'] = 'Current Crypto Deposit';
+    $language_label['label_rank'] = 'Pangkat';
+    $language_label['label_montly_total_deposit'] = 'Jumlah Deposit Bulanan';
+    $language_label['label_vip_upgrade_bonus'] = 'Bonus Naik Taraf VIP';
+    $language_label['label_birthday_bonus'] = 'Bonus Hari Jadi';
+    $language_label['label_daily_withdrawal_limit'] = 'Had Pengeluaran Harian';
+    $language_label['label_daily_withdrawal_count'] = 'Kiraan Pengeluaran Harian';
 }
 else if( $language == 'th' ) {
     $language_label['label_main_balance'] = 'ยอดเงินคงเหลือหลัก';
@@ -210,5 +226,13 @@ else if( $language == 'th' ) {
     $language_label['label_deposit'] = 'เงินฝาก';
     $language_label['label_withdraw'] = 'ถอน';
     $language_label['label_refresh'] = 'รีเฟรช';
-    $language_label['label_visit'] = 'เยี่ยมชม';
+    $language_label['label_current_rank'] = 'อันดับปัจจุบัน';
+    $language_label['label_current_deposit'] = 'เงินฝากปัจจุบัน';
+    $language_label['label_current_crypto_deposit'] = 'เงินฝากคริปโตปัจจุบัน';
+    $language_label['label_rank'] = 'อันดับ';
+    $language_label['label_montly_total_deposit'] = 'ยอดฝากรวมรายเดือน';
+    $language_label['label_vip_upgrade_bonus'] = 'โบนัสอัปเกรด VIP';
+    $language_label['label_birthday_bonus'] = 'โบนัสวันเกิด';
+    $language_label['label_daily_withdrawal_limit'] = 'วงเงินถอนรายวัน';
+    $language_label['label_daily_withdrawal_count'] = 'จำนวนการถอนรายวัน';
 }
