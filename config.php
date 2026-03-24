@@ -134,15 +134,18 @@ function randomUniqueID($length = 8) {
 $main_menu = [
     "home",
     "slot",
+    "promosi",
+    "vip",
     "kaedah-pembayaran",
     "tentang-kami",
+    "hubungi-kami",
 ];
 $disclaimer_menu = [
     "perjudian-bertanggungjawab",
     "keselamatan-akaun",
     "lesen",
     "dasar-privasi",
-    "privasi-policy",
+    "terma-syarat",
 ];
 
 // Alternative way to disable the shortcode
