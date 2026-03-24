@@ -138,6 +138,7 @@ $main_menu = [
     "cashback",
     "slot-bonus",
     "payment-method",
+    "contact-us",
 ];
 $disclaimer_menu = [
     "responsible-gambling",
