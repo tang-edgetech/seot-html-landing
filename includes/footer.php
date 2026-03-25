@@ -10,7 +10,7 @@
                         <span class="text-center">Promosi</span>
                     </strong></a>
                     <a href="<?= home_url();?>/vip/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-                        <img src="<?= home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">
+                        <img src="<?= home_url();?>/assets/images/icon-crown.png" class="icon img-fit" alt="Referrer">
                         <span class="text-center">VIP</span>
                     </strong></a>
                     <a href="<?= home_url();?>/hubungi-kami/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
