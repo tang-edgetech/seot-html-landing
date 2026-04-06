@@ -7,7 +7,7 @@
                     </strong></a>
                     <a href="<?= home_url();?>/vip/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/icon-crown.png" class="icon img-fit" alt="VIP">
-                        <span class="text-center">VIP</span>
+                        <span class="text-center">Promosi</span>
                     </strong></a>
                     <a href="<?= home_url();?>/how-to-claim/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
                         <img src="<?= home_url();?>/assets/images/footer-commission.png" class="icon img-fit" alt="Referrer">

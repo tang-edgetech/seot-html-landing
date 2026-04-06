@@ -3,15 +3,15 @@
 // CONFIGURATION & GLOBAL FUNCS
 // -----------------------------
 define('BASE_PATH', __DIR__);
-define('LOCALHOST_NAME', 'kaya68.info');
-$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/kaya68.info"
+define('LOCALHOST_NAME', 'kaya69.info');
+$serverPath = $_SERVER['DOCUMENT_ROOT']; // "/home/seot2/public_html/kaya69.info"
 $domainFolder = basename($serverPath);
-define('DOMAIN_NAME', $domainFolder); // kaya68.info
-$siteKey = 'kaya68';
+define('DOMAIN_NAME', $domainFolder); // kaya69.info
+$siteKey = 'kaya69';
 if( $domainFolder !== 'htdocs' ) {
     $siteKey = explode('.', $domainFolder)[0];
 }
-define('SITE_KEY', $siteKey); // kaya68
+define('SITE_KEY', $siteKey); // kaya69
 
 // Detect if environment is localhost
 function is_localhost(): bool {
@@ -137,16 +137,18 @@ $main_menu = [
     "free-credit",
     "cashback",
     "slot-bonus",
+    'how-to-claim',
     "payment-method",
-    "contact-us",
 ];
 $disclaimer_menu = [
     "responsible-gambling",
     "account-security",
     "license",
+    "vip",
     "privacy-policy",
     "terms",
     "about-us",
+    "contact-us",
 ];
 
 // Alternative way to disable the shortcode

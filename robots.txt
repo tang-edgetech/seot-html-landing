@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaya68.info/sitemap.xml
+Sitemap: https://kaya69.info/sitemap.xml
